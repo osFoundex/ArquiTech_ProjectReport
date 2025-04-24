@@ -292,6 +292,18 @@ Desafíos: Necesitan obras terminadas a tiempo para evitar interrupciones en sus
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+Lanzaremos un plan de suscripción inicial a un precio accesible de $45 mensuales, el cual incluirá funciones clave como el control de inventario y la gestión de personal. Este precio representa una alternativa mucho más económica comparada con soluciones como Procore (alrededor de $370 mensuales) o Buildertrend (aproximadamente $95 al mes), lo que nos posiciona como una opción rentable para empresas que buscan digitalizarse sin altos costos.
+
+Para atraer a empresas que aún trabajan con procesos manuales, compartiremos recursos gratuitos como seminarios virtuales, guías descargables y tutoriales enfocados en los beneficios de automatizar la gestión operativa y cómo utilizar nuestra plataforma paso a paso. Esto posicionará a BuildWise como una puerta de entrada accesible al mundo digital, ideal para quienes aún no dan el salto a herramientas más complejas.
+
+También ofreceremos una prueba sin costo de 30 días, en contraste con los 14 días que suelen ofrecer otras plataformas, brindando acceso total a todas las funcionalidades del sistema. De esta forma, los nuevos usuarios podrán comprobar lo sencillo que es adoptar nuestra herramienta sin necesidad de soporte técnico avanzado, a diferencia de otras soluciones que requieren tiempo y asistencia para empezar.
+
+Entre nuestras funcionalidades diferenciadoras, incluiremos herramientas como notificaciones automáticas ante niveles bajos de inventario, lo cual responde a una necesidad concreta en obra y que no suele ser prioridad en plataformas enfocadas en planos o comunicación cliente-empresa.
+
+Nuestro equipo también brindará atención directa y personalizada vía chat y teléfono, con tiempos de respuesta ágiles. Esto supera la experiencia de muchas soluciones del mercado, donde el soporte suele gestionarse a través de tickets y puede demorar en responder.
+
+Finalmente, ofreceremos planes ajustables según la cantidad de obras activas, permitiendo a los usuarios comenzar con una inversión mínima y escalar progresivamente a medida que su operación lo requiera, sin estar obligados a adquirir paquetes costosos desde el inicio, como ocurre con algunos competidores.
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
