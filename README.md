@@ -589,7 +589,96 @@ Afirma que el uso de una herramienta como **ArquiTech** influiría fuertemente e
 
 ### 4.2.1. Organization Systems
 
+En la arquitectura de información de Arquitech, se aplican distintos sistemas de organización para estructurar el contenido de manera clara y funcional, adaptada al contexto de los usuarios del sector construcción.
+
+1. Organización Visual del Contenido:
+
+Jerárquica (Visual Hierarchy):
+
+Se aplica principalmente en la vista general del dashboard, donde la información más importante y urgente se muestra primero (como reportes recientes, alertas de bajo inventario y resumen de avances).
+Esta jerarquía ayuda a que el usuario enfoque su atención en lo prioritario al momento de ingresar.
+
+
+2. Secuencial (Step-by-Step):
+
+Se utiliza en procesos como la generación de reportes diarios, donde se guía al usuario paso a paso:
+
+* Selección de obra
+
+* Registro de asistencia
+
+* Registro de materiales utilizados
+
+* Observaciones finales
+
+* Adjuntar evidencias
+
+Esto evita errores y facilita la curva de aprendizaje.
+
+
+3. Matricial:
+
+Se emplea para la vista comparativa de reportes semanales, permitiendo ver columnas con distintas métricas (avance físico, asistencia, materiales) por cada día, en una tabla ordenada que el usuario puede leer horizontal y verticalmente.
+
+Esquemas de Categorización del Contenido:
+
+1. Por tópicos:
+
+Toda la plataforma está organizada por módulos funcionales:
+
+* Gestión de personal
+
+* Control de materiales
+
+* Reportes
+
+* Configuración de perfil
+ 
+Esto facilita al usuario identificar rápidamente dónde realizar cada acción.
+
+2. Cronológico:
+
+En los módulos de reportes y asistencia, los datos se organizan por fecha para reflejar la progresión temporal de la obra.
+
+3. Alfabético:
+
+Utilizado en listas de trabajadores, maquinaria o materiales para facilitar la búsqueda rápida y ordenada.
+
+4. Por audiencia:
+
+* Los contratantes solo pueden ver y recibir reportes.
+
+* Los supervisores pueden generar y editar.
+
+* Los administrativos tienen permisos de configuración y visualización más avanzada.  
+
+Esto mejora la experiencia personalizada según el rol.
+
+
 ### 4.2.2. Labeling Systems
+
+En Arquitech, se ha diseñado un sistema de etiquetado simple y funcional para evitar la sobrecarga cognitiva y facilitar la comprensión inmediata de la interfaz.
+
+Principios utilizados:
+
+* Simplicidad y claridad:
+
+ Se prioriza el uso de palabras clave cortas y comunes en obra (ej. "Reporte diario", "Materiales", "Asistencia", "Obreros", "Avance", "Notificaciones").
+
+* Evitar ambigüedad:
+
+ Se evita el uso de términos técnicos complejos o jerga poco conocida. Por ejemplo, se prefiere "Registro de materiales" en lugar de "Logística de recursos".
+
+* Consistencia visual:
+
+ Las etiquetas mantienen estilo uniforme en botones, menús y formularios, para que el usuario no dude sobre el significado de cada elemento.
+
+ * Asociaciones entre etiquetas:
+
+“Reporte” siempre se relaciona con acciones como “Generar”, “Visualizar”, “Descargar”, “Compartir”.
+“Materiales” se relaciona con “Entrada”, “Salida”, “Inventario”.
+“Obreros” se relaciona con “Asistencia”, “Tareas”, “Evaluación”.
+
 
 ### 4.2.3. SEO Tags and Meta Tags
 
