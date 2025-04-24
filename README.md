@@ -199,6 +199,22 @@
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos Objetivos
+<div style='text-align: justify;'>
+**Segmento objetivo \#1: Supervisores de obra**  
+Este segmento está compuesto por profesionales encargados de supervisar y gestionar la ejecución de los proyectos de construcción. En muchas empresas pequeñas y medianas, el rol de supervisor es asumido también por el jefe de obra, quien cumple múltiples funciones que van desde la supervisión directa en campo hasta la toma de decisiones administrativas y técnicas.  
+**Características demográficas**  
+Ubicación: Principalmente en zonas urbanas y semiurbanas de Lima Metropolitana, como San Juan de Lurigancho, Villa El Salvador, Ate y San Martín de Porres, donde se concentran pequeñas y medianas empresas constructoras.  
+Edad: Entre 28 y 50 años, con una media de 38 años.  
+Nivel socioeconómico: Clase media  
+Desafíos: Los supervisores de obra pueden afrontar desafíos como mantener el desarrollo de la obra dentro del presupuesto estimado, tener los materiales adecuados para la ejecución de la obra, comunicar los avances a los contratantes y asegurar la coordinación del personal  
+**Segmento objetivo \#2: Contratantes de empresas privadas**  
+**Características demográficas:**  
+Ubicación:  Principalmente en zonas urbanas y semiurbanas de Lima Metropolitana, como San Juan de Lurigancho, Villa El Salvador, Ate y San Martín de Porres, donde se concentran pequeñas y medianas empresas constructoras.  
+Edad: Entre 34 y 45 años, con una media de de 39 años  
+Nivel socioeconómico: Clase media-alta  
+Desafíos: Necesitan obras terminadas a tiempo para evitar interrupciones en sus operaciones o pérdidas económicas. Esperan que todo esté en regla: licencias, seguros, normas de construcción y seguridad laboral.
+ 
+</div>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
