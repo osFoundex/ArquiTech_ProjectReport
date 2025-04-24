@@ -348,6 +348,10 @@ Desafíos: Necesitan obras terminadas a tiempo para evitar interrupciones en sus
 
 ### 4.8.1. Database Diagram
 
+<p align="center">
+  <img src="images/database_diagram.png" alt="PB" width="1000">
+</p>
+
 <hr>
 
 # Capítulo V: Product Implementation, Validation & Deployment
