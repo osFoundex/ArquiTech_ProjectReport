@@ -193,6 +193,37 @@
 #### 1.2.2.1. Lean UX Problem Statements
 
 #### 1.2.2.2. Lean UX Assumptions
+Assumptions worksheet
+
+1. Creemos que nuestros clientes necesitan reducir errores y pérdidas por desorganización en obra al momento de gestionar el inventario, personal y obreros.  
+2. Estas necesidades se pueden resolver con un seguimiento personalizado para cada uno de estos aspectos del proyecto.  
+3. Mis clientes iniciales son supervisores de obra de proyectos medianos de construcción.  
+4. El valor \#1 que mi cliente quiere de mi servicio es ahorrar tiempo y dinero al centralizar la gestión operativa al optimizar los procesos con una buena organización.  
+5. El cliente también puede obtener el beneficio adicional de tener mayor visibilidad y control sobre recursos y personal en tiempo real y una mejor toma de decisiones gracias a datos precisos y actualizados.  
+6. Voy a adquirir la mayoría de mis clientes a través de marketing digital localizado y pruebas gratuitas de 30 días con soporte personalizado para atraer usuarios.  
+7. Haré dinero a través de suscripciones mensuales escalables.  
+8. Mi competencia principal en el mercado serán otras aplicaciones de gestión de proyectos.  
+9. Los venceremos debido a que nuestros planes tienen precios más bajos y son flexibles, nuestro enfoque es específico en operaciones diarias (inventario, personal, obreros) y la adaptación será rápida debido a la fácil implementación del sistema que cuenta con soporte localizado.  
+10. Mi mayor riesgo de producto es la resistencia inicial a la adopción tecnológica en empresas acostumbradas a métodos manuales.  
+11. Resolveremos esto a través de capacitaciones gratuitas y videos tutoriales que estarán disponibles en todo momento a través de la web de la empresa.
+
+* **¿Quién es el usuario?**
+
+Nuestros principales clientes serán los supervisores de obra y contratantes de empresas privadas que se encuentran en un rango de edad de 28 a 50 años que pueden ser de clase media-alta, estos quieren encontrar una manera eficiente de llevar la administración de sus proyectos de construcción para evitar pérdidas.
+
+* **¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+Nuestro producto encaja al momento de iniciar la supervisión de un aspecto del proyecto que se está administrando en ese momento o se quiere revisar el avance y buen manejo.
+
+* **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**  
+  * La dependencia del internet en la obra para poder utilizar el aplicativo el cual se puede solucionar incluyendo un modo offline que sincronice datos al reconectarse a una red de internet.  
+  * El soporte técnico insuficiente para picos de demanda, en caso de un aumento repentino de usuarios se podría saturar el soporte técnico, frustrando a clientes que esperan respuestas rápidas. Este problema lo podremos solucionar creando una base de conocimientos con videos y guías para resolver dudas comunes y evitar un número masivo de consultas.  
+* **¿Cómo y cuándo es usado nuestro producto?**  
+  * Nuestro producto puede ser usado al inicio del día para planificar (confirmar asistencia, revisar inventario), durante el día para monitorear (actualizar avances) y al final para generar y/o revisar reportes.  
+* **¿Qué características son importantes?**  
+  * Nuestro producto debe contar con una interfaz intuitiva, fácil de usar y aprender por nuestros usuarios, también debe contar con una buena sincronización de datos para poder tener un buen seguimiento de los distintos aspectos de la obra.  
+* **¿Cómo debe verse nuestro producto y cómo comportarse?**  
+  * La interfaz de nuestro producto debe ser intuitiva y resposive con un diseño que transmita confianza y profesionalismo y que sea de respuesta rápida.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
@@ -200,7 +231,8 @@
 
 ## 1.3. Segmentos Objetivos
 <div style='text-align: justify;'>
-**Segmento objetivo \#1: Supervisores de obra**  
+**Segmento objetivo \#1: Supervisores de obra**
+
 Este segmento está compuesto por profesionales encargados de supervisar y gestionar la ejecución de los proyectos de construcción. En muchas empresas pequeñas y medianas, el rol de supervisor es asumido también por el jefe de obra, quien cumple múltiples funciones que van desde la supervisión directa en campo hasta la toma de decisiones administrativas y técnicas.  
 **Características demográficas**  
 Ubicación: Principalmente en zonas urbanas y semiurbanas de Lima Metropolitana, como San Juan de Lurigancho, Villa El Salvador, Ate y San Martín de Porres, donde se concentran pequeñas y medianas empresas constructoras.  
