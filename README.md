@@ -514,6 +514,26 @@ Afirma que el uso de una herramienta como **ArquiTech** influiría fuertemente e
 
 ##### 5.2.1.1. Sprint Planning 1
 
+<div style='text-align: justify;'>
+Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
+
+| Sprint \# | Sprint 1 |
+| :---- | :---- |
+| **Sprint Planning Background:**  En el sprint decidimos reunirnos para verificar el progreso de cada uno de los participantes y el progreso desde el punto de vista grupal, luego de ello buscamos formas y acciones de mejora |  |
+| Date | 2025-04-18 |
+| Time | 21:05 PM |
+| Location | Google Meet Group Call |
+| Prepared By | Gomez Flores, Daniela Aracelli |
+| Attendees (to planning meeting) | Bellido Salas, Raúl  Gómez Flores, Daniela Araceli Luyo Correa, Sandra Paula Rodas Sotomayor, Ernesto Sulca Silva, Melisa Geraldine |
+| Sprint n \- Review Summary | Revisamos nuestras business goals, discutimos sobre las user stories y dimos feedback. También revisamos los riesgos futuros que podríamos encontrar en la realización del producto. Finalmente revisamos el avance individual y grupal. |
+| Sprint n \- Retrospective Summary | Start: Debemos empezar a comunicarnos más entre nosotros Debemos planear con anticipación las tareas en grupo e individuales Stop: Dejar de esperar al último momento para culminar las tareas Continue: Hacer preguntas al product owner Hacer reuniones interdiarias para priorizar el avance  |
+| **Sprint Goal & User Stories** |  |
+| Sprint n Goal | Organizarnos como equipo, revisando las fortalezas y debilidades de cada uno |
+| Sprint n Velocity | 3 |
+| Sum of Story Points | 7 |
+
+</div>
+
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
 ##### 5.2.1.3. Sprint Backlog 1
