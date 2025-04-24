@@ -230,6 +230,148 @@ Desafíos: Necesitan obras terminadas a tiempo para evitar interrupciones en sus
 
 ### 2.2.2. Registro de entrevistas
 
+<div style='text-align: justify;'>
+**Segmento objetivo \#1: Supervisores de obra**
+
+**Entrevista \#1:**
+
+**Figura n**
+<p align="center">
+  <img src="images/entrevista_1_segmento_1.png" alt="PB" width="1000">
+</p>
+
+*Imagen del usuario número 1 entrevistado*
+
+*Nota.* Elaboración propia. Link: [Entrevista \#1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EegVpHo0tqhLusOI6515yCwBaWF81pAp3SFNHNxjp3Y3zQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eZqhO9)
+
+Víctor Huarca, supervisor de obra de 61 años, explicó sus funciones diarias, las cuales incluyen la supervisión del cumplimiento del expediente técnico, coordinación con el residente de obra, control de asistencia de obreros mediante hojas de tareo y gestión del inventario con hojas tipo Cardex y movimientos de almacén. El avance de obra se mide diariamente por metrados y se consolida en reportes semanales y mensuales.
+
+Entre las principales dificultades que enfrenta están la ausencia de personal clave, los retrasos en la entrega de materiales y los errores en el registro de inventario. Además, destacó la importancia de una coordinación constante con los asistentes administrativos.
+
+Víctor considera que una herramienta digital que centralice la asistencia, inventario y reportes sería muy útil. Esta debería permitir registrar requerimientos, controlar el uso de maquinaria y combustible, y generar reportes comparativos del avance real con el uso de recursos. Sin embargo, expresó preocupación por la correcta implementación del sistema y el ingreso preciso de los datos por parte del personal.
+
+Finalmente, recomendó incluir funcionalidades adicionales como el control separado de tareo y planillas, reportes valorizados y control monetario integral de materiales, maquinaria y mano de obra.
+
+**Entrevista \#2:**
+
+**figura N**
+<p align="center">
+  <img src="images/entrevista_2_segmento_1.png" alt="PB" width="1000">
+</p>
+
+*Imagen del usuario número 2 entrevistado*
+
+*Nota.* Elaboración propia. Link: [Entrevista \#2.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EY4aIUyUjjZMl9IhtxJZzBQBA7sBDkEgiL4rlA1F0_4Bag?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ViAcDx) 
+
+Lourdes Espinosa, supervisora de obra de 55 años, describió su rol enfocado en controlar la calidad de materiales, verificar el uso de EPPs por parte del personal y asegurar el cumplimiento de funciones del equipo técnico. El número de obreros y los materiales utilizados varían según la actividad programada para el día.
+
+La asistencia se controla mediante una hoja de tareo gestionada por el asistente técnico y el maestro de obra. La ausencia de personal o retrasos en la llegada de materiales son factores críticos que afectan negativamente el avance del proyecto.
+
+El control de inventario se realiza mediante notas de entrada y salida registradas en Excel, mientras que los avances se valorizan físicamente y se reportan semanal y mensualmente. Lourdes indicó que errores en el control o en la actualización de registros pueden tener consecuencias negativas importantes.
+
+Sobre la coordinación, destacó la necesidad de un trabajo conjunto y diario entre técnicos, residentes, administrativos y almaceneros para asegurar el éxito del proyecto.
+
+Considera que una plataforma digital que centralice la asistencia, inventario y reportes sería muy útil, ya que permitiría gestionar información en tiempo real, organizar requerimientos y consolidar reportes de manera eficiente. Sin embargo, advirtió que su eficacia dependería del correcto uso por parte del personal.
+
+Finalmente, propuso que la herramienta digital sea integral, que consolide toda la información relevante y que permita generar reportes en distintos formatos y frecuencias según se requiera.
+
+ 
+
+**Entrevista \#3:**
+
+**figura n**
+<p align="center">
+  <img src="images/entrevista_3_segmento_1.png" alt="PB" width="1000">
+</p>
+
+*Imagen del usuario número 3 entrevistado*
+
+*Nota.* Elaboración propia*.* Link: [Entrevista \#3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/ERR5EqG0P7xJuQcm6q75Tr8BFcAGRgfW7z5PPU7lIr3qYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=op7gtn) 
+
+Selena Maximiliano, supervisora de obra de 31 años, explicó que su rol principal consiste en organizar y supervisar las actividades diarias en obra, gestionar al personal obrero (entre 10 y 18 personas según el proyecto), y comunicarse con el área administrativa al final del día. Entre los materiales que utiliza con frecuencia están el ladrillo, cemento, fierro y concreto premezclado.
+
+La asistencia se registra manualmente con firmas, y las ausencias se reportan por WhatsApp, aunque a veces hay retrasos debido a la carga de trabajo. El inventario se gestiona con Excel o cuadernos, pero existen dificultades cuando no hay conectividad o no se actualiza a tiempo. El avance de obra se registra con fotos y reportes redactados en Word, aunque muchas veces se retrasa por atender otras gestiones fuera de horario laboral.
+
+Los principales problemas que enfrenta incluyen errores en el inventario (como exceso de compras por datos duplicados) y la falta de conexión fluida con el equipo administrativo, lo cual complica la coordinación entre campo y oficina. También destacó lo poco práctico que resulta usar papel o Excel en obras con alta dinámica.
+
+Selena considera muy útil una herramienta digital que centralice asistencia, inventario y reportes. Idealmente, esta permitiría tomar decisiones en tiempo real, facilitaría la coordinación y brindaría visibilidad directa al cliente. Para confiar en la plataforma, necesitaría que fuera fácil de usar, intuitiva y sin necesidad de capacitación técnica intensiva. Le preocupa que sea más complicada de operar que sus tareas diarias.
+
+Finalmente, sugirió funciones adicionales como alertas automáticas por faltas de trabajadores o escasez de materiales, y reportes resumidos comprensibles incluso para quienes no tienen formación técnica. También señaló que la disponibilidad de una versión gratuita y fácil instalación aumentaría sus posibilidades de adoptar la herramienta en sus proyectos.
+
+**Segmento objetivo 2: Contratantes de empresas privadas**
+
+**Entrevista \#4:**
+
+**Figura N**
+
+<p align="center">
+  <img src="images/entrevista_1_segmento_2.png" alt="PB" width="1000">
+</p>
+
+*Imagen del usuario número 1 entrevistado*
+
+*Nota.* Elaboración propia*.* Link: 
+
+Karolay Correa, de 27 años y residente en Cercado de Lima, suele contratar proyectos de construcción para locales comerciales, oficinas y almacenes. Para elegir una constructora, se basa en recomendaciones, revisa experiencia previa y busca empresas que cumplan plazos, tengan precios razonables y muestren trabajos anteriores confiables.
+
+Actualmente, recibe actualizaciones del avance de obras por WhatsApp o email en formato de fotos y listados semanales, aunque considera que la información es bastante informal y poco clara. En cuanto a la verificación de normas y licencias, revisa documentos con ayuda de un abogado y, ocasionalmente, contrata inspecciones externas.
+
+Ha enfrentado problemas como retrasos en entregas, mala calidad en acabados, y falta de transparencia en los reportes. Una vez perdió aproximadamente S/10,000 por una obra que no se entregó a tiempo, lo que afectó la apertura de su tienda y sus ingresos.
+
+Karolay considera fundamental tener mayor visibilidad del avance de obra, uso de materiales y asistencia del personal. Le gustaría acceder a una plataforma que brinde información en tiempo real, lo cual le daría confianza, facilitaría la planificación de su negocio y evitaría pérdidas.
+
+Valora que las constructoras utilicen tecnología moderna, pues esto transmite profesionalismo y mejora la comunicación. Confiaría en una plataforma que ofrezca reportes actualizados, seguimiento de materiales y personal, y verificación de licencias. La facilidad de uso también es clave para ella.
+
+Finalmente, destacó que lo que más espera de una constructora es **transparencia total**, notificación temprana de problemas y herramientas que le permitan estar informada sin tener que insistir. Confirmó que el uso de una plataforma como **ArquiTech** influiría positivamente en su decisión de contratación.
+
+ **Entrevista \#5:**
+
+**Figura N**
+
+<p align="center">
+  <img src="images/entrevista_2_segmento_2.png" alt="PB" width="1000">
+</p>
+
+
+*Imagen del usuario número 2 entrevistado*
+
+*Nota.* Elaboración propia*.* Link: [Entrevista \#5.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUjGFmZWrDpFuzQBFM1swBsBMFptUzpV6w0ANNv-f-g5fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MqyhtF) 
+
+Iván Tarqui, de 35 años y residente en San Martín de Porres, contrata proyectos de construcción para oficinas pequeñas, remodelaciones industriales y almacenes. Al elegir una constructora, busca experiencia específica, cumplimiento de normas y plazos, transparencia y control de presupuesto.
+
+Actualmente, recibe informes del avance cada 10 días por email, complementados por fotos y visitas quincenales a obra. La comunicación rápida se da por WhatsApp. Aunque algunas constructoras han enviado reportes con gráficos, la mayoría mantiene un formato básico en Word o Excel.
+
+Verifica licencias y permisos con su equipo legal y en algunos casos envía a un ingeniero para controlar aspectos de seguridad. Sin embargo, se queja de falta de detalle en los reportes y de comunicación poco proactiva por parte de las constructoras.
+
+Ha tenido problemas como retrasos por mala gestión de materiales o licencias, lo cual generó pérdidas económicas de hasta S/15,000 en penalidades con clientes y costos adicionales para acelerar obras. También descubrió que se usaron materiales de calidad inferior sin que se lo informaran.
+
+Iván valora mucho la **transparencia y control**. Le gustaría tener acceso en tiempo real al estado del proyecto, al uso de materiales y al personal en obra, para tomar decisiones rápidas y evitar sorpresas. Considera esencial que las constructoras usen **tecnología moderna**, lo cual demuestra organización y compromiso.
+
+Confía más en herramientas digitales que entreguen reportes actualizados, registros detallados y validación de cumplimiento de normas y licencias. También le importa la **seguridad de los datos**. Cree que una plataforma como **ArquiTech** sería un factor clave para decidirse por una constructora, ya que mostraría seriedad y responsabilidad.
+
+ **Entrevista \#6:**
+
+**Figura N**
+
+<p align="center">
+  <img src="images/entrevista_3_segmento_2.png" alt="PB" width="1000">
+</p>
+
+*Imagen del usuario número 3 entrevistado*
+
+*Nota.* Elaboración propia. Link: [Entrevista \#6.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/ETGzyS47omtAofC1QB08j5QBsiEbxCbBuykRsLRIIZ5Tdw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9m8wRl) 
+
+Vania Hidalgo, de 28 años y residente en San Juan de Miraflores, contrata principalmente remodelaciones, locales comerciales pequeños y edificaciones de hasta tres pisos. Al elegir una constructora, prioriza la **experiencia, cumplimiento de plazos y transparencia**.
+
+Recibe avances semanales por correo en Word o Excel, y ocasionalmente fotos por WhatsApp, aunque considera que todo es muy informal y le gustaría un sistema más estructurado. Verifica licencias y cumplimiento normativo solicitando documentos por correo y con visitas puntuales de su equipo, pero **no cuenta con herramientas digitales para seguimiento**.
+
+Sus principales frustraciones han sido la **falta de comunicación proactiva**, informes incompletos y poca visibilidad sobre el uso de materiales y personal. En 2022, sufrió **pérdidas económicas** al no poder entregar una obra a tiempo por fallas en planificación y comunicación, lo que le costó un contrato y penalidades.
+
+Considera que una plataforma que le brinde acceso en tiempo real al avance, uso de materiales y personal en obra sería de **gran ayuda** y marcaría una diferencia importante. Valora especialmente que las constructoras usen **tecnología moderna**, ya que demuestra compromiso y profesionalismo.
+
+Afirma que el uso de una herramienta como **ArquiTech** influiría fuertemente en su decisión de contratar una constructora, pues le daría mayor confianza y sensación de control.
+</div>
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
