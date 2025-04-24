@@ -549,7 +549,29 @@ Afirma que el uso de una herramienta como **ArquiTech** influiría fuertemente e
 
 ### 2.3.3. User Journey Mapping
 
+<p align="center">
+
+  * User Journey Mapping "Supervisor de Obra"
+
+  <img src="images/journey1.png" alt="PB" width="1000">
+
+  * User Journey Mapping "Contratista de Empresas privadas"
+
+  <img src="images/journey2.png" alt="PB" width="1000">
+</p>
+
 ### 2.3.4. Empathy Mapping
+
+<p align="center">
+
+  * Empathy Mapping "Supervisor de Obra"
+
+  <img src="images/empathy1.png" alt="PB" width="1000">
+
+  * Empathy Mapping "Contratista de Empresas privadas"
+
+  <img src="images/empathy2.png" alt="PB" width="1000">
+</p>
 
 ### 2.3.5. As-is Scenario Mapping
 
