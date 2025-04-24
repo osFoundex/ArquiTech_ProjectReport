@@ -207,6 +207,24 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+Nuestra solución digital ha sido desarrollada pensando en brindar a las pequeñas y medianas empresas del sector construcción, así como a su personal administrativo, una herramienta eficaz para gestionar sus obras. Desde la solicitud de servicios hasta el control del progreso y los gastos, la plataforma busca simplificar la administración y promover una mayor claridad en cada etapa del proceso constructivo.
+
+
+Durante nuestra investigación, notamos que uno de los mayores retos para estas empresas es la ausencia de un sistema unificado, práctico y fácil de usar que les permita monitorear de forma ordenada sus proyectos, registrar avances diarios, tener visibilidad del presupuesto disponible y comunicarse sin fricciones con los distintos actores involucrados en el desarrollo de las obras. Esta carencia suele traducirse en desorganización, demoras en la entrega de informes y dificultades al momento de tomar decisiones clave.
+
+Entonces, ¿de qué manera podemos transformar la gestión de obras para estas empresas, haciendo que la experiencia sea más amigable, accesible y dotada de herramientas integradas que permitan un seguimiento preciso de cada etapa del proyecto?
+
+El propósito de nuestra plataforma es mejorar la administración de proyectos constructivos, minimizar errores en los procesos administrativos y ofrecer a los usuarios una comprensión clara y actualizada del estado de sus obras, el uso de los recursos y el cumplimiento de los plazos establecidos.
+
+Hemos identificado que muchas tareas administrativas aún se realizan utilizando hojas de cálculo, notas dispersas o canales de comunicación desorganizados. Esta realidad limita el acceso a información en tiempo real y aumenta el riesgo de cometer errores o duplicar esfuerzos.
+
+Por ello, surge la necesidad de automatizar y digitalizar estos procesos para que el personal administrativo cuente con soluciones prácticas, intuitivas y efectivas que les permitan centralizar, registrar y compartir información de manera ordenada y eficiente.
+
+También observamos que algunas pequeñas empresas enfrentan limitaciones tecnológicas, ya sea por falta de conocimiento en el uso de herramientas digitales o porque las plataformas existentes no están pensadas para su realidad particular. Como resultado, no logran sacar el máximo provecho de estas soluciones.
+
+¿De qué forma podemos diseñar una plataforma que se adapte a distintos niveles de habilidad tecnológica, que sea accesible tanto para empresas con mayor experiencia como para aquellas que recién están empezando, y que puedan aprovechar sus beneficios sin necesidad de invertir demasiado tiempo en aprender a utilizarla?
+
+
 #### 1.2.2.2. Lean UX Assumptions
 Assumptions worksheet
 
