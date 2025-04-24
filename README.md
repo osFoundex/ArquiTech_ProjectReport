@@ -47,7 +47,13 @@
 <hr>
 
 ## Registro de Versiones del Informe
+# 
 
+| Versión | Fecha | Autor | Descripción de modificación |
+| :---- | :---- | :---- | :---- |
+| TB1 | 24/04/2025 | Raúl Bellido Salas Daniela Araceli Gómez Flores Sandra Paula Luyo Correa Ernesto Rodas Sotomayor Melisa Geraldine Sulca Silva | Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page de ArquiTech. |
+
+# 
 <hr>
 
 ## Project Report Collaboration Insights  
