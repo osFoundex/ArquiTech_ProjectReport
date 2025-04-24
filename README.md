@@ -521,6 +521,17 @@ Afirma que el uso de una herramienta como **ArquiTech** influiría fuertemente e
 
 ### 2.3.1. User Personas
 
+<p align="center">
+
+  * User persona "Supervisor de Obra"
+
+  <img src="images/user_persona1.jpg" alt="PB" width="1000">
+
+  * User persona "Contratista de Empresas privadas"
+
+  <img src="images/user_persona2.jpg" alt="PB" width="1000">
+</p>
+
 ### 2.3.2. User Task Matrix
 
 | Área | Tarea | Juan Carlos Zegarra |  | Verónica Delgado |  |
