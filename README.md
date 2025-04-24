@@ -277,6 +277,69 @@ Desafíos: Necesitan obras terminadas a tiempo para evitar interrupciones en sus
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
+**Diseño de entrevistas para el segmento objetivo 1: Supervisores de obra**  
+**Introducción y contexto**
+
+* ¿Cuál es tu nombre?  
+* ¿Cuántos años tiene?  
+* ¿En qué distrito reside?  
+* ¿Puedes contarme sobre tu rol como supervisor? ¿Qué haces en un día típico?  
+* ¿Cuántos obreros y qué tipo de materiales gestionas en una obra promedio?
+
+**Procesos actuales**
+
+* ¿Cómo confirmas la asistencia de los obreros cada día? ¿Qué haces si alguien falta?  
+* ¿Cómo llevas el control del inventario de materiales? ¿Qué herramientas usas?  
+* ¿Cómo registras los avances de la obra y preparas reportes? ¿Cuánto tiempo te toma?
+
+**Puntos de dolor** 
+
+* ¿Qué es lo más frustrante o lento en la gestión de obreros o materiales? Dame un ejemplo reciente.  
+* ¿Alguna vez has tenido problemas por errores en inventario o reportes? ¿Qué pasó?  
+* ¿Qué tan fácil o difícil es coordinar con otros roles, como asistentes administrativos?
+
+**Necesidades y expectativas**
+
+* Si tuvieras una herramienta que centralizará asistencia, inventario y reportes ¿te ayudaría? ¿de qué manera?  
+* ¿Qué tan importante es tener información en tiempo real desde la obra? ¿Por qué?  
+* ¿Qué te haría confiar en una nueva plataforma digital? ¿Qué te preocuparía?
+
+**Cierre**
+
+* ¿Hay algo que no hayamos tocado que te gustaría que una herramienta como esta resolviera?  
+* ¿Estarías dispuesto a probar una plataforma como ArquiTech? ¿Qué necesitarías para convencerte?
+
+**Diseño de entrevistas para el segmento objetivo 2: Contratantes de empresas privadas**  
+**Introducción y contexto**
+
+* ¿Cuál es tu nombre?  
+* ¿Cuántos años tiene?  
+* ¿En qué distrito reside?  
+* ¿Qué tipo de proyectos de construcción contratas normalmente (ej. locales, edificios)?  
+* ¿Cómo es el proceso para elegir una constructora? ¿Qué buscas en ellas?
+
+**Procesos actuales** 
+
+* ¿Cómo te mantienes informado sobre el avance de una obra? ¿Qué información recibes y con qué frecuencia?  
+* ¿Qué herramientas o métodos usa la constructora para reportarte?  
+* ¿Cómo verificas que se cumplan licencias, normas de seguridad o plazos?
+
+**Puntos de dolor**
+
+* ¿Qué problemas has tenido con constructoras en el pasado? Por ejemplo, retrasos o falta de claridad.  
+* ¿Qué tan frustrante es no tener visibilidad completa sobre el uso de materiales o el personal en obra?  
+* ¿Alguna vez has perdido dinero por demoras o errores en un proyecto? ¿Qué pasó?
+
+**Necesidades y expectativas**
+
+* Si pudieras acceder a una plataforma que te muestre en tiempo real el avance, materiales y personal de la obra, ¿cómo te ayudaría?  
+* ¿Qué tan importante es para ti que la constructora use tecnología moderna? ¿Por qué?  
+* ¿Qué características de una herramienta digital te harían confiar más en una constructora?
+
+**Cierre**
+
+* ¿Hay algo que las constructoras podrían mejorar para darte más tranquilidad?  
+* Si una constructora usará una plataforma como ArquiTech para reportarte, ¿influiría en tu decisión de contratarla? ¿Por qué?
 
 ### 2.2.2. Registro de entrevistas
 
