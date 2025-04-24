@@ -171,6 +171,18 @@
 
 ### 1.1.2. Perfiles de Integrantes del Equipo
 
+### ***1.1.2. Perfiles de integrantes del equipo (Todos)***
+
+#### Figura 1
+
+*Perfil de Raúl Bellido*
+
+<p align="center">
+  <img src="images/profileRaul.png" alt="PB" width="1000">
+</p> 
+
+*Nota.* Elaboración propia.
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
@@ -225,6 +237,18 @@
 ## 3.1. To-Be Scenario Mapping
 
 ## 3.2. User Stories
+
+
+| EPIC ID | Descripción de la Épica |
+| :---- | ----- |
+| EP01 | Gestión de inventario y maquinarias |
+| EP02 | Gestión de trabajadores |
+| EP03 | Generación y observación de reportes |
+| EP04 | Configuración de perfil |
+| EP05 | Navegación por la landing page |
+| EP06 | Administración de proyectos |
+
+
 
 ## 3.3. Impact Mapping
 
