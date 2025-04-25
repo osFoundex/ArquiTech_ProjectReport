@@ -732,6 +732,9 @@ Se presentará el diseño conceptual para la landing page como para la aplicaci�
 **Branding e ícono:**  
 **Figura 1**  
 *Logo*
+<p align="center">
+  <img src="images/A-logo.png" alt="PB" width="1000">
+</p>
 
 *Nota.* Elaboración Propia  
 Identidad:   
@@ -767,17 +770,24 @@ La tipografía de Arquitech cumple un importante rol en la expresión de la iden
 **Tipografía del Logo y Títulos**  
 El logo de Arquitech que se eligió comunica claridad con varios valores clave como el profesionalismo y técnica, por lo que se ha utilizado la tipografía Anton Regular que pertenece a la Anton Font Family. Esta tipografía transmite un aspecto fuerte y serio, lo cual es ideal para una empresa de construcción que busca mejorar los procesos de las obras. Además, las letras son altas y gruesas, lo que da buena visibilidad al nombre de la empresa en el logo y en los títulos. Cabe agregar, que tiene un aire moderno, pero sin dejar de ser profesional.  
 **Figura 2**
+<p align="center">
+  <img src="images/font-demo1.png" alt="PB" width="1000">
+</p>
 
 	Nota. Obtenido de: [https://www.dafontfree.io/download/anton-font/\#google\_vignette](https://www.dafontfree.io/download/anton-font/#google_vignette)   
 **Tipografía de Texto Regular**  
 Para el texto de la landing page y la aplicación se ha elegido la tipografía Futura que pertenece a Futura Font Family con el objetivo de que el usuario pueda obtener una cómoda y agradable lectura al visitar nuestras plataformas digitales. Además, esta tipografía representa modernidad, minimalismo, profesionalismo y seriedad. Aquello ayuda a la marca a representar tecnicismo, precisión y avances.  
 **Figura 3**
-
+<p align="center">
+  <img src="images/futura-font.png" alt="PB" width="1000">
+</p>
 	*Nota.* Obtenido de: [https://www.dafontfree.io/download/futura/](https://www.dafontfree.io/download/futura/)   
 **Colores**  
 Es importante elegir los colores para las plataformas digitales  adecuadamente, ya que así se asegura que la experiencia del usuario sea placentera y agradable. Por ello, nos aseguramos que la paleta de colores seleccionada de Arquitech refleje la esencia de la startup en la landing page y en nuestra aplicación.  
 **Figura 4**
-
+<p align="center">
+  <img src="images/color-pallete.png" alt="PB" width="1000">
+</p>
 *Nota.* Elaboración Propia  
 	       
 **Espaciado**
@@ -806,10 +816,21 @@ Medidas para Web Responsive:
 Monitor pequeño: 1296x1781px
 
 
+<p align="center">
+  <img src="images/web-responsive.png" alt="PB" width="1000">
+</p>
 
 *Nota*. Elaboración Propia
 
+<p align="center">
+  <img src="images/web-responsive2.png" alt="PB" width="1000">
+</p>
+
 *Nota*. Elaboración Propia
+
+<p align="center">
+  <img src="images/web-responsive3.png" alt="PB" width="1000">
+</p>
 
 *Nota*. Elaboración Propia  
 
@@ -1061,7 +1082,165 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 
 ## 5.1. Software Configuration Management.
 
+Esta sección presentará las herramientas que se han utilizado durante este proyecto para desarrollar nuestras plataformas digitales con una gestión estructurada de los cambios, versiones y configuraciones dentro del desarrollo de software.
+
 ### 5.1.1. Software Development Environment Configuration.
+
+En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figma,  para el desarrollo de Software Development se ha usado la herramienta WebStorm, para el lenguaje de programación se utilizó TypeScript y para el frontend Framework se ha usado el framework Angular y para la versión de control y colaboraciones se ha usado Git y GitHub.  
+**FIGMA:** Es una herramienta de diseño de interfaces y experiencias de usuario que permite crear wireframes, mockups, prototipos interactivos y diseños de alta fidelidad. Debido a su enfoque colaborativo en tiempo real, múltiples diseñadores o desarrolladores pueden trabajar simultáneamente desde cualquier lado. Además, permite definir la estructura visual y la interacción del usuario con la aplicación antes de comenzar el desarrollo.  
+**Figura 1**  
+*Logo de Figma*
+
+<p align="center">
+  <img src="images/fig-logo.png" alt="PB" width="1000">
+</p>
+
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/CChj4WHkrcpoj8o86](https://images.app.goo.gl/CChj4WHkrcpoj8o86)   
+**WEBSTORM:** Es un entorno de desarrollo integrado (IDE) desarrollado por JetBrains, se especializa en tecnologías web como JavaScript, TypeScript, Angular, React y Node.js. Incluso, ofrece funciones avanzadas como autocompletado inteligente. También, proporciona optimización para desarrollar aplicaciones web modernas y gestiona proyectos de forma eficiente, ya que se integra con herramientas como GitHub.  
+**Figura 2**  
+*Logo de WebStorm*
+<p align="center">
+  <img src="images/storm-logo.png" alt="PB" width="180">
+</p>
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/7nFfHpyKEJwk53nNA](https://images.app.goo.gl/7nFfHpyKEJwk53nNA)   
+**TYPESCRIPT:** Es un lenguaje de programación creado por Microsoft que está diseñado para facilitar el desarrollo de aplicaciones mantenibles, robustas y escalables. Este lenguaje mejora la calidad del código al detectar errores en el tiempo de desarrollo, lo que disminuye los fallos en la producción. Es utilizado ampliamente en frameworks modernos como Angular, lo que permite la creación de componentes reutilizables y una arquitectura de aplicación clara y organizada  
+**Figura 3**  
+*Logo de TypeScript*  
+<p align="center">
+  <img src="images/ts-logo.png" alt="PB" width="180">
+</p>
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/gG7rMNP4BM3nZBwE6](https://images.app.goo.gl/gG7rMNP4BM3nZBwE6)   
+**ANGULAR:** Es un framework de desarrollo de web basado en TypeScript, mantenido por Google y permite construir aplicaciones web dinámicas y escalables a través de una arquitectura basada en componentes, servicios y módulos. Este facilita la creación de interfaces reactivas, maneja eficientemente el estado de la aplicación y su conexión con APIs. La estructura modular que presenta favorece el trabajo en equipo y el mantenimiento de proyectos de gran escala.   
+**Figura 4**  
+*Logo de Angular*
+
+<p align="center">
+  <img src="images/angular-logo.png" alt="PB" width="180">
+</p>
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/vchNL7nTDhGaoSff8](https://images.app.goo.gl/vchNL7nTDhGaoSff8)   
+**GIT:** Es un sistema de control de versiones que se utiliza ampliamente en el desarrollo de software. Los desarrolladores con esta herramienta realizan un seguimiento de los cambios en el código, pueden colaborar de forma eficiente y mantener un historial completo de cada modificación hecha en el proyecto. Cada usuario tiene una copia completa del repositorio en su máquina local ya que Git funciona de manera distribuida. Este permite crear ramas para desarrollar nuevas funciones o para solucionar errores sin afectar el código principal. Los cambios pueden fusionarse con el repositorio principal cuando se finalice una tarea, de esta forma te aseguras una integración ordenada.  
+**Figura 5**  
+*Logo de Git*
+<p align="center">
+  <img src="images/git-logo.png" alt="PB" width="180">
+</p>
+
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/LrRXiPXPNboAr5LY7](https://images.app.goo.gl/LrRXiPXPNboAr5LY7)   
+**GITHUB:** Es una plataforma en la nube que ofrece alojamiento de repositorios en Git, lo que permite compartir, almacenar y colaborar en proyectos de desarrollo de software entre programadores. También, incluye funcionalidades como revisión de código, historial de código, gestión de issues y flujos de trabajo de integración continua del equipo. GitHub facilita la colaboración entre miembros del equipo de trabajo mediante ramas, pull requests y revisiones de código. Además, permite  gestionar versiones, mantener un historial completo para el proyecto.  
+**Figura 6**  
+*Logo de Github*
+
+<p align="center">
+  <img src="images/hub-logo.png" alt="PB" width="180">
+</p>
+
+
+*Nota.* Obtenido de: [https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8](https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8) 
+
+### ***5.1.2. Source Code Management. (Paula)***
+
+Para poder llevar un mejor control del código de la aplicación y trabajar grupalmente, usaremos la plataforma “GitHub”. De esta manera, podremos observar y realizar modificaciones a los commits hechos por los integrantes del equipo.  
+Hemos creado los siguientes cuatro repositorios en nuestra organización, cada uno para un producto distinto:
+
+* Repositorio para el informe de proyecto: [https://github.com/osFoundex/ArquiTech\_ProjectReport](https://github.com/osFoundex/ArquiTech_ProjectReport)   
+* Repositorio para el Landing Page: [https://github.com/osFoundex/ArquiTech\_LandingPage](https://github.com/osFoundex/ArquiTech_LandingPage)   
+* Repositorio para Web Services: [https://github.com/osFoundex/ArquiTech\_WebServices](https://github.com/osFoundex/ArquiTech_WebServices)   
+* Repositorio para Frontend Web Applications: [https://github.com/osFoundex/ArquiTech\_FrontendWebApp](https://github.com/osFoundex/ArquiTech_FrontendWebApp) 
+
+**Flujo de trabajo Gitflow:**  
+Para llevar el control del desarrollo de nuestro proyecto de mejor manera, decidimos usar GitFlow, esta herramienta organiza el desarrollo del proyecto mediante un conjunto de ramas con roles específicos. Las ramas principales y auxiliares que se utilizarán son:  
+**Rama main:**
+
+* Representa la versión estable y lista para producción del proyecto.  
+  * Solo contiene commits asociados a releases oficiales y hotfixes.  
+  * Cada merge en main estará etiquetado con una versión según las reglas de Semantic Versioning.
+
+  **Rama develop:**
+
+  * Actúa como la rama de integración donde se combinan las nuevas funcionalidades (features) y correcciones.  
+  * Refleja el estado más reciente del desarrollo, pero no necesariamente está lista para producción.  
+  * Es la base para crear ramas de features y releases.
+
+  **Ramas de Features (feature/\*):**
+
+  * Cada nueva funcionalidad o cambio significativo se desarrolla en una rama propia derivada de develop.  
+  * **Convención de nombramiento**: Las ramas de features se nombrarán como feature/\<nombre-descriptivo\>, donde \<nombre-descriptivo\> será una breve descripción del cambio en formato kebab-case, por ejemplo, feature/add-user-authentication o feature/improve-search-performance.  
+  * Una vez completada, la rama se fusiona de vuelta en develop mediante un merge request/pull request, asegurando revisiones de código.
+
+  **Ramas de Release (release/\*):**
+
+  * Se crean a partir de develop cuando el proyecto está listo para una nueva versión.  
+  * **Convención de nombramiento**: Las ramas de release se nombrarán como release/\<versión\>, donde \<versión\> sigue el formato de Semantic Versioning.  
+  * En estas ramas se realizan ajustes menores, como correcciones de errores menores o actualizaciones de documentación, pero no se añaden nuevas funcionalidades.  
+  * Una vez finalizada, la rama se fusiona en main (etiquetando la versión, e.g., v1.0.0) y en develop para reflejar los cambios.
+
+  **Ramas de Hotfix (hotfix/\*):**
+
+  * Se crean a partir de main para abordar correcciones urgentes en producción.  
+  * **Convención de nombramiento**: Las ramas de hotfix se nombrarán como hotfix/\<versión\>, donde \<versión\> indica la versión corregida según Semantic Versioning.  
+  * Tras completar el hotfix, la rama se fusiona en main (etiquetando la nueva versión) y en develop para incorporar la corrección.
+
+**Semantic Versioning:**
+
+El versionado de las releases seguirá las reglas de Semantic Versioning 2.0.0, que utiliza el formato MAJOR.MINOR.PATCH:
+
+* **MAJOR**: Incrementado para cambios incompatibles con versiones anteriores.  
+* **MINOR**: Incrementado para nuevas funcionalidades compatibles con versiones anteriores.  
+* **PATCH**: Incrementado para correcciones de errores compatibles con versiones anteriores.
+
+Por ejemplo, una nueva funcionalidad se reflejará en una versión como 1.1.0, mientras que un hotfix será 1.0.1. Cada release en la rama main estará etiquetada con su respectiva versión.
+
+**Conventional Commits:**
+
+Los mensajes de los commits seguirán la especificación de Conventional Commits para garantizar claridad y consistencia. La estructura de los mensajes será:  
+\<tipo\>(\<ámbito\>): \<descripción breve\>  
+\[opcional cuerpo\]  
+\[opcional pie\]
+
+**Tipos**:
+
+* feat: Nueva funcionalidad (incrementa la versión **MINOR**).  
+  * fix: Corrección de errores (incrementa la versión **PATCH**).  
+  * docs: Cambios en documentación.  
+  * style: Cambios de formato o estilo (sin afectar el código).  
+  * refactor: Refactorización del código sin añadir funcionalidades ni corregir errores.  
+  * test: Añadir o modificar pruebas.  
+  * chore: Tareas de mantenimiento o cambios menores.
+
+  **Ámbito**: Indica la parte del proyecto afectada (e.g., auth, ui, api).
+
+  **Descripción breve**: Breve y en minúsculas, sin punto final (máximo 50 caracteres).
+
+  **Cuerpo** (opcional): Detalles adicionales si es necesario.
+
+  **Pie** (opcional): Referencias a issues o breaking changes.
+
+**Integrantes del equipo en GitHub:**
+
+| Username | Nombre |
+| :---- | :---- |
+| raulbellidosalas | Raúl Bellido Salas |
+| DanieGF1 | Daniela Araceli Gómez Flores |
+| Paulu27 | Sandra Paula Luyo Correa |
+| ernesto0710 | Ernesto Rodas Sotomayor |
+| MSS02204 | Melisa Geraldine Sulca Silva |
+
+**Figura**  
+*Miembros de osFoundex*
+
+<p align="center">
+  <img src="images/foundex-members.png" alt="PB" width="1000">
+</p>
+
+
+*Nota.* Elaboración propia. Obtenido de [https://github.com/orgs/osFoundex/people](https://github.com/orgs/osFoundex/people) 
+
+
 
 ### 5.1.2. Source Code Management
 
