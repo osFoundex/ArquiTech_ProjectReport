@@ -678,13 +678,143 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 ### 2.3.5. As-is Scenario Mapping
 
+*Áreas positivas del As-Is Scenario Mapping para segmento \#1*
+<p align="center">
+  <img src="images/OS_As-is_S1_AP.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas negativas del As-Is Scenario Mapping para segmento \#1*
+
+<p align="center">
+  <img src="images/OS_As-is_S1_AN.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Blank areas del As-Is Scenario Mapping para segmento \#1*
+
+<p align="center">
+  <img src="images/OS_As-is_S1_BA.jpg" alt="PB" width="1000">
+</p>
+
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**As-Is Scenario Mapping para Segmento \# 2: Contratantes de Empresas Privadas**  
+**Figura**   
+*As-Is Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_As-is_S2.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas positivas del As-Is Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_As-is_S2_AP.jpg" alt="PB" width="1000">
+</p>
+
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas negativas del As-Is Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_As-is_S2_AN.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Blank areas del As-Is Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_As-is_S2_BA.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs) 
+
 ## 2.4. Ubiquitous Language
 
-<hr>
+## 
+
+| Término (Inglés) | Término (Español) | Definición |
+| :---- | :---- | :---- |
+| Construction Site | Obra de construcción | Lugar físico donde se ejecuta un proyecto de construcción, gestionado por supervisores y equipos operativos. |
+| Supervisor | Supervisor | Persona responsable de coordinar y controlar las actividades diarias en la obra, incluyendo personal, materiales y cumplimiento de plazos. |
+| Contractor | Contratante | Empresa o persona que encarga una obra y espera su ejecución conforme a los estándares, plazos y regulaciones establecidos. |
+| Resource | Recurso | Elemento necesario para el desarrollo de la obra, como materiales de construcción, maquinaria o personal. |
+| Attendance | Asistencia | Registro diario de la presencia del personal obrero o técnico en la obra. |
+| Offline Mode | Modo sin conexión | Funcionalidad que permite usar la aplicación sin {acceso a internet, sincronizando los datos al reconectarse. |
+| Progress Report | Reporte de avance | Documento o visualización que resume el estado actual del proyecto, incluyendo tareas realizadas, tiempos y uso de recursos. |
+| Workforce | Mano de obra / Personal | Grupo de trabajadores (obreros y técnicos) que participan activamente en la ejecución de la obra. |
+| Material Entry | Registro de materiales | Acción de añadir nuevos materiales o equipos al inventario dentro del sistema. |
+| Stock Update	 | Actualización de stock | Modificación de las cantidades de materiales disponibles, ya sea por consumo o nueva adquisición. |
+| Construction Budget | Presupuesto de obra | Estimación financiera que define los costos proyectados del proyecto, incluyendo materiales, personal y otros gastos. |
+| Work Order | Orden de trabajo | Documento o instrucción digital que detalla tareas a realizar por el personal en obra. |
+| Company Profile | Perfil de la empresa | Información registrada sobre la empresa constructora: nombre, contacto, tipo de proyectos, etc. |
+| Onboarding | Introducción / Capacitación inicial | Proceso mediante el cual nuevos usuarios aprenden a usar la plataforma por medio de videos y tutoriales guiados. |
+
 
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
+**To-Be Scenario Mapping para Segmento \#1: Supervisores de obra**  
+**Figura**   
+*To-Be Scenario Mapping para segmento \#1*
+
+<p align="center">
+  <img src="images/OS_To-be_S1.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas positivas del To-Be Scenario Mapping para segmento \#1*
+<p align="center">
+  <img src="images/OS_To-be_S1_AP.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas negativas del To-Be Scenario Mapping para segmento \#1*
+<p align="center">
+  <img src="images/OS_To-be_S1_AN.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Blank areas del To-Be Scenario Mapping para segmento \#1*
+<p align="center">
+  <img src="images/OS_To-be_S1_BA.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**To-Be Scenario Mapping para Segmento \# 2: Contratantes de Empresas Privadas**  
+**Figura**   
+*To-Be Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_To-be_S2.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas positivas del To-Be Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_To-be_S2_AP.jpg" alt="PB" width="1000">
+</p>
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas negativas del To-Be Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_To-be_S2_AN.jpg" alt="PB" width="1000">
+</p>
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Blank areas del To-Be Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_To-be_S2_BA.jpg" alt="PB" width="1000">
+</p>
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+
 
 ## 3.2. User Stories
 
@@ -1727,21 +1857,85 @@ Para este primer sprint, nuestro objetivo principal es desarrollar el Landing Pa
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
+#### 
+
+| Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| DanieGF1/ArquiTech\_LandingPage | feature/develop | 14ca4e3 | feat: Added style.css | \- | 24/04/2025 |
+| Paulu27/ArquiTech\_LandingPage | feature/develop | 124c56 | feat: Added index.html | \- | 24/04/2025 |
+| ernesto0710/ArquiTech\_LandingPage | feature/develop | 34j826 | feat: Added images | \- | 24/04/2025 |
+| raulbellidosalas/ArquiTech\_LandingPage | feature/develop | 34c56y | feat: Modified style.css | \- | 24/04/2025 |
+| MSS02204/ArquiTech\_LandingPage | feature/develop | 1h189i | feat: Modified index.html | \- | 24/04/2025 |
+
+
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
-##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+<p align="center">
+  <img src="images/exec-evidence.png" alt="PB" width="1000">
+</p>
 
-##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-##### 5.2.1.8. Team Collaboration Insights during Sprint
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184\_upc\_edu\_pe/EbvwyilLlUFAlVSjfsN0MVkBaJrYisaLUfiwVz2AJmBgng?e=sU6Bz0\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EbvwyilLlUFAlVSjfsN0MVkBaJrYisaLUfiwVz2AJmBgng?e=sU6Bz0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
-<hr>
+
+
+##### 5.2.1.6. Software Deployment Evidence for Sprint Review
+Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.  
+Publicamos nuestra landing page como un sitio web a través de GitHub para que sea accesible a todos nuestros usuarios. Primero, creamos una cuenta y un repositorio público con el nombre adecuado. Luego, subimos los archivos de la página, activamos GitHub Pages desde la configuración y verificamos que el sitio estuviera disponible en línea. Cuando queremos hacer cambios, simplemente actualizamos los archivos y los volvemos a subir.  
+**Figura**  
+*Evidencia de deployment 1*
+
+<p align="center">
+  <img src="images/github-pages.png" alt="PB" width="1000">
+</p>
+
+*Nota.* Elaboración propia.  
+**Figura**  
+*Evidencia de deployment 2*
+
+<p align="center">
+  <img src="images/landing-fromt.png" alt="PB" width="1000">
+</p>
+
+*Nota.* Elaboración propia.
+
+
+
+##### 5.2.1.7. Team Collaboration Insights during Sprint
+
+<p align="center">
+  <img src="images/Team Collaboration.png" alt="PB" width="1000">
+</p>
 
 ## Conclusiones
 
-<hr>
+El desarrollo de Foundex y su solución digital ArquiTech representa el esfuerzo conjunto de un equipo de jóvenes universitarios comprometidos con transformar el sector de la construcción a través de la tecnología. A lo largo del presente informe, hemos documentado detalladamente cada etapa del proceso de diseño, análisis y desarrollo del producto, partiendo desde la identificación de la problemática hasta la implementación funcional de una herramienta que permite a las pequeñas y medianas empresas constructoras gestionar eficientemente sus proyectos.
+Este proyecto integró enfoques modernos como el Lean UX y metodologías ágiles que guiaron el descubrimiento de necesidades reales del usuario, validación de hipótesis y definición clara de requerimientos. La estructuración del producto se apoyó en herramientas como user personas, escenarios “as-is” y “to-be”, user stories y backlog priorizado, permitiendo una alineación precisa con los objetivos del negocio y las expectativas del usuario final.
+El diseño de la arquitectura del software y de la base de datos, junto con las directrices de estilo, garantizaron una plataforma escalable, organizada y visualmente coherente. Asimismo, la implementación se desarrolló mediante sprints colaborativos, registrando los avances en cada fase con evidencias tangibles que reflejan el progreso y compromiso del equipo.
+
+Además, el uso del control de versiones, el manejo estructurado del código y la configuración de despliegue demuestran un enfoque profesional hacia la sostenibilidad y evolución del sistema.
+
+Foundex no solo ha logrado desarrollar una solución funcional e innovadora, sino que también ha demostrado cómo la sinergia entre diversas disciplinas y una visión estratégica bien definida pueden generar un impacto significativo. Este trabajo conjunto nos permite sentar bases sólidas para cumplir nuestra visión de convertirnos en la plataforma líder de digitalización de procesos constructivos en Perú.
+
 
 ## Bibliografía
+
+
+Angular. (s.f.). Angular coding style guide. [https://angular.io/guide/styleguide](https://angular.io/guide/styleguide)   
+Buildertrend. (s.f.). *Construction Management  Software*. Buildertrend. [Recuperado el dia 19 de abril de 2025, de](https://www.procore.com/es)  [https://buildertrend.com/](https://buildertrend.com/)  
+Buildwise. (s.f.). *Buildwise is there for you*. Buildwise \- The innovation center for the construction sector. [Recuperado el dia 19 de abril de 2025, de](https://www.procore.com/es) [https://www.buildwise.be/en/](https://www.buildwise.be/en/)  
+Conventional Commits. (s.f.). Conventional Commits v1.0.0. [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)  
+Driessen, V. (2010, January 5). A successful Git branching model. Nvie. [https://nvie.com/posts/a-successful-git-branching-model/](https://nvie.com/posts/a-successful-git-branching-model/)   
+Google. (s.f.). Google HTML/CSS style guide. [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)   
+Google. (s.f.). Google Java style guide. [https://google.github.io/styleguide/javaguide.html](https://google.github.io/styleguide/javaguide.html)   
+Google. (s.f.). Google TypeScript style guide. [https://google.github.io/styleguide/tsguide.html](https://google.github.io/styleguide/tsguide.html)   
+Procore. (s.f.). *Software de gestión de la construcción*. Procore Technologies. [Recuperado el dia 19 de abril de 2025, de https://www.procore.com/es](https://www.procore.com/es)  
+Semantic Versioning. (s.f.). Semantic Versioning 2.0.0. [https://semver.org/](https://semver.org/)   
+SpecFlow. (s.f.). Gherkin conventions for readable specifications. [https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)   
+Spring. (s.f.). Spring Boot features. [https://docs.spring.io/spring-boot/docs/current/reference/html/features.html](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html)   
+W3Schools. (s.f.). HTML style guide and coding conventions. [https://www.w3schools.com/html/html5\_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp) 
+
+
 
 <hr>
 
