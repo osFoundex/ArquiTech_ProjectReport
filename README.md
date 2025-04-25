@@ -198,6 +198,17 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 *Nota.* Elaboración propia.
 
+#### Figura 2
+
+*Perfil de Ernesto Rodas*  
+
+<p align="center">
+  <img src="images/profile-ernesto.png" alt="PB" width="1000">
+</p>
+
+
+*Nota.* Elaboración propia.  
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
