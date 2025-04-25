@@ -678,13 +678,143 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 ### 2.3.5. As-is Scenario Mapping
 
+*Áreas positivas del As-Is Scenario Mapping para segmento \#1*
+<p align="center">
+  <img src="images/OS_As-is_S1_AP.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas negativas del As-Is Scenario Mapping para segmento \#1*
+
+<p align="center">
+  <img src="images/OS_As-is_S1_AN.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Blank areas del As-Is Scenario Mapping para segmento \#1*
+
+<p align="center">
+  <img src="images/OS_As-is_S1_BA.jpg" alt="PB" width="1000">
+</p>
+
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**As-Is Scenario Mapping para Segmento \# 2: Contratantes de Empresas Privadas**  
+**Figura**   
+*As-Is Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_As-is_S2.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas positivas del As-Is Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_As-is_S2_AP.jpg" alt="PB" width="1000">
+</p>
+
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas negativas del As-Is Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_As-is_S2_AN.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Blank areas del As-Is Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_As-is_S2_BA.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs) 
+
 ## 2.4. Ubiquitous Language
 
-<hr>
+## 
+
+| Término (Inglés) | Término (Español) | Definición |
+| :---- | :---- | :---- |
+| Construction Site | Obra de construcción | Lugar físico donde se ejecuta un proyecto de construcción, gestionado por supervisores y equipos operativos. |
+| Supervisor | Supervisor | Persona responsable de coordinar y controlar las actividades diarias en la obra, incluyendo personal, materiales y cumplimiento de plazos. |
+| Contractor | Contratante | Empresa o persona que encarga una obra y espera su ejecución conforme a los estándares, plazos y regulaciones establecidos. |
+| Resource | Recurso | Elemento necesario para el desarrollo de la obra, como materiales de construcción, maquinaria o personal. |
+| Attendance | Asistencia | Registro diario de la presencia del personal obrero o técnico en la obra. |
+| Offline Mode | Modo sin conexión | Funcionalidad que permite usar la aplicación sin {acceso a internet, sincronizando los datos al reconectarse. |
+| Progress Report | Reporte de avance | Documento o visualización que resume el estado actual del proyecto, incluyendo tareas realizadas, tiempos y uso de recursos. |
+| Workforce | Mano de obra / Personal | Grupo de trabajadores (obreros y técnicos) que participan activamente en la ejecución de la obra. |
+| Material Entry | Registro de materiales | Acción de añadir nuevos materiales o equipos al inventario dentro del sistema. |
+| Stock Update	 | Actualización de stock | Modificación de las cantidades de materiales disponibles, ya sea por consumo o nueva adquisición. |
+| Construction Budget | Presupuesto de obra | Estimación financiera que define los costos proyectados del proyecto, incluyendo materiales, personal y otros gastos. |
+| Work Order | Orden de trabajo | Documento o instrucción digital que detalla tareas a realizar por el personal en obra. |
+| Company Profile | Perfil de la empresa | Información registrada sobre la empresa constructora: nombre, contacto, tipo de proyectos, etc. |
+| Onboarding | Introducción / Capacitación inicial | Proceso mediante el cual nuevos usuarios aprenden a usar la plataforma por medio de videos y tutoriales guiados. |
+
 
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
+**To-Be Scenario Mapping para Segmento \#1: Supervisores de obra**  
+**Figura**   
+*To-Be Scenario Mapping para segmento \#1*
+
+<p align="center">
+  <img src="images/OS_To-be_S1.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas positivas del To-Be Scenario Mapping para segmento \#1*
+<p align="center">
+  <img src="images/OS_To-be_S1_AP.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas negativas del To-Be Scenario Mapping para segmento \#1*
+<p align="center">
+  <img src="images/OS_To-be_S1_AN.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Blank areas del To-Be Scenario Mapping para segmento \#1*
+<p align="center">
+  <img src="images/OS_To-be_S1_BA.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**To-Be Scenario Mapping para Segmento \# 2: Contratantes de Empresas Privadas**  
+**Figura**   
+*To-Be Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_To-be_S2.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas positivas del To-Be Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_To-be_S2_AP.jpg" alt="PB" width="1000">
+</p>
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Áreas negativas del To-Be Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_To-be_S2_AN.jpg" alt="PB" width="1000">
+</p>
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+**Figura**   
+*Blank areas del To-Be Scenario Mapping para segmento \#2*
+<p align="center">
+  <img src="images/OS_To-be_S2_BA.jpg" alt="PB" width="1000">
+</p>
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+
 
 ## 3.2. User Stories
 
@@ -698,6 +828,8 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 | EP05 | Navegación por la landing page |
 | EP06 | Administración de proyectos |
 
+
+
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 | :---- | :---- | :---- | :---- | :---: |
 | EP01/HU01 | Registrar Entrada de Materiales  | Como Supervisor de Obra, quiero registrar la entrada de materiales, para mantener un inventario actualizado y evitar retrasos.  | **Escenario 1: Registrar entrada de material con éxito Given**: Estoy autenticado como Gerente de Obra y tengo un proyecto activo con un inventario. **When**: Registro una entrada de 500 kg de cemento del proveedor "ConstruMax". **Then**: El sistema actualiza el inventario, aumentando la cantidad de cemento a 500 kg, y registra la transacción con el proveedor y la fecha actual. **Escenario 2: Intentar registrar entrada con datos incompletos Given**: Estoy autenticado como Gerente de Obra y tengo un proyecto activo. **When**: Intento registrar una entrada de cemento sin especificar la cantidad. **Then**: El sistema muestra un error indicando que la cantidad es obligatoria y no actualiza el inventario. | EP01 |
@@ -705,6 +837,27 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 | EP01/HU03 | Recibir Alertas de Bajo Nivel de Inventario  | Como Supervisor de Obra, quiero recibir alertas cuando el inventario esté bajo, para reabastecer a tiempo y evitar retrasos.  | **Escenario 1: Recibir alerta de bajo nivel de material Given**: Estoy autenticado como Gerente de Obra, y el inventario tiene 150 kg de cemento con un nivel mínimo de 100 kg. **When**: Registro el uso de 60 kg de cemento, reduciendo el stock a 90 kg. **Then**: El sistema me envía una notificación indicando que el cemento está por debajo del nivel mínimo (90 kg \< 100 kg). **Escenario 2: No recibir alerta si el nivel es suficiente Given**: Estoy autenticado como Gerente de Obra, y el inventario tiene 150 kg de cemento con un nivel mínimo de 100 kg. **When**: Registro el uso de 20 kg de cemento, reduciendo el stock a 130 kg. **Then**: El sistema no envía ninguna notificación, ya que el stock (130 kg) está por encima del nivel mínimo. | EP01 |
 |  EP01/HU04 |  Consultar Historial de Transacciones de Inventario  |  Como Supervisor de Obra, quiero consultar el historial de transacciones de inventario, para auditar el uso de materiales y detectar irregularidades.  |  **Escenario 1: Consultar historial con transacciones existentes Given**: Estoy autenticado como Gerente de Obra, y el inventario de cemento tiene 2 transacciones: una entrada de 500 kg y un uso de 200 kg. **When**: Consulto el historial de transacciones del cemento. **Then**: El sistema muestra una lista con las 2 transacciones, incluyendo tipo (entrada/uso), cantidades, proveedor (para entradas), y fechas. **Escenario 2: Consultar historial sin transacciones Given**: Estoy autenticado como Gerente de Obra, y el inventario de acero no tiene transacciones registradas. **When**: Consulto el historial de transacciones del acero. **Then**: El sistema muestra un mensaje indicando que no hay transacciones registradas. | EP01 |
 |  EP01/HU05 |  Registrar Maquinaria Asignada al Proyecto  |  Como Supervisor de Obra, quiero registrar maquinaria asignada al proyecto, para gestionar su disponibilidad y evitar retrasos.  |  **Escenario 1: Registrar maquinaria con éxito Given**: Estoy autenticado como Supervisor de Obra y tengo un proyecto activo. **When**: Registro una mezcladora con número de serie "MX123" y estado "Operativa". **Then**: El sistema agrega la mezcladora al inventario del proyecto con los datos proporcionados y actualiza su estado. **Escenario 2: Intentar registrar maquinaria con datos duplicados Given**: Estoy autenticado como Supervisor de Obra, y ya existe una mezcladora con número de serie "MX123". **When**: Intento registrar otra mezcladora con el mismo número de serie "MX123". **Then**: El sistema muestra un error indicando que el número de serie ya está registrado y no agrega la maquinaria. | EP01 |
+| EP02/HU06 | Registro de trabajadores | Como supervisor de obra, quiero registrar a los trabajadores con sus datos personales, cargo y especialidad, para tener un control ordenado y centralizado del personal en cada proyecto. | **Escenario 1: Registro exitoso de un nuevo trabajador Given**: El supervisor accede al registro de trabajadores **When**: Ingresa los datos personales, cargo y especialidad de un nuevo trabajador. **Then**: El sistema guarda correctamente la información y muestra al nuevo trabajador en la lista de trabajadores. **Escenario 2: Modificación de datos de un trabajador existente Given**: El supervisor quiere editar los datos de un trabajador registrado anteriormente. **When**: Selecciona el trabajador y modifica la información. **Then**: El sistema actualiza los datos y muestra los cambios reflejados en la lista de trabajadores. | EP02 |
+| EP02/HU07 | Asignación de tareas y roles | Como supervisor de obra, quiero asignar tareas específicas y roles a cada trabajador dentro de una obra, para saber sus responsabilidades diarias en una lista de trabajadores. | **Escenario 1: Asignación inicial de tarea y rol a un trabajador. Given**: El supervisor está en la sección de lista de trabajadores **When**: Selecciona un trabajador y le asigna una tarea y un rol. **Then**: El sistema guarda la asignación y la muestra en el recuadro de tarea asignada y rol. **Escenario 2: Modificación de la tarea asignada a un trabajador  Given**: El supervisor de obra necesita cambiar la tarea asignada a un trabajador. **When**: Acceder a la lista de trabajadores y editar la tarea de asignada. **Then**: El sistema actualiza la tarea y actualiza el cambio en la pantalla. | EP02 |
+| EP02/HU08 | Control de Asistencia | Como supervisor de obra, quiero llevar el control de asistencia diaria de los trabajadores en obra, para contar con un registro confiable que respalde pagos y evaluaciones. | **Escenario 1: Registro diario de asistencia de trabajadores Given**: El supervisor de obra accede a la sección control de asistencia. **When**: Completa los datos de la asistencia de los trabajadores al inicio del trabajo. **Then**: El sistema guarda el registro con fecha y hora de llegada. **Escenario 2: Justificación de ausencia de un trabajador Given**: Un trabajador no asistió y se debe justificar la ausencia. **When**: El supervisor de obra selecciona al trabajador que faltó y añade una observación. **Then**: El sistema registra la ausencia como justificada y almacena la observación. | EP02 |
+| EP06/HU09 | Ingresar un Nuevo Proyecto  | Como Supervisor de Obra, quiero ingresar un nuevo proyecto, para planificar y gestionar todas las actividades relacionadas con la obra.  | **Escenario 1:** Ingresar un proyecto con éxito   Given: Estoy autenticado como Gerente de Obra y tengo permisos para crear proyectos.    **When:** Ingreso un proyecto con nombre "Construcción Edificio A", fecha de inicio "2025-05-01", presupuesto "100,000" y estado "Activo".    **Then:** El sistema crea el proyecto y lo muestra en mi lista de proyectos con los datos ingresados.  **Escenario 2:** Intentar ingresar un proyecto con datos incompletos   Given: Estoy autenticado como Gerente de Obra.   **When:** Intento ingresar un proyecto sin especificar el nombre ni la fecha de inicio.    **Then:** El sistema muestra un error indicando que el nombre y la fecha de inicio son obligatorios y no crea el proyecto.   | EP06 |
+| EP02/HU10 | Lista de trabajadores por obra | Como supervisor de obra, quiero ver una lista de todos los trabajadores asignados a cada obra, para saber rápidamente quién está trabajando en cada proyecto y que roles o tareas cumplen. | **Escenario 1: Visualización general de trabajadores en una obra Given**: El gerente de la obra entra la sección obras activas. **When**: Selecciona una obra en específico.   **Then**: El sistema muestra la lista de todos los trabajadores asignados a esa obra. **Escenario 2: Búsqueda de trabajadores por nombre o cargo en una obra. Given**: El gerente de obra quiere buscar un trabajador específico en una obra. **When**: Usa el buscador por nombre o cargo. **Then**: El sistema filtra y muestra solo a los trabajadores que cumplen con ese criterio. | EP02 |
+| EP05/HU11 | Ver descripción de ArquiTech | Como contratante de empresa privada, quiero leer una descripción clara de ArquiTech para entender sus beneficios.  | **Escenario 1: Descripción visible Given** que soy un contratante de empresa privada y me encuentro en del sitio web de ArquiTech, **When** navego hacia abajo en la sección de inicio, **Then** se presenta una descripción clara de ArquiTech. **Escenario 2: Contenido actualizado Given** que el contenido se actualiza,  **When** accedo al sitio web, **Then** se muestra la versión más reciente. | EP05 |
+| EP05/HU12 | Contactar al equipo de ArquiTech para contratar el servicio | Como supervisor de obra, quiero contactarme con el equipo de ArquiTech para poder tener más información y contratar el servicio. | **Escenario 1: Ir a la sección contacto con un boton Given** que estoy en la página web de ArquiTech, **When** le doy clic al botón que dice “Contacto” en la barra superior al lado derecho, **Then** la página se desplazará automáticamente hasta esa sección.   **Escenario 2: Solicitud exitosa con campos completos Given** que estoy en el sitio web de ArquiTech y estoy en la sección "Contacto" de la landing page,  **When** completo el formulario que aparece con todos mis datos solicitados obligatorios (nombres, apellidos, email, número telefónico), y presiono el botón "Enviar", **Then** recibo un mensaje de confirmación en la pantalla que dice "Solicitud enviada. Te contactaremos pronto."   **Escenario 2: Solicitud Fallida por Campo de Email Inválido Given** que estoy en el sitio web de ArquiTech y estoy en la sección "Contacto" de la landing page,  **When** relleno el formulario, pero dejo un campo obligatorio vacío o con el tipo de dato equivocado y presiono el botón "Enviar", **Then** el formulario mostrará un mensaje de error que indique que falta completar un campo solicitado. | EP05 |
+| EP05/HU13 | Explorar beneficios | Como  supervisor de obra, quiero explorar los beneficios de ArquiTech en la landing page, para entender cómo puede ayudarme a gestionar mejor mis proyectos y ahorrar tiempo. | **Escenario 1: Navegar a la sección de beneficios y leer detalles Given** que estoy en la página principal de ArquiTech  **When** desplazo hacia abajo hasta encontrar la sección "Beneficios" y hago clic en el botón "Ver Más Beneficios". **Then** se despliega una sección detallada donde leo cómo ArquiTech automatiza la gestión de inventario y asistencia, con ejemplos de reportes en tiempo real. | EP05 |
+| EP05/HU14 | Observar los medios oficiales de comunicación directa con ArquiTech. | Como supervisor de obra, quiero contactarme con el equipo directamente para realizar consultas sobre los beneficios u otras dudas que me surjan. | **Escenario 1: Ubicar el lugar donde se encuentran los medios de contacto Given** que me encuentro en la página web de ArquiTech, **When** me desplazo hacia la parte final de la página, **Then** veré  el número telefónico y el correo electrónico en el lado derecho del  pie de página debajo de “Contáctanos”. | EP05 |
+| EP05/HU15 | Visitar las redes sociales de ArquiTech | Como supervisor de obra, quiero visitar las redes sociales de ArquiTech para poder observar las opiniones de otros usuarios y más información de la empresa. | **Escenario 1: Visualizar las redes en las que la empresa tiene una cuenta Given** que me encuentro en la página de ArquiTech. **When** me desplazo hacia el final de la página **Then** observaré los íconos de las redes sociales en las que ArquiTech tiene una cuenta. **Escenario 2: Entrar a las redes desde las páginas Given** que me encuentro observando los íconos de las redes sociales en el pie de la página,  **When** le doy clic a uno de los íconos, **Then** se abrirá otra pestaña con la cuenta de la red social del ícono que seleccioné. | EP05 |
+| EP04/HU16 | Editar Información del Perfil | Como usuario de la plataforma, quiero poder editar mi información personal (nombre, correo, cargo),para mantener mis datos actualizados en el sistema. | **Escenario 1: Edición exitosa del perfil Given** estoy autenticado y accedo a la sección de configuración de perfil. **When** modifico mi nombre y cargo, y presiono “Guardar cambios”. **Then** el sistema actualiza mis datos correctamente y muestra un mensaje de confirmación. **Escenario 2: Edición con campos vacíos Given** estoy autenticado y accedo a la sección de perfil.  **When** elimino el campo de correo y trato de guardar. **Then** el sistema muestra un error indicando que el correo es obligatorio y no guarda los cambios. | EP04 |
+| EP04/HU17 | Cambiar Foto de Perfil | Como usuario registrado, quiero subir o cambiar mi foto de perfil, para personalizar mi cuenta y facilitar la identificación. | **Escenario 1: Carga de imagen exitosa Given** estoy en la configuración del perfil y elijo una imagen válida (.jpg, .png). **When** presiono el botón “Subir foto”. **Then** el sistema actualiza mi imagen y se refleja inmediatamente en la interfaz. **Escenario 2: Carga de formato no permitido Given** intento subir un archivo PDF como imagen de perfil. **When** selecciono el archivo y hago clic en “Subir”. **Then** el sistema muestra un mensaje de error que indica que el formato no es válido. | EP04 |
+| EP04/HU18 | Cambiar Contraseña | Como usuario autenticado, quiero cambiar mi contraseña de acceso, para mantener segura mi cuenta. | **Escenario 1: Cambio exitoso Given** estoy en la sección de “Cambiar ” del perfil. **When** ingreso mi contraseña actual, la nueva y su confirmación, y luego presiono “Guardar”. **Then** el sistema actualiza mi contraseña y muestra un mensaje de éxito. **Escenario 2: Contraseñas no coinciden Given** ingreso una nueva contraseña y su confirmación con diferencias. **When** presiono “Guardar”. **Then** el sistema muestra un mensaje de error indicando que las contraseñas no coinciden. | EP04 |
+| EP04/HU19 | Configurar Notificaciones | Como usuario administrador, quiero configurar mis preferencias de notificación (correo, SMS, alertas in-app), para recibir los avisos más importantes por los medios que prefiera. | **Escenario 1: Activar notificaciones por correo Given** estoy en la sección de notificaciones del perfil. **When** activo la opción “Notificarme por correo” y guardo cambios. **Then** el sistema guarda mi preferencia y empiezo a recibir avisos por email. **Escenario 2: Desactivar todas las notificaciones Given** desactivo todas las opciones de notificación. **When** guardo los cambios **Then** el sistema me muestra una advertencia indicando que desactivé todas las notificaciones. | EP04 |
+| EP03/HU20 | Generar reporte diario de avance | Como Supervisor de Obra, quiero poder generar un reporte diario del avance de las actividades en campo, incluyendo personal presente, materiales utilizados y observaciones, para mantener un control organizado | **Escenario: Generación de reporte diario de obra  1:  Given**:   que el Supervisor ha iniciado sesión en el sistema y se encuentra en el módulo de reportes, **When**: completa la información del día (actividades realizadas, materiales usados, observaciones y personal presente) y pulsa el botón "Generar reporte", **Then**: el sistema debe guardar el reporte correctamente, mostrar una confirmación visual y permitir visualizarlo en el historial de reportes. **Escenario 2:  Validación de campos obligatorios Given**: Que el supervisor está en el formulario de reporte diario, **When**:  intenta generar el reporte sin completar todos los campos requeridos (como fecha o avance físico), **Then**:el sistema debe mostrar mensajes de error que indiquen qué campos faltan y evitar la generación hasta que estén completos.  | EP03 |
+| EP03/HU21 | Visualizar reportes semanales | Como Gerente de Obra, quiero visualizar reportes semanales consolidados que resuman los avances diarios, asistencias, y consumo de materiales. | **Escenario 1: Acceso a reportes semanales consolidados Given**: que el gerente ha iniciado sesión y se encuentra en el módulo de reportes, **When**:  selecciona la opción “reporte semanal” desde el menú, **Then**:  el sistema debe mostrarle un reporte con gráficos y datos consolidados de los últimos 7 días. **Escenario 2:  Datos faltantes en la semana Given**: que uno o más días de la semana no tienen reporte cargado, **When**: el gerente accede al reporte semanal, **Then**: el sistema debe indicarle qué días no cuentan con información y mostrar los demás datos correctamente. | EP03 |
+| EP03/HU22 | Recibir notificación de nuevo reporte | Como Contratante de empresa privada, quiero recibir una notificación automática cada vez que se genere un nuevo reporte de obra, para mantenerme al tanto del avance sin necesidad de ingresar a la plataforma constantemente. | **Escenario 1: Notificación por correo electrónico Given**: que el contratante está registrado y tiene su correo validado, **When**:  se genera un nuevo reporte diario o semanal, **Then**: el sistema debe enviarle un correo con un resumen del contenido y un enlace para visualizarlo. **Escenario 2: Notificación push desde la app Given**: que el contratante tiene la app instalada y ha activado las notificaciones, **When**: se publica un nuevo reporte, **Then**: el sistema debe enviarle una notificación push con un mensaje corto y opción para abrir el reporte directamente. | EP03 |
+| EP03/HU23 | Agregar evidencias fotográficas a los reportes | Como Supervisor de Obra, quiero poder adjuntar fotos como evidencia visual al generar un reporte, para documentar el estado real del avance, incidentes o condiciones de la obra en cada etapa. | **Escenario 1: Adjuntar imágenes desde el dispositivo Given**: que el supervisor está generando un nuevo reporte, **When**: selecciona la opción “Agregar imágenes” y carga una o varias fotos desde su dispositivo, **Then**: el sistema debe adjuntar correctamente las imágenes al reporte y mostrar una vista previa. **Escenario 2: Visualización en el reporte generado Given**: que el reporte ya fue generado con imágenes adjuntas, **When**: otro usuario (gerente, asistente, contratante) lo abre, **Then**: el sistema debe mostrar las imágenes junto con los datos del reporte, organizadas por fecha o sección. | EP03 |
+| EP03/HU24 | Seleccionar obra específica para ver sus reportes | Como Gerente de Obra o Supervisor, quiero poder seleccionar una obra específica desde un listado, para ver únicamente los reportes relacionados con esa obra | **Escenario 1: Filtrar reportes por obra Given**: que el usuario tiene acceso a más de una obra, **When**: selecciona una obra desde un menú desplegable o buscador, **Then**: el sistema debe mostrar únicamente los reportes correspondientes a esa obra. **Escenario 2: Persistencia de selección Given**: que el usuario ya ha seleccionado una obra, **When**: navega entre diferentes secciones del módulo de reportes, **Then**: el sistema debe mantener esa obra seleccionada hasta que el usuario decida cambiarla manualmente. | EP03 |
+| EP06/HU25 | Visualizar Lista de Proyectos  | Como Supervisor de Obra, quiero visualizar una lista de mis proyectos, para tener un panorama claro de todas mis obras activas.  | **Escenario 1:** Visualizar lista con proyectos existentes   **Given:** Estoy autenticado como Supervisor de Obra y tengo 3 proyectos activos: "Edificio A", "Tienda B" y "Casa C".   **When:** Accede a la sección de proyectos.   **Then:** El sistema muestra una lista con los 3 proyectos, incluyendo nombre, fecha de inicio, presupuesto y estado.  **Escenario 2:** Visualizar lista sin proyectos   **Given:** Estoy autenticado como Supervisor de Obra y no tengo proyectos registrados.   **When:** Accede a la sección de proyectos.   **Then:** El sistema muestra un mensaje indicando que no hay proyectos registrados. | EP06 |
+
 
 
 ## 3.3. Impact Mapping
@@ -716,6 +869,47 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 </p>
 
 ## 3.4. Product Backlog
+
+
+| \# Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8\)  |
+| ----- | ----- | :---- | :---- | ----- |
+|  **1** |  **HU01** | Registrar Entrada de Materiales  | Como Supervisor de Obra, quiero registrar la entrada de materiales, para mantener un inventario actualizado y evitar retrasos. |  **2** |
+|  **2** |  **HU02** |  Registrar Uso de Materiales en Obra | Como Supervisor de Obra, quiero registrar el uso de materiales, para controlar el consumo y evitar desperdicios. |  **2** |
+|  **3** |  **HU03** | Recibir Alertas de Bajo Nivel de Inventario  | Como Supervisor de Obra, quiero recibir alertas cuando el inventario esté bajo, para abastecer a tiempo y evitar retrasos. |  **3** |
+|  **4** |  **HU04** |  Consultar Historial de Transacciones de Inventario  | Como Supervisor de Obra, quiero consultar el historial de transacciones de inventario, para auditar el uso de materiales y detectar irregularidades. |  **5** |
+| **5** | **HU05** | Registrar Maquinaria Asignada al Proyecto | Como Supervisor de Obra, quiero registrar maquinaria asignada al proyecto, para gestionar su disponibilidad y evitar retrasos. |  **2** |
+|  **6** |  **HU06** |   Registro de trabajadores | Como supervisor de obra, quiero registrar a los trabajadores con sus datos personales, cargo y especialidad, para tener un control ordenado y centralizado del personal en cada proyecto. |  **3** |
+|  **7** |  **HU07** |  Asignación de tareas y roles | Como supervisor de obra, quiero asignar tareas específicas y roles a cada trabajador dentro de una obra, para saber sus responsabilidades diarias en una lista de trabajadores. |  **3** |
+|  **8** |  **HU08** |  Control de Asistencia | Como supervisor de obra, quiero llevar el control de asistencia diaria de los trabajadores en obra, para contar con un registro confiable que respalde pagos y evaluaciones. |  **5** |
+|  **9** |  **HU 09** |  Ingresar un Nuevo Proyecto | Como Supervisor de Obra, quiero ingresar un nuevo proyecto, para planificar y gestionar todas las actividades relacionadas con la obra. |  **3** |
+|  **10** |  **HU10** |   Lista de trabajadores por obra | Como supervisor de obra, quiero ver una lista de todos los trabajadores asignados a cada obra, para saber rápidamente quién está trabajando en cada proyecto y que roles o tareas cumplen. |  **3** |
+|  **11** |  **HU11** |  Ver descripción de ArquiTech | Como contratante de empresa privada, quiero leer una descripción clara de ArquiTech para entender sus beneficios.  |  **1** |
+|  **12** |  **HU12** | Contactar al equipo de ArquiTech para contratar el servicio | Como supervisor de obra, quiero contactarme con el equipo de ArquiTech para poder tener más información y contratar el servicio. |  **3** |
+|  **13** |  **HU13** |  Explorar beneficios | Como supervisor de obra, quiero explorar los beneficios de ArquiTech en la landing page, para entender cómo puede ayudarme a gestionar mejor mis proyectos y ahorrar tiempo. |  **1** |
+|  **14** |  **HU14** | Observar los medios oficiales de comunicación directa con ArquiTech | Como supervisor de obra, quiero contactarme con el equipo directamente para realizar consultas sobre los beneficios u otras dudas que me surjan. |  **1** |
+|  **15** |  **HU15** | Visitar las redes sociales de ArquiTech | Como supervisor de obra, quiero visitar las redes sociales de ArquiTech para poder observar las opiniones de otros usuarios y más información de la empresa. |  **1** |
+|  **16** |  **HU16** |  Editar información de perfil | Como usuario de la plataforma, quiero poder editar mi información personal (nombre, correo, cargo),para mantener mis datos actualizados en el sistema. |  **2** |
+|  **17** |  **HU17** |  Cambiar foto de perfil | Como usuario registrado, quiero subir o cambiar mi foto de perfil, para personalizar mi cuenta y facilitar la identificación. |  **1** |
+| **18** | **HU18** | Cambiar contraseña | Como usuario autenticado, quiero cambiar mi contraseña de acceso, para mantener segura mi cuenta. | **2** |
+|  **19** |  **HU19** |  Configurar notificaciones | Como usuario administrador, quiero configurar mis preferencias de notificación (correo, SMS, alertas in-app), para recibir los avisos más importantes por los medios que prefiera |  **2** |
+|  **20** |  **HU20** |  Generar reporte diario de avance | Permite al Supervisor de Obra registrar de forma estructurada el avance del día, incluyendo actividades realizadas, asistencia del personal y materiales utilizados. |  **3** |
+|  **21** |  **HU 21** |  Visualizar reportes semanales |  Permite al Gerente de Obra acceder a un resumen semanal consolidado con gráficos y métricas del proyecto, para monitorear el desempeño general. |  **3** |
+|  **22** |  **HU22** |  Recibir notificación de nuevo reporte | Envía una notificación (push o por correo) automáticamente al contratante o gerente cada vez que se genere un nuevo reporte, facilitando el seguimiento oportuno. |  **2** |
+|  **23** |  **HU23** | Agregar evidencias fotográficas a los reportes | Permite al Supervisor adjuntar imágenes al reporte diario como respaldo visual del avance, incidentes o condiciones de la obra. |  **5** |
+|  **24** |  **HU24** | Seleccionar obra específica para ver sus reportes | Permite a usuarios que gestionan múltiples obras filtrar los reportes por proyecto, mostrando solo los relacionados con la obra seleccionada. |  **2** |
+|  **25** |  **HU25** |  Visualizar Lista de Proyectos | Como Supervisor de Obra, quiero visualizar una lista de mis proyectos, para tener un panorama claro de todas mis obras activas.  |  **3** |
+
+Adicionalmente, para llevar a cabo el manejo del product backlog, decidimos usar la herramienta virtual “Jira”.  
+**Figura**   
+*Product Backlog de ArquiTech*
+
+<p align="center">
+  <img src="images/ProductBacklog.png" alt="PB" width="1000">
+</p>
+
+
+*Nota.* Elaboración propia. Obtenido de [https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible\&atlOrigin=eyJpIjoiMDI2MjcyMjE2OTc5NDY4ZWJkOGI0MWVlOTFmMGRhZWMiLCJwIjoiaiJ9](https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible&atlOrigin=eyJpIjoiMDI2MjcyMjE2OTc5NDY4ZWJkOGI0MWVlOTFmMGRhZWMiLCJwIjoiaiJ9)   
+
 
 <hr>
 
@@ -1066,7 +1260,200 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 
 ### 4.7.1. Class Diagrams
 
+<p align="center">
+  <img src="images/Arquitech - Class diagram.png" alt="PB" width="1000">
+</p>
+
+
 ### 4.7.2. Class Dictionary
+
+* A continuación, se dará una descripción de las clases del proyecto mostradas en el diagrama de clases, de igual manera sus atributos y métodos.   
+  * **Clase “User”:** Representa a los usuarios del sistema (Supervisores, contratantes y desarrolladores) que interactúan con la plataforma para gestionar proyectos, recibir notificaciones o acceder a la API.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| userId | int | Identificador único del usuario, clave primaria |
+| email | string | Correo electrónico único para autenticación |
+| password | string | Contraseña cifrada para acceso seguro |
+| name | string | Nombre completo del usuario |
+| role | enum (Supervisor, Contratante y Developer) | Rol que define permisos |
+| createdAt | datetime | Fecha y hora de creación del usuario |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| User(email: string, password: string, name: string, role: enum) | \- | Crea un nuevo usuario inicializando su email, contraseña, nombre y rol; userId y createdAt se generan automáticamente) |
+| authenticate(email: string, password: string) | bool | Verifica credenciales y retorna verdadero si son válidas |
+| updateProfile(name: string, email: string) | void | Actualiza el nombre y correo del usuario |
+
+  *   
+  * **Clase “Project”:** Modela un proyecto de construcción, centralizando la gestión de inventario, trabajadores, documentos y reportes.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| projectId | int | Identificador único del proyecto, clave primaria |
+| name | string | Nombre descriptivo del proyecto |
+| startDate | datetime | Fecha de inicio del proyecto |
+| endDate | datetime | Fecha estimada de finalización |
+| budget | float | Presupuesto asignado al proyecto |
+| status | enum(Active, Completed, Paused) | Estado actual del proyecto |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Project(name: string, startDate: datetime, budget: float, status: enum) | \- | Crea un nuevo proyecto con nombre, fecha de inicio, presupuesto y estado inicial; projectId y endDate se ajustan posteriormente |
+| createProject(name: string, dates: datetime, budget: float) | Project | Crea un nuevo proyecto con los datos proporcionados |
+| updateStatus(status: enum) | void | Actualiza el estado del proyecto |
+| getProgress() | float | Calcula y retorna el porcentaje de avance del proyecto |
+
+  *   
+  * **Clase “Report”:** Genera y gestiona reportes operativos (diarios, semanales, personalizados) con métricas de proyectos.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| reportId | int | Identificador único del reporte, clave primaria |
+| projectId | int | Clave foránea que vincula al proyecto |
+| type | enum {Daily, Weekly, Custom} | Tipo de reporte |
+| generatedDate | datetime | Fecha de generación |
+| metrics | List\<string\> | Métricas incluidas |
+| filePath | string | Ruta del archivo exportado |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Report(projectId: int, type: enum, metrics: List\<string\>) | \- | Crea un reporte vinculado a un proyecto, con tipo y métricas iniciales; reportId, generatedDate y filePath se generan después |
+| generateReport(metrics: List\<string\>) | Report | Crea un reporte con las métricas seleccionadas |
+| exportReport(format: string) | File | Exporta el reporte en el formato especificado |
+| shareReport(recipient: string) | void | Comparte el reporte con un destinatario |
+| scheduleReport(frequency: string) | void | Programa reportes automáticos |
+
+  *   
+  * **Clase “Inventory”:** Gestiona el inventario de materiales de un proyecto, permitiendo registrar entradas, usos y alertas de bajo nivel.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| inventoryId | int | Identificador único del inventario, clave primaria |
+| projectId | int | Clave foránea que vincula al proyecto |
+| materialName | string | Nombre del material |
+| quantity | float | Cantidad actual en stock |
+| minLevel | float | Nivel mínimo para generar alertas |
+| lastUpdated | datetime | Fecha y hora de la última actualización |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Inventory(projectId: int, materialName: string, quantity: float, minLevel: float) | \- | Crea un registro de inventario vinculado a un proyecto, con nombre de material, cantidad inicial y nivel mínimo; inventoryId y lastUpdated se generan automáticamente |
+| addMaterial(quantity: float, supplier: string) | void | Registra una entrada de material |
+| useMaterial(quantity: float) | void | Registra el uso de material, reduciendo el stock |
+| checkLowLevel() | bool | Verifica si el stock está por debajo del nivel mínimo |
+| getHistory() | List\<InventoryTransaction\> | Retorna el historial de transacciones |
+
+  *   
+  * **Clase “InventoryTransaction”:** Registra transacciones de entrada o uso de materiales para auditoría y seguimiento.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| transactionId | int | Identificador único de la transacción, clave primaria |
+| inventoryId | int | Clave foránea que vincula al inventario |
+| type | enum{Entry, Usage} | Tipo de transacción |
+| quantity | float | Cantidad involucrada en la transacción |
+| supplier | string | Proveedor, si es una entrada |
+| timestamp | datetime | Fecha y hora de la transacción |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| InventoryTransaction(inventoryId: int, type: enum, quantity: float, supplier: string) | \- | Crea una transacción vinculada a un inventario, con tipo, cantidad y proveedor; transactionId y timestamp se generan automáticamente |
+| recordTransaction(type: enum, quantity: float) | void | Registra una nueva transacción |
+
+  *   
+  * **Clase “Worker”:** Representa a los obreros asignados a un proyecto, gestionando su información y asistencia.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| workerId | int | Identificador único del obrero, clave primaria |
+| projectId | int | Clave foránea que vincula al proyecto |
+| name | string | Nombre del obrero |
+| role | string | Rol o especialidad |
+| hireDate | datetime | Fecha de contratación |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Worker(projectId: int, name: string, role: string, hireDate: datetime) | \- | Crea un obrero vinculado a un proyecto, con nombre, rol y fecha de contratación; workerId se genera automáticamente |
+| assignToProject(projectId: int) | void | Asigna el obrero a un proyecto |
+| AttendanceHistory() | List\<Attendance\> | Retorna el historial de asistencia |
+
+  *   
+  * **Clase “Attendance”:** Registra la asistencia diaria de los obreros, incluyendo entradas y salidas.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| attendanceId | int | Identificador único del registro, clave primaria |
+| workerId | int | Clave foránea que vincula al obrero |
+| date | datetime | Fecha del registro |
+| checkInTime | datetime | Hora de entrada |
+| checkOutTime | datetime | Hora de salida |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Attendance(workerId: int, date: datetime, checkInTime: datetime) | \- | Crea un registro de asistencia para un obrero, con fecha y hora de entrada; attendanceId y checkOutTime se ajustan después |
+| recordCheckIn() | void | Registra la hora de entrada |
+| recordCheckOut() | void | Registra la hora de salida |
+| correctAttendance(time: datetime) | void | Corrige un registro de entrada o salida |
+
+  *   
+  * **Clase “Document”:** Gestiona documentos de un proyecto (licencias, permisos), incluyendo su estado y vencimientos.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| documentId | int | Identificador único del documento, clave primaria |
+| projectId | int | Clave foránea que vincula al proyecto |
+| name | string | Nombre del documento |
+| type | enum {License, Permit, Other} | Tipo de documento |
+| filePath | string | Ruta del archivo en el sistema |
+| expiryDate | datetime | Fecha de vencimiento, si aplica |
+| status | enum {Pending, Approved, Expired} | Estado del documento |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Document(projectId: int, name: string, type: enum, filePath: string, status: enum) | \- | Crea un documento vinculado a un proyecto, con nombre, tipo, ruta y estado; documentId y expiryDate se ajustan después |
+| uploadDocument(file: File) | void | Sube un nuevo documento |
+| updateStatus(status: enum) | void | Actualiza el estado del documento |
+| checkExpiry() | bool | Verifica si el documento está próximo a vencer |
+
+  *   
+  * **Clase “Notification”:** Gestiona notificaciones automáticas para alertar a los usuarios sobre eventos críticos (bajo inventario, ausencias, vencimientos).
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| notificationId | int | Identificador único de la notificación, clave primaria |
+| userId | int | Clave foránea que vincula al usuario |
+| type | enum {LowInventory, Absence, DocumentExpiry, Other} | Tipo de notificación |
+| message | string | Contenido de la notificación |
+| timestamp | datetime | Fecha y hora de la notificación |
+| isRead | bool | Indica si la notificación ha sido leída |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Notification(userId: int, type: enum, message: string | \- | Crea una notificación para un usuario, con tipo y mensaje; notificationId, timestamp e isRead se ajustan después |
+| sendNotification(message: string) | void | Envía una notificación al usuario |
+| markAsRead() | void | Marca la notificación como leída |
+
+  * 
+
 
 ## 4.8. Database Design
 
@@ -1142,7 +1529,10 @@ En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figm
 
 *Nota.* Obtenido de: [https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8](https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8) 
 
-### ***5.1.2. Source Code Management. (Paula)***
+
+
+### 5.1.2. Source Code Management
+
 
 Para poder llevar un mejor control del código de la aplicación y trabajar grupalmente, usaremos la plataforma “GitHub”. De esta manera, podremos observar y realizar modificaciones a los commits hechos por los integrantes del equipo.  
 Hemos creado los siguientes cuatro repositorios en nuestra organización, cada uno para un producto distinto:
@@ -1242,11 +1632,171 @@ Los mensajes de los commits seguirán la especificación de Conventional Commits
 
 
 
-### 5.1.2. Source Code Management
-
 ### 5.1.3. Source Code Style Guide & Conventions
 
+En esta sección, detallaremos las convenciones y guías de estilo adoptadas para los lenguajes utilizados en el proyecto: **HTML**, **CSS**, **JavaScript**, **TypeScript** y **Java**. Todas las nomenclaturas se realizarán en inglés, siguiendo estándares ampliamente reconocidos para garantizar consistencia, legibilidad y mantenimiento del código. Las guías de referencia adoptadas son estándares de la industria, incluyendo las recomendaciones de W3Schools, Google, Angular, Spring Boot y SpecFlow (para Gherkin). A continuación, se describen las convenciones para cada lenguaje.
+
+**HTML:**
+
+Se seguirán las recomendaciones de la guía ["HTML Style Guide and Coding Conventions"](https://www.w3schools.com/html/html5_syntax.asp) de W3Schools y la ["Google HTML/CSS Style Guide"](https://google.github.io/styleguide/htmlcssguide.html). Las principales convenciones son:  
+**Sintaxis**: Usar HTML5 con DOCTYPE \<\!DOCTYPE html\>.
+
+**Nomenclatura**:
+
+* Nombres de archivos en minúsculas, con guiones para separar palabras (e.g., index-page.html).  
+  * Atributos y etiquetas en minúsculas (e.g., \<div id="main-content"\>).
+
+  **Formato**:
+
+  * Indentar con 2 espacios para anidamiento.  
+  * Evitar líneas excesivamente largas (máximo 80 caracteres).  
+  * Usar comillas dobles para valores de atributos (e.g., class="container").
+
+  **Buenas prácticas**:
+
+  * Incluir atributo alt en etiquetas \<img\> para accesibilidad.  
+  * Usar etiquetas semánticas (\<header\>, \<footer\>, \<article\>, etc.).  
+  * Evitar estilos en línea; usar CSS externo.
+
+**CSS:**
+
+Se adoptará la ["Google HTML/CSS Style Guide"](https://google.github.io/styleguide/htmlcssguide.html) para CSS. Las convenciones incluyen:  
+**Nomenclatura**:
+
+* Clases en minúsculas, separadas por guiones (e.g., button-primary, main-container).  
+  * Evitar IDs para estilos, priorizar clases.
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Agrupar propiedades por categoría (e.g., posicionamiento, display, tipografía).  
+  * Usar notación abreviada cuando sea posible (e.g., margin: 10px 20px en lugar de especificar cada lado).
+
+  **Buenas prácticas**:
+
+  * Usar unidades relativas (rem, vw, %) en lugar de absolutas (px) cuando sea adecuado.  
+  * Evitar \!important salvo casos excepcionales.  
+  * Organizar archivos CSS por módulos o componentes.
+
+**JavaScript:**
+
+Para JavaScript, se seguirán las prácticas recomendadas por la ["Google TypeScript Style Guide"](https://google.github.io/styleguide/tsguide.html) adaptadas a JavaScript, dado que comparten similitudes. Las convenciones son:  
+**Nomenclatura**:
+
+* Variables y funciones en camelCase (e.g., userProfile).  
+  * Constantes en UPPER\_SNAKE\_CASE (e.g., MAX\_PROJECTS).  
+  * Clases en PascalCase (e.g., UserService).
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Usar comillas simples (') para cadenas de texto.  
+  * Terminar declaraciones con punto y coma (;).
+
+  **Buenas prácticas**:
+
+  * Usar const por defecto, let solo si es necesario reasignar, evitar var.  
+  * Preferir funciones de flecha para callbacks (() \=\> {}) y funciones tradicionales para métodos (function name() {}).  
+  * Incluir comentarios JSDoc para funciones públicas.
+
+**TypeScript:**
+
+Se adoptará la ["Google TypeScript Style Guide"](https://google.github.io/styleguide/tsguide.html) y la ["Angular Coding Style Guide"](https://angular.io/guide/styleguide) para proyectos con Angular. Las convenciones incluyen:  
+**Nomenclatura**:
+
+* Igual que JavaScript: camelCase para variables y funciones, PascalCase para clases e interfaces (e.g., UserInterface, AuthService).  
+  * Interfaces con prefijo I solo si es necesario para claridad (e.g., IUser).
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Usar tipos explícitos para parámetros y retornos de funciones.  
+  * Evitar any salvo en casos excepcionales.
+
+  **Buenas prácticas** (específicas para Angular):
+
+  * Usar sufijos para componentes (Component), servicios (Service), etc..  
+  * Organizar módulos Angular por funcionalidad (e.g., auth.module.ts).  
+  * Usar decoradores Angular de forma consistente (e.g., @Input, @Output).
+
+**Java:**
+
+Para Java, se seguirá la ["Google Java Style Guide"](https://google.github.io/styleguide/javaguide.html) y las recomendaciones de ["Spring Boot Features"](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html). Las convenciones son:  
+**Nomenclatura**:
+
+* Clases en PascalCase.  
+  * Métodos y variables en camelCase.  
+  * Constantes en UPPER\_SNAKE\_CASE.
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Líneas de máximo 100 caracteres.  
+  * Usar llaves {} para todos los bloques, incluso si son de una sola línea.
+
+  **Buenas prácticas** (específicas para Spring Boot):
+
+  * Usar anotaciones Spring de forma clara.  
+  * Estructurar proyectos con paquetes por funcionalidad (e.g., com.example.service).  
+  * Implementar manejo de excepciones centralizado con @ControllerAdvice.
+
+**Gherkin (para especificaciones):**
+
+Aunque Gherkin no es un lenguaje de programación, se utilizará para escribir pruebas de aceptación en un formato legible, siguiendo las ["Gherkin Conventions for Readable Specifications"](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/). Las convenciones son:  
+**Nomenclatura**:
+
+* Escenarios en inglés, con títulos descriptivos en tercera persona (e.g., User logs in with valid credentials).  
+  * Usar palabras clave de Gherkin (Given, When, Then) de forma consistente.
+
+  **Formato**:
+
+  * Escribir pasos claros y concisos.  
+  * Usar tablas para datos estructurados.
+
+  **Buenas prácticas**:
+
+  * Evitar detalles técnicos en los pasos; centrarse en el comportamiento.  
+  * Reutilizar pasos comunes para mantener especificaciones DRY (Don't Repeat Yourself).
+
+Todas las convenciones detalladas en esta sección, nos garantizan un código limpio, consistente y alineado con estándares de la industria, facilitando la colaboración y el mantenimiento del proyecto.  
+
+
 ### 5.1.4. Software Deployment Configuration
+
+Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
+
+1. **Registro en GitHub**  
+    Creamos una cuenta en GitHub para poder gestionar nuestros repositorios.  
+2. **Creación del repositorio**  
+   * Hicimos clic en el botón "New" para generar un nuevo repositorio.  
+   * Le asignamos el nombre “ArquiTech\_LandingPage”  
+3. **Configuración del repositorio**  
+   * Nos aseguramos de que el repositorio sea de acceso público.  
+4. **Carga de los archivos de la landing page**  
+   * Accedimos al repositorio creado.  
+   * Seleccionamos la opción "Upload files" y subimos todos los archivos correspondientes a nuestra landing page.  
+   * Finalmente, confirmamos la acción con "Commit changes" para guardar los archivos.  
+5. **Activación de GitHub Pages**  
+   * Entramos a la sección "Settings" del repositorio.  
+   * Nos desplazamos hasta encontrar el apartado "GitHub Pages".  
+   * Elegimos la rama “develop” y guardamos los cambios con "Save".
+
+**Figura**  
+*Explicación del paso 5*
+<p align="center">
+  <img src="images/Deployment_paso5.png" alt="PB" width="1000">
+</p>
+
+*Nota.* Elaboración propia.
+
+6. **Verificación del sitio web**  
+   En pocos minutos, el sitio se publica en la siguiente dirección: [https://osfoundex.github.io/ArquiTech\_LandingPage/](https://osfoundex.github.io/ArquiTech_LandingPage/)   
+   Accedemos a esta URL desde el navegador para confirmar que el sitio está activo.  
+7. **Actualización del sitio**  
+   * Cuando necesitemos modificar el sitio, solo debemos actualizar los archivos y volver a subirlos siguiendo los mismos pasos.  
+   * Los cambios se verán reflejados automáticamente en línea.
+
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -1268,7 +1818,7 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 | Sprint n \- Review Summary | Revisamos nuestras business goals, discutimos sobre las user stories y dimos feedback. También revisamos los riesgos futuros que podríamos encontrar en la realización del producto. Finalmente revisamos el avance individual y grupal. |
 | Sprint n \- Retrospective Summary | Start: Debemos empezar a comunicarnos más entre nosotros Debemos planear con anticipación las tareas en grupo e individuales Stop: Dejar de esperar al último momento para culminar las tareas Continue: Hacer preguntas al product owner Hacer reuniones interdiarias para priorizar el avance  |
 | **Sprint Goal & User Stories** |  |
-| Sprint n Goal | Organizarnos como equipo, revisando las fortalezas y debilidades de cada uno |
+| Sprint n Goal | Our focus is on implementing the core functionalities of the landing page and user registration module. We believe it delivers a clear entry point and structured onboarding experience to construction SMEs and administrative staff, this will be confirmed when users are able to successfully access the platform, complete the registration process, and navigate to their project dashboard without friction. |
 | Sprint n Velocity | 3 |
 | Sum of Story Points | 7 |
 
@@ -1278,23 +1828,114 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 
 ##### 5.2.1.3. Sprint Backlog 1
 
+Para este primer sprint, nuestro objetivo principal es desarrollar el Landing Page de ArquiTech. Para esto realizamos tareas por cada historia de usuario referente a la Landing Page y las asignamos a un integrante y para tener una mejor organización del Backlog, hemos utilizado la herramienta “Jira”.  
+**Figura**  
+*Sprint 1 de ArquiTech*
+
+<p align="center">
+  <img src="images/ArquiTech_Sprint1Backlog.png" alt="PB" width="1000">
+</p>
+
+
+*Nota.* Elaboración propia. Obtenido de [https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9](https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9) 
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| HU11 | Ver descripción de ArquiTech | T1 | Crear sección de descripción de ArquiTech | Redactar y presentar una descripción clara y concisa de ArquiTech, enfocada en sus beneficios para contratantes de empresas privadas. Incluir texto breve y bien estructurado en la sección de inicio. | 2 | Sandra Luyo | Done |
+| HU12 | Contactar al equipo de ArquiTech para contratar el servicio | T1 | Crear botón para ir a sección de contacto | Añadir un botón “Contacto” en la barra superior del sitio web que, al hacer clic, desplace automáticamente la página hacia la sección de contacto. | 2 | Melisa Sulca | Done |
+|  |  | T2 | Implementar formulario de contacto funcional | Crear formulario con campos obligatorios (nombres, apellidos, email, número telefónico). Mostrar mensaje de éxito cuando se complete correctamente. | 4 | Daniela Gómez | Done |
+|  |  | T3 | Validar formulario de contacto | Programar validaciones para que el formulario no se envíe si faltan campos obligatorios o si el email no tiene un formato válido. Mostrar mensaje de error adecuado. | 3 | Daniela Gómez | InProcess |
+| HU13 | Explorar beneficios | T1 | Crear sección de beneficios | Diseñar e implementar una sección dedicada a los beneficios de ArquiTech. Incluir texto explicativo, ejemplos visuales (como capturas o íconos) | 3 | Sandra Luyo | Done |
+|  |  | T2 | Crear un botón para “Ver Más Beneficios” | Crear un botón “Ver Más Beneficios” debajo de los primeros beneficios, que se expanda y se vean más detalles. | 3 | Raúl Bellido | Done |
+| HU14 | Observar los medios oficiales de comunicación directa con ArquiTech | T1 | Añadir medios oficiales al pie de página | Incluir número telefónico y correo electrónico en el lado derecho del pie de página, debajo del título “Contáctanos”. | 2 | Ernesto Rodas | Done |
+| HU15 | Visitar las redes sociales de ArquiTech | T1 | Añadir íconos de redes sociales al pie de página | Insertar íconos visibles de las redes sociales en las que ArquiTech tiene presencia. | 2 | Ernesto Rodas | Done |
+|  |  | T2 | Habilitar enlaces hacia redes sociales | Configurar los íconos para que, al hacer clic, se abra una nueva pestaña con la red social correspondiente. | 1 | Melisa Sulca | Done |
+
+
+
 ##### 5.2.1.4. Development Evidence for Sprint Review
+
+#### 
+
+| Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| DanieGF1/ArquiTech\_LandingPage | feature/develop | 14ca4e3 | feat: Added style.css | \- | 24/04/2025 |
+| Paulu27/ArquiTech\_LandingPage | feature/develop | 124c56 | feat: Added index.html | \- | 24/04/2025 |
+| ernesto0710/ArquiTech\_LandingPage | feature/develop | 34j826 | feat: Added images | \- | 24/04/2025 |
+| raulbellidosalas/ArquiTech\_LandingPage | feature/develop | 34c56y | feat: Modified style.css | \- | 24/04/2025 |
+| MSS02204/ArquiTech\_LandingPage | feature/develop | 1h189i | feat: Modified index.html | \- | 24/04/2025 |
+
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
-##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+<p align="center">
+  <img src="images/exec-evidence.png" alt="PB" width="1000">
+</p>
 
-##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-##### 5.2.1.8. Team Collaboration Insights during Sprint
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184\_upc\_edu\_pe/EbvwyilLlUFAlVSjfsN0MVkBaJrYisaLUfiwVz2AJmBgng?e=sU6Bz0\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EbvwyilLlUFAlVSjfsN0MVkBaJrYisaLUfiwVz2AJmBgng?e=sU6Bz0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
-<hr>
+
+
+##### 5.2.1.6. Software Deployment Evidence for Sprint Review
+Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.  
+Publicamos nuestra landing page como un sitio web a través de GitHub para que sea accesible a todos nuestros usuarios. Primero, creamos una cuenta y un repositorio público con el nombre adecuado. Luego, subimos los archivos de la página, activamos GitHub Pages desde la configuración y verificamos que el sitio estuviera disponible en línea. Cuando queremos hacer cambios, simplemente actualizamos los archivos y los volvemos a subir.  
+**Figura**  
+*Evidencia de deployment 1*
+
+<p align="center">
+  <img src="images/github-pages.png" alt="PB" width="1000">
+</p>
+
+*Nota.* Elaboración propia.  
+**Figura**  
+*Evidencia de deployment 2*
+
+<p align="center">
+  <img src="images/landing-fromt.png" alt="PB" width="1000">
+</p>
+
+*Nota.* Elaboración propia.
+
+
+
+##### 5.2.1.7. Team Collaboration Insights during Sprint
+
+<p align="center">
+  <img src="images/Team Collaboration.png" alt="PB" width="1000">
+</p>
 
 ## Conclusiones
 
-<hr>
+El desarrollo de Foundex y su solución digital ArquiTech representa el esfuerzo conjunto de un equipo de jóvenes universitarios comprometidos con transformar el sector de la construcción a través de la tecnología. A lo largo del presente informe, hemos documentado detalladamente cada etapa del proceso de diseño, análisis y desarrollo del producto, partiendo desde la identificación de la problemática hasta la implementación funcional de una herramienta que permite a las pequeñas y medianas empresas constructoras gestionar eficientemente sus proyectos.
+Este proyecto integró enfoques modernos como el Lean UX y metodologías ágiles que guiaron el descubrimiento de necesidades reales del usuario, validación de hipótesis y definición clara de requerimientos. La estructuración del producto se apoyó en herramientas como user personas, escenarios “as-is” y “to-be”, user stories y backlog priorizado, permitiendo una alineación precisa con los objetivos del negocio y las expectativas del usuario final.
+El diseño de la arquitectura del software y de la base de datos, junto con las directrices de estilo, garantizaron una plataforma escalable, organizada y visualmente coherente. Asimismo, la implementación se desarrolló mediante sprints colaborativos, registrando los avances en cada fase con evidencias tangibles que reflejan el progreso y compromiso del equipo.
+
+Además, el uso del control de versiones, el manejo estructurado del código y la configuración de despliegue demuestran un enfoque profesional hacia la sostenibilidad y evolución del sistema.
+
+Foundex no solo ha logrado desarrollar una solución funcional e innovadora, sino que también ha demostrado cómo la sinergia entre diversas disciplinas y una visión estratégica bien definida pueden generar un impacto significativo. Este trabajo conjunto nos permite sentar bases sólidas para cumplir nuestra visión de convertirnos en la plataforma líder de digitalización de procesos constructivos en Perú.
+
 
 ## Bibliografía
+
+
+Angular. (s.f.). Angular coding style guide. [https://angular.io/guide/styleguide](https://angular.io/guide/styleguide)   
+Buildertrend. (s.f.). *Construction Management  Software*. Buildertrend. [Recuperado el dia 19 de abril de 2025, de](https://www.procore.com/es)  [https://buildertrend.com/](https://buildertrend.com/)  
+Buildwise. (s.f.). *Buildwise is there for you*. Buildwise \- The innovation center for the construction sector. [Recuperado el dia 19 de abril de 2025, de](https://www.procore.com/es) [https://www.buildwise.be/en/](https://www.buildwise.be/en/)  
+Conventional Commits. (s.f.). Conventional Commits v1.0.0. [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)  
+Driessen, V. (2010, January 5). A successful Git branching model. Nvie. [https://nvie.com/posts/a-successful-git-branching-model/](https://nvie.com/posts/a-successful-git-branching-model/)   
+Google. (s.f.). Google HTML/CSS style guide. [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)   
+Google. (s.f.). Google Java style guide. [https://google.github.io/styleguide/javaguide.html](https://google.github.io/styleguide/javaguide.html)   
+Google. (s.f.). Google TypeScript style guide. [https://google.github.io/styleguide/tsguide.html](https://google.github.io/styleguide/tsguide.html)   
+Procore. (s.f.). *Software de gestión de la construcción*. Procore Technologies. [Recuperado el dia 19 de abril de 2025, de https://www.procore.com/es](https://www.procore.com/es)  
+Semantic Versioning. (s.f.). Semantic Versioning 2.0.0. [https://semver.org/](https://semver.org/)   
+SpecFlow. (s.f.). Gherkin conventions for readable specifications. [https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)   
+Spring. (s.f.). Spring Boot features. [https://docs.spring.io/spring-boot/docs/current/reference/html/features.html](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html)   
+W3Schools. (s.f.). HTML style guide and coding conventions. [https://www.w3schools.com/html/html5\_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp) 
+
+
 
 <hr>
 
