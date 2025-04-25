@@ -606,6 +606,12 @@ Afirma que el uso de una herramienta como **ArquiTech** influiría fuertemente e
 
 ## 3.3. Impact Mapping
 
+<p align="center">
+
+  <img src="images/impact_mapp.JPG" alt="PB" width="1000">
+
+</p>
+
 ## 3.4. Product Backlog
 
 <hr>
@@ -741,7 +747,23 @@ Principios utilizados:
 
 ### 4.6.1. Software Architecture Context Diagrams
 
+<p align="center">
+
+
+  <img src="images/Arquitech_DiagramaContexto.png" alt="PB" width="1000">
+
+
+</p>
+
 ### 4.6.2. Software Architecture Container Diagrams
+
+<p align="center">
+
+
+
+  <img src="images/Arquitech_DiagramaContenedor.png" alt="PB" width="1000">
+
+</p>
 
 ### 4.6.3. Software Architecture Components Diagrams
 
