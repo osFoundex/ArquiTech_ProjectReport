@@ -1589,8 +1589,19 @@ Para que nuestra landing page esté disponible para todos nuestros usuarios, la 
 
 **Figura**  
 *Explicación del paso 5*
+<p align="center">
+  <img src="images/Deployment_paso5.png" alt="PB" width="1000">
+</p>
 
 *Nota.* Elaboración propia.
+
+6. **Verificación del sitio web**  
+   En pocos minutos, el sitio se publica en la siguiente dirección: [https://osfoundex.github.io/ArquiTech\_LandingPage/](https://osfoundex.github.io/ArquiTech_LandingPage/)   
+   Accedemos a esta URL desde el navegador para confirmar que el sitio está activo.  
+7. **Actualización del sitio**  
+   * Cuando necesitemos modificar el sitio, solo debemos actualizar los archivos y volver a subirlos siguiendo los mismos pasos.  
+   * Los cambios se verán reflejados automáticamente en línea.
+
 
 
 ## 5.2. Landing Page, Services & Applications Implementation
@@ -1613,7 +1624,7 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 | Sprint n \- Review Summary | Revisamos nuestras business goals, discutimos sobre las user stories y dimos feedback. También revisamos los riesgos futuros que podríamos encontrar en la realización del producto. Finalmente revisamos el avance individual y grupal. |
 | Sprint n \- Retrospective Summary | Start: Debemos empezar a comunicarnos más entre nosotros Debemos planear con anticipación las tareas en grupo e individuales Stop: Dejar de esperar al último momento para culminar las tareas Continue: Hacer preguntas al product owner Hacer reuniones interdiarias para priorizar el avance  |
 | **Sprint Goal & User Stories** |  |
-| Sprint n Goal | Organizarnos como equipo, revisando las fortalezas y debilidades de cada uno |
+| Sprint n Goal | Our focus is on implementing the core functionalities of the landing page and user registration module. We believe it delivers a clear entry point and structured onboarding experience to construction SMEs and administrative staff, this will be confirmed when users are able to successfully access the platform, complete the registration process, and navigate to their project dashboard without friction. |
 | Sprint n Velocity | 3 |
 | Sum of Story Points | 7 |
 
@@ -1622,6 +1633,33 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
 ##### 5.2.1.3. Sprint Backlog 1
+
+Para este primer sprint, nuestro objetivo principal es desarrollar el Landing Page de ArquiTech. Para esto realizamos tareas por cada historia de usuario referente a la Landing Page y las asignamos a un integrante y para tener una mejor organización del Backlog, hemos utilizado la herramienta “Jira”.  
+**Figura**  
+*Sprint 1 de ArquiTech*
+
+<p align="center">
+  <img src="images/ArquiTech_Sprint1Backlog.png" alt="PB" width="1000">
+</p>
+
+
+*Nota.* Elaboración propia. Obtenido de [https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9](https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9) 
+
+| Sprint \# | Sprint 1 |  |  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| User Story |  | Work Item/Task |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| HU11 | Ver descripción de ArquiTech | T1 | Crear sección de descripción de ArquiTech | Redactar y presentar una descripción clara y concisa de ArquiTech, enfocada en sus beneficios para contratantes de empresas privadas. Incluir texto breve y bien estructurado en la sección de inicio. | 2 | Sandra Luyo | Done |
+| HU12 | Contactar al equipo de ArquiTech para contratar el servicio | T1 | Crear botón para ir a sección de contacto | Añadir un botón “Contacto” en la barra superior del sitio web que, al hacer clic, desplace automáticamente la página hacia la sección de contacto. | 2 | Melisa Sulca | Done |
+|  |  | T2 | Implementar formulario de contacto funcional | Crear formulario con campos obligatorios (nombres, apellidos, email, número telefónico). Mostrar mensaje de éxito cuando se complete correctamente. | 4 | Daniela Gómez | Done |
+|  |  | T3 | Validar formulario de contacto | Programar validaciones para que el formulario no se envíe si faltan campos obligatorios o si el email no tiene un formato válido. Mostrar mensaje de error adecuado. | 3 | Daniela Gómez | InProcess |
+| HU13 | Explorar beneficios | T1 | Crear sección de beneficios | Diseñar e implementar una sección dedicada a los beneficios de ArquiTech. Incluir texto explicativo, ejemplos visuales (como capturas o íconos) | 3 | Sandra Luyo | Done |
+|  |  | T2 | Crear un botón para “Ver Más Beneficios” | Crear un botón “Ver Más Beneficios” debajo de los primeros beneficios, que se expanda y se vean más detalles. | 3 | Raúl Bellido | Done |
+| HU14 | Observar los medios oficiales de comunicación directa con ArquiTech | T1 | Añadir medios oficiales al pie de página | Incluir número telefónico y correo electrónico en el lado derecho del pie de página, debajo del título “Contáctanos”. | 2 | Ernesto Rodas | Done |
+| HU15 | Visitar las redes sociales de ArquiTech | T1 | Añadir íconos de redes sociales al pie de página | Insertar íconos visibles de las redes sociales en las que ArquiTech tiene presencia. | 2 | Ernesto Rodas | Done |
+|  |  | T2 | Habilitar enlaces hacia redes sociales | Configurar los íconos para que, al hacer clic, se abra una nueva pestaña con la red social correspondiente. | 1 | Melisa Sulca | Done |
+
+
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
