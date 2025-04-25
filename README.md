@@ -761,6 +761,22 @@ Principios utilizados:
 
 ### 4.2.4. Searching Systems
 
+Dentro de la plataforma ArquiTech, los sistemas de búsqueda han sido diseñados para facilitar el acceso rápido y eficiente a información crítica relacionada con la gestión de obras. La aplicación contempla un volumen significativo de datos relacionados con proyectos, documentos técnicos, solicitudes, trabajadores, insumos y cronogramas. Por ello, se proyecta la implementación de un sistema de búsqueda integral que ayude a los usuarios a evitar pérdidas de tiempo y a mantener el control operativo en todo momento.  
+El sistema permitirá a los usuarios buscar información dentro de los distintos módulos del sistema, utilizando:
+
+* Palabras clave (términos técnicos, nombres de obra, actividades específicas, materiales).  
+* Filtros por categoría (tipo de documento, fase del proyecto, tipo de solicitud, tipo de personal).  
+* Rangos de fechas (fecha de emisión, entrega, modificación o supervisión).  
+* Códigos internos asignados a solicitudes, órdenes de servicio, contratistas o áreas constructivas.
+
+Este sistema será particularmente útil para:
+
+* Ahorrar tiempo en la localización de documentos, reportes o actividades específicas, sin necesidad de navegar por múltiples módulos manualmente.  
+* Encontrar rápidamente registros relacionados con avances de obra, observaciones, solicitudes de materiales o incidencias.  
+* Apoyar la toma de decisiones sobre ejecución, control de calidad o cumplimiento de cronogramas mediante el acceso inmediato a la información registrada.
+
+Una vez realizada una búsqueda, los resultados se presentarán de forma estructurada en tablas o tarjetas, con opciones para visualizar, editar o exportar la información según los permisos del usuario.
+
 ### 4.2.5. Navigation Systems
 
 Los sistemas de navegación implementados en el proyecto ArquiTech han sido diseñados para garantizar una experiencia intuitiva, fluida y orientada a la consecución de objetivos por parte del usuario. Considerando que el público objetivo está conformado principalmente por supervisores de obra, contratistas y personal administrativo de empresas constructoras, se ha priorizado una arquitectura de navegación clara, jerárquica y adaptada al flujo natural de las actividades constructivas.
