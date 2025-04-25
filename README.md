@@ -1224,10 +1224,44 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 
 ### 4.4.1. Web Applications Wireframes.
 
+Inicio de sesion
+<p align="center">
+  <img src="images/wire1.png" alt="PB" width="500">
+</p>
+
+Perfil de usuario
+<p align="center">
+  <img src="images/wire2.png" alt="PB" width="500">
+</p>
+
+
+informacion del inventario
+<p align="center">
+  <img src="images/wire3.png" alt="PB" width="500">
+</p>
+
+
+Gestion de trabajadores
+<p align="center">
+  <img src="images/wire4.png" alt="PB" width="500">
+</p>
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups
+Gestion de Inventario
+<p align="center">
+  <img src="images/mock1.png" alt="PB" width="500">
+</p>
 
+<p align="center">
+  <img src="images/mock2.png" alt="PB" width="500">
+</p>
+
+<p align="center">
+  <img src="images/mock3.png" alt="PB" width="500">
+</p>
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
