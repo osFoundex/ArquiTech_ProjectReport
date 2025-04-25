@@ -728,6 +728,74 @@ Esta sección ofrece la estructura que va contener nuestro diseño y los element
 
 ### 4.1.1. General Style Guidelines
 
+Se presentará el diseño conceptual para la landing page como para la aplicación, realizado con el objetivo de lograr una interfaz intuitiva, fácil de usar y mostrar una experiencia estética agradable y cómoda. Se usarán 5 colores, los cuales son el Jet, Sinopia, Fulvous, Selective Yellow y Isabelline. Algunos de estos colores serán usados para el logotipo y para la landing page y la aplicación se alternará entre los 5 colores. Estos colores reflejan nuestra intención de crear un entorno visual digital para mejorar procesos de construcción. A continuación, se detallarán los elementos visuales con mayor precisión.  
+**Branding e ícono:**  
+**Figura 1**  
+*Logo*
+
+*Nota.* Elaboración Propia  
+Identidad:   
+Arquitech representa una fusión entre la construcción tradicional y la innovación tecnológica. La marca proyecta solidez, precisión y modernidad, dirigida a supervisores de obras y contratantes de pequeñas o medianas empresas privadas que valoran la optimización de procesos de las construcciones.  
+Paleta de Colores:
+
+* \#C43508 (Sinopia): Es un color intenso y cálido y transmite fuerza y energía. También refleja estabilidad ya que representa solidez y firmeza.  
+* \#DE7F1A (Fulvous): Transmite profundidad, energía y dinamismo.  
+* \#FFB627 (Selective yellow): Aporta energía, innovación y enfoque en soluciones.  
+* \#F8F5F1 (Isabelline): Sirve para usarlo como fondo ya que aporta neutralidad, elegancia y contraste.  
+* \#2F2E2D (Jet): Representa seriedad, profesionalismo y sobriedad.
+
+Simbolismo:
+
+* Casco de construcción: Evidencia seguridad, ingeniería y trabajo profesional..  
+* Engranaje: Representa tecnología, precisión, procesos y avance constante.  
+* El combinar ambos iconos refuerza la idea de una startup que construye con inteligencia y eficiencia e integra lo físico con lo digital para optimizar procesos de construcción. 
+
+Mensaje de la marca:
+
+* Optimización y eficiencia: Comunica simplicidad y que la startup busca mejorar los procesos constructivos desde la planificación hasta la ejecución, busca eliminar lo innecesario,  maximizar recursos y entregar soluciones inteligentes y funcionales.  
+* Precisión y confiabilidad: El logo refleja solidez y confianza que Arquitech le brindará a sus clientes. Además, refleja seguridad, calidad y resultados duraderos.  
+* Claridad visual y profesionalismo: Representa lo funcional, lo directo y profesional. También, refuerza la idea de una empresa seria, accesible y alineada con las necesidades de la industria actualmente.
+
+Aplicación del branding:
+
+* Sitios web (landing page) y app: Interfaz limpia con los colores corporativos, iconos vectoriales y navegación intuitiva.  
+* Redes sociales y presentaciones digitales: Plantillas visualmente coherentes con el mensaje de la startup.  
+* Identidad visual corporativa: Uso estratégico del logo y la paleta de colores en material gráfico de la startup como las tarjetas de presentación, presentaciones empresariales, o imagen de perfil en aplicaciones de chats para contactar clientes. 
+
+**Tipografía:**  
+La tipografía de Arquitech cumple un importante rol en la expresión de la identidad de nuestra marca y brinda una sensación de claridad visual, calidez, acompañamiento para nuestros usuarios. Nuestra empresa eligió una fuente tipográfica que combina lo amigable y lo fluido, asegurando al usuario comodidad y nitidez en la landing page y en la aplicación.  
+**Tipografía del Logo y Títulos**  
+El logo de Arquitech que se eligió comunica claridad con varios valores clave como el profesionalismo y técnica, por lo que se ha utilizado la tipografía Anton Regular que pertenece a la Anton Font Family. Esta tipografía transmite un aspecto fuerte y serio, lo cual es ideal para una empresa de construcción que busca mejorar los procesos de las obras. Además, las letras son altas y gruesas, lo que da buena visibilidad al nombre de la empresa en el logo y en los títulos. Cabe agregar, que tiene un aire moderno, pero sin dejar de ser profesional.  
+**Figura 2**
+
+	Nota. Obtenido de: [https://www.dafontfree.io/download/anton-font/\#google\_vignette](https://www.dafontfree.io/download/anton-font/#google_vignette)   
+**Tipografía de Texto Regular**  
+Para el texto de la landing page y la aplicación se ha elegido la tipografía Futura que pertenece a Futura Font Family con el objetivo de que el usuario pueda obtener una cómoda y agradable lectura al visitar nuestras plataformas digitales. Además, esta tipografía representa modernidad, minimalismo, profesionalismo y seriedad. Aquello ayuda a la marca a representar tecnicismo, precisión y avances.  
+**Figura 3**
+
+	*Nota.* Obtenido de: [https://www.dafontfree.io/download/futura/](https://www.dafontfree.io/download/futura/)   
+**Colores**  
+Es importante elegir los colores para las plataformas digitales  adecuadamente, ya que así se asegura que la experiencia del usuario sea placentera y agradable. Por ello, nos aseguramos que la paleta de colores seleccionada de Arquitech refleje la esencia de la startup en la landing page y en nuestra aplicación.  
+**Figura 4**
+
+*Nota.* Elaboración Propia  
+	       
+**Espaciado**
+
+* **Interlineado:** 140%-160% para que los textos sean legibles.  
+* **Padding en botones** Mínimo 12px vertical x 24px horizontal para accesibilidad táctil a nuestros usuarios.  
+* **Margen entre secciones:** 34px-64px para mantener un aire visual a los usuarios.  
+* **Grid base:** Utilizar un grid de 8px para dar consistencia.
+
+Esto transmite un espaciado limpio y estructurado, ya que se aprecia un orden, claridad y refleja la misión de Arquitech  de optimizar procesos, pero en lo visual.   
+**Tono de Comunicación y Lenguaje Aplicado**  
+El tono de Arquitech es profesional, preciso, eficiente, tecnológico y accesible y confiable, diseñado para generar confianza, demostrando experiencia en el rubro de la construcción sin recurrir a un lenguaje complicado o inaccesible para nuestros usuarios.  
+Arquitech acompaña a los clientes desde el inicio hasta el final del proceso constructivo, comunicando con claridad cómo la innovación tecnológica y la eficiencia operativa pueden realizar la diferencia en cada obra.  
+El lenguaje se mantiene preciso y funcional, priorizando la acción. Se evita el exceso de tecnicismos y apuesta por una forma de comunicar que cualquiera dentro del sector pueda entender con facilidad.   
+El estilo comunicativo está alineado con los principios de Arquitech que es innovar, optimizar y liderar.		
+
+
+
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
