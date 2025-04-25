@@ -303,6 +303,11 @@ Nuestro producto encaja al momento de iniciar la supervisión de un aspecto del 
 
 #### 1.2.2.4. Lean UX Canvas
 
+<p align="center">
+  <img src="images/ux-canvas.png" alt="PB" width="1000">
+</p>
+
+
 ## 1.3. Segmentos Objetivos
 <div style='text-align: justify;'>
 **Segmento objetivo \#1: Supervisores de obra**
