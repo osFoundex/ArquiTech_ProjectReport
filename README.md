@@ -1066,7 +1066,200 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 
 ### 4.7.1. Class Diagrams
 
+<p align="center">
+  <img src="images/Arquitech - Class diagram.png" alt="PB" width="1000">
+</p>
+
+
 ### 4.7.2. Class Dictionary
+
+* A continuación, se dará una descripción de las clases del proyecto mostradas en el diagrama de clases, de igual manera sus atributos y métodos.   
+  * **Clase “User”:** Representa a los usuarios del sistema (Supervisores, contratantes y desarrolladores) que interactúan con la plataforma para gestionar proyectos, recibir notificaciones o acceder a la API.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| userId | int | Identificador único del usuario, clave primaria |
+| email | string | Correo electrónico único para autenticación |
+| password | string | Contraseña cifrada para acceso seguro |
+| name | string | Nombre completo del usuario |
+| role | enum (Supervisor, Contratante y Developer) | Rol que define permisos |
+| createdAt | datetime | Fecha y hora de creación del usuario |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| User(email: string, password: string, name: string, role: enum) | \- | Crea un nuevo usuario inicializando su email, contraseña, nombre y rol; userId y createdAt se generan automáticamente) |
+| authenticate(email: string, password: string) | bool | Verifica credenciales y retorna verdadero si son válidas |
+| updateProfile(name: string, email: string) | void | Actualiza el nombre y correo del usuario |
+
+  *   
+  * **Clase “Project”:** Modela un proyecto de construcción, centralizando la gestión de inventario, trabajadores, documentos y reportes.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| projectId | int | Identificador único del proyecto, clave primaria |
+| name | string | Nombre descriptivo del proyecto |
+| startDate | datetime | Fecha de inicio del proyecto |
+| endDate | datetime | Fecha estimada de finalización |
+| budget | float | Presupuesto asignado al proyecto |
+| status | enum(Active, Completed, Paused) | Estado actual del proyecto |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Project(name: string, startDate: datetime, budget: float, status: enum) | \- | Crea un nuevo proyecto con nombre, fecha de inicio, presupuesto y estado inicial; projectId y endDate se ajustan posteriormente |
+| createProject(name: string, dates: datetime, budget: float) | Project | Crea un nuevo proyecto con los datos proporcionados |
+| updateStatus(status: enum) | void | Actualiza el estado del proyecto |
+| getProgress() | float | Calcula y retorna el porcentaje de avance del proyecto |
+
+  *   
+  * **Clase “Report”:** Genera y gestiona reportes operativos (diarios, semanales, personalizados) con métricas de proyectos.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| reportId | int | Identificador único del reporte, clave primaria |
+| projectId | int | Clave foránea que vincula al proyecto |
+| type | enum {Daily, Weekly, Custom} | Tipo de reporte |
+| generatedDate | datetime | Fecha de generación |
+| metrics | List\<string\> | Métricas incluidas |
+| filePath | string | Ruta del archivo exportado |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Report(projectId: int, type: enum, metrics: List\<string\>) | \- | Crea un reporte vinculado a un proyecto, con tipo y métricas iniciales; reportId, generatedDate y filePath se generan después |
+| generateReport(metrics: List\<string\>) | Report | Crea un reporte con las métricas seleccionadas |
+| exportReport(format: string) | File | Exporta el reporte en el formato especificado |
+| shareReport(recipient: string) | void | Comparte el reporte con un destinatario |
+| scheduleReport(frequency: string) | void | Programa reportes automáticos |
+
+  *   
+  * **Clase “Inventory”:** Gestiona el inventario de materiales de un proyecto, permitiendo registrar entradas, usos y alertas de bajo nivel.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| inventoryId | int | Identificador único del inventario, clave primaria |
+| projectId | int | Clave foránea que vincula al proyecto |
+| materialName | string | Nombre del material |
+| quantity | float | Cantidad actual en stock |
+| minLevel | float | Nivel mínimo para generar alertas |
+| lastUpdated | datetime | Fecha y hora de la última actualización |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Inventory(projectId: int, materialName: string, quantity: float, minLevel: float) | \- | Crea un registro de inventario vinculado a un proyecto, con nombre de material, cantidad inicial y nivel mínimo; inventoryId y lastUpdated se generan automáticamente |
+| addMaterial(quantity: float, supplier: string) | void | Registra una entrada de material |
+| useMaterial(quantity: float) | void | Registra el uso de material, reduciendo el stock |
+| checkLowLevel() | bool | Verifica si el stock está por debajo del nivel mínimo |
+| getHistory() | List\<InventoryTransaction\> | Retorna el historial de transacciones |
+
+  *   
+  * **Clase “InventoryTransaction”:** Registra transacciones de entrada o uso de materiales para auditoría y seguimiento.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| transactionId | int | Identificador único de la transacción, clave primaria |
+| inventoryId | int | Clave foránea que vincula al inventario |
+| type | enum{Entry, Usage} | Tipo de transacción |
+| quantity | float | Cantidad involucrada en la transacción |
+| supplier | string | Proveedor, si es una entrada |
+| timestamp | datetime | Fecha y hora de la transacción |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| InventoryTransaction(inventoryId: int, type: enum, quantity: float, supplier: string) | \- | Crea una transacción vinculada a un inventario, con tipo, cantidad y proveedor; transactionId y timestamp se generan automáticamente |
+| recordTransaction(type: enum, quantity: float) | void | Registra una nueva transacción |
+
+  *   
+  * **Clase “Worker”:** Representa a los obreros asignados a un proyecto, gestionando su información y asistencia.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| workerId | int | Identificador único del obrero, clave primaria |
+| projectId | int | Clave foránea que vincula al proyecto |
+| name | string | Nombre del obrero |
+| role | string | Rol o especialidad |
+| hireDate | datetime | Fecha de contratación |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Worker(projectId: int, name: string, role: string, hireDate: datetime) | \- | Crea un obrero vinculado a un proyecto, con nombre, rol y fecha de contratación; workerId se genera automáticamente |
+| assignToProject(projectId: int) | void | Asigna el obrero a un proyecto |
+| AttendanceHistory() | List\<Attendance\> | Retorna el historial de asistencia |
+
+  *   
+  * **Clase “Attendance”:** Registra la asistencia diaria de los obreros, incluyendo entradas y salidas.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| attendanceId | int | Identificador único del registro, clave primaria |
+| workerId | int | Clave foránea que vincula al obrero |
+| date | datetime | Fecha del registro |
+| checkInTime | datetime | Hora de entrada |
+| checkOutTime | datetime | Hora de salida |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Attendance(workerId: int, date: datetime, checkInTime: datetime) | \- | Crea un registro de asistencia para un obrero, con fecha y hora de entrada; attendanceId y checkOutTime se ajustan después |
+| recordCheckIn() | void | Registra la hora de entrada |
+| recordCheckOut() | void | Registra la hora de salida |
+| correctAttendance(time: datetime) | void | Corrige un registro de entrada o salida |
+
+  *   
+  * **Clase “Document”:** Gestiona documentos de un proyecto (licencias, permisos), incluyendo su estado y vencimientos.
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| documentId | int | Identificador único del documento, clave primaria |
+| projectId | int | Clave foránea que vincula al proyecto |
+| name | string | Nombre del documento |
+| type | enum {License, Permit, Other} | Tipo de documento |
+| filePath | string | Ruta del archivo en el sistema |
+| expiryDate | datetime | Fecha de vencimiento, si aplica |
+| status | enum {Pending, Approved, Expired} | Estado del documento |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Document(projectId: int, name: string, type: enum, filePath: string, status: enum) | \- | Crea un documento vinculado a un proyecto, con nombre, tipo, ruta y estado; documentId y expiryDate se ajustan después |
+| uploadDocument(file: File) | void | Sube un nuevo documento |
+| updateStatus(status: enum) | void | Actualiza el estado del documento |
+| checkExpiry() | bool | Verifica si el documento está próximo a vencer |
+
+  *   
+  * **Clase “Notification”:** Gestiona notificaciones automáticas para alertar a los usuarios sobre eventos críticos (bajo inventario, ausencias, vencimientos).
+
+| Atributo | Tipo | Descripción |
+| ----- | :---: | ----- |
+| notificationId | int | Identificador único de la notificación, clave primaria |
+| userId | int | Clave foránea que vincula al usuario |
+| type | enum {LowInventory, Absence, DocumentExpiry, Other} | Tipo de notificación |
+| message | string | Contenido de la notificación |
+| timestamp | datetime | Fecha y hora de la notificación |
+| isRead | bool | Indica si la notificación ha sido leída |
+
+  * 
+
+| Método | Tipo | Descripción |
+| ----- | :---: | ----- |
+| Notification(userId: int, type: enum, message: string | \- | Crea una notificación para un usuario, con tipo y mensaje; notificationId, timestamp e isRead se ajustan después |
+| sendNotification(message: string) | void | Envía una notificación al usuario |
+| markAsRead() | void | Marca la notificación como leída |
+
+  * 
+
 
 ## 4.8. Database Design
 
@@ -1142,7 +1335,10 @@ En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figm
 
 *Nota.* Obtenido de: [https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8](https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8) 
 
-### ***5.1.2. Source Code Management. (Paula)***
+
+
+### 5.1.2. Source Code Management
+
 
 Para poder llevar un mejor control del código de la aplicación y trabajar grupalmente, usaremos la plataforma “GitHub”. De esta manera, podremos observar y realizar modificaciones a los commits hechos por los integrantes del equipo.  
 Hemos creado los siguientes cuatro repositorios en nuestra organización, cada uno para un producto distinto:
@@ -1242,11 +1438,160 @@ Los mensajes de los commits seguirán la especificación de Conventional Commits
 
 
 
-### 5.1.2. Source Code Management
-
 ### 5.1.3. Source Code Style Guide & Conventions
 
+En esta sección, detallaremos las convenciones y guías de estilo adoptadas para los lenguajes utilizados en el proyecto: **HTML**, **CSS**, **JavaScript**, **TypeScript** y **Java**. Todas las nomenclaturas se realizarán en inglés, siguiendo estándares ampliamente reconocidos para garantizar consistencia, legibilidad y mantenimiento del código. Las guías de referencia adoptadas son estándares de la industria, incluyendo las recomendaciones de W3Schools, Google, Angular, Spring Boot y SpecFlow (para Gherkin). A continuación, se describen las convenciones para cada lenguaje.
+
+**HTML:**
+
+Se seguirán las recomendaciones de la guía ["HTML Style Guide and Coding Conventions"](https://www.w3schools.com/html/html5_syntax.asp) de W3Schools y la ["Google HTML/CSS Style Guide"](https://google.github.io/styleguide/htmlcssguide.html). Las principales convenciones son:  
+**Sintaxis**: Usar HTML5 con DOCTYPE \<\!DOCTYPE html\>.
+
+**Nomenclatura**:
+
+* Nombres de archivos en minúsculas, con guiones para separar palabras (e.g., index-page.html).  
+  * Atributos y etiquetas en minúsculas (e.g., \<div id="main-content"\>).
+
+  **Formato**:
+
+  * Indentar con 2 espacios para anidamiento.  
+  * Evitar líneas excesivamente largas (máximo 80 caracteres).  
+  * Usar comillas dobles para valores de atributos (e.g., class="container").
+
+  **Buenas prácticas**:
+
+  * Incluir atributo alt en etiquetas \<img\> para accesibilidad.  
+  * Usar etiquetas semánticas (\<header\>, \<footer\>, \<article\>, etc.).  
+  * Evitar estilos en línea; usar CSS externo.
+
+**CSS:**
+
+Se adoptará la ["Google HTML/CSS Style Guide"](https://google.github.io/styleguide/htmlcssguide.html) para CSS. Las convenciones incluyen:  
+**Nomenclatura**:
+
+* Clases en minúsculas, separadas por guiones (e.g., button-primary, main-container).  
+  * Evitar IDs para estilos, priorizar clases.
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Agrupar propiedades por categoría (e.g., posicionamiento, display, tipografía).  
+  * Usar notación abreviada cuando sea posible (e.g., margin: 10px 20px en lugar de especificar cada lado).
+
+  **Buenas prácticas**:
+
+  * Usar unidades relativas (rem, vw, %) en lugar de absolutas (px) cuando sea adecuado.  
+  * Evitar \!important salvo casos excepcionales.  
+  * Organizar archivos CSS por módulos o componentes.
+
+**JavaScript:**
+
+Para JavaScript, se seguirán las prácticas recomendadas por la ["Google TypeScript Style Guide"](https://google.github.io/styleguide/tsguide.html) adaptadas a JavaScript, dado que comparten similitudes. Las convenciones son:  
+**Nomenclatura**:
+
+* Variables y funciones en camelCase (e.g., userProfile).  
+  * Constantes en UPPER\_SNAKE\_CASE (e.g., MAX\_PROJECTS).  
+  * Clases en PascalCase (e.g., UserService).
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Usar comillas simples (') para cadenas de texto.  
+  * Terminar declaraciones con punto y coma (;).
+
+  **Buenas prácticas**:
+
+  * Usar const por defecto, let solo si es necesario reasignar, evitar var.  
+  * Preferir funciones de flecha para callbacks (() \=\> {}) y funciones tradicionales para métodos (function name() {}).  
+  * Incluir comentarios JSDoc para funciones públicas.
+
+**TypeScript:**
+
+Se adoptará la ["Google TypeScript Style Guide"](https://google.github.io/styleguide/tsguide.html) y la ["Angular Coding Style Guide"](https://angular.io/guide/styleguide) para proyectos con Angular. Las convenciones incluyen:  
+**Nomenclatura**:
+
+* Igual que JavaScript: camelCase para variables y funciones, PascalCase para clases e interfaces (e.g., UserInterface, AuthService).  
+  * Interfaces con prefijo I solo si es necesario para claridad (e.g., IUser).
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Usar tipos explícitos para parámetros y retornos de funciones.  
+  * Evitar any salvo en casos excepcionales.
+
+  **Buenas prácticas** (específicas para Angular):
+
+  * Usar sufijos para componentes (Component), servicios (Service), etc..  
+  * Organizar módulos Angular por funcionalidad (e.g., auth.module.ts).  
+  * Usar decoradores Angular de forma consistente (e.g., @Input, @Output).
+
+**Java:**
+
+Para Java, se seguirá la ["Google Java Style Guide"](https://google.github.io/styleguide/javaguide.html) y las recomendaciones de ["Spring Boot Features"](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html). Las convenciones son:  
+**Nomenclatura**:
+
+* Clases en PascalCase.  
+  * Métodos y variables en camelCase.  
+  * Constantes en UPPER\_SNAKE\_CASE.
+
+  **Formato**:
+
+  * Indentar con 2 espacios.  
+  * Líneas de máximo 100 caracteres.  
+  * Usar llaves {} para todos los bloques, incluso si son de una sola línea.
+
+  **Buenas prácticas** (específicas para Spring Boot):
+
+  * Usar anotaciones Spring de forma clara.  
+  * Estructurar proyectos con paquetes por funcionalidad (e.g., com.example.service).  
+  * Implementar manejo de excepciones centralizado con @ControllerAdvice.
+
+**Gherkin (para especificaciones):**
+
+Aunque Gherkin no es un lenguaje de programación, se utilizará para escribir pruebas de aceptación en un formato legible, siguiendo las ["Gherkin Conventions for Readable Specifications"](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/). Las convenciones son:  
+**Nomenclatura**:
+
+* Escenarios en inglés, con títulos descriptivos en tercera persona (e.g., User logs in with valid credentials).  
+  * Usar palabras clave de Gherkin (Given, When, Then) de forma consistente.
+
+  **Formato**:
+
+  * Escribir pasos claros y concisos.  
+  * Usar tablas para datos estructurados.
+
+  **Buenas prácticas**:
+
+  * Evitar detalles técnicos en los pasos; centrarse en el comportamiento.  
+  * Reutilizar pasos comunes para mantener especificaciones DRY (Don't Repeat Yourself).
+
+Todas las convenciones detalladas en esta sección, nos garantizan un código limpio, consistente y alineado con estándares de la industria, facilitando la colaboración y el mantenimiento del proyecto.  
+
+
 ### 5.1.4. Software Deployment Configuration
+
+Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
+
+1. **Registro en GitHub**  
+    Creamos una cuenta en GitHub para poder gestionar nuestros repositorios.  
+2. **Creación del repositorio**  
+   * Hicimos clic en el botón "New" para generar un nuevo repositorio.  
+   * Le asignamos el nombre “ArquiTech\_LandingPage”  
+3. **Configuración del repositorio**  
+   * Nos aseguramos de que el repositorio sea de acceso público.  
+4. **Carga de los archivos de la landing page**  
+   * Accedimos al repositorio creado.  
+   * Seleccionamos la opción "Upload files" y subimos todos los archivos correspondientes a nuestra landing page.  
+   * Finalmente, confirmamos la acción con "Commit changes" para guardar los archivos.  
+5. **Activación de GitHub Pages**  
+   * Entramos a la sección "Settings" del repositorio.  
+   * Nos desplazamos hasta encontrar el apartado "GitHub Pages".  
+   * Elegimos la rama “develop” y guardamos los cambios con "Save".
+
+**Figura**  
+*Explicación del paso 5*
+
+*Nota.* Elaboración propia.
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
