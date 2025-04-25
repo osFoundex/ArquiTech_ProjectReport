@@ -207,6 +207,15 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 </p>
 
 
+#### Figura 3
+
+*Perfil de Melisa Sulca*  
+
+<p align="center">
+  <img src="images/profile-m.png" alt="PB" width="1000">
+</p>
+
+
 *Nota.* Elaboración propia.  
 
 ## 1.2. Solution Profile
