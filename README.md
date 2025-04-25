@@ -555,6 +555,57 @@ Afirma que el uso de una herramienta como **ArquiTech** influiría fuertemente e
 
 ### 2.2.3. Análisis de entrevistas
 
+**Segmento objetivo \#1: Supervisores de obra**  
+**Gráfico 1: Herramientas utilizadas por supervisores de obra**  
+Este gráfico muestra que el 100% de los supervisores entrevistados utilizan herramientas tradicionales como hojas de tareo físicas y archivos Excel para registrar la asistencia del personal y el control de inventario. No se reportó el uso de herramientas digitales especializadas, lo cual evidencia un entorno operativo altamente manual y fragmentado. La ausencia de plataformas centralizadas limita el acceso en tiempo real a la información, genera duplicación de esfuerzos y favorece errores operativos.
+
+<p align="center">
+  <img src="images/grafico-1.png" alt="PB" width="1000">
+</p>
+
+**Gráfico 2: Frustraciones frecuentes en la supervisión de obras**  
+Los entrevistados coinciden en que las principales fuentes de frustración en su gestión son: la inasistencia del personal clave (100%), los retrasos en la entrega de materiales por parte de proveedores (100%), y los errores en el control de inventario (100%). Además, un 66% de los casos reportó dificultades por la descoordinación entre áreas administrativas y técnicas. Estos factores no solo afectan la ejecución operativa, sino también la valorización económica del proyecto y la relación con el contratante.
+
+<p align="center">
+  <img src="images/grafico-2.png" alt="PB" width="1000">
+</p>
+
+**Gráfico 3: Necesidades principales detectadas en supervisores**  
+Las necesidades más urgentes identificadas por los supervisores giran en torno a la centralización de procesos operativos. Un 100% expresó la necesidad de una plataforma que integre el control de tareo, el seguimiento del inventario y la generación de reportes valorizados. El 66% también manifestó interés en funcionalidades específicas como el control de maquinaria y recursos complementarios. Finalmente, todos coincidieron en que la solución debe contar con una interfaz intuitiva y confiable que garantice la facilidad de adopción en campo.
+
+**Herramientas utilizadas:** Uso exclusivo de herramientas manuales (hoja de tareo y Excel); no hay uso actual de plataformas digitales.
+
+**Frustraciones frecuentes:** La falta de personal, retrasos logísticos y errores de inventario son los principales puntos de dolor.
+
+**Necesidades críticas:** Existe consenso absoluto en digitalizar tareo, inventario y reportes; además, se valora una interfaz intuitiva y funciones de control de maquinaria.
+
+
+<p align="center">
+  <img src="images/grafico-3.png" alt="PB" width="1000">
+</p>
+
+**Segmento objetivo \#2: Contratantes de empresas privadas**  
+**Gráfico 1: Herramientas utilizadas por constructoras para informar a contratantes**  
+El gráfico evidencia que los contratantes reciben información mayormente a través de canales informales y no estructurados. El 100% mencionó el uso de correos electrónicos con archivos Word o Excel, y mensajes vía WhatsApp, como principales métodos de comunicación. Solo el 33% reportó el uso de presentaciones formales, y ninguno indicó el uso de plataformas digitales especializadas. Esta informalidad afecta la transparencia, organización y trazabilidad de los proyectos.
+
+<p align="center">
+  <img src="images/grafico-4.png" alt="PB" width="1000">
+</p>
+
+**Gráfico 2: Frustraciones frecuentes reportadas por contratantes**  
+Los contratantes entrevistados manifestaron una frustración generalizada por la falta de visibilidad en tiempo real (100%), los retrasos no comunicados a tiempo (100%) y los errores de calidad en obra (66%). Además, todos (100%) destacaron la preocupación por la falta de transparencia en el uso de materiales, lo cual genera desconfianza, sobrecostos y problemas con terceros (clientes o proveedores).
+
+<p align="center">
+  <img src="images/grafico-5.png" alt="PB" width="1000">
+</p>
+
+**Gráfico 3: Necesidades principales detectadas en contratantes**  
+Las expectativas de los contratantes apuntan a la necesidad urgente de implementar reportes en tiempo real, información clara sobre el personal y materiales, y visibilidad del estado de licencias y cumplimiento normativo. Un 100% exige acceso fácil a toda esta información desde dispositivos móviles o computadoras. Esta visión se alinea con la propuesta de ArquiTech como una plataforma que centraliza, automatiza y transparenta todos los procesos del proyecto constructivo.  
+
+<p align="center">
+  <img src="images/grafico-6.png" alt="PB" width="1000">
+</p>
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
@@ -758,6 +809,54 @@ Principios utilizados:
 
 
 ### 4.2.3. SEO Tags and Meta Tags
+
+Aquí mostraremos los Meta Tagas y los SEO tags que hemos usado para poder desarrollar el landing page con el objetivo de que sea agradable para los usuarios.
+
+\<\!DOCTYPE html\>
+
+\<html lang\="es"\>
+
+\<head\>
+
+  \<meta charset\="UTF-8" /\>
+
+  \<meta name\="viewport" content\="width=device-width, initial-scale=1.0" /\>
+
+  \<title\> Foundex | Tecnología IoT para Restaurantes Inteligentes\</title\>
+
+  \<meta name\="description" content\="Foundex ofrece una solución completa de sensores IoT y plataforma web para monitorear alimentos, mejorar la eficiencia operativa y elevar la atención al cliente en restaurantes." /\>
+
+  \<meta name\="keywords" content\="Foundex, IoT para restaurantes, monitoreo de alimentos, sensores de temperatura, gestión de inventario, eficiencia operativa, tecnología gastronómica" /\>
+
+  \<meta name\="author" content\="Equipo Foundex" /\>
+
+  \<meta name\="robots" content\="index, follow" /\>
+
+  \<meta property\="og:title" content\="Foundex | Tecnología IoT para Restaurantes Inteligentes" /\>
+
+  \<meta property\="og:description" content\="Descubre cómo Foundex ayuda a los dueños y trabajadores de restaurantes a optimizar la conservación de alimentos con sensores IoT y una plataforma web de gestión." /\>
+
+  \<meta property\="og:image" content\="https://foundex.com/img/logo.png" /\>
+
+  \<meta property\="og:url" content\="https://foundex.com/" /\>
+
+  \<meta property\="og:type" content\="website" /\>
+
+  \<meta name\="twitter:card" content\="summary\_large\_image" /\>
+
+  \<meta name\="twitter:title" content\="Foundex | Tecnología IoT para Restaurantes Inteligentes" /\>
+
+  \<meta name\="twitter:description" content\="Optimiza tu restaurante con Foundex: tecnología IoT, sensores y plataforma web para un mejor control alimentario." /\>
+
+  \<meta name\="twitter:image" content\="https://foundex.com/img/logo.png" /\>
+
+  \<link rel\="icon" href\="img/logo.png" type\="image/x-icon" /\>
+
+  \<link rel\="stylesheet" href\="style.css" /\>
+
+\</head\>
+
+
 
 ### 4.2.4. Searching Systems
 
