@@ -740,6 +740,47 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 ## 3.4. Product Backlog
 
+
+| \# Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8\)  |
+| ----- | ----- | :---- | :---- | ----- |
+|  **1** |  **HU01** | Registrar Entrada de Materiales  | Como Supervisor de Obra, quiero registrar la entrada de materiales, para mantener un inventario actualizado y evitar retrasos. |  **2** |
+|  **2** |  **HU02** |  Registrar Uso de Materiales en Obra | Como Supervisor de Obra, quiero registrar el uso de materiales, para controlar el consumo y evitar desperdicios. |  **2** |
+|  **3** |  **HU03** | Recibir Alertas de Bajo Nivel de Inventario  | Como Supervisor de Obra, quiero recibir alertas cuando el inventario esté bajo, para abastecer a tiempo y evitar retrasos. |  **3** |
+|  **4** |  **HU04** |  Consultar Historial de Transacciones de Inventario  | Como Supervisor de Obra, quiero consultar el historial de transacciones de inventario, para auditar el uso de materiales y detectar irregularidades. |  **5** |
+| **5** | **HU05** | Registrar Maquinaria Asignada al Proyecto | Como Supervisor de Obra, quiero registrar maquinaria asignada al proyecto, para gestionar su disponibilidad y evitar retrasos. |  **2** |
+|  **6** |  **HU06** |   Registro de trabajadores | Como supervisor de obra, quiero registrar a los trabajadores con sus datos personales, cargo y especialidad, para tener un control ordenado y centralizado del personal en cada proyecto. |  **3** |
+|  **7** |  **HU07** |  Asignación de tareas y roles | Como supervisor de obra, quiero asignar tareas específicas y roles a cada trabajador dentro de una obra, para saber sus responsabilidades diarias en una lista de trabajadores. |  **3** |
+|  **8** |  **HU08** |  Control de Asistencia | Como supervisor de obra, quiero llevar el control de asistencia diaria de los trabajadores en obra, para contar con un registro confiable que respalde pagos y evaluaciones. |  **5** |
+|  **9** |  **HU 09** |  Ingresar un Nuevo Proyecto | Como Supervisor de Obra, quiero ingresar un nuevo proyecto, para planificar y gestionar todas las actividades relacionadas con la obra. |  **3** |
+|  **10** |  **HU10** |   Lista de trabajadores por obra | Como supervisor de obra, quiero ver una lista de todos los trabajadores asignados a cada obra, para saber rápidamente quién está trabajando en cada proyecto y que roles o tareas cumplen. |  **3** |
+|  **11** |  **HU11** |  Ver descripción de ArquiTech | Como contratante de empresa privada, quiero leer una descripción clara de ArquiTech para entender sus beneficios.  |  **1** |
+|  **12** |  **HU12** | Contactar al equipo de ArquiTech para contratar el servicio | Como supervisor de obra, quiero contactarme con el equipo de ArquiTech para poder tener más información y contratar el servicio. |  **3** |
+|  **13** |  **HU13** |  Explorar beneficios | Como supervisor de obra, quiero explorar los beneficios de ArquiTech en la landing page, para entender cómo puede ayudarme a gestionar mejor mis proyectos y ahorrar tiempo. |  **1** |
+|  **14** |  **HU14** | Observar los medios oficiales de comunicación directa con ArquiTech | Como supervisor de obra, quiero contactarme con el equipo directamente para realizar consultas sobre los beneficios u otras dudas que me surjan. |  **1** |
+|  **15** |  **HU15** | Visitar las redes sociales de ArquiTech | Como supervisor de obra, quiero visitar las redes sociales de ArquiTech para poder observar las opiniones de otros usuarios y más información de la empresa. |  **1** |
+|  **16** |  **HU16** |  Editar información de perfil | Como usuario de la plataforma, quiero poder editar mi información personal (nombre, correo, cargo),para mantener mis datos actualizados en el sistema. |  **2** |
+|  **17** |  **HU17** |  Cambiar foto de perfil | Como usuario registrado, quiero subir o cambiar mi foto de perfil, para personalizar mi cuenta y facilitar la identificación. |  **1** |
+| **18** | **HU18** | Cambiar contraseña | Como usuario autenticado, quiero cambiar mi contraseña de acceso, para mantener segura mi cuenta. | **2** |
+|  **19** |  **HU19** |  Configurar notificaciones | Como usuario administrador, quiero configurar mis preferencias de notificación (correo, SMS, alertas in-app), para recibir los avisos más importantes por los medios que prefiera |  **2** |
+|  **20** |  **HU20** |  Generar reporte diario de avance | Permite al Supervisor de Obra registrar de forma estructurada el avance del día, incluyendo actividades realizadas, asistencia del personal y materiales utilizados. |  **3** |
+|  **21** |  **HU 21** |  Visualizar reportes semanales |  Permite al Gerente de Obra acceder a un resumen semanal consolidado con gráficos y métricas del proyecto, para monitorear el desempeño general. |  **3** |
+|  **22** |  **HU22** |  Recibir notificación de nuevo reporte | Envía una notificación (push o por correo) automáticamente al contratante o gerente cada vez que se genere un nuevo reporte, facilitando el seguimiento oportuno. |  **2** |
+|  **23** |  **HU23** | Agregar evidencias fotográficas a los reportes | Permite al Supervisor adjuntar imágenes al reporte diario como respaldo visual del avance, incidentes o condiciones de la obra. |  **5** |
+|  **24** |  **HU24** | Seleccionar obra específica para ver sus reportes | Permite a usuarios que gestionan múltiples obras filtrar los reportes por proyecto, mostrando solo los relacionados con la obra seleccionada. |  **2** |
+|  **25** |  **HU25** |  Visualizar Lista de Proyectos | Como Supervisor de Obra, quiero visualizar una lista de mis proyectos, para tener un panorama claro de todas mis obras activas.  |  **3** |
+
+Adicionalmente, para llevar a cabo el manejo del product backlog, decidimos usar la herramienta virtual “Jira”.  
+**Figura**   
+*Product Backlog de ArquiTech*
+
+<p align="center">
+  <img src="images/ProductBacklog.png" alt="PB" width="1000">
+</p>
+
+
+*Nota.* Elaboración propia. Obtenido de [https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible\&atlOrigin=eyJpIjoiMDI2MjcyMjE2OTc5NDY4ZWJkOGI0MWVlOTFmMGRhZWMiLCJwIjoiaiJ9](https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible&atlOrigin=eyJpIjoiMDI2MjcyMjE2OTc5NDY4ZWJkOGI0MWVlOTFmMGRhZWMiLCJwIjoiaiJ9)   
+
+
 <hr>
 
 # Capítulo IV: Product Design
