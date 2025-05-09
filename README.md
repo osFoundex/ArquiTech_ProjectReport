@@ -57,7 +57,18 @@
 <hr>
 
 ## Project Report Collaboration Insights  
+Para realizar el informe de este proyecto, utilizaremos un repositorio llamado “ArquiTech\_ProjectReport” el cual está colocado en nuestra organización llamada “osFoundex” en GitHub. Se puede observar en el siguiente enlace: [https://github.com/Paulu27/ArquiTech\_ProjectReport](https://github.com/Paulu27/ArquiTech_ProjectReport)   
+**TB1:**  
+Para la elaboración de este informe, primero utilizamos un documento de google donde podíamos ver los avances en simultáneo. Posteriormente, una vez terminado, realizamos commits en el repositorio del project report en GitHub. A continuación, mostraremos analíticas de participación:  
+**Figura 1**  
+*Analíticas de participación TB1*  
+<p align="center">
+  <img src="images/tb1CollaborationInsights.png" alt="PB" width="1000">
+</p> 
 
+*Nota.* Elaboración propia. 
+
+#
 <hr>
 
 ## Tabla de Contenidos
