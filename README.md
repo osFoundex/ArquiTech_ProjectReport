@@ -49,9 +49,36 @@
 ## Registro de Versiones del Informe
 # 
 
-| Versión | Fecha | Autor | Descripción de modificación |
-| :---- | :---- | :---- | :---- |
-| TB1 | 24/04/2025 | Raúl Bellido Salas Daniela Araceli Gómez Flores Sandra Paula Luyo Correa Ernesto Rodas Sotomayor Melisa Geraldine Sulca Silva | Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page de ArquiTech. |
+<style type="text/css">
+table td, table th { padding: 0; }
+.c5 { border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 112.9pt; border-top-color: #000000; border-bottom-style: solid; }
+.c0 { border-spacing: 0; border-collapse: collapse; margin-right: auto; }
+.c9 { background-color: #ffffff; max-width: 451.4pt; padding: 72pt 72pt 72pt 72pt; }
+.c7 { height: 0pt; }
+.c4 { height: 11pt; }
+</style>
+<body class="c9">
+<table class="c0">
+<tr class="c7">
+<td class="c5" colspan="1" rowspan="1"><p>Versión</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>Fecha</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>Autor</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>Descripción de modificación</p></td>
+</tr>
+<tr class="c7">
+<td class="c5" colspan="1" rowspan="1"><p>TB1</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>24/04/2025</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>Raúl Bellido Salas</p><p></p><p>Daniela Araceli Gómez Flores</p><p></p><p>Sandra Paula Luyo Correa</p><p></p><p>Ernesto Rodas Sotomayor</p><p></p><p>Melisa Geraldine Sulca W</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page de ArquiTech.</p></td>
+</tr>
+<tr class="c7">
+<td class="c5" colspan="1" rowspan="1"><p>TP1</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>13/05/2025</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>Raúl Bellido Salas</p><p></p><p>Daniela Araceli Gómez Flores</p><p></p><p>Sandra Paula Luyo Correa</p><p></p><p>Ernesto Rodas Sotomayor</p><p></p><p>Melisa Geraldine Sulca W</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>Para la segunda entrega, hemos agregado la documentación del Sprint 2 y actualizado las conclusiones y anexos del documento de reporte. También, actualizamos la landing page y creamos la primera versión del Frontend Web Applications.</p></td>
+</tr>
+</table>
+</body>
 
 # 
 <hr>
