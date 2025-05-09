@@ -60,13 +60,13 @@
 <tr class="c7">
 <td class="c5" colspan="1" rowspan="1"><p>TB1</p></td>
 <td class="c5" colspan="1" rowspan="1"><p>24/04/2025</p></td>
-<td class="c5" colspan="1" rowspan="1"><p>Raúl Bellido Salas</p><p></p><p>Daniela Araceli Gómez Flores</p><p></p><p>Sandra Paula Luyo Correa</p><p></p><p>Ernesto Rodas Sotomayor</p><p></p><p>Melisa Geraldine Sulca W</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>Raúl Bellido Salas</p><p></p><p>Daniela Araceli Gómez Flores</p><p></p><p>Sandra Paula Luyo Correa</p><p></p><p>Ernesto Rodas Sotomayor</p><p></p><p>Melisa Geraldine Sulca</p></td>
 <td class="c5" colspan="1" rowspan="1"><p>Para esta primera entrega, realizamos los primeros 5 capítulos del informe y desarrollamos la primera versión del landing page de ArquiTech.</p></td>
 </tr>
 <tr class="c7">
 <td class="c5" colspan="1" rowspan="1"><p>TP1</p></td>
 <td class="c5" colspan="1" rowspan="1"><p>13/05/2025</p></td>
-<td class="c5" colspan="1" rowspan="1"><p>Raúl Bellido Salas</p><p></p><p>Daniela Araceli Gómez Flores</p><p></p><p>Sandra Paula Luyo Correa</p><p></p><p>Ernesto Rodas Sotomayor</p><p></p><p>Melisa Geraldine Sulca W</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>Raúl Bellido Salas</p><p></p><p>Daniela Araceli Gómez Flores</p><p></p><p>Sandra Paula Luyo Correa</p><p></p><p>Ernesto Rodas Sotomayor</p><p></p><p>Melisa Geraldine Sulca</p></td>
 <td class="c5" colspan="1" rowspan="1"><p>Para la segunda entrega, hemos agregado la documentación del Sprint 2 y actualizado las conclusiones y anexos del documento de reporte. También, actualizamos la landing page y creamos la primera versión del Frontend Web Applications.</p></td>
 </tr>
 </table>
