@@ -77,6 +77,9 @@
 <hr>
 
 # Project Report Collaboration Insights
+
+#
+
 Para realizar el informe de este proyecto, utilizaremos un repositorio llamado “ArquiTech\_ProjectReport” el cual está colocado en nuestra organización llamada “osFoundex” en GitHub. Se puede observar en el siguiente enlace: [https://github.com/Paulu27/ArquiTech\_ProjectReport](https://github.com/Paulu27/ArquiTech_ProjectReport)   
 
 <ins>**TB1:**</ins>  
@@ -94,6 +97,8 @@ Para la elaboración de este informe, primero utilizamos un documento de google 
 <hr>
 
 # Tabla de Contenidos
+
+#
 
 <details>
     <summary>Capítulo I: Introducción </summary>    
@@ -199,7 +204,10 @@ Para la elaboración de este informe, primero utilizamos un documento de google 
 <hr>
 
 # Student Outcome
-El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC \- Student Outcome 3**  
+
+# 
+
+El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3**  
 **Criterio:** *Capacidad de comunicarse efectivamente con un rango de audiencias.*   
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC \- Student Outcome 3\.
 
@@ -426,13 +434,13 @@ La gravedad radica en que estas deficiencias pueden representar pérdidas econó
 
 #### 1.2.2.4. Lean UX Canvas
 
-**Figura 7**
-*Lean UX Canvas*
+**Figura 7**  
+*Lean UX Canvas*  
 <p align="center">
   <img src="images/ux-canvas.png" alt="PB" width="1000">
 </p>
 
-*Nota.* Elaboración propia.
+*Nota.* Elaboración propia.  
 
 ## 1.3. Segmentos Objetivos
 
@@ -441,13 +449,16 @@ La gravedad radica en que estas deficiencias pueden representar pérdidas econó
 Este segmento está compuesto por profesionales encargados de supervisar y gestionar la ejecución de los proyectos de construcción. En muchas empresas pequeñas y medianas, el rol de supervisor es asumido también por el jefe de obra, quien cumple múltiples funciones que van desde la supervisión directa en campo hasta la toma de decisiones administrativas y técnicas.  
 
 **Características demográficas**  
+
 Ubicación: Principalmente en zonas urbanas y semiurbanas de Lima Metropolitana, como San Juan de Lurigancho, Villa El Salvador, Ate y San Martín de Porres, donde se concentran pequeñas y medianas empresas constructoras.  
 Edad: Entre 28 y 50 años, con una media de 38 años.  
 Nivel socioeconómico: Clase media  
 Desafíos: Los supervisores de obra pueden afrontar desafíos como mantener el desarrollo de la obra dentro del presupuesto estimado, tener los materiales adecuados para la ejecución de la obra, comunicar los avances a los contratantes y asegurar la coordinación del personal  
 
 <ins>**Segmento objetivo #2: Contratantes de empresas privadas**</ins>   
+
 **Características demográficas:**  
+
 Ubicación:  Principalmente en zonas urbanas y semiurbanas de Lima Metropolitana, como San Juan de Lurigancho, Villa El Salvador, Ate y San Martín de Porres, donde se concentran pequeñas y medianas empresas constructoras.  
 Edad: Entre 34 y 45 años, con una media de de 39 años  
 Nivel socioeconómico: Clase media-alta  
@@ -583,88 +594,77 @@ Usan herramientas de planificación, presupuestos y CRM, para gestionar eficient
 
 ## 2.2. Entrevistas
 
-### 2.2.1. Diseño de entrevistas
+### *2.2.1. Diseño de entrevistas*
 
-**Diseño de entrevistas para el segmento objetivo 1: Supervisores de obra** 
+<ins>**Diseño de entrevistas para el segmento objetivo #1: Supervisores de obra**</ins>  
 
-**Introducción y contexto**
+* **Introducción y contexto**
+	* ¿Cuál es tu nombre?  
+	* ¿Cuántos años tiene?  
+	* ¿En qué distrito reside?  
+	* ¿Puedes contarme sobre tu rol como supervisor? ¿Qué haces en un día típico?  
+	* ¿Cuántos obreros y qué tipo de materiales gestionas en una obra promedio?
 
-* ¿Cuál es tu nombre?  
-* ¿Cuántos años tiene?  
-* ¿En qué distrito reside?  
-* ¿Puedes contarme sobre tu rol como supervisor? ¿Qué haces en un día típico?  
-* ¿Cuántos obreros y qué tipo de materiales gestionas en una obra promedio?
+* **Procesos actuales**
+	* ¿Cómo confirmas la asistencia de los obreros cada día? ¿Qué haces si alguien falta?  
+	* ¿Cómo llevas el control del inventario de materiales? ¿Qué herramientas usas?  
+	* ¿Cómo registras los avances de la obra y preparas reportes? ¿Cuánto tiempo te toma?
 
-**Procesos actuales**
+* **Puntos de dolor** 
+	* ¿Qué es lo más frustrante o lento en la gestión de obreros o materiales? Dame un ejemplo reciente.  
+	* ¿Alguna vez has tenido problemas por errores en inventario o reportes? ¿Qué pasó?  
+	* ¿Qué tan fácil o difícil es coordinar con otros roles, como asistentes administrativos?
 
-* ¿Cómo confirmas la asistencia de los obreros cada día? ¿Qué haces si alguien falta?  
-* ¿Cómo llevas el control del inventario de materiales? ¿Qué herramientas usas?  
-* ¿Cómo registras los avances de la obra y preparas reportes? ¿Cuánto tiempo te toma?
+* **Necesidades y expectativas**
+	* Si tuvieras una herramienta que centralizará asistencia, inventario y reportes ¿te ayudaría? ¿de qué manera?  
+	* ¿Qué tan importante es tener información en tiempo real desde la obra? ¿Por qué?  
+	* ¿Qué te haría confiar en una nueva plataforma digital? ¿Qué te preocuparía?
 
-**Puntos de dolor** 
+* **Cierre**
+	* ¿Hay algo que no hayamos tocado que te gustaría que una herramienta como esta resolviera?  
+	* ¿Estarías dispuesto a probar una plataforma como ArquiTech? ¿Qué necesitarías para convencerte?
 
-* ¿Qué es lo más frustrante o lento en la gestión de obreros o materiales? Dame un ejemplo reciente.  
-* ¿Alguna vez has tenido problemas por errores en inventario o reportes? ¿Qué pasó?  
-* ¿Qué tan fácil o difícil es coordinar con otros roles, como asistentes administrativos?
+<ins>**Diseño de entrevistas para el segmento objetivo #2: Contratantes de empresas privadas**</ins>  
 
-**Necesidades y expectativas**
+* **Introducción y contexto**  
+	* ¿Cuál es tu nombre?  
+	* ¿Cuántos años tiene?  
+	* ¿En qué distrito reside?  
+	* ¿Qué tipo de proyectos de construcción contratas normalmente (ej. locales, edificios)?  
+	* ¿Cómo es el proceso para elegir una constructora? ¿Qué buscas en ellas?
 
-* Si tuvieras una herramienta que centralizará asistencia, inventario y reportes ¿te ayudaría? ¿de qué manera?  
-* ¿Qué tan importante es tener información en tiempo real desde la obra? ¿Por qué?  
-* ¿Qué te haría confiar en una nueva plataforma digital? ¿Qué te preocuparía?
+* **Procesos actuales**  
+	* ¿Cómo te mantienes informado sobre el avance de una obra? ¿Qué información recibes y con qué frecuencia?  
+	* ¿Qué herramientas o métodos usa la constructora para reportarte?  
+	* ¿Cómo verificas que se cumplan licencias, normas de seguridad o plazos?
 
-**Cierre**
+* **Puntos de dolor**
+	* ¿Qué problemas has tenido con constructoras en el pasado? Por ejemplo, retrasos o falta de claridad.  
+	* ¿Qué tan frustrante es no tener visibilidad completa sobre el uso de materiales o el personal en obra?  
+	* ¿Alguna vez has perdido dinero por demoras o errores en un proyecto? ¿Qué pasó?
 
-* ¿Hay algo que no hayamos tocado que te gustaría que una herramienta como esta resolviera?  
-* ¿Estarías dispuesto a probar una plataforma como ArquiTech? ¿Qué necesitarías para convencerte?
+* **Necesidades y expectativas**
+	* Si pudieras acceder a una plataforma que te muestre en tiempo real el avance, materiales y personal de la obra, ¿cómo te ayudaría?  
+	* ¿Qué tan importante es para ti que la constructora use tecnología moderna? ¿Por qué?  
+	* ¿Qué características de una herramienta digital te harían confiar más en una constructora?
 
-**Diseño de entrevistas para el segmento objetivo 2: Contratantes de empresas privadas**  
-**Introducción y contexto**
+* **Cierre**
+	* ¿Hay algo que las constructoras podrían mejorar para darte más tranquilidad?  
+	* Si una constructora usará una plataforma como ArquiTech para reportarte, ¿influiría en tu decisión de contratarla? ¿Por qué?
 
-* ¿Cuál es tu nombre?  
-* ¿Cuántos años tiene?  
-* ¿En qué distrito reside?  
-* ¿Qué tipo de proyectos de construcción contratas normalmente (ej. locales, edificios)?  
-* ¿Cómo es el proceso para elegir una constructora? ¿Qué buscas en ellas?
+### *2.2.2. Registro de entrevistas*
 
-**Procesos actuales** 
+<ins>**Segmento objetivo #1: Supervisores de obra**</ins>
 
-* ¿Cómo te mantienes informado sobre el avance de una obra? ¿Qué información recibes y con qué frecuencia?  
-* ¿Qué herramientas o métodos usa la constructora para reportarte?  
-* ¿Cómo verificas que se cumplan licencias, normas de seguridad o plazos?
++ **Entrevista #1:**
 
-**Puntos de dolor**
-
-* ¿Qué problemas has tenido con constructoras en el pasado? Por ejemplo, retrasos o falta de claridad.  
-* ¿Qué tan frustrante es no tener visibilidad completa sobre el uso de materiales o el personal en obra?  
-* ¿Alguna vez has perdido dinero por demoras o errores en un proyecto? ¿Qué pasó?
-
-**Necesidades y expectativas**
-
-* Si pudieras acceder a una plataforma que te muestre en tiempo real el avance, materiales y personal de la obra, ¿cómo te ayudaría?  
-* ¿Qué tan importante es para ti que la constructora use tecnología moderna? ¿Por qué?  
-* ¿Qué características de una herramienta digital te harían confiar más en una constructora?
-
-**Cierre**
-
-* ¿Hay algo que las constructoras podrían mejorar para darte más tranquilidad?  
-* Si una constructora usará una plataforma como ArquiTech para reportarte, ¿influiría en tu decisión de contratarla? ¿Por qué?
-
-### 2.2.2. Registro de entrevistas
-
-<div style='text-align: justify;'>
-**Segmento objetivo \#1: Supervisores de obra**
-
-**Entrevista \#1:**
-
-**Figura n**
+**Figura 8**  
+*Imagen del usuario número 1 entrevistado*
 <p align="center">
-  <img src="images/entrevista_1_segmento_1.png" alt="PB" width="1000">
+  <img src="images/entrevista_1_segmento_1.png" alt="PB" width="900">
 </p>
 
-*Imagen del usuario número 1 entrevistado*
-
-*Nota.* Elaboración propia. Link: [Entrevista \#1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EegVpHo0tqhLusOI6515yCwBaWF81pAp3SFNHNxjp3Y3zQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eZqhO9)
+*Nota.* Elaboración propia. Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EegVpHo0tqhLusOI6515yCwBaWF81pAp3SFNHNxjp3Y3zQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eZqhO9](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EegVpHo0tqhLusOI6515yCwBaWF81pAp3SFNHNxjp3Y3zQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=eZqhO9)
 
 Víctor Huarca, supervisor de obra de 61 años, explicó sus funciones diarias, las cuales incluyen la supervisión del cumplimiento del expediente técnico, coordinación con el residente de obra, control de asistencia de obreros mediante hojas de tareo y gestión del inventario con hojas tipo Cardex y movimientos de almacén. El avance de obra se mide diariamente por metrados y se consolida en reportes semanales y mensuales.
 
@@ -674,16 +674,15 @@ Víctor considera que una herramienta digital que centralice la asistencia, inve
 
 Finalmente, recomendó incluir funcionalidades adicionales como el control separado de tareo y planillas, reportes valorizados y control monetario integral de materiales, maquinaria y mano de obra.
 
-**Entrevista \#2:**
++ **Entrevista #2:**
 
-**figura N**
+**Figura 9**  
+*Imagen del usuario número 2 entrevistado*
 <p align="center">
   <img src="images/entrevista_2_segmento_1.png" alt="PB" width="1000">
 </p>
 
-*Imagen del usuario número 2 entrevistado*
-
-*Nota.* Elaboración propia. Link: [Entrevista \#2.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EY4aIUyUjjZMl9IhtxJZzBQBA7sBDkEgiL4rlA1F0_4Bag?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ViAcDx) 
+*Nota.* Elaboración propia. Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EY4aIUyUjjZMl9IhtxJZzBQBA7sBDkEgiL4rlA1F0_4Bag?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ViAcDx](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EY4aIUyUjjZMl9IhtxJZzBQBA7sBDkEgiL4rlA1F0_4Bag?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ViAcDx) 
 
 Lourdes Espinosa, supervisora de obra de 55 años, describió su rol enfocado en controlar la calidad de materiales, verificar el uso de EPPs por parte del personal y asegurar el cumplimiento de funciones del equipo técnico. El número de obreros y los materiales utilizados varían según la actividad programada para el día.
 
@@ -697,18 +696,16 @@ Considera que una plataforma digital que centralice la asistencia, inventario y 
 
 Finalmente, propuso que la herramienta digital sea integral, que consolide toda la información relevante y que permita generar reportes en distintos formatos y frecuencias según se requiera.
 
- 
 
-**Entrevista \#3:**
++ **Entrevista #3:**
 
-**figura n**
+**Figura 10**  
+*Imagen del usuario número 3 entrevistado*
 <p align="center">
   <img src="images/entrevista_3_segmento_1.png" alt="PB" width="1000">
 </p>
 
-*Imagen del usuario número 3 entrevistado*
-
-*Nota.* Elaboración propia*.* Link: [Entrevista \#3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/ERR5EqG0P7xJuQcm6q75Tr8BFcAGRgfW7z5PPU7lIr3qYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=op7gtn) 
+*Nota.* Elaboración propia. Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/ERR5EqG0P7xJuQcm6q75Tr8BFcAGRgfW7z5PPU7lIr3qYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=op7gtn](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/ERR5EqG0P7xJuQcm6q75Tr8BFcAGRgfW7z5PPU7lIr3qYw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=op7gtn) 
 
 Selena Maximiliano, supervisora de obra de 31 años, explicó que su rol principal consiste en organizar y supervisar las actividades diarias en obra, gestionar al personal obrero (entre 10 y 18 personas según el proyecto), y comunicarse con el área administrativa al final del día. Entre los materiales que utiliza con frecuencia están el ladrillo, cemento, fierro y concreto premezclado.
 
@@ -720,19 +717,17 @@ Selena considera muy útil una herramienta digital que centralice asistencia, in
 
 Finalmente, sugirió funciones adicionales como alertas automáticas por faltas de trabajadores o escasez de materiales, y reportes resumidos comprensibles incluso para quienes no tienen formación técnica. También señaló que la disponibilidad de una versión gratuita y fácil instalación aumentaría sus posibilidades de adoptar la herramienta en sus proyectos.
 
-**Segmento objetivo 2: Contratantes de empresas privadas**
+<ins>**Segmento objetivo #2: Contratantes de empresas privadas**</ins>
 
-**Entrevista \#4:**
++ **Entrevista #4:**  
 
-**Figura N**
-
+**Figura 11**  
+*Imagen del usuario número 1 entrevistado*  
 <p align="center">
   <img src="images/entrevista_1_segmento_2.png" alt="PB" width="1000">
 </p>
 
-*Imagen del usuario número 1 entrevistado*
-
-*Nota.* Elaboración propia*.* Link: 
+*Nota.* Elaboración propia. Link: [https://youtu.be/5BsK1qWQFfU](https://youtu.be/5BsK1qWQFfU)
 
 Karolay Correa, de 27 años y residente en Cercado de Lima, suele contratar proyectos de construcción para locales comerciales, oficinas y almacenes. Para elegir una constructora, se basa en recomendaciones, revisa experiencia previa y busca empresas que cumplan plazos, tengan precios razonables y muestren trabajos anteriores confiables.
 
@@ -744,20 +739,17 @@ Karolay considera fundamental tener mayor visibilidad del avance de obra, uso de
 
 Valora que las constructoras utilicen tecnología moderna, pues esto transmite profesionalismo y mejora la comunicación. Confiaría en una plataforma que ofrezca reportes actualizados, seguimiento de materiales y personal, y verificación de licencias. La facilidad de uso también es clave para ella.
 
-Finalmente, destacó que lo que más espera de una constructora es **transparencia total**, notificación temprana de problemas y herramientas que le permitan estar informada sin tener que insistir. Confirmó que el uso de una plataforma como **ArquiTech** influiría positivamente en su decisión de contratación.
+Finalmente, destacó que lo que más espera de una constructora es transparencia total, notificación temprana de problemas y herramientas que le permitan estar informada sin tener que insistir. Confirmó que el uso de una plataforma como ArquiTech influiría positivamente en su decisión de contratación.
 
- **Entrevista \#5:**
++ **Entrevista #5:**
 
-**Figura N**
-
+**Figura 12**  
+*Imagen del usuario número 2 entrevistado*  
 <p align="center">
   <img src="images/entrevista_2_segmento_2.png" alt="PB" width="1000">
 </p>
 
-
-*Imagen del usuario número 2 entrevistado*
-
-*Nota.* Elaboración propia*.* Link: [Entrevista \#5.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUjGFmZWrDpFuzQBFM1swBsBMFptUzpV6w0ANNv-f-g5fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MqyhtF) 
+*Nota.* Elaboración propia. Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUjGFmZWrDpFuzQBFM1swBsBMFptUzpV6w0ANNv-f-g5fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MqyhtF](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUjGFmZWrDpFuzQBFM1swBsBMFptUzpV6w0ANNv-f-g5fg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MqyhtF) 
 
 Iván Tarqui, de 35 años y residente en San Martín de Porres, contrata proyectos de construcción para oficinas pequeñas, remodelaciones industriales y almacenes. Al elegir una constructora, busca experiencia específica, cumplimiento de normas y plazos, transparencia y control de presupuesto.
 
@@ -769,17 +761,15 @@ Ha tenido problemas como retrasos por mala gestión de materiales o licencias, l
 
 Iván valora mucho la **transparencia y control**. Le gustaría tener acceso en tiempo real al estado del proyecto, al uso de materiales y al personal en obra, para tomar decisiones rápidas y evitar sorpresas. Considera esencial que las constructoras usen **tecnología moderna**, lo cual demuestra organización y compromiso.
 
-Confía más en herramientas digitales que entreguen reportes actualizados, registros detallados y validación de cumplimiento de normas y licencias. También le importa la **seguridad de los datos**. Cree que una plataforma como **ArquiTech** sería un factor clave para decidirse por una constructora, ya que mostraría seriedad y responsabilidad.
+Confía más en herramientas digitales que entreguen reportes actualizados, registros detallados y validación de cumplimiento de normas y licencias. También le importa la seguridad de los datos. Cree que una plataforma como **ArquiTech** sería un factor clave para decidirse por una constructora, ya que mostraría seriedad y responsabilidad
 
- **Entrevista \#6:**
++ **Entrevista #6:**
 
-**Figura N**
-
+**Figura 13**  
+*Imagen del usuario número 3 entrevistado*  
 <p align="center">
   <img src="images/entrevista_3_segmento_2.png" alt="PB" width="1000">
 </p>
-
-*Imagen del usuario número 3 entrevistado*
 
 *Nota.* Elaboración propia. Link: [Entrevista \#6.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/ETGzyS47omtAofC1QB08j5QBsiEbxCbBuykRsLRIIZ5Tdw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9m8wRl) 
 
@@ -792,26 +782,39 @@ Sus principales frustraciones han sido la **falta de comunicación proactiva**, 
 Considera que una plataforma que le brinde acceso en tiempo real al avance, uso de materiales y personal en obra sería de **gran ayuda** y marcaría una diferencia importante. Valora especialmente que las constructoras usen **tecnología moderna**, ya que demuestra compromiso y profesionalismo.
 
 Afirma que el uso de una herramienta como **ArquiTech** influiría fuertemente en su decisión de contratar una constructora, pues le daría mayor confianza y sensación de control.
-</div>
 
-### 2.2.3. Análisis de entrevistas
+### *2.2.3. Análisis de entrevistas*
 
-**Segmento objetivo \#1: Supervisores de obra**  
-**Gráfico 1: Herramientas utilizadas por supervisores de obra**  
+<ins>**Segmento objetivo #1: Supervisores de obra**</ins>  
+
+**Figura 14**  
+*Herramientas utilizadas por supervisores de obra*  
+<p align="center">
+  <img src="images/grafico-1.png" alt="PB" width="900">
+</p>
+
+*Nota.* Elaboración propia.  
+
 Este gráfico muestra que el 100% de los supervisores entrevistados utilizan herramientas tradicionales como hojas de tareo físicas y archivos Excel para registrar la asistencia del personal y el control de inventario. No se reportó el uso de herramientas digitales especializadas, lo cual evidencia un entorno operativo altamente manual y fragmentado. La ausencia de plataformas centralizadas limita el acceso en tiempo real a la información, genera duplicación de esfuerzos y favorece errores operativos.
 
+**Figura 15**  
+*Frustraciones frecuentes en la supervisión de obras*  
 <p align="center">
-  <img src="images/grafico-1.png" alt="PB" width="1000">
+  <img src="images/grafico-2.png" alt="PB" width="900">
 </p>
 
-**Gráfico 2: Frustraciones frecuentes en la supervisión de obras**  
+*Nota.* Elaboración propia. 
+
 Los entrevistados coinciden en que las principales fuentes de frustración en su gestión son: la inasistencia del personal clave (100%), los retrasos en la entrega de materiales por parte de proveedores (100%), y los errores en el control de inventario (100%). Además, un 66% de los casos reportó dificultades por la descoordinación entre áreas administrativas y técnicas. Estos factores no solo afectan la ejecución operativa, sino también la valorización económica del proyecto y la relación con el contratante.
 
+**Figura 16**  
+*Necesidades principales detectadas en supervisores*  
 <p align="center">
-  <img src="images/grafico-2.png" alt="PB" width="1000">
+  <img src="images/grafico-3.png" alt="PB" width="1000">
 </p>
 
-**Gráfico 3: Necesidades principales detectadas en supervisores**  
+*Nota.* Elaboración propia. 
+
 Las necesidades más urgentes identificadas por los supervisores giran en torno a la centralización de procesos operativos. Un 100% expresó la necesidad de una plataforma que integre el control de tareo, el seguimiento del inventario y la generación de reportes valorizados. El 66% también manifestó interés en funcionalidades específicas como el control de maquinaria y recursos complementarios. Finalmente, todos coincidieron en que la solución debe contar con una interfaz intuitiva y confiable que garantice la facilidad de adopción en campo.
 
 **Herramientas utilizadas:** Uso exclusivo de herramientas manuales (hoja de tareo y Excel); no hay uso actual de plataformas digitales.
@@ -821,48 +824,61 @@ Las necesidades más urgentes identificadas por los supervisores giran en torno 
 **Necesidades críticas:** Existe consenso absoluto en digitalizar tareo, inventario y reportes; además, se valora una interfaz intuitiva y funciones de control de maquinaria.
 
 
-<p align="center">
-  <img src="images/grafico-3.png" alt="PB" width="1000">
-</p>
+<ins>**Segmento objetivo #2: Contratantes de empresas privadas**</ins>
 
-**Segmento objetivo \#2: Contratantes de empresas privadas**  
-**Gráfico 1: Herramientas utilizadas por constructoras para informar a contratantes**  
-El gráfico evidencia que los contratantes reciben información mayormente a través de canales informales y no estructurados. El 100% mencionó el uso de correos electrónicos con archivos Word o Excel, y mensajes vía WhatsApp, como principales métodos de comunicación. Solo el 33% reportó el uso de presentaciones formales, y ninguno indicó el uso de plataformas digitales especializadas. Esta informalidad afecta la transparencia, organización y trazabilidad de los proyectos.
-
+**Figura 17**  
+*Herramientas utilizadas por constructoras para informar a contratantes*  
 <p align="center">
   <img src="images/grafico-4.png" alt="PB" width="1000">
 </p>
 
-**Gráfico 2: Frustraciones frecuentes reportadas por contratantes**  
-Los contratantes entrevistados manifestaron una frustración generalizada por la falta de visibilidad en tiempo real (100%), los retrasos no comunicados a tiempo (100%) y los errores de calidad en obra (66%). Además, todos (100%) destacaron la preocupación por la falta de transparencia en el uso de materiales, lo cual genera desconfianza, sobrecostos y problemas con terceros (clientes o proveedores).
+*Nota.* Elaboración propia. 
 
+El gráfico evidencia que los contratantes reciben información mayormente a través de canales informales y no estructurados. El 100% mencionó el uso de correos electrónicos con archivos Word o Excel, y mensajes vía WhatsApp, como principales métodos de comunicación. Solo el 33% reportó el uso de presentaciones formales, y ninguno indicó el uso de plataformas digitales especializadas. Esta informalidad afecta la transparencia, organización y trazabilidad de los proyectos.
+
+**Figura 18**  
+*Frustraciones frecuentes reportadas por contratantes*  
 <p align="center">
   <img src="images/grafico-5.png" alt="PB" width="1000">
 </p>
 
-**Gráfico 3: Necesidades principales detectadas en contratantes**  
-Las expectativas de los contratantes apuntan a la necesidad urgente de implementar reportes en tiempo real, información clara sobre el personal y materiales, y visibilidad del estado de licencias y cumplimiento normativo. Un 100% exige acceso fácil a toda esta información desde dispositivos móviles o computadoras. Esta visión se alinea con la propuesta de ArquiTech como una plataforma que centraliza, automatiza y transparenta todos los procesos del proyecto constructivo.  
+*Nota.* Elaboración propia. 
 
+Los contratantes entrevistados manifestaron una frustración generalizada por la falta de visibilidad en tiempo real (100%), los retrasos no comunicados a tiempo (100%) y los errores de calidad en obra (66%). Además, todos (100%) destacaron la preocupación por la falta de transparencia en el uso de materiales, lo cual genera desconfianza, sobrecostos y problemas con terceros (clientes o proveedores).
+
+**Figura 19**  
+*Necesidades principales detectadas en contratantes*  
 <p align="center">
   <img src="images/grafico-6.png" alt="PB" width="1000">
 </p>
 
+*Nota.* Elaboración propia. 
+  
+Las expectativas de los contratantes apuntan a la necesidad urgente de implementar reportes en tiempo real, información clara sobre el personal y materiales, y visibilidad del estado de licencias y cumplimiento normativo. Un 100% exige acceso fácil a toda esta información desde dispositivos móviles o computadoras. Esta visión se alinea con la propuesta de ArquiTech como una plataforma que centraliza, automatiza y transparenta todos los procesos del proyecto constructivo.  
+
+
 ## 2.3. Needfinding
 
-### 2.3.1. User Personas
+### *2.3.1. User Personas*
 
+**Figura 20**  
+*User persona del segmento #1: Supervisor de Obra*  
 <p align="center">
+  <img src="images/user_persona1.jpg" alt="PB" width="1000" align="center">
+</p>
 
-  * User persona "Supervisor de Obra"
+*Nota.* Elaboración propia.  
 
-  <img src="images/user_persona1.jpg" alt="PB" width="1000">
-
-  * User persona "Contratista de Empresas privadas"
-
+**Figura 21**  
+*User persona del segmento #2: Contratista de Empresas privadas*  
+<p align="center">
   <img src="images/user_persona2.jpg" alt="PB" width="1000">
 </p>
 
-### 2.3.2. User Task Matrix
+*Nota.* Elaboración propia.  
+
+
+### *2.3.2. User Task Matrix*
 
 | Área | Tarea | Juan Carlos Zegarra |  | Verónica Delgado |  |
 | :---- | :---- | ----- | ----- | ----- | ----- |
@@ -877,91 +893,117 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 | Comunicación y Reportes | Recibir notificaciones de problemas críticos (ej. bajo inventario) | \- | \- | Inmediata (alertas) | Alta |
 
 
-### 2.3.3. User Journey Mapping
+### *2.3.3. User Journey Mapping*
 
+**Figura 22**  
+*User Journey Mapping del segmento #1: Supervisor de Obra*  
 <p align="center">
-
-  * User Journey Mapping "Supervisor de Obra"
-
   <img src="images/journey1.png" alt="PB" width="1000">
+</p>
 
-  * User Journey Mapping "Contratista de Empresas privadas"
+*Nota.* Elaboración propia.  
 
+**Figura 23**  
+*User Journey Mapping del segmento #2: Contratista de Empresas privadas*  
+<p align="center">
   <img src="images/journey2.png" alt="PB" width="1000">
 </p>
 
-### 2.3.4. Empathy Mapping
+*Nota.* Elaboración propia.  
 
+
+### *2.3.4. Empathy Mapping*
+
+**Figura 24**  
+*Empathy Mapping del segmento #1: Supervisor de Obra*  
 <p align="center">
-
-  * Empathy Mapping "Supervisor de Obra"
-
   <img src="images/empathy1.png" alt="PB" width="1000">
+</p>
 
-  * Empathy Mapping "Contratista de Empresas privadas"
+*Nota.* Elaboración propia.  
 
+**Figura 25**  
+*Empathy Mapping del segmento #2: Contratista de Empresas privadas*  
+<p align="center">
   <img src="images/empathy2.png" alt="PB" width="1000">
 </p>
 
-### 2.3.5. As-is Scenario Mapping
+*Nota.* Elaboración propia.  
 
-*Áreas positivas del As-Is Scenario Mapping para segmento \#1*
+
+### *2.3.5. As-is Scenario Mapping*
+
+<ins>**As-Is Scenario Mapping del segmento #1: Supervisores de Obra**</ins>
+
+**Figura 26**  
+*As-Is Scenario Mapping para segmento #1*  
+<p align="center">
+  <img src="images/OS_As-is_S1.jpg" alt="PB" width="1000">
+</p>
+
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
+
+**Figura 27**  
+*Áreas positivas del As-Is Scenario Mapping para segmento #1*  
 <p align="center">
   <img src="images/OS_As-is_S1_AP.jpg" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**Figura**   
-*Áreas negativas del As-Is Scenario Mapping para segmento \#1*
 
+**Figura 28**   
+*Áreas negativas del As-Is Scenario Mapping para segmento #1*
 <p align="center">
   <img src="images/OS_As-is_S1_AN.jpg" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**Figura**   
-*Blank areas del As-Is Scenario Mapping para segmento \#1*
 
+**Figura 29**   
+*Blank areas del As-Is Scenario Mapping para segmento \#1*
 <p align="center">
   <img src="images/OS_As-is_S1_BA.jpg" alt="PB" width="1000">
 </p>
 
-
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**As-Is Scenario Mapping para Segmento \# 2: Contratantes de Empresas Privadas**  
-**Figura**   
-*As-Is Scenario Mapping para segmento \#2*
+
+<ins>**As-Is Scenario Mapping para Segmento \# 2: Contratantes de Empresas Privadas**</ins>  
+
+**Figura 30**   
+*As-Is Scenario Mapping para segmento #2*  
 <p align="center">
   <img src="images/OS_As-is_S2.jpg" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**Figura**   
-*Áreas positivas del As-Is Scenario Mapping para segmento \#2*
+
+**Figura 31**   
+*Áreas positivas del As-Is Scenario Mapping para segmento #2*  
 <p align="center">
   <img src="images/OS_As-is_S2_AP.jpg" alt="PB" width="1000">
 </p>
 
-
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**Figura**   
-*Áreas negativas del As-Is Scenario Mapping para segmento \#2*
+
+**Figura 32**   
+*Áreas negativas del As-Is Scenario Mapping para segmento #2*  
 <p align="center">
   <img src="images/OS_As-is_S2_AN.jpg" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**Figura**   
-*Blank areas del As-Is Scenario Mapping para segmento \#2*
+
+**Figura 33**   
+*Blank areas del As-Is Scenario Mapping para segmento #2*  
 <p align="center">
   <img src="images/OS_As-is_S2_BA.jpg" alt="PB" width="1000">
 </p>
 
-*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs) 
+*Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)  
 
 ## 2.4. Ubiquitous Language
 
-## 
+# 
 
 | Término (Inglés) | Término (Español) | Definición |
 | :---- | :---- | :---- |
@@ -983,63 +1025,76 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 # Capítulo III: Requirements Specification
 
+#
+
 ## 3.1. To-Be Scenario Mapping
 
-**To-Be Scenario Mapping para Segmento \#1: Supervisores de obra**  
-**Figura**   
-*To-Be Scenario Mapping para segmento \#1*
+<ins>**To-Be Scenario Mapping del segmento #1: Supervisores de obra**</ins>  
 
+**Figura 34**   
+*To-Be Scenario Mapping del segmento #1*
 <p align="center">
   <img src="images/OS_To-be_S1.jpg" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**Figura**   
-*Áreas positivas del To-Be Scenario Mapping para segmento \#1*
+
+**Figura 35**   
+*Áreas positivas del To-Be Scenario Mapping para segmento #1*
 <p align="center">
   <img src="images/OS_To-be_S1_AP.jpg" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**Figura**   
-*Áreas negativas del To-Be Scenario Mapping para segmento \#1*
+
+**Figura 36**   
+*Áreas negativas del To-Be Scenario Mapping para segmento #1*
 <p align="center">
   <img src="images/OS_To-be_S1_AN.jpg" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**Figura**   
-*Blank areas del To-Be Scenario Mapping para segmento \#1*
+
+**Figura 37**   
+*Blank areas del To-Be Scenario Mapping para segmento #1*
 <p align="center">
   <img src="images/OS_To-be_S1_BA.jpg" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**To-Be Scenario Mapping para Segmento \# 2: Contratantes de Empresas Privadas**  
-**Figura**   
-*To-Be Scenario Mapping para segmento \#2*
+
+<ins>**To-Be Scenario Mapping para Segmento #2: Contratantes de Empresas Privadas**</ins>  
+
+**Figura 38**   
+*To-Be Scenario Mapping para segmento #2*  
 <p align="center">
   <img src="images/OS_To-be_S2.jpg" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**Figura**   
-*Áreas positivas del To-Be Scenario Mapping para segmento \#2*
+
+**Figura 39**   
+*Áreas positivas del To-Be Scenario Mapping para segmento #2*
 <p align="center">
   <img src="images/OS_To-be_S2_AP.jpg" alt="PB" width="1000">
 </p>
+
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**Figura**   
-*Áreas negativas del To-Be Scenario Mapping para segmento \#2*
+
+**Figura 40**   
+*Áreas negativas del To-Be Scenario Mapping para segmento #2*
 <p align="center">
   <img src="images/OS_To-be_S2_AN.jpg" alt="PB" width="1000">
 </p>
+
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
-**Figura**   
-*Blank areas del To-Be Scenario Mapping para segmento \#2*
+
+**Figura 41**   
+*Blank areas del To-Be Scenario Mapping para segmento #2*
 <p align="center">
   <img src="images/OS_To-be_S2_BA.jpg" alt="PB" width="1000">
 </p>
+
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
 
@@ -1055,36 +1110,194 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 | EP05 | Navegación por la landing page |
 | EP06 | Administración de proyectos |
 
-
-
-| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
-| :---- | :---- | :---- | :---- | :---: |
-| EP01/HU01 | Registrar Entrada de Materiales  | Como Supervisor de Obra, quiero registrar la entrada de materiales, para mantener un inventario actualizado y evitar retrasos.  | **Escenario 1: Registrar entrada de material con éxito Given**: Estoy autenticado como Gerente de Obra y tengo un proyecto activo con un inventario. **When**: Registro una entrada de 500 kg de cemento del proveedor "ConstruMax". **Then**: El sistema actualiza el inventario, aumentando la cantidad de cemento a 500 kg, y registra la transacción con el proveedor y la fecha actual. **Escenario 2: Intentar registrar entrada con datos incompletos Given**: Estoy autenticado como Gerente de Obra y tengo un proyecto activo. **When**: Intento registrar una entrada de cemento sin especificar la cantidad. **Then**: El sistema muestra un error indicando que la cantidad es obligatoria y no actualiza el inventario. | EP01 |
-| EP01/HU02 | Registrar Uso de Materiales en Obra  | Como Supervisor de Obra, quiero registrar el uso de materiales, para controlar el consumo y evitar desperdicios.  | **Escenario 1: Registrar uso de material con éxito Given**: Estoy autenticado como Supervisor de Obra y tengo un inventario con 500 kg de cemento. **When**: Registro el uso de 200 kg de cemento para el día actual. **Then**: El sistema reduce el inventario a 300 kg y registra la transacción de uso con la fecha actual. **Escenario 2: Intentar registrar uso mayor al stock disponible Given**: Estoy autenticado como Supervisor de Obra y tengo un inventario con 100 kg de cemento. **When**: Intento registrar el uso de 150 kg de cemento. **Then**: El sistema muestra un error indicando que no hay suficiente stock y no actualiza el inventario. | EP01 |
-| EP01/HU03 | Recibir Alertas de Bajo Nivel de Inventario  | Como Supervisor de Obra, quiero recibir alertas cuando el inventario esté bajo, para reabastecer a tiempo y evitar retrasos.  | **Escenario 1: Recibir alerta de bajo nivel de material Given**: Estoy autenticado como Gerente de Obra, y el inventario tiene 150 kg de cemento con un nivel mínimo de 100 kg. **When**: Registro el uso de 60 kg de cemento, reduciendo el stock a 90 kg. **Then**: El sistema me envía una notificación indicando que el cemento está por debajo del nivel mínimo (90 kg \< 100 kg). **Escenario 2: No recibir alerta si el nivel es suficiente Given**: Estoy autenticado como Gerente de Obra, y el inventario tiene 150 kg de cemento con un nivel mínimo de 100 kg. **When**: Registro el uso de 20 kg de cemento, reduciendo el stock a 130 kg. **Then**: El sistema no envía ninguna notificación, ya que el stock (130 kg) está por encima del nivel mínimo. | EP01 |
-|  EP01/HU04 |  Consultar Historial de Transacciones de Inventario  |  Como Supervisor de Obra, quiero consultar el historial de transacciones de inventario, para auditar el uso de materiales y detectar irregularidades.  |  **Escenario 1: Consultar historial con transacciones existentes Given**: Estoy autenticado como Gerente de Obra, y el inventario de cemento tiene 2 transacciones: una entrada de 500 kg y un uso de 200 kg. **When**: Consulto el historial de transacciones del cemento. **Then**: El sistema muestra una lista con las 2 transacciones, incluyendo tipo (entrada/uso), cantidades, proveedor (para entradas), y fechas. **Escenario 2: Consultar historial sin transacciones Given**: Estoy autenticado como Gerente de Obra, y el inventario de acero no tiene transacciones registradas. **When**: Consulto el historial de transacciones del acero. **Then**: El sistema muestra un mensaje indicando que no hay transacciones registradas. | EP01 |
-|  EP01/HU05 |  Registrar Maquinaria Asignada al Proyecto  |  Como Supervisor de Obra, quiero registrar maquinaria asignada al proyecto, para gestionar su disponibilidad y evitar retrasos.  |  **Escenario 1: Registrar maquinaria con éxito Given**: Estoy autenticado como Supervisor de Obra y tengo un proyecto activo. **When**: Registro una mezcladora con número de serie "MX123" y estado "Operativa". **Then**: El sistema agrega la mezcladora al inventario del proyecto con los datos proporcionados y actualiza su estado. **Escenario 2: Intentar registrar maquinaria con datos duplicados Given**: Estoy autenticado como Supervisor de Obra, y ya existe una mezcladora con número de serie "MX123". **When**: Intento registrar otra mezcladora con el mismo número de serie "MX123". **Then**: El sistema muestra un error indicando que el número de serie ya está registrado y no agrega la maquinaria. | EP01 |
-| EP02/HU06 | Registro de trabajadores | Como supervisor de obra, quiero registrar a los trabajadores con sus datos personales, cargo y especialidad, para tener un control ordenado y centralizado del personal en cada proyecto. | **Escenario 1: Registro exitoso de un nuevo trabajador Given**: El supervisor accede al registro de trabajadores **When**: Ingresa los datos personales, cargo y especialidad de un nuevo trabajador. **Then**: El sistema guarda correctamente la información y muestra al nuevo trabajador en la lista de trabajadores. **Escenario 2: Modificación de datos de un trabajador existente Given**: El supervisor quiere editar los datos de un trabajador registrado anteriormente. **When**: Selecciona el trabajador y modifica la información. **Then**: El sistema actualiza los datos y muestra los cambios reflejados en la lista de trabajadores. | EP02 |
-| EP02/HU07 | Asignación de tareas y roles | Como supervisor de obra, quiero asignar tareas específicas y roles a cada trabajador dentro de una obra, para saber sus responsabilidades diarias en una lista de trabajadores. | **Escenario 1: Asignación inicial de tarea y rol a un trabajador. Given**: El supervisor está en la sección de lista de trabajadores **When**: Selecciona un trabajador y le asigna una tarea y un rol. **Then**: El sistema guarda la asignación y la muestra en el recuadro de tarea asignada y rol. **Escenario 2: Modificación de la tarea asignada a un trabajador  Given**: El supervisor de obra necesita cambiar la tarea asignada a un trabajador. **When**: Acceder a la lista de trabajadores y editar la tarea de asignada. **Then**: El sistema actualiza la tarea y actualiza el cambio en la pantalla. | EP02 |
-| EP02/HU08 | Control de Asistencia | Como supervisor de obra, quiero llevar el control de asistencia diaria de los trabajadores en obra, para contar con un registro confiable que respalde pagos y evaluaciones. | **Escenario 1: Registro diario de asistencia de trabajadores Given**: El supervisor de obra accede a la sección control de asistencia. **When**: Completa los datos de la asistencia de los trabajadores al inicio del trabajo. **Then**: El sistema guarda el registro con fecha y hora de llegada. **Escenario 2: Justificación de ausencia de un trabajador Given**: Un trabajador no asistió y se debe justificar la ausencia. **When**: El supervisor de obra selecciona al trabajador que faltó y añade una observación. **Then**: El sistema registra la ausencia como justificada y almacena la observación. | EP02 |
-| EP06/HU09 | Ingresar un Nuevo Proyecto  | Como Supervisor de Obra, quiero ingresar un nuevo proyecto, para planificar y gestionar todas las actividades relacionadas con la obra.  | **Escenario 1:** Ingresar un proyecto con éxito   Given: Estoy autenticado como Gerente de Obra y tengo permisos para crear proyectos.    **When:** Ingreso un proyecto con nombre "Construcción Edificio A", fecha de inicio "2025-05-01", presupuesto "100,000" y estado "Activo".    **Then:** El sistema crea el proyecto y lo muestra en mi lista de proyectos con los datos ingresados.  **Escenario 2:** Intentar ingresar un proyecto con datos incompletos   Given: Estoy autenticado como Gerente de Obra.   **When:** Intento ingresar un proyecto sin especificar el nombre ni la fecha de inicio.    **Then:** El sistema muestra un error indicando que el nombre y la fecha de inicio son obligatorios y no crea el proyecto.   | EP06 |
-| EP02/HU10 | Lista de trabajadores por obra | Como supervisor de obra, quiero ver una lista de todos los trabajadores asignados a cada obra, para saber rápidamente quién está trabajando en cada proyecto y que roles o tareas cumplen. | **Escenario 1: Visualización general de trabajadores en una obra Given**: El gerente de la obra entra la sección obras activas. **When**: Selecciona una obra en específico.   **Then**: El sistema muestra la lista de todos los trabajadores asignados a esa obra. **Escenario 2: Búsqueda de trabajadores por nombre o cargo en una obra. Given**: El gerente de obra quiere buscar un trabajador específico en una obra. **When**: Usa el buscador por nombre o cargo. **Then**: El sistema filtra y muestra solo a los trabajadores que cumplen con ese criterio. | EP02 |
-| EP05/HU11 | Ver descripción de ArquiTech | Como contratante de empresa privada, quiero leer una descripción clara de ArquiTech para entender sus beneficios.  | **Escenario 1: Descripción visible Given** que soy un contratante de empresa privada y me encuentro en del sitio web de ArquiTech, **When** navego hacia abajo en la sección de inicio, **Then** se presenta una descripción clara de ArquiTech. **Escenario 2: Contenido actualizado Given** que el contenido se actualiza,  **When** accedo al sitio web, **Then** se muestra la versión más reciente. | EP05 |
-| EP05/HU12 | Contactar al equipo de ArquiTech para contratar el servicio | Como supervisor de obra, quiero contactarme con el equipo de ArquiTech para poder tener más información y contratar el servicio. | **Escenario 1: Ir a la sección contacto con un boton Given** que estoy en la página web de ArquiTech, **When** le doy clic al botón que dice “Contacto” en la barra superior al lado derecho, **Then** la página se desplazará automáticamente hasta esa sección.   **Escenario 2: Solicitud exitosa con campos completos Given** que estoy en el sitio web de ArquiTech y estoy en la sección "Contacto" de la landing page,  **When** completo el formulario que aparece con todos mis datos solicitados obligatorios (nombres, apellidos, email, número telefónico), y presiono el botón "Enviar", **Then** recibo un mensaje de confirmación en la pantalla que dice "Solicitud enviada. Te contactaremos pronto."   **Escenario 2: Solicitud Fallida por Campo de Email Inválido Given** que estoy en el sitio web de ArquiTech y estoy en la sección "Contacto" de la landing page,  **When** relleno el formulario, pero dejo un campo obligatorio vacío o con el tipo de dato equivocado y presiono el botón "Enviar", **Then** el formulario mostrará un mensaje de error que indique que falta completar un campo solicitado. | EP05 |
-| EP05/HU13 | Explorar beneficios | Como  supervisor de obra, quiero explorar los beneficios de ArquiTech en la landing page, para entender cómo puede ayudarme a gestionar mejor mis proyectos y ahorrar tiempo. | **Escenario 1: Navegar a la sección de beneficios y leer detalles Given** que estoy en la página principal de ArquiTech  **When** desplazo hacia abajo hasta encontrar la sección "Beneficios" y hago clic en el botón "Ver Más Beneficios". **Then** se despliega una sección detallada donde leo cómo ArquiTech automatiza la gestión de inventario y asistencia, con ejemplos de reportes en tiempo real. | EP05 |
-| EP05/HU14 | Observar los medios oficiales de comunicación directa con ArquiTech. | Como supervisor de obra, quiero contactarme con el equipo directamente para realizar consultas sobre los beneficios u otras dudas que me surjan. | **Escenario 1: Ubicar el lugar donde se encuentran los medios de contacto Given** que me encuentro en la página web de ArquiTech, **When** me desplazo hacia la parte final de la página, **Then** veré  el número telefónico y el correo electrónico en el lado derecho del  pie de página debajo de “Contáctanos”. | EP05 |
-| EP05/HU15 | Visitar las redes sociales de ArquiTech | Como supervisor de obra, quiero visitar las redes sociales de ArquiTech para poder observar las opiniones de otros usuarios y más información de la empresa. | **Escenario 1: Visualizar las redes en las que la empresa tiene una cuenta Given** que me encuentro en la página de ArquiTech. **When** me desplazo hacia el final de la página **Then** observaré los íconos de las redes sociales en las que ArquiTech tiene una cuenta. **Escenario 2: Entrar a las redes desde las páginas Given** que me encuentro observando los íconos de las redes sociales en el pie de la página,  **When** le doy clic a uno de los íconos, **Then** se abrirá otra pestaña con la cuenta de la red social del ícono que seleccioné. | EP05 |
-| EP04/HU16 | Editar Información del Perfil | Como usuario de la plataforma, quiero poder editar mi información personal (nombre, correo, cargo),para mantener mis datos actualizados en el sistema. | **Escenario 1: Edición exitosa del perfil Given** estoy autenticado y accedo a la sección de configuración de perfil. **When** modifico mi nombre y cargo, y presiono “Guardar cambios”. **Then** el sistema actualiza mis datos correctamente y muestra un mensaje de confirmación. **Escenario 2: Edición con campos vacíos Given** estoy autenticado y accedo a la sección de perfil.  **When** elimino el campo de correo y trato de guardar. **Then** el sistema muestra un error indicando que el correo es obligatorio y no guarda los cambios. | EP04 |
-| EP04/HU17 | Cambiar Foto de Perfil | Como usuario registrado, quiero subir o cambiar mi foto de perfil, para personalizar mi cuenta y facilitar la identificación. | **Escenario 1: Carga de imagen exitosa Given** estoy en la configuración del perfil y elijo una imagen válida (.jpg, .png). **When** presiono el botón “Subir foto”. **Then** el sistema actualiza mi imagen y se refleja inmediatamente en la interfaz. **Escenario 2: Carga de formato no permitido Given** intento subir un archivo PDF como imagen de perfil. **When** selecciono el archivo y hago clic en “Subir”. **Then** el sistema muestra un mensaje de error que indica que el formato no es válido. | EP04 |
-| EP04/HU18 | Cambiar Contraseña | Como usuario autenticado, quiero cambiar mi contraseña de acceso, para mantener segura mi cuenta. | **Escenario 1: Cambio exitoso Given** estoy en la sección de “Cambiar ” del perfil. **When** ingreso mi contraseña actual, la nueva y su confirmación, y luego presiono “Guardar”. **Then** el sistema actualiza mi contraseña y muestra un mensaje de éxito. **Escenario 2: Contraseñas no coinciden Given** ingreso una nueva contraseña y su confirmación con diferencias. **When** presiono “Guardar”. **Then** el sistema muestra un mensaje de error indicando que las contraseñas no coinciden. | EP04 |
-| EP04/HU19 | Configurar Notificaciones | Como usuario administrador, quiero configurar mis preferencias de notificación (correo, SMS, alertas in-app), para recibir los avisos más importantes por los medios que prefiera. | **Escenario 1: Activar notificaciones por correo Given** estoy en la sección de notificaciones del perfil. **When** activo la opción “Notificarme por correo” y guardo cambios. **Then** el sistema guarda mi preferencia y empiezo a recibir avisos por email. **Escenario 2: Desactivar todas las notificaciones Given** desactivo todas las opciones de notificación. **When** guardo los cambios **Then** el sistema me muestra una advertencia indicando que desactivé todas las notificaciones. | EP04 |
-| EP03/HU20 | Generar reporte diario de avance | Como Supervisor de Obra, quiero poder generar un reporte diario del avance de las actividades en campo, incluyendo personal presente, materiales utilizados y observaciones, para mantener un control organizado | **Escenario: Generación de reporte diario de obra  1:  Given**:   que el Supervisor ha iniciado sesión en el sistema y se encuentra en el módulo de reportes, **When**: completa la información del día (actividades realizadas, materiales usados, observaciones y personal presente) y pulsa el botón "Generar reporte", **Then**: el sistema debe guardar el reporte correctamente, mostrar una confirmación visual y permitir visualizarlo en el historial de reportes. **Escenario 2:  Validación de campos obligatorios Given**: Que el supervisor está en el formulario de reporte diario, **When**:  intenta generar el reporte sin completar todos los campos requeridos (como fecha o avance físico), **Then**:el sistema debe mostrar mensajes de error que indiquen qué campos faltan y evitar la generación hasta que estén completos.  | EP03 |
-| EP03/HU21 | Visualizar reportes semanales | Como Gerente de Obra, quiero visualizar reportes semanales consolidados que resuman los avances diarios, asistencias, y consumo de materiales. | **Escenario 1: Acceso a reportes semanales consolidados Given**: que el gerente ha iniciado sesión y se encuentra en el módulo de reportes, **When**:  selecciona la opción “reporte semanal” desde el menú, **Then**:  el sistema debe mostrarle un reporte con gráficos y datos consolidados de los últimos 7 días. **Escenario 2:  Datos faltantes en la semana Given**: que uno o más días de la semana no tienen reporte cargado, **When**: el gerente accede al reporte semanal, **Then**: el sistema debe indicarle qué días no cuentan con información y mostrar los demás datos correctamente. | EP03 |
-| EP03/HU22 | Recibir notificación de nuevo reporte | Como Contratante de empresa privada, quiero recibir una notificación automática cada vez que se genere un nuevo reporte de obra, para mantenerme al tanto del avance sin necesidad de ingresar a la plataforma constantemente. | **Escenario 1: Notificación por correo electrónico Given**: que el contratante está registrado y tiene su correo validado, **When**:  se genera un nuevo reporte diario o semanal, **Then**: el sistema debe enviarle un correo con un resumen del contenido y un enlace para visualizarlo. **Escenario 2: Notificación push desde la app Given**: que el contratante tiene la app instalada y ha activado las notificaciones, **When**: se publica un nuevo reporte, **Then**: el sistema debe enviarle una notificación push con un mensaje corto y opción para abrir el reporte directamente. | EP03 |
-| EP03/HU23 | Agregar evidencias fotográficas a los reportes | Como Supervisor de Obra, quiero poder adjuntar fotos como evidencia visual al generar un reporte, para documentar el estado real del avance, incidentes o condiciones de la obra en cada etapa. | **Escenario 1: Adjuntar imágenes desde el dispositivo Given**: que el supervisor está generando un nuevo reporte, **When**: selecciona la opción “Agregar imágenes” y carga una o varias fotos desde su dispositivo, **Then**: el sistema debe adjuntar correctamente las imágenes al reporte y mostrar una vista previa. **Escenario 2: Visualización en el reporte generado Given**: que el reporte ya fue generado con imágenes adjuntas, **When**: otro usuario (gerente, asistente, contratante) lo abre, **Then**: el sistema debe mostrar las imágenes junto con los datos del reporte, organizadas por fecha o sección. | EP03 |
-| EP03/HU24 | Seleccionar obra específica para ver sus reportes | Como Gerente de Obra o Supervisor, quiero poder seleccionar una obra específica desde un listado, para ver únicamente los reportes relacionados con esa obra | **Escenario 1: Filtrar reportes por obra Given**: que el usuario tiene acceso a más de una obra, **When**: selecciona una obra desde un menú desplegable o buscador, **Then**: el sistema debe mostrar únicamente los reportes correspondientes a esa obra. **Escenario 2: Persistencia de selección Given**: que el usuario ya ha seleccionado una obra, **When**: navega entre diferentes secciones del módulo de reportes, **Then**: el sistema debe mantener esa obra seleccionada hasta que el usuario decida cambiarla manualmente. | EP03 |
-| EP06/HU25 | Visualizar Lista de Proyectos  | Como Supervisor de Obra, quiero visualizar una lista de mis proyectos, para tener un panorama claro de todas mis obras activas.  | **Escenario 1:** Visualizar lista con proyectos existentes   **Given:** Estoy autenticado como Supervisor de Obra y tengo 3 proyectos activos: "Edificio A", "Tienda B" y "Casa C".   **When:** Accede a la sección de proyectos.   **Then:** El sistema muestra una lista con los 3 proyectos, incluyendo nombre, fecha de inicio, presupuesto y estado.  **Escenario 2:** Visualizar lista sin proyectos   **Given:** Estoy autenticado como Supervisor de Obra y no tengo proyectos registrados.   **When:** Accede a la sección de proyectos.   **Then:** El sistema muestra un mensaje indicando que no hay proyectos registrados. | EP06 |
-
+<body class="c25 doc-content">
+<p></p>
+<table class="c4">
+<tr class="c22">
+<td class="c16" colspan="1" rowspan="1"><p>Epic / Story ID</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Título</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Descripción</p></td>
+<td class="c19" colspan="1" rowspan="1"><p>Criterios de Aceptación</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>Relacionado con (Epic ID)</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP01/HU01</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Registrar Entrada de Materiales</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero registrar la entrada de materiales, para mantener un inventario actualizado y evitar retrasos.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Registrar entrada de material con éxito</b></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra y tengo un proyecto activo con un inventario.</p><p><b>When</b>: Registro una entrada de 500 kg de cemento del proveedor "ConstruMax".</p><p><b>Then</b>: El sistema actualiza el inventario, aumentando la cantidad de cemento a 500 kg, y registra la transacción con el proveedor y la fecha actual.</p><p><b>Escenario 2: Intentar registrar entrada con datos incompletos</b></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra y tengo un proyecto activo.</p><p><b>When</b>: Intento registrar una entrada de cemento sin especificar la cantidad.</p><p><b>Then</b>: El sistema muestra un error indicando que la cantidad es obligatoria y no actualiza el inventario.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP01/HU02</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Registrar Uso de Materiales en Obra</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero registrar el uso de materiales, para controlar el consumo y evitar desperdicios.</p><p></p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Registrar uso de material con éxito</b></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra y tengo un inventario con 500 kg de cemento.</p><p><b>When</b>: Registro el uso de 200 kg de cemento para el día actual.</p><p><b>Then</b>: El sistema reduce el inventario a 300 kg y registra la transacción de uso con la fecha actual.</p><p><b>Escenario 2: Intentar registrar uso mayor al stock disponible</b></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra y tengo un inventario con 100 kg de cemento.</p><p><b>When</b>: Intento registrar el uso de 150 kg de cemento.</p><p><b>Then</b>: El sistema muestra un error indicando que no hay suficiente stock y no actualiza el inventario.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP01/HU03</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Recibir Alertas de Bajo Nivel de Inventario</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero recibir alertas cuando el inventario esté bajo, para reabastecer a tiempo y evitar retrasos.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Recibir alerta de bajo nivel de material</b></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra, y el inventario tiene 150 kg de cemento con un nivel mínimo de 100 kg.</p><p><b>When</b>: Registro el uso de 60 kg de cemento, reduciendo el stock a 90 kg.</p><p><b>Then</b>: El sistema me envía una notificación indicando que el cemento está por debajo del nivel mínimo (90 kg < 100 kg).</p><p><b>Escenario 2: No recibir alerta si el nivel es suficiente</b></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra, y el inventario tiene 150 kg de cemento con un nivel mínimo de 100 kg.</p><p><b>When</b>: Registro el uso de 20 kg de cemento, reduciendo el stock a 130 kg.</p><p><b>Then</b>: El sistema no envía ninguna notificación, ya que el stock (130 kg) está por encima del nivel mínimo.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP01/HU04</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Consultar Historial de Transacciones de Inventario</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero consultar el historial de transacciones de inventario, para auditar el uso de materiales y detectar irregularidades.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Consultar historial con transacciones existentes</b></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra, y el inventario de cemento tiene 2 transacciones: una entrada de 500 kg y un uso de 200 kg.</p><p><b>When</b>: Consulto el historial de transacciones del cemento.</p><p><b>Then</b>: El sistema muestra una lista con las 2 transacciones, incluyendo tipo (entrada/uso), cantidades, proveedor (para entradas), y fechas.</p><p><b>Escenario 2: Consultar historial sin transacciones</b></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra, y el inventario de acero no tiene transacciones registradas.</p><p><b>When</b>: Consulto el historial de transacciones del acero.</p><p><b>Then</b>: El sistema muestra un mensaje indicando que no hay transacciones registradas.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP01/HU05</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Registrar Maquinaria Asignada al Proyecto</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero registrar maquinaria asignada al proyecto, para gestionar su disponibilidad y evitar retrasos.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Registrar maquinaria con éxito</b></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra y tengo un proyecto activo.</p><p><b>When</b>: Registro una mezcladora con número de serie "MX123" y estado "Operativa".</p><p><b>Then</b>: El sistema agrega la mezcladora al inventario del proyecto con los datos proporcionados y actualiza su estado.</p><p><b>Escenario 2: Intentar registrar maquinaria con datos duplicados</b></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra, y ya existe una mezcladora con número de serie "MX123".</p><p><b>When</b>: Intento registrar otra mezcladora con el mismo número de serie "MX123".</p><p><b>Then</b>: El sistema muestra un error indicando que el número de serie ya está registrado y no agrega la maquinaria.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP02/HU06</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Registro de trabajadores</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero registrar a los trabajadores con sus datos personales, cargo y especialidad, para tener un control ordenado y centralizado del personal en cada proyecto.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Registro exitoso de un nuevo trabajador</b></p><p><b>Given</b>: El supervisor accede al registro de trabajadores</p><p><b>When</b>: Ingresa los datos personales, cargo y especialidad de un nuevo trabajador.</p><p><b>Then</b>: El sistema guarda correctamente la información y muestra al nuevo trabajador en la lista de trabajadores.</p><p><b>Escenario 2: Modificación de datos de un trabajador existente</b></p><p><b>Given</b>: El supervisor quiere editar los datos de un trabajador registrado anteriormente.</p><p><b>When</b>: Selecciona el trabajador y modifica la información.</p><p><b>Then</b>: El sistema actualiza los datos y muestra los cambios reflejados en la lista de trabajadores.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP02</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP02/HU07</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Asignación de tareas y roles</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero asignar tareas específicas y roles a cada trabajador dentro de una obra, para saber sus responsabilidades diarias en una lista de trabajadores.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Asignación inicial de tarea y rol a un trabajador.</b></p><p><b>Given</b>: El supervisor está en la sección de lista de trabajadores</p><p><b>When</b>: Selecciona un trabajador y le asigna una tarea y un rol.</p><p><b>Then</b>: El sistema guarda la asignación y la muestra en el recuadro de tarea asignada y rol.</p><p><b>Escenario 2: Modificación de la tarea asignada a un trabajador</b></p><p><b>Given</b>: El supervisor de obra necesita cambiar la tarea asignada a un trabajador.</p><p><b>When</b>: Acceder a la lista de trabajadores y editar la tarea de asignada.</p><p><b>Then</b>: El sistema actualiza la tarea y actualiza el cambio en la pantalla.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP02</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP02/HU08</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Control de Asistencia</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero llevar el control de asistencia diaria de los trabajadores en obra, para contar con un registro confiable que respalde pagos y evaluaciones.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Registro diario de asistencia de trabajadores</b></p><p><b>Given</b>: El supervisor de obra accede a la sección control de asistencia.</p><p><b>When</b>: Completa los datos de la asistencia de los trabajadores al inicio del trabajo.</p><p><b>Then</b>: El sistema guarda el registro con fecha y hora de llegada.</p><p><b>Escenario 2: Justificación de ausencia de un trabajador</b></p><p><b>Given</b>: Un trabajador no asistió y se debe justificar la ausencia.</p><p><b>When</b>: El supervisor de obra selecciona al trabajador que faltó y añade una observación.</p><p><b>Then</b>: El sistema registra la ausencia como justificada y almacena la observación.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP02</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP06/HU09</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Ingresar un Nuevo Proyecto</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero ingresar un nuevo proyecto, para planificar y gestionar todas las actividades relacionadas con la obra.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Ingresar un proyecto con éxito</b></p><p>Given: Estoy autenticado como Gerente de Obra y tengo permisos para crear proyectos.</p><p></p><p><b>When</b>: Ingreso un proyecto con nombre "Construcción Edificio A", fecha de inicio "2025-05-01", presupuesto "100,000" y estado "Activo".</p><p></p><p><b>Then</b>: El sistema crea el proyecto y lo muestra en mi lista de proyectos con los datos ingresados.</p><p></p><p><b>Escenario 2: Intentar ingresar un proyecto con datos incompletos</b></p><p>Given: Estoy autenticado como Gerente de Obra.</p><p></p><p><b>When</b>: Intento ingresar un proyecto sin especificar el nombre ni la fecha de inicio.</p><p></p><p><b>Then</b>: El sistema muestra un error indicando que el nombre y la fecha de inicio son obligatorios y no crea el proyecto.</p><p></p><p></p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP06</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP02/HU10</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Lista de trabajadores por obra</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero ver una lista de todos los trabajadores asignados a cada obra, para saber rápidamente quién está trabajando en cada proyecto y que roles o tareas cumplen.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Visualización general de trabajadores en una obra</b></p><p><b>Given</b>: El gerente de la obra entra la sección obras activas.</p><p><b>When</b>: Selecciona una obra en específico.</p><p><b>Then</b>: El sistema muestra la lista de todos los trabajadores asignados a esa obra.</p><p><b>Escenario 2: Búsqueda de trabajadores por nombre o cargo en una obra.</b></p><p><b>Given</b>: El gerente de obra quiere buscar un trabajador específico en una obra.</p><p><b>When</b>: Usa el buscador por nombre o cargo.</p><p><b>Then</b>: El sistema filtra y muestra solo a los trabajadores que cumplen con ese criterio.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP02</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP05/HU11</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Ver descripción de BuildTruck</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como contratante de empresa privada, quiero leer una descripción clara de BuildTruck para entender sus beneficios.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Descripción visible</b></p><p><b>Given</b> que soy un contratante de empresa privada y me encuentro en del sitio web de BuildTruck,</p><p><b>When</b> navego hacia abajo en la sección de inicio,</p><p><b>Then</b> se presenta una descripción clara de BuildTruck.</p><p><b>Escenario 2: Contenido actualizado</b></p><p><b>Given</b> que el contenido se actualiza,</p><p><b>When</b> accedo al sitio web,</p><p><b>Then</b> se muestra la versión más reciente.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP05</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP05/HU12</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Contactar al equipo de BuildTruck para contratar el servicio</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero contactarme con el equipo de BuildTruck para poder tener más información y contratar el servicio.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Ir a la sección contacto con un boton</b></p><p><b>Given</b> que estoy en la página web de BuildTruck,</p><p><b>When</b> le doy clic al botón que dice “Contacto” en la barra superior al lado derecho,</p><p><b>Then</b> la página se desplazará automáticamente hasta esa sección.</p><p></p><p><b>Escenario 2: Solicitud exitosa con campos completos</b></p><p></p><p><b>Given</b> que estoy en el sitio web de BuildTruck y estoy en la sección "Contacto" de la landing page,</p><p></p><p><b>When</b> completo el formulario que aparece con todos mis datos solicitados obligatorios (nombres, apellidos, email, número telefónico), y presiono el botón "Enviar",</p><p></p><p><b>Then</b> recibo un mensaje de confirmación en la pantalla que dice "Solicitud enviada. Te contactaremos pronto."</p><p><b>Escenario 2: Solicitud Fallida por Campo de Email Inválido</b></p><p><b>Given</b> que estoy en el sitio web de BuildTruck y estoy en la sección "Contacto" de la landing page,</p><p><b>When</b> relleno el formulario, pero dejo un campo obligatorio vacío o con el tipo de dato equivocado y presiono el botón "Enviar",</p><p><b>Then</b> el formulario mostrará un mensaje de error que indique que falta completar un campo solicitado.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP05</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP05/HU13</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Explorar beneficios</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero explorar los beneficios de BuildTruck en la landing page, para entender cómo puede ayudarme a gestionar mejor mis proyectos y ahorrar tiempo.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Navegar a la sección de beneficios y leer detalles</b></p><p><b>Given</b> que estoy en la página principal de BuildTruck</p><p><b>When</b> desplazo hacia abajo hasta encontrar la sección "Beneficios" y hago clic en el botón "Ver Más Beneficios".</p><p><b>Then</b> se despliega una sección detallada donde leo cómo BuildTruck automatiza la gestión de inventario y asistencia, con ejemplos de reportes en tiempo real.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP05</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP05/HU14</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Observar los medios oficiales de comunicación directa con BuildTruck.</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero contactarme con el equipo directamente para realizar consultas sobre los beneficios u otras dudas que me surjan.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Ubicar el lugar donde se encuentran los medios de contacto</b></p><p><b>Given</b> que me encuentro en la página web de BuildTruck,</p><p><b>When</b> me desplazo hacia la parte final de la página,</p><p><b>Then</b> veré el número telefónico y el correo electrónico en el lado derecho del pie de página debajo de “Contáctanos”.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP05</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP05/HU15</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Visitar las redes sociales de BuildTruck</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero visitar las redes sociales de BuildTruck para poder observar las opiniones de otros usuarios y más información de la empresa.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Visualizar las redes en las que la empresa tiene una cuenta</b></p><p><b>Given</b> que me encuentro en la página de BuildTruck.</p><p><b>When</b> me desplazo hacia el final de la página</p><p><b>Then</b> observaré los íconos de las redes sociales en las que BuildTruck tiene una cuenta.</p><p><b>Escenario 2: Entrar a las redes desde las páginas</b></p><p><b>Given</b> que me encuentro observando los íconos de las redes sociales en el pie de la página,</p><p><b>When</b> le doy clic a uno de los íconos,</p><p><b>Then</b> se abrirá otra pestaña con la cuenta de la red social del ícono que seleccioné.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP05</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP04/HU16</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Editar Información del Perfil</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario de la plataforma, quiero poder editar mi información personal (nombre, correo, cargo),para mantener mis datos actualizados en el sistema.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Edición exitosa del perfil</b></p><p><b>Given</b> estoy autenticado y accedo a la sección de configuración de perfil.</p><p><b>When</b> modifico mi nombre y cargo, y presiono “Guardar cambios”.</p><p><b>Then</b> el sistema actualiza mis datos correctamente y muestra un mensaje de confirmación.</p><p><b>Escenario 2: Edición con campos vacíos</b></p><p><b>Given</b> estoy autenticado y accedo a la sección de perfil.</p><p><b>When</b> elimino el campo de correo y trato de guardar.</p><p><b>Then</b> el sistema muestra un error indicando que el correo es obligatorio y no guarda los cambios.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP04</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP04/HU17</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Cambiar Foto de Perfil</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario registrado, quiero subir o cambiar mi foto de perfil, para personalizar mi cuenta y facilitar la identificación.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Carga de imagen exitosa</b></p><p><b>Given</b> estoy en la configuración del perfil y elijo una imagen válida (.jpg, .png).</p><p><b>When</b> presiono el botón “Subir foto”.</p><p><b>Then</b> el sistema actualiza mi imagen y se refleja inmediatamente en la interfaz.</p><p><b>Escenario 2: Carga de formato no permitido</b></p><p><b>Given</b> intento subir un archivo PDF como imagen de perfil.</p><p><b>When</b> selecciono el archivo y hago clic en “Subir”.</p><p><b>Then</b> el sistema muestra un mensaje de error que indica que el formato no es válido.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP04</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP04/HU18</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Cambiar Contraseña</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario autenticado, quiero cambiar mi contraseña de acceso, para mantener segura mi cuenta.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Cambio exitoso</b></p><p></p><p><b>Given</b> estoy en la sección de “Cambiar ” del perfil.</p><p><b>When</b> ingreso mi contraseña actual, la nueva y su confirmación, y luego presiono “Guardar”.</p><p><b>Then</b> el sistema actualiza mi contraseña y muestra un mensaje de éxito.</p><p><b>Escenario 2: Contraseñas no coinciden</b></p><p><b>Given</b> ingreso una nueva contraseña y su confirmación con diferencias.</p><p><b>When</b> presiono “Guardar”.</p><p><b>Then</b> el sistema muestra un mensaje de error indicando que las contraseñas no coinciden.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP04</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP04/HU19</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Configurar Notificaciones</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario administrador, quiero configurar mis preferencias de notificación (correo, SMS, alertas in-app), para recibir los avisos más importantes por los medios que prefiera.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Activar notificaciones por correo</b></p><p></p><p><b>Given</b> estoy en la sección de notificaciones del perfil.</p><p><b>When</b> activo la opción “Notificarme por correo” y guardo cambios.</p><p><b>Then</b> el sistema guarda mi preferencia y empiezo a recibir avisos por email.</p><p><b>Escenario 2: Desactivar todas las notificaciones</b></p><p><b>Given</b> desactivo todas las opciones de notificación.</p><p><b>When</b> guardo los cambios</p><p><b>Then</b> el sistema me muestra una advertencia indicando que desactivé todas las notificaciones.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP04</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP03/HU20</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Generar reporte diario de avance</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero poder generar un reporte diario del avance de las actividades en campo, incluyendo personal presente, materiales utilizados y observaciones, para mantener un control organizado</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario: Generación de reporte diario de obra 1:</b></p><p><b>Given</b>: que el Supervisor ha iniciado sesión en el sistema y se encuentra en el módulo de reportes,</p><p><b>When</b>: completa la información del día (actividades realizadas, materiales usados, observaciones y personal presente) y pulsa el botón "Generar reporte",</p><p><b>Then</b>: el sistema debe guardar el reporte correctamente, mostrar una confirmación visual y permitir visualizarlo en el historial de reportes.</p><p><b>Escenario 2: Validación de campos obligatorios</b></p><p><b>Given</b>: Que el supervisor está en el formulario de reporte diario,</p><p><b>When</b>: intenta generar el reporte sin completar todos los campos requeridos (como fecha o avance físico),</p><p><b>Then</b>: el sistema debe mostrar mensajes de error que indiquen qué campos faltan y evitar la generación hasta que estén completos.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP03/HU21</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Visualizar reportes semanales</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Gerente de Obra, quiero visualizar reportes semanales consolidados que resuman los avances diarios, asistencias, y consumo de materiales.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Acceso a reportes semanales consolidados</b></p><p><b>Given</b>: que el gerente ha iniciado sesión y se encuentra en el módulo de reportes,</p><p><b>When</b>: selecciona la opción “reporte semanal” desde el menú,</p><p><b>Then</b>: el sistema debe mostrarle un reporte con gráficos y datos consolidados de los últimos 7 días.</p><p><b>Escenario 2: Datos faltantes en la semana</b></p><p><b>Given</b>: que uno o más días de la semana no tienen reporte cargado,</p><p><b>When</b>: el gerente accede al reporte semanal,</p><p><b>Then</b>: el sistema debe indicarle qué días no cuentan con información y mostrar los demás datos correctamente.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP03/HU22</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Recibir notificación de nuevo reporte</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Contratante de empresa privada, quiero recibir una notificación automática cada vez que se genere un nuevo reporte de obra, para mantenerme al tanto del avance sin necesidad de ingresar a la plataforma constantemente.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Notificación por correo electrónico</b></p><p><b>Given</b>: que el contratante está registrado y tiene su correo validado,</p><p><b>When</b>: se genera un nuevo reporte diario o semanal,</p><p><b>Then</b>: el sistema debe enviarle un correo con un resumen del contenido y un enlace para visualizarlo.</p><p><b>Escenario 2: Notificación push desde la app</b></p><p><b>Given</b>: que el contratante tiene la app instalada y ha activado las notificaciones,</p><p><b>When</b>: se publica un nuevo reporte,</p><p><b>Then</b>: el sistema debe enviarle una notificación push con un mensaje corto y opción para abrir el reporte directamente.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP03/HU23</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Agregar evidencias fotográficas a los reportes</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero poder adjuntar fotos como evidencia visual al generar un reporte, para documentar el estado real del avance, incidentes o condiciones de la obra en cada etapa.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Adjuntar imágenes desde el dispositivo</b></p><p><b>Given</b>: que el supervisor está generando un nuevo reporte,</p><p></p><p><b>When</b>: selecciona la opción “Agregar imágenes” y carga una o varias fotos desde su dispositivo,</p><p><b>Then</b>: el sistema debe adjuntar correctamente las imágenes al reporte y mostrar una vista previa.</p><p><b>Escenario 2: Visualización en el reporte generado</b></p><p><b>Given</b>: que el reporte ya fue generado con imágenes adjuntas,</p><p><b>When</b>: otro usuario (gerente, asistente, contratante) lo abre,</p><p><b>Then</b>: el sistema debe mostrar las imágenes junto con los datos del reporte, organizadas por fecha o sección.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP03/HU24</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Seleccionar obra específica para ver sus reportes</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Gerente de Obra o Supervisor, quiero poder seleccionar una obra específica desde un listado, para ver únicamente los reportes relacionados con esa obra</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Filtrar reportes por obra</b></p><p><b>Given</b>: que el usuario tiene acceso a más de una obra,</p><p><b>When</b>: selecciona una obra desde un menú desplegable o buscador,</p><p><b>Then</b>: el sistema debe mostrar únicamente los reportes correspondientes a esa obra.</p><p><b>Escenario 2: Persistencia de selección</b></p><p><b>Given</b>: que el usuario ya ha seleccionado una obra,</p><p><b>When</b>: navega entre diferentes secciones del módulo de reportes,</p><p><b>Then</b>: el sistema debe mantener esa obra seleccionada hasta que el usuario decida cambiarla manualmente.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP06/HU25</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Visualizar Lista de Proyectos</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero visualizar una lista de mis proyectos, para tener un panorama claro de todas mis obras activas.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><b>Escenario 1: Visualizar lista con proyectos existentes</b></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra y tengo 3 proyectos activos: "Edificio A", "Tienda B" y "Casa C".</p><p><b>When</b>: Accede a la sección de proyectos.</p><p><b>Then</b>: El sistema muestra una lista con los 3 proyectos, incluyendo nombre, fecha de inicio, presupuesto y estado.</p><p></p><p><b>Escenario 2: Visualizar lista sin proyectos</b></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra y no tengo proyectos registrados.</p><p><b>When</b>: Accede a la sección de proyectos.</p><p><b>Then</b>: El sistema muestra un mensaje indicando que no hay proyectos registrados.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP06</p></td>
+</tr>
+</table>
+<p></p>
+</body>
 
 
 ## 3.3. Impact Mapping
