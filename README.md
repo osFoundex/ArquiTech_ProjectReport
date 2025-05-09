@@ -50,16 +50,6 @@
 # 
 
 <body class="c9">
-	
-<style type="text/css">
-table td, table th { padding: 0; }
-.c5 { border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 112.9pt; border-top-color: #000000; border-bottom-style: solid; }
-.c0 { border-spacing: 0; border-collapse: collapse; margin-right: auto; }
-.c9 { background-color: #ffffff; max-width: 451.4pt; padding: 72pt 72pt 72pt 72pt; }
-.c7 { height: 0pt; }
-.c4 { height: 11pt; }
-</style>
- 
 <table class="c0">
 <tr class="c7">
 <td class="c5" colspan="1" rowspan="1"><p>Versión</p></td>
