@@ -11,7 +11,7 @@
 <h4 style="text-align: center;"><strong>Docente: Hugo Allan Mori Paiva </h4>
 <h4 style="text-align: center;"><strong>Startup: Arquitech</strong></h4>
 
-### Team members:
+**Team members:**
 
 <table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
   <tr>
@@ -76,7 +76,7 @@
 # 
 <hr>
 
-## Project Report Collaboration Insights  
+## Project Report Collaboration Insights
 Para realizar el informe de este proyecto, utilizaremos un repositorio llamado “ArquiTech\_ProjectReport” el cual está colocado en nuestra organización llamada “osFoundex” en GitHub. Se puede observar en el siguiente enlace: [https://github.com/Paulu27/ArquiTech\_ProjectReport](https://github.com/Paulu27/ArquiTech_ProjectReport)   
 **TB1:**  
 Para la elaboración de este informe, primero utilizamos un documento de google donde podíamos ver los avances en simultáneo. Posteriormente, una vez terminado, realizamos commits en el repositorio del project report en GitHub. A continuación, mostraremos analíticas de participación:  
@@ -257,7 +257,6 @@ En Foundex, creemos que  es fundamental agilizar los procesos de construcción p
   <img src="images/profile-ernesto.png" alt="PB" width="1000">
 </p>
 
-
 **Figura 6**
 
 *Perfil de Melisa Sulca*  
@@ -266,14 +265,13 @@ En Foundex, creemos que  es fundamental agilizar los procesos de construcción p
   <img src="images/profile-m.png" alt="PB" width="1000">
 </p>
 
-
 *Nota.* Elaboración propia.  
 
 ## 1.2. Solution Profile
 
-### 1.2.1. Antecedentes y problemática
+### *1.2.1. Antecedentes y problemática*
 
-En el contexto actual del sector construcción en Lima Metropolitana, muchas pequeñas y medianas empresas enfrentan dificultades al momento de administrar sus proyectos de forma eficiente. La mayoría de estos procesos —como la gestión de materiales, personal, presupuestos y avances de obra— aún se realizan de manera manual o a través de herramientas poco integradas, como hojas de cálculo, notas físicas o mensajería informal, lo que genera desorganización, pérdida de información y errores costosos.
+En el contexto actual del sector construcción en Lima Metropolitana, muchas pequeñas y medianas empresas enfrentan dificultades al momento de administrar sus proyectos de forma eficiente. La mayoría de estos procesos, como la gestión de materiales, personal, presupuestos y avances de obra, aún se realizan de manera manual o a través de herramientas poco integradas, como hojas de cálculo, notas físicas o mensajería informal, lo que genera desorganización, pérdida de información y errores costosos.
  
 Particularmente, los supervisores de obra (quienes en muchos casos también cumplen funciones de jefes de obra) se enfrentan a múltiples retos. Deben coordinar equipos, controlar recursos, reportar avances y tomar decisiones en tiempo real, todo esto con herramientas limitadas y en entornos que no siempre cuentan con buena conectividad. Por otro lado, los contratantes de empresas privadas necesitan transparencia, cumplimiento normativo y visibilidad del progreso de la obra, pero suelen recibir información fragmentada y poco clara, lo que puede generar desconfianza y retrasos en los pagos o decisiones.
 
@@ -308,30 +306,30 @@ Se manifiesta mediante la falta de control en el inventario, errores en la asist
 La gravedad radica en que estas deficiencias pueden representar pérdidas económicas importantes: retrasos que extienden la duración de la obra, compras innecesarias por mal control de materiales, baja productividad del personal, y descontento del cliente. Además, las soluciones existentes en el mercado como Procore o Buildertrend, aunque completas, son financieramente inaccesibles para estas empresas (costos desde $95 hasta $370 mensuales), lo que deja un vacío en el mercado que nuestra solución puede cubrir.
 
 
-### 1.2.2. Lean UX Process
+### *1.2.2. Lean UX Process*
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-Nuestra solución digital ha sido desarrollada pensando en brindar a las pequeñas y medianas empresas del sector construcción, así como a su personal administrativo, una herramienta eficaz para gestionar sus obras. Desde la solicitud de servicios hasta el control del progreso y los gastos, la plataforma busca simplificar la administración y promover una mayor claridad en cada etapa del proceso constructivo.
+* Nuestra solución digital ha sido desarrollada pensando en brindar a las pequeñas y medianas empresas del sector construcción, así como a su personal administrativo, una herramienta eficaz para gestionar sus obras. Desde la solicitud de servicios hasta el control del progreso y los gastos, la plataforma busca simplificar la administración y promover una mayor claridad en cada etapa del proceso constructivo.
 
+* Durante nuestra investigación, notamos que uno de los mayores retos para estas empresas es la ausencia de un sistema unificado, práctico y fácil de usar que les permita monitorear de forma ordenada sus proyectos, registrar avances diarios, tener visibilidad del presupuesto disponible y comunicarse sin fricciones con los distintos actores involucrados en el desarrollo de las obras. Esta carencia suele traducirse en desorganización, demoras en la entrega de informes y dificultades al momento de tomar decisiones clave.
 
-Durante nuestra investigación, notamos que uno de los mayores retos para estas empresas es la ausencia de un sistema unificado, práctico y fácil de usar que les permita monitorear de forma ordenada sus proyectos, registrar avances diarios, tener visibilidad del presupuesto disponible y comunicarse sin fricciones con los distintos actores involucrados en el desarrollo de las obras. Esta carencia suele traducirse en desorganización, demoras en la entrega de informes y dificultades al momento de tomar decisiones clave.
+* Entonces, ¿de qué manera podemos transformar la gestión de obras para estas empresas, haciendo que la experiencia sea más amigable, accesible y dotada de herramientas integradas que permitan un seguimiento preciso de cada etapa del proyecto?
 
-Entonces, ¿de qué manera podemos transformar la gestión de obras para estas empresas, haciendo que la experiencia sea más amigable, accesible y dotada de herramientas integradas que permitan un seguimiento preciso de cada etapa del proyecto?
+* El propósito de nuestra plataforma es mejorar la administración de proyectos constructivos, minimizar errores en los procesos administrativos y ofrecer a los usuarios una comprensión clara y actualizada del estado de sus obras, el uso de los recursos y el cumplimiento de los plazos establecidos.
 
-El propósito de nuestra plataforma es mejorar la administración de proyectos constructivos, minimizar errores en los procesos administrativos y ofrecer a los usuarios una comprensión clara y actualizada del estado de sus obras, el uso de los recursos y el cumplimiento de los plazos establecidos.
+* Hemos identificado que muchas tareas administrativas aún se realizan utilizando hojas de cálculo, notas dispersas o canales de comunicación desorganizados. Esta realidad limita el acceso a información en tiempo real y aumenta el riesgo de cometer errores o duplicar esfuerzos.
 
-Hemos identificado que muchas tareas administrativas aún se realizan utilizando hojas de cálculo, notas dispersas o canales de comunicación desorganizados. Esta realidad limita el acceso a información en tiempo real y aumenta el riesgo de cometer errores o duplicar esfuerzos.
+* Por ello, surge la necesidad de automatizar y digitalizar estos procesos para que el personal administrativo cuente con soluciones prácticas, intuitivas y efectivas que les permitan centralizar, registrar y compartir información de manera ordenada y eficiente.
 
-Por ello, surge la necesidad de automatizar y digitalizar estos procesos para que el personal administrativo cuente con soluciones prácticas, intuitivas y efectivas que les permitan centralizar, registrar y compartir información de manera ordenada y eficiente.
+* También observamos que algunas pequeñas empresas enfrentan limitaciones tecnológicas, ya sea por falta de conocimiento en el uso de herramientas digitales o porque las plataformas existentes no están pensadas para su realidad particular. Como resultado, no logran sacar el máximo provecho de estas soluciones.
 
-También observamos que algunas pequeñas empresas enfrentan limitaciones tecnológicas, ya sea por falta de conocimiento en el uso de herramientas digitales o porque las plataformas existentes no están pensadas para su realidad particular. Como resultado, no logran sacar el máximo provecho de estas soluciones.
-
-¿De qué forma podemos diseñar una plataforma que se adapte a distintos niveles de habilidad tecnológica, que sea accesible tanto para empresas con mayor experiencia como para aquellas que recién están empezando, y que puedan aprovechar sus beneficios sin necesidad de invertir demasiado tiempo en aprender a utilizarla?
+* ¿De qué forma podemos diseñar una plataforma que se adapte a distintos niveles de habilidad tecnológica, que sea accesible tanto para empresas con mayor experiencia como para aquellas que recién están empezando, y que puedan aprovechar sus beneficios sin necesidad de invertir demasiado tiempo en aprender a utilizarla?
 
 
 #### 1.2.2.2. Lean UX Assumptions
-Assumptions worksheet
+
+**Assumptions worksheet**
 
 1. Creemos que nuestros clientes necesitan reducir errores y pérdidas por desorganización en obra al momento de gestionar el inventario, personal y obreros.  
 2. Estas necesidades se pueden resolver con un seguimiento personalizado para cada uno de estos aspectos del proyecto.  
@@ -347,21 +345,21 @@ Assumptions worksheet
 
 * **¿Quién es el usuario?**
 
-Nuestros principales clientes serán los supervisores de obra y contratantes de empresas privadas que se encuentran en un rango de edad de 28 a 50 años que pueden ser de clase media-alta, estos quieren encontrar una manera eficiente de llevar la administración de sus proyectos de construcción para evitar pérdidas.
+	Nuestros principales clientes serán los supervisores de obra y contratantes de empresas privadas que se encuentran en un rango de edad de 28 a 50 años que pueden ser de clase media-alta, estos quieren encontrar una manera eficiente de llevar la administración de sus proyectos de construcción para evitar pérdidas.
 
 * **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
-Nuestro producto encaja al momento de iniciar la supervisión de un aspecto del proyecto que se está administrando en ese momento o se quiere revisar el avance y buen manejo.
+	Nuestro producto encaja al momento de iniciar la supervisión de un aspecto del proyecto que se está administrando en ese momento o se quiere revisar el avance y buen manejo.
 
 * **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**  
-  * La dependencia del internet en la obra para poder utilizar el aplicativo el cual se puede solucionar incluyendo un modo offline que sincronice datos al reconectarse a una red de internet.  
-  * El soporte técnico insuficiente para picos de demanda, en caso de un aumento repentino de usuarios se podría saturar el soporte técnico, frustrando a clientes que esperan respuestas rápidas. Este problema lo podremos solucionar creando una base de conocimientos con videos y guías para resolver dudas comunes y evitar un número masivo de consultas.  
+	* La dependencia del internet en la obra para poder utilizar el aplicativo el cual se puede solucionar incluyendo un modo offline que sincronice datos al reconectarse a una red de internet.
+	* El soporte técnico insuficiente para picos de demanda, en caso de un aumento repentino de usuarios se podría saturar el soporte técnico, frustrando a clientes que esperan respuestas rápidas. Este problema lo podremos solucionar creando una base de conocimientos con videos y guías para resolver dudas comunes y evitar un número masivo de consultas.  
 * **¿Cómo y cuándo es usado nuestro producto?**  
-  * Nuestro producto puede ser usado al inicio del día para planificar (confirmar asistencia, revisar inventario), durante el día para monitorear (actualizar avances) y al final para generar y/o revisar reportes.  
+	* Nuestro producto puede ser usado al inicio del día para planificar (confirmar asistencia, revisar inventario), durante el día para monitorear (actualizar avances) y al final para generar y/o revisar reportes.  
 * **¿Qué características son importantes?**  
-  * Nuestro producto debe contar con una interfaz intuitiva, fácil de usar y aprender por nuestros usuarios, también debe contar con una buena sincronización de datos para poder tener un buen seguimiento de los distintos aspectos de la obra.  
+	* Nuestro producto debe contar con una interfaz intuitiva, fácil de usar y aprender por nuestros usuarios, también debe contar con una buena sincronización de datos para poder tener un buen seguimiento de los distintos aspectos de la obra.  
 * **¿Cómo debe verse nuestro producto y cómo comportarse?**  
-  * La interfaz de nuestro producto debe ser intuitiva y resposive con un diseño que transmita confianza y profesionalismo y que sea de respuesta rápida.
+	* La interfaz de nuestro producto debe ser intuitiva y resposive con un diseño que transmita confianza y profesionalismo y que sea de respuesta rápida.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 * Creemos que ofrecer una plataforma web centralizada para supervisores y asistentes administrativos que integre la gestión de inventario, personal y obreros resultará en una reducción del tiempo dedicado a tareas administrativas, y lo sabremos porque el tiempo promedio para generar reportes diarios disminuirá de 60 minutos a 15 minutos en las primeras cuatro semanas de uso.  
@@ -370,54 +368,167 @@ Nuestro producto encaja al momento de iniciar la supervisión de un aspecto del 
 
 #### 1.2.2.4. Lean UX Canvas
 
+**Figura 7**
+*Lean UX Canvas*
 <p align="center">
   <img src="images/ux-canvas.png" alt="PB" width="1000">
 </p>
 
+*Nota.* Elaboración propia.
 
 ## 1.3. Segmentos Objetivos
-<div style='text-align: justify;'>
-**Segmento objetivo \#1: Supervisores de obra**
+
+<ins>**Segmento objetivo #1: Supervisores de obra**</ins>  
 
 Este segmento está compuesto por profesionales encargados de supervisar y gestionar la ejecución de los proyectos de construcción. En muchas empresas pequeñas y medianas, el rol de supervisor es asumido también por el jefe de obra, quien cumple múltiples funciones que van desde la supervisión directa en campo hasta la toma de decisiones administrativas y técnicas.  
+
 **Características demográficas**  
 Ubicación: Principalmente en zonas urbanas y semiurbanas de Lima Metropolitana, como San Juan de Lurigancho, Villa El Salvador, Ate y San Martín de Porres, donde se concentran pequeñas y medianas empresas constructoras.  
 Edad: Entre 28 y 50 años, con una media de 38 años.  
 Nivel socioeconómico: Clase media  
 Desafíos: Los supervisores de obra pueden afrontar desafíos como mantener el desarrollo de la obra dentro del presupuesto estimado, tener los materiales adecuados para la ejecución de la obra, comunicar los avances a los contratantes y asegurar la coordinación del personal  
-**Segmento objetivo \#2: Contratantes de empresas privadas**  
+
+<ins>**Segmento objetivo #2: Contratantes de empresas privadas**</ins>   
 **Características demográficas:**  
 Ubicación:  Principalmente en zonas urbanas y semiurbanas de Lima Metropolitana, como San Juan de Lurigancho, Villa El Salvador, Ate y San Martín de Porres, donde se concentran pequeñas y medianas empresas constructoras.  
 Edad: Entre 34 y 45 años, con una media de de 39 años  
 Nivel socioeconómico: Clase media-alta  
 Desafíos: Necesitan obras terminadas a tiempo para evitar interrupciones en sus operaciones o pérdidas económicas. Esperan que todo esté en regla: licencias, seguros, normas de construcción y seguridad laboral.
- 
-</div>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
 
-### 2.1.1. Análisis competitivo
+### *2.1.1. Análisis competitivo*
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+<body class="c23 doc-content">
+<table class="c19">
+<tr class="c14">
+<td class="c21" colspan="6" rowspan="1"><p>Competitive Analysis Landscape</p></td>
+</tr>
+<tr class="c12">
+<td class="c20" colspan="2" rowspan="1"><p>¿Por qué realizar este análisis?</p></td>
+<td class="c26" colspan="4" rowspan="1"><p>Es fundamental realizarlo debido a que te brinda una visión más detallada de los competidores del rubro donde se está desarrollando nuestra startup.</p><p>Esto nos permite identificar los FODA de nuestra startup, así como de los competidores. Además, nos ayuda a detectar aspectos clave para saber en donde marcamos la diferencia contra los otros competidores, y así poder sobresalir en el mercado. Incluso podemos reconocer nuestras fortalezas y debilidades, lo que servirá de apoyo para la toma de decisiones estratégicas más acertadas.</p></td>
+</tr>
+<tr class="c12">
+<td class="c20" colspan="2" rowspan="1"><p>Nombre</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>BuildTruck</p></td>
+<td class="c1" colspan="1" rowspan="1"><p></p><p>Procore</p><p></p></td>
+<td class="c1" colspan="1" rowspan="1"><p>BuilderTrend</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>BuildWise</p></td>
+</tr>
+<tr class="c12">
+<td class="c20" colspan="2" rowspan="1"><p>Logo</p></td>
+<td class="c7" colspan="1" rowspan="1"><p><img src="images/A-logo.png" alt="BuildTruck Logo" width="94" height="94"></p></td>
+<td class="c1" colspan="1" rowspan="1"><p><img src="images/ProcoreLogo.png" alt="Procore Logo" width="91" height="31"></p></td>
+<td class="c1" colspan="1" rowspan="1"><p><img src="images/BuildertrendLogo.png" alt="BuilderTrend Logo" width="88" height="31"></p></td>
+<td class="c9" colspan="1" rowspan="1"><p><img src="images/BuildwiseLogo.png" alt="BuildWise Logo" width="85" height="20"></p></td>
+</tr>
+<tr class="c18">
+<td class="c11" colspan="1" rowspan="2"><p>Perfil</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>Overview</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>BuildTruck es una plataforma digital integral que permite a constructoras y equipos administrativos gestionar con eficiencia sus proyectos. Se basa en la optimización de procesos, brindando herramientas que les permita tomar decisiones informadas.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Procore es una plataforma que impulsa las construcciones basadas en datos para permitir que los clientes posean una visión completa de sus proyectos en distintas escalas, pero más aún para las grandes constructoras.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>BuilderTrend es una empresa de software de gestión de construcción residencial y remodelación. Us```markdown
+Usan herramientas de planificación, presupuestos y CRM, para gestionar eficientemente los negocios.
+<td class="c9" colspan="1" rowspan="1"><p>BuildWise es una empresa que posee una plataforma ágil y es accesible para PYMEs (pequeñas o medianas empresas) constructoras. Además proporciona información técnica, realiza investigaciones científicas y brinda asesoramiento a sus clientes.</p></td>
+</tr>
+<tr class="c13">
+<td class="c6" colspan="1" rowspan="1"><p>Ventaja competitiva</p><p></p><p>¿Qué valor ofrece a los clientes?</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Solución completa, accesible y fácil de usar, diseñada para pequeñas y medianas constructoras con soporte personalizado e informes automatizados.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Gestión de proyectos a base de distintas escalas con múltiples módulos especializados.</p><p>También, posee funcionalidad robusta y escalabilidad.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Mejora la comunicación, la planificación y el presupuesto en las construcciones residenciales y remodelaciones. Logra obtener buen soporte para las diferentes empresas y remodeladores.</p><p></p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Solución accesible y sencilla para digitalizar obras pequeñas y medianas (PYMEs) con soporte directo y automatizado.</p><p>Precio accesible, facilidad de uso, soporte local y enfoque en automatización básica.</p></td>
+</tr>
+<tr class="c12">
+<td class="c11" colspan="1" rowspan="2"><p>Plan de marketing</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>Mercado objetivo</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Supervisores de obras y contratantes de empresas privadas. Ambos segmentos de empresas pequeñas y medianas empresas.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Grandes empresas constructoras, gerentes de proyectos, contratistas generales e ingenieros y desarrolladores inmobiliarios.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Constructores de viviendas, remodeladores, contratistas especializados, y pequeñas y medianas empresas de construcción.</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Pequeñas empresas constructoras, remodeladores independientes y contratistas en mercados locales o regionales.</p></td>
+</tr>
+<tr class="c12">
+<td class="c6" colspan="1" rowspan="1"><p>Estrategias de marketing</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Precio competitivo, pruebas gratuitas, capacitación gratuita, atención personalizada y realización de marketing de contenidos.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Marketing de contenido, presencia en ferias de construcción y tecnología y alianzas estratégicas con otras plataformas del rubro.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Publicidad en redes sociales, vídeos tutoriales, marketing segmentado y SEO en su sitio web.</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Página web optimizada para SEO, precios simples y transparentes y promoción a través de asociaciones con gremios de construcción locales.</p></td>
+</tr>
+<tr class="c12">
+<td class="c11" colspan="1" rowspan="3"><p>Plan de producto</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>Productos y servicios</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Gestión de proyectos de construcción, control de inventario, gestión de personal en obra, reportes visuales de avances, registro y seguimiento de obras.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Gestión de proyectos, gestión financiera, gestión de calidad y seguridad, gestión de recursos y documentos.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Planificación de proyectos, presupuestos y cotizaciones, gestión de pagos y facturación, comunicación con clientes e informes financieros.</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Control de presupuestos, programación y seguimiento de proyectos, control de costos y materiales y visualización de cronogramas y tareas.</p></td>
+</tr>
+<tr class="c12">
+<td class="c6" colspan="1" rowspan="1"><p>Precios y costos</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Inicialmente para que pruebes nuestra plataforma contarás con una prueba gratuita de 30 días. Luego de probarla, tendrás un precio accesible para una suscripción inicial de $45 mensuales, en los cuales podrás utilizar funciones como clave el control de inventario y la gestión de personal.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Planes personalizados que comienzan alrededor de $375 mensuales, basándose en el volumen anual de construcción y los módulos seleccionados en la plataforma.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Planes personalizados que comienzan con precios alrededor de $99 mensuales y que depende de las necesidades específicas del negocio.</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Existe la tarifa mensual o anual fija que incluye todas las funcionalidades y uso ilimitado.</p></td>
+</tr>
+<tr class="c12">
+<td class="c6" colspan="1" rowspan="1"><p>Canales de distribución</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Sitio web oficial (landing page), cuentas de nuestra empresa en distintas redes sociales, talleres gratuitos y atención directa personalizada vía chat y teléfono.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Plataforma web, app móvil, equipo de ventas B2B e integraciones con plataformas de terceros.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Plataforma web, app móvil, modelo de ventas en línea y canal de atención al cliente para soporte y capacitación.</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Plataforma web, app móvil, venta directa en línea desde su sitio web y soporte en línea con base de conocimientos.</p></td>
+</tr>
+<tr class="c12">
+<td class="c11" colspan="1" rowspan="4"><p>Análisis FODA</p><p></p><p>(SWOT)</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>Fortalezas</p></td>
+<td class="c7" colspan="1" rowspan="1"><p></p><p>-Precio accesible y competitivo.</p><p></p><p>-Soporte personalizado en chat y teléfono.</p><p></p><p>-Prueba gratuita de 30 días.</p><p></p><p>-Funcionalidades adaptadas a necesidades reales de obra.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>-Plataforma consolidada.</p><p></p><p>-Funcionalidades avanzadas.</p><p></p><p>-Soporte 24/7.</p><p></p><p>-Escalabilidad para grandes proyectos.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>-Integración de gestión de ventas y proyectos.</p><p></p><p>-Interfaz amigable.</p><p></p><p>-Recursos de capacitación disponibles.</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>-Precio competitivo.</p><p></p><p>-Atención personalizada</p><p></p><p>-Prueba gratuita extendida.</p><p></p><p>-Herramientas prácticas enfocadas en necesidades reales de obra.</p></td>
+</tr>
+<tr class="c12">
+<td class="c6" colspan="1" rowspan="1"><p>Oportunidades</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>-Tendencia creciente de digitalización en la construcción.</p><p></p><p>-Ausencia de soluciones locales especializadas.</p><p></p><p>-Mayor demanda de herramientas en español.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>-Expansión en mercados emergentes.</p><p></p><p>-Desarrollo de nuevas integraciones</p></td>
+<td class="c1" colspan="1" rowspan="1"><p></p><p>-Aumento en la demanda de soluciones integrales para constructores residenciales.</p><p></p><p>-Expansión en mercados de remodelaciones.</p></td>
+<td class="c9" colspan="1" rowspan="1"><p></p><p>-Digitalización creciente del sector construcción en LATAM.</p><p></p><p>-Baja adopción actual de tecnología en PYMEs.</p></td>
+</tr>
+<tr class="c12">
+<td class="c6" colspan="1" rowspan="1"><p>Debilidades</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>-Producto aún en fase de crecimiento.</p><p></p><p>-Requiere inversión constante en desarrollo y soporte.</p><p></p><p>-Limitada visibilidad de la marca en las primeras etapas.</p><p></p></td>
+<td class="c1" colspan="1" rowspan="1"><p></p><p>-Costo elevado para PYMEs.</p><p></p><p>-Complejidad en la implementación inicial.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p></p><p>-Costos elevados para planes avanzados.</p><p></p><p>-Curva de aprendizaje para nuevas empresas.</p></td>
+<td class="c9" colspan="1" rowspan="1"><p></p><p>-Baja notoriedad de marca por ser nueva en el mercado.</p><p></p><p>-Recursos limitados en comparación con competidores consolidados.</p></td>
+</tr>
+<tr class="c12">
+<td class="c6" colspan="1" rowspan="1"><p>Amenazas</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>-Ingreso de competidores internacionales con mayor presupuesto.</p><p></p><p>-Resistencia al cambio por parte de usuarios tradicionales.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>-Competencia de plataformas especializadas con precios más bajos.</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>-Entrada de nuevos competidores con soluciones más accesibles.</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>-Competidores consolidados con mayores recursos</p></td>
+</tr>
+</table>
+</body>
 
-Lanzaremos un plan de suscripción inicial a un precio accesible de $45 mensuales, el cual incluirá funciones clave como el control de inventario y la gestión de personal. Este precio representa una alternativa mucho más económica comparada con soluciones como Procore (alrededor de $370 mensuales) o Buildertrend (aproximadamente $95 al mes), lo que nos posiciona como una opción rentable para empresas que buscan digitalizarse sin altos costos.
+### *2.1.2. Estrategias y tácticas frente a competidores*
 
-Para atraer a empresas que aún trabajan con procesos manuales, compartiremos recursos gratuitos como seminarios virtuales, guías descargables y tutoriales enfocados en los beneficios de automatizar la gestión operativa y cómo utilizar nuestra plataforma paso a paso. Esto posicionará a BuildWise como una puerta de entrada accesible al mundo digital, ideal para quienes aún no dan el salto a herramientas más complejas.
+* Lanzaremos un plan de suscripción inicial a un precio accesible de $45 mensuales, el cual incluirá funciones clave como el control de inventario y la gestión de personal. Este precio representa una alternativa mucho más económica comparada con soluciones como Procore (alrededor de $370 mensuales) o Buildertrend (aproximadamente $95 al mes), lo que nos posiciona como una opción rentable para empresas que buscan digitalizarse sin altos costos.
 
-También ofreceremos una prueba sin costo de 30 días, en contraste con los 14 días que suelen ofrecer otras plataformas, brindando acceso total a todas las funcionalidades del sistema. De esta forma, los nuevos usuarios podrán comprobar lo sencillo que es adoptar nuestra herramienta sin necesidad de soporte técnico avanzado, a diferencia de otras soluciones que requieren tiempo y asistencia para empezar.
+* Para atraer a empresas que aún trabajan con procesos manuales, compartiremos recursos gratuitos como seminarios virtuales, guías descargables y tutoriales enfocados en los beneficios de automatizar la gestión operativa y cómo utilizar nuestra plataforma paso a paso. Esto posicionará a BuildWise como una puerta de entrada accesible al mundo digital, ideal para quienes aún no dan el salto a herramientas más complejas.
 
-Entre nuestras funcionalidades diferenciadoras, incluiremos herramientas como notificaciones automáticas ante niveles bajos de inventario, lo cual responde a una necesidad concreta en obra y que no suele ser prioridad en plataformas enfocadas en planos o comunicación cliente-empresa.
+* Ofreceremos una prueba sin costo de 30 días, en contraste con los 14 días que suelen ofrecer otras plataformas, brindando acceso total a todas las funcionalidades del sistema. De esta forma, los nuevos usuarios podrán comprobar lo sencillo que es adoptar nuestra herramienta sin necesidad de soporte técnico avanzado, a diferencia de otras soluciones que requieren tiempo y asistencia para empezar.
 
-Nuestro equipo también brindará atención directa y personalizada vía chat y teléfono, con tiempos de respuesta ágiles. Esto supera la experiencia de muchas soluciones del mercado, donde el soporte suele gestionarse a través de tickets y puede demorar en responder.
+* Entre nuestras funcionalidades diferenciadoras, incluiremos herramientas como notificaciones automáticas ante niveles bajos de inventario, lo cual responde a una necesidad concreta en obra y que no suele ser prioridad en plataformas enfocadas en planos o comunicación cliente-empresa.
 
-Finalmente, ofreceremos planes ajustables según la cantidad de obras activas, permitiendo a los usuarios comenzar con una inversión mínima y escalar progresivamente a medida que su operación lo requiera, sin estar obligados a adquirir paquetes costosos desde el inicio, como ocurre con algunos competidores.
+* Brindaremos atención directa y personalizada vía chat y teléfono, con tiempos de respuesta ágiles. Esto supera la experiencia de muchas soluciones del mercado, donde el soporte suele gestionarse a través de tickets y puede demorar en responder.
+
+* Ofreceremos planes ajustables según la cantidad de obras activas, permitiendo a los usuarios comenzar con una inversión mínima y escalar progresivamente a medida que su operación lo requiera, sin estar obligados a adquirir paquetes costosos desde el inicio, como ocurre con algunos competidores.
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
-**Diseño de entrevistas para el segmento objetivo 1: Supervisores de obra**  
+
+**Diseño de entrevistas para el segmento objetivo 1: Supervisores de obra** 
+
 **Introducción y contexto**
 
 * ¿Cuál es tu nombre?  
