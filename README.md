@@ -1124,7 +1124,8 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 <td class="c16" colspan="1" rowspan="1"><p>EP01/HU01</p></td>
 <td class="c13" colspan="1" rowspan="1"><p>Registrar Entrada de Materiales</p><p></p></td>
 <td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero registrar la entrada de materiales, para mantener un inventario actualizado y evitar retrasos.</p><p></p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Registrar entrada de material con éxito</b></u>u></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra y tengo un proyecto activo con un inventario.</p><p><b>When</b>: Registro una entrada de 500 kg de cemento del proveedor "ConstruMax".</p><p><b>Then</b>: El sistema actualiza el inventario, aumentando la cantidad de cemento a 500 kg, y registra la transacción con el proveedor y la fecha actual.</p><p><u><b>Escenario 2: Intentar registrar entrada con datos incompletos</b></u></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra y tengo un proyecto activo.</p><p><b>When</b>: Intento registrar una entrada de cemento sin especificar la cantidad.</p><p><b>Then</b>: El sistema muestra un error indicando que la cantidad es obligatoria y no actualiza el inventario.</p></td>
+<td class="c19" colspan="1" rowspan="1">
+	<p><b><u>Escenario 1: Registrar entrada de material con éxito</u></b></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra y tengo un proyecto activo con un inventario.</p><p><b>When</b>: Registro una entrada de 500 kg de cemento del proveedor "ConstruMax".</p><p><b>Then</b>: El sistema actualiza el inventario, aumentando la cantidad de cemento a 500 kg, y registra la transacción con el proveedor y la fecha actual.</p><p><u><b>Escenario 2: Intentar registrar entrada con datos incompletos</b></u></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra y tengo un proyecto activo.</p><p><b>When</b>: Intento registrar una entrada de cemento sin especificar la cantidad.</p><p><b>Then</b>: El sistema muestra un error indicando que la cantidad es obligatoria y no actualiza el inventario.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
 </tr>
 <tr class="c1">
@@ -1302,11 +1303,14 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 ## 3.3. Impact Mapping
 
+**Figura 42**   
+*Impact Mapping de ArquiTech*
 <p align="center">
-
   <img src="images/impact_mapp.JPG" alt="PB" width="1000">
-
 </p>
+
+*Nota*. Elaboración propia.  
+
 
 ## 3.4. Product Backlog
 
@@ -1340,128 +1344,147 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 |  **25** |  **HU25** |  Visualizar Lista de Proyectos | Como Supervisor de Obra, quiero visualizar una lista de mis proyectos, para tener un panorama claro de todas mis obras activas.  |  **3** |
 
 Adicionalmente, para llevar a cabo el manejo del product backlog, decidimos usar la herramienta virtual “Jira”.  
-**Figura**   
-*Product Backlog de ArquiTech*
 
+**Figura 43**   
+*Product Backlog de ArquiTech*
 <p align="center">
   <img src="images/ProductBacklog.png" alt="PB" width="1000">
 </p>
 
-
 *Nota.* Elaboración propia. Obtenido de [https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible\&atlOrigin=eyJpIjoiMDI2MjcyMjE2OTc5NDY4ZWJkOGI0MWVlOTFmMGRhZWMiLCJwIjoiaiJ9](https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible&atlOrigin=eyJpIjoiMDI2MjcyMjE2OTc5NDY4ZWJkOGI0MWVlOTFmMGRhZWMiLCJwIjoiaiJ9)   
-
 
 <hr>
 
 # Capítulo IV: Product Design
+
+#
 
 ## 4.1. Style Guidelines
 
 Esta sección ofrece la estructura que va contener nuestro diseño y los elementos visuales de nuestra aplicación llamada Arquitech. Se  presentarán recursos como tipografías del logo y del texto, las paletas de colores que se van a usar en nuestra aplicación y nuestro logo. Todo aquello con el propósito de garantizar una imagen visual coherente y que coincida con el objetivo principal de nuestra startup, que es la de brindar soluciones digitales innovadoras para optimizar la gestión de proyectos de construcción de pequeñas y medianas empresas. Esta sección se divide en General Style Guidelines, Web Style Guidelines y Mobile Style Guidelines y se mostrará la experiencia visual atractiva y accesible que les presentaremos a nuestros usuarios. Es necesario que el diseño sea coherente para facilitar la navegación y mejorar la experiencia del usuario, asegurando la funcionalidad, claridad y alineación con las características que representa Arquitech.  
 
 
-### 4.1.1. General Style Guidelines
+### *4.1.1. General Style Guidelines*
 
 Se presentará el diseño conceptual para la landing page como para la aplicación, realizado con el objetivo de lograr una interfaz intuitiva, fácil de usar y mostrar una experiencia estética agradable y cómoda. Se usarán 5 colores, los cuales son el Jet, Sinopia, Fulvous, Selective Yellow y Isabelline. Algunos de estos colores serán usados para el logotipo y para la landing page y la aplicación se alternará entre los 5 colores. Estos colores reflejan nuestra intención de crear un entorno visual digital para mejorar procesos de construcción. A continuación, se detallarán los elementos visuales con mayor precisión.  
-**Branding e ícono:**  
-**Figura 1**  
-*Logo*
+
+<ins> **Branding e ícono:** </ins>  
+
+**Figura 44**   
+*Logo*  
 <p align="center">
   <img src="images/A-logo.png" alt="PB" width="1000">
 </p>
 
-*Nota.* Elaboración Propia  
-Identidad:   
-Arquitech representa una fusión entre la construcción tradicional y la innovación tecnológica. La marca proyecta solidez, precisión y modernidad, dirigida a supervisores de obras y contratantes de pequeñas o medianas empresas privadas que valoran la optimización de procesos de las construcciones.  
-Paleta de Colores:
+*Nota.* Elaboración Propia.  
+ 
+* Identidad:
 
-* \#C43508 (Sinopia): Es un color intenso y cálido y transmite fuerza y energía. También refleja estabilidad ya que representa solidez y firmeza.  
-* \#DE7F1A (Fulvous): Transmite profundidad, energía y dinamismo.  
-* \#FFB627 (Selective yellow): Aporta energía, innovación y enfoque en soluciones.  
-* \#F8F5F1 (Isabelline): Sirve para usarlo como fondo ya que aporta neutralidad, elegancia y contraste.  
-* \#2F2E2D (Jet): Representa seriedad, profesionalismo y sobriedad.
+	Arquitech representa una fusión entre la construcción tradicional y la innovación tecnológica. La marca proyecta solidez, precisión y modernidad, dirigida a supervisores de obras y contratantes de pequeñas o medianas empresas privadas que valoran la optimización de procesos de las construcciones.
 
-Simbolismo:
+* Paleta de Colores:
 
-* Casco de construcción: Evidencia seguridad, ingeniería y trabajo profesional..  
-* Engranaje: Representa tecnología, precisión, procesos y avance constante.  
-* El combinar ambos iconos refuerza la idea de una startup que construye con inteligencia y eficiencia e integra lo físico con lo digital para optimizar procesos de construcción. 
+	* \#C43508 (Sinopia): Es un color intenso y cálido y transmite fuerza y energía. También refleja estabilidad ya que representa solidez y firmeza.  
+	* \#DE7F1A (Fulvous): Transmite profundidad, energía y dinamismo.  
+	* \#FFB627 (Selective yellow): Aporta energía, innovación y enfoque en soluciones.  
+	* \#F8F5F1 (Isabelline): Sirve para usarlo como fondo ya que aporta neutralidad, elegancia y contraste.  
+	* \#2F2E2D (Jet): Representa seriedad, profesionalismo y sobriedad.
 
-Mensaje de la marca:
+* Simbolismo:
 
-* Optimización y eficiencia: Comunica simplicidad y que la startup busca mejorar los procesos constructivos desde la planificación hasta la ejecución, busca eliminar lo innecesario,  maximizar recursos y entregar soluciones inteligentes y funcionales.  
-* Precisión y confiabilidad: El logo refleja solidez y confianza que Arquitech le brindará a sus clientes. Además, refleja seguridad, calidad y resultados duraderos.  
-* Claridad visual y profesionalismo: Representa lo funcional, lo directo y profesional. También, refuerza la idea de una empresa seria, accesible y alineada con las necesidades de la industria actualmente.
+	* Casco de construcción: Evidencia seguridad, ingeniería y trabajo profesional..  
+	* Engranaje: Representa tecnología, precisión, procesos y avance constante.  
+	* El combinar ambos iconos refuerza la idea de una startup que construye con inteligencia y eficiencia e integra lo físico con lo digital para optimizar procesos de construcción. 
 
-Aplicación del branding:
+* Mensaje de la marca:
 
-* Sitios web (landing page) y app: Interfaz limpia con los colores corporativos, iconos vectoriales y navegación intuitiva.  
-* Redes sociales y presentaciones digitales: Plantillas visualmente coherentes con el mensaje de la startup.  
-* Identidad visual corporativa: Uso estratégico del logo y la paleta de colores en material gráfico de la startup como las tarjetas de presentación, presentaciones empresariales, o imagen de perfil en aplicaciones de chats para contactar clientes. 
+	* Optimización y eficiencia: Comunica simplicidad y que la startup busca mejorar los procesos constructivos desde la planificación hasta la ejecución, busca eliminar lo innecesario,  maximizar recursos y entregar soluciones inteligentes y funcionales.  
+	* Precisión y confiabilidad: El logo refleja solidez y confianza que Arquitech le brindará a sus clientes. Además, refleja seguridad, calidad y resultados duraderos.  
+	* Claridad visual y profesionalismo: Representa lo funcional, lo directo y profesional. También, refuerza la idea de una empresa seria, accesible y alineada con las necesidades de la industria actualmente.
 
-**Tipografía:**  
+* Aplicación del branding:
+
+	* Sitios web (landing page) y app: Interfaz limpia con los colores corporativos, iconos vectoriales y navegación intuitiva.  
+	* Redes sociales y presentaciones digitales: Plantillas visualmente coherentes con el mensaje de la startup.  
+	* Identidad visual corporativa: Uso estratégico del logo y la paleta de colores en material gráfico de la startup como las tarjetas de presentación, presentaciones empresariales, o imagen de perfil en aplicaciones de chats para contactar clientes. 
+
+<ins> **Tipografía** </ins>  
 La tipografía de Arquitech cumple un importante rol en la expresión de la identidad de nuestra marca y brinda una sensación de claridad visual, calidez, acompañamiento para nuestros usuarios. Nuestra empresa eligió una fuente tipográfica que combina lo amigable y lo fluido, asegurando al usuario comodidad y nitidez en la landing page y en la aplicación.  
-**Tipografía del Logo y Títulos**  
-El logo de Arquitech que se eligió comunica claridad con varios valores clave como el profesionalismo y técnica, por lo que se ha utilizado la tipografía Anton Regular que pertenece a la Anton Font Family. Esta tipografía transmite un aspecto fuerte y serio, lo cual es ideal para una empresa de construcción que busca mejorar los procesos de las obras. Además, las letras son altas y gruesas, lo que da buena visibilidad al nombre de la empresa en el logo y en los títulos. Cabe agregar, que tiene un aire moderno, pero sin dejar de ser profesional.  
-**Figura 2**
+
+* Tipografía del Logo y Títulos:  
+	El logo de Arquitech que se eligió comunica claridad con varios valores clave como el profesionalismo y técnica, por lo que se ha utilizado la tipografía Anton Regular que pertenece a la Anton Font Family. Esta tipografía transmite un aspecto fuerte y serio, lo cual es ideal para una empresa de construcción que busca mejorar los procesos de las obras. Además, las letras son altas y gruesas, lo que da buena visibilidad al nombre de la empresa en el logo y en los títulos. Cabe agregar, que tiene un aire moderno, pero sin dejar de ser profesional.
+ 
+**Figura 45**  
+*Tipografía de logo y títulos*
 <p align="center">
   <img src="images/font-demo1.png" alt="PB" width="1000">
 </p>
 
-	Nota. Obtenido de: [https://www.dafontfree.io/download/anton-font/\#google\_vignette](https://www.dafontfree.io/download/anton-font/#google_vignette)   
-**Tipografía de Texto Regular**  
-Para el texto de la landing page y la aplicación se ha elegido la tipografía Futura que pertenece a Futura Font Family con el objetivo de que el usuario pueda obtener una cómoda y agradable lectura al visitar nuestras plataformas digitales. Además, esta tipografía representa modernidad, minimalismo, profesionalismo y seriedad. Aquello ayuda a la marca a representar tecnicismo, precisión y avances.  
-**Figura 3**
+*Nota.* Obtenido de: [https://www.dafontfree.io/download/anton-font/\#google\_vignette](https://www.dafontfree.io/download/anton-font/#google_vignette)   
+
+* Tipografía de Texto Regular:  
+	Para el texto de la landing page y la aplicación se ha elegido la tipografía Futura que pertenece a Futura Font Family con el objetivo de que el usuario pueda obtener una cómoda y agradable lectura al visitar nuestras plataformas digitales. Además, esta tipografía representa modernidad, minimalismo, profesionalismo y seriedad. Aquello ayuda a la marca a representar tecnicismo, precisión y avances.
+
+**Figura 46**  
+*Tipografía de texto regular*
 <p align="center">
   <img src="images/futura-font.png" alt="PB" width="1000">
 </p>
-	*Nota.* Obtenido de: [https://www.dafontfree.io/download/futura/](https://www.dafontfree.io/download/futura/)   
-**Colores**  
-Es importante elegir los colores para las plataformas digitales  adecuadamente, ya que así se asegura que la experiencia del usuario sea placentera y agradable. Por ello, nos aseguramos que la paleta de colores seleccionada de Arquitech refleje la esencia de la startup en la landing page y en nuestra aplicación.  
-**Figura 4**
+
+*Nota.* Obtenido de: [https://www.dafontfree.io/download/futura/](https://www.dafontfree.io/download/futura/)   
+
+<ins> **Colores** </ins>  
+	Es importante elegir los colores para las plataformas digitales  adecuadamente, ya que así se asegura que la experiencia del usuario sea placentera y agradable. Por ello, nos aseguramos que la paleta de colores seleccionada de Arquitech refleje la esencia de la startup en la landing page y en nuestra aplicación.  
+
+**Figura 47**  
+*Paleta de colores de ArquiTech*
 <p align="center">
   <img src="images/color-pallete.png" alt="PB" width="1000">
 </p>
-*Nota.* Elaboración Propia  
-	       
-**Espaciado**
 
-* **Interlineado:** 140%-160% para que los textos sean legibles.  
-* **Padding en botones** Mínimo 12px vertical x 24px horizontal para accesibilidad táctil a nuestros usuarios.  
-* **Margen entre secciones:** 34px-64px para mantener un aire visual a los usuarios.  
-* **Grid base:** Utilizar un grid de 8px para dar consistencia.
+*Nota.* Elaboración Propia.  
+	       
+<ins>**Espaciado**</ins>
+
+* Interlineado: 140%-160% para que los textos sean legibles.  
+* Padding en botones: Mínimo 12px vertical x 24px horizontal para accesibilidad táctil a nuestros usuarios.  
+* Margen entre secciones: 34px-64px para mantener un aire visual a los usuarios.  
+* Grid base: Utilizar un grid de 8px para dar consistencia.
 
 Esto transmite un espaciado limpio y estructurado, ya que se aprecia un orden, claridad y refleja la misión de Arquitech  de optimizar procesos, pero en lo visual.   
-**Tono de Comunicación y Lenguaje Aplicado**  
-El tono de Arquitech es profesional, preciso, eficiente, tecnológico y accesible y confiable, diseñado para generar confianza, demostrando experiencia en el rubro de la construcción sin recurrir a un lenguaje complicado o inaccesible para nuestros usuarios.  
-Arquitech acompaña a los clientes desde el inicio hasta el final del proceso constructivo, comunicando con claridad cómo la innovación tecnológica y la eficiencia operativa pueden realizar la diferencia en cada obra.  
-El lenguaje se mantiene preciso y funcional, priorizando la acción. Se evita el exceso de tecnicismos y apuesta por una forma de comunicar que cualquiera dentro del sector pueda entender con facilidad.   
-El estilo comunicativo está alineado con los principios de Arquitech que es innovar, optimizar y liderar.		
+
+<ins>**Tono de Comunicación y Lenguaje Aplicado**</ins>  
+
+* El tono de Arquitech es profesional, preciso, eficiente, tecnológico y accesible y confiable, diseñado para generar confianza, demostrando experiencia en el rubro de la construcción sin recurrir a un lenguaje complicado o inaccesible para nuestros usuarios.  
+* Arquitech acompaña a los clientes desde el inicio hasta el final del proceso constructivo, comunicando con claridad cómo la innovación tecnológica y la eficiencia operativa pueden realizar la diferencia en cada obra.  
+* El lenguaje se mantiene preciso y funcional, priorizando la acción. Se evita el exceso de tecnicismos y apuesta por una forma de comunicar que cualquiera dentro del sector pueda entender con facilidad.   
+* El estilo comunicativo está alineado con los principios de Arquitech que es innovar, optimizar y liderar.		
 
 
+### *4.1.2. Web Style Guidelines*
 
-### 4.1.2. Web Style Guidelines
-
-En esta sección, para nuestra aplicación de Arquitech, se ha decidido colocar como fuente  SF Pro Display y Poppins. Consideramos que estas fuentes son atractivas e ideales para títulos, encabezados y contenido de texto en cada sección, ya que brinda un estilo claro, moderno y profesional. Además, se ha usado la fuente Inter Regular para los botones, ya que está específicamente diseñada para interfaces digitales. Inter Regular posee un diseño limpio y permite una lectura rápida y concisa, lo cual es vital para elementos interactivos como los botones..   
-Los colores que hemos usado para Arquitech, son los mismos anteriormente mencionados. Se ha usado aquellos colores alternándose en cada sección de contenido para ofrecer a nuestros usuarios una experiencia visual agradable y alineada. Se usó el color Isabelline (\#\#F8F5F1) para el fondo ya que transmite una sensación de calidez, limpieza y simplicidad, lo que permite que los elementos visuales  y los textos puedan destacar sin generar distracción. También, se usó el color Jet (\#2F2E2D) en los iconos de botones de agregar para que se pueda resaltar aquellas opciones con mayor facilidad. Para los botones de registrar o que tienen la finalidad de guardar información se le colocó el color Green Pigment (\#2BBA51), ya que es un color que se suele usar para elementos que necesitan llamar la atención, dinamismo y resalta visualmente sobre fondos claros como el nuestro que usamos el color Isabelline. 
+En esta sección, para nuestra aplicación de Arquitech, se ha decidido colocar como fuente  SF Pro Display y Poppins. Consideramos que estas fuentes son atractivas e ideales para títulos, encabezados y contenido de texto en cada sección, ya que brinda un estilo claro, moderno y profesional. Además, se ha usado la fuente Inter Regular para los botones, ya que está específicamente diseñada para interfaces digitales. Inter Regular posee un diseño limpio y permite una lectura rápida y concisa, lo cual es vital para elementos interactivos como los botones.  
+Los colores que hemos usado para Arquitech, son los mismos anteriormente mencionados. Se ha usado aquellos colores alternándose en cada sección de contenido para ofrecer a nuestros usuarios una experiencia visual agradable y alineada. Se usó el color Isabelline (\#F8F5F1) para el fondo ya que transmite una sensación de calidez, limpieza y simplicidad, lo que permite que los elementos visuales  y los textos puedan destacar sin generar distracción. También, se usó el color Jet (\#2F2E2D) en los iconos de botones de agregar para que se pueda resaltar aquellas opciones con mayor facilidad. Para los botones de registrar o que tienen la finalidad de guardar información se le colocó el color Green Pigment (\#2BBA51), ya que es un color que se suele usar para elementos que necesitan llamar la atención, dinamismo y resalta visualmente sobre fondos claros como el nuestro que usamos el color Isabelline. 
 
 La interfaz de Arquitech debe ser responsiva y se debe adaptar a diversos tamaños de pantalla a través de un diseño flexible. Por esta razón es importante saber el tamaño de la pantalla que vamos a utilizar y ajustar aquello en otros dispositivos.  
 Medidas para Web Responsive:  
 Monitor pequeño: 1296x1781px
 
-
+**Figura 48**  
 <p align="center">
   <img src="images/web-responsive.png" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración Propia
 
+**Figura 49**  
 <p align="center">
   <img src="images/web-responsive2.png" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración Propia
 
+**Figura 50**  
 <p align="center">
   <img src="images/web-responsive3.png" alt="PB" width="1000">
 </p>
@@ -1475,148 +1498,149 @@ Monitor pequeño: 1296x1781px
 
 En la arquitectura de información de Arquitech, se aplican distintos sistemas de organización para estructurar el contenido de manera clara y funcional, adaptada al contexto de los usuarios del sector construcción.
 
-1. Organización Visual del Contenido:
+<ins> **Organización Visual del Contenido** </ins>
 
-Jerárquica (Visual Hierarchy):
+1. Jerárquica (Visual Hierarchy):
 
-Se aplica principalmente en la vista general del dashboard, donde la información más importante y urgente se muestra primero (como reportes recientes, alertas de bajo inventario y resumen de avances).
+	Se aplica principalmente en la vista general del dashboard, donde la información más importante y urgente se muestra primero (como reportes recientes, alertas de bajo inventario y resumen de avances).
 Esta jerarquía ayuda a que el usuario enfoque su atención en lo prioritario al momento de ingresar.
 
 
 2. Secuencial (Step-by-Step):
 
-Se utiliza en procesos como la generación de reportes diarios, donde se guía al usuario paso a paso:
+	Se utiliza en procesos como la generación de reportes diarios, donde se guía al usuario paso a paso:
 
-* Selección de obra
+	* Selección de obra
 
-* Registro de asistencia
+	* Registro de asistencia
 
-* Registro de materiales utilizados
+	* Registro de materiales utilizados
 
-* Observaciones finales
+	* Observaciones finales
 
-* Adjuntar evidencias
+	* Adjuntar evidencias
 
-Esto evita errores y facilita la curva de aprendizaje.
+	Esto evita errores y facilita la curva de aprendizaje.
 
 
 3. Matricial:
 
-Se emplea para la vista comparativa de reportes semanales, permitiendo ver columnas con distintas métricas (avance físico, asistencia, materiales) por cada día, en una tabla ordenada que el usuario puede leer horizontal y verticalmente.
+	Se emplea para la vista comparativa de reportes semanales, permitiendo ver columnas con distintas métricas (avance físico, asistencia, materiales) por cada día, en una tabla ordenada que el usuario puede leer horizontal y verticalmente.
 
-Esquemas de Categorización del Contenido:
+
+<ins> **Esquemas de Categorización del Contenido** </ins>
 
 1. Por tópicos:
 
-Toda la plataforma está organizada por módulos funcionales:
+	Toda la plataforma está organizada por módulos funcionales:
 
-* Gestión de personal
+	* Gestión de personal
 
-* Control de materiales
+	* Control de materiales
 
-* Reportes
+	* Reportes
 
-* Configuración de perfil
+	* Configuración de perfil
  
-Esto facilita al usuario identificar rápidamente dónde realizar cada acción.
+	Esto facilita al usuario identificar rápidamente dónde realizar cada acción.
 
 2. Cronológico:
 
-En los módulos de reportes y asistencia, los datos se organizan por fecha para reflejar la progresión temporal de la obra.
+	En los módulos de reportes y asistencia, los datos se organizan por fecha para reflejar la progresión temporal de la obra.
 
 3. Alfabético:
 
-Utilizado en listas de trabajadores, maquinaria o materiales para facilitar la búsqueda rápida y ordenada.
+	Utilizado en listas de trabajadores, maquinaria o materiales para facilitar la búsqueda rápida y ordenada.
 
 4. Por audiencia:
 
-* Los contratantes solo pueden ver y recibir reportes.
+	* Los contratantes solo pueden ver y recibir reportes.
 
-* Los supervisores pueden generar y editar.
+	* Los supervisores pueden generar y editar.
 
-* Los administrativos tienen permisos de configuración y visualización más avanzada.  
+	* Los administrativos tienen permisos de configuración y visualización más avanzada.  
 
-Esto mejora la experiencia personalizada según el rol.
+	Esto mejora la experiencia personalizada según el rol.
 
 
-### 4.2.2. Labeling Systems
+### *4.2.2. Labeling Systems*
 
 En Arquitech, se ha diseñado un sistema de etiquetado simple y funcional para evitar la sobrecarga cognitiva y facilitar la comprensión inmediata de la interfaz.
 
-Principios utilizados:
+* Principios utilizados:
 
-* Simplicidad y claridad:
+	* Simplicidad y claridad:
 
- Se prioriza el uso de palabras clave cortas y comunes en obra (ej. "Reporte diario", "Materiales", "Asistencia", "Obreros", "Avance", "Notificaciones").
+		Se prioriza el uso de palabras clave cortas y comunes en obra (ej. "Reporte diario", "Materiales", "Asistencia", "Obreros", "Avance", "Notificaciones").
 
-* Evitar ambigüedad:
+	* Evitar ambigüedad:
 
- Se evita el uso de términos técnicos complejos o jerga poco conocida. Por ejemplo, se prefiere "Registro de materiales" en lugar de "Logística de recursos".
+		Se evita el uso de términos técnicos complejos o jerga poco conocida. Por ejemplo, se prefiere "Registro de materiales" en lugar de "Logística de recursos".
 
-* Consistencia visual:
+	* Consistencia visual:
 
- Las etiquetas mantienen estilo uniforme en botones, menús y formularios, para que el usuario no dude sobre el significado de cada elemento.
+		Las etiquetas mantienen estilo uniforme en botones, menús y formularios, para que el usuario no dude sobre el significado de cada elemento.
 
- * Asociaciones entre etiquetas:
+	* Asociaciones entre etiquetas:
 
-“Reporte” siempre se relaciona con acciones como “Generar”, “Visualizar”, “Descargar”, “Compartir”.
-“Materiales” se relaciona con “Entrada”, “Salida”, “Inventario”.
-“Obreros” se relaciona con “Asistencia”, “Tareas”, “Evaluación”.
+		* “Reporte” siempre se relaciona con acciones como “Generar”, “Visualizar”, “Descargar”, “Compartir”.
+		* “Materiales” se relaciona con “Entrada”, “Salida”, “Inventario”.
+		* “Obreros” se relaciona con “Asistencia”, “Tareas”, “Evaluación”.
 
 
-### 4.2.3. SEO Tags and Meta Tags
+### *4.2.3. SEO Tags and Meta Tags*
 
 Aquí mostraremos los Meta Tagas y los SEO tags que hemos usado para poder desarrollar el landing page con el objetivo de que sea agradable para los usuarios.
 
-\<\!DOCTYPE html\>
+	<!DOCTYPE html>
 
-\<html lang\="es"\>
+	<html lang="es">
 
-\<head\>
+	</head>
 
-  \<meta charset\="UTF-8" /\>
+	  <meta charset="UTF-8" />
 
-  \<meta name\="viewport" content\="width=device-width, initial-scale=1.0" /\>
+ 	 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  \<title\> Foundex | Tecnología IoT para Restaurantes Inteligentes\</title\>
+ 	 <title\> Foundex | Tecnología IoT para Restaurantes Inteligentes</title>
 
-  \<meta name\="description" content\="Foundex ofrece una solución completa de sensores IoT y plataforma web para monitorear alimentos, mejorar la eficiencia operativa y elevar la atención al cliente en restaurantes." /\>
+	  <meta name="description" content="Foundex ofrece una solución completa de sensores IoT y plataforma web para monitorear alimentos, mejorar la eficiencia operativa y elevar la atención al cliente en restaurantes." />
 
-  \<meta name\="keywords" content\="Foundex, IoT para restaurantes, monitoreo de alimentos, sensores de temperatura, gestión de inventario, eficiencia operativa, tecnología gastronómica" /\>
+ 	 <meta name="keywords" content="Foundex, IoT para restaurantes, monitoreo de alimentos, sensores de temperatura, gestión de inventario, eficiencia operativa, tecnología gastronómica" />
 
-  \<meta name\="author" content\="Equipo Foundex" /\>
+	  <meta name="author" content="Equipo Foundex" />
 
-  \<meta name\="robots" content\="index, follow" /\>
+	  <meta name="robots" content="index, follow" />
 
-  \<meta property\="og:title" content\="Foundex | Tecnología IoT para Restaurantes Inteligentes" /\>
+	  <meta property="og:title" content="Foundex | Tecnología IoT para Restaurantes Inteligentes" />
 
-  \<meta property\="og:description" content\="Descubre cómo Foundex ayuda a los dueños y trabajadores de restaurantes a optimizar la conservación de alimentos con sensores IoT y una plataforma web de gestión." /\>
+	  <meta property="og:description" content="Descubre cómo Foundex ayuda a los dueños y trabajadores de restaurantes a optimizar la conservación de alimentos con sensores IoT y una plataforma web de gestión." />
 
-  \<meta property\="og:image" content\="https://foundex.com/img/logo.png" /\>
+	  <meta property="og:image" content="https://foundex.com/img/logo.png" />
 
-  \<meta property\="og:url" content\="https://foundex.com/" /\>
+	  <meta property="og:url" content="https://foundex.com/" />
 
-  \<meta property\="og:type" content\="website" /\>
+	  <meta property="og:type" content="website" />
 
-  \<meta name\="twitter:card" content\="summary\_large\_image" /\>
+	  <meta name="twitter:card" content="summary_large_image" />
 
-  \<meta name\="twitter:title" content\="Foundex | Tecnología IoT para Restaurantes Inteligentes" /\>
+	  <meta name="twitter:title" content="Foundex | Tecnología IoT para Restaurantes Inteligentes" />
 
-  \<meta name\="twitter:description" content\="Optimiza tu restaurante con Foundex: tecnología IoT, sensores y plataforma web para un mejor control alimentario." /\>
+	  <meta name="twitter:description" content="Optimiza tu restaurante con Foundex: tecnología IoT, sensores y plataforma web para un mejor control alimentario." />
 
-  \<meta name\="twitter:image" content\="https://foundex.com/img/logo.png" /\>
+	  <meta name="twitter:image" content="https://foundex.com/img/logo.png" />
 
-  \<link rel\="icon" href\="img/logo.png" type\="image/x-icon" /\>
+	  <link rel="icon" href="img/logo.png" type="image/x-icon" />
 
-  \<link rel\="stylesheet" href\="style.css" /\>
+	  <link rel="stylesheet" href="style.css" />
 
-\</head\>
+	</head>
 
 
-
-### 4.2.4. Searching Systems
+### *4.2.4. Searching Systems*
 
 Dentro de la plataforma ArquiTech, los sistemas de búsqueda han sido diseñados para facilitar el acceso rápido y eficiente a información crítica relacionada con la gestión de obras. La aplicación contempla un volumen significativo de datos relacionados con proyectos, documentos técnicos, solicitudes, trabajadores, insumos y cronogramas. Por ello, se proyecta la implementación de un sistema de búsqueda integral que ayude a los usuarios a evitar pérdidas de tiempo y a mantener el control operativo en todo momento.  
+
 El sistema permitirá a los usuarios buscar información dentro de los distintos módulos del sistema, utilizando:
 
 * Palabras clave (términos técnicos, nombres de obra, actividades específicas, materiales).  
@@ -1632,11 +1656,11 @@ Este sistema será particularmente útil para:
 
 Una vez realizada una búsqueda, los resultados se presentarán de forma estructurada en tablas o tarjetas, con opciones para visualizar, editar o exportar la información según los permisos del usuario.
 
-### 4.2.5. Navigation Systems
+### *4.2.5. Navigation Systems*
 
 Los sistemas de navegación implementados en el proyecto ArquiTech han sido diseñados para garantizar una experiencia intuitiva, fluida y orientada a la consecución de objetivos por parte del usuario. Considerando que el público objetivo está conformado principalmente por supervisores de obra, contratistas y personal administrativo de empresas constructoras, se ha priorizado una arquitectura de navegación clara, jerárquica y adaptada al flujo natural de las actividades constructivas.
 
-**En la Landing Page**  
+<ins>**En la Landing Page**</ins>  
 La navegación en la landing page tiene una estructura lineal con anclajes internos y botones de acción, facilitando la exploración informativa en orden lógico. Las acciones de navegación se guían mediante:
 
 * Un menú fijo en la parte superior con enlaces directos a secciones como: “¿Qué es ArquiTech?”, “Beneficios”, “Funcionalidades”, “Casos de uso” y “Contacto”.  
@@ -1648,13 +1672,13 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 
 ## 4.3. Landing Page UI Design
 
-### 4.3.1. Landing Page Wireframe
+### *4.3.1. Landing Page Wireframe*
 <p align="center">
   <img src="images/Wireframe_Landing.jpg" alt="PB" width="1000">
 </p>
 
 
-### 4.3.2. Landing Page Mock-up
+### *4.3.2. Landing Page Mock-up*
 <p align="center">
   <img src="images/Mockup_Landing.jpg" alt="PB" width="1000">
 </p>
@@ -1662,13 +1686,17 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 
 ## 4.4. Web Applications UX/UI Design
 
-### 4.4.1. Web Applications Wireframes.
+### *4.4.1. Web Applications Wireframes.*
 
-Inicio de sesion
+**Figura**  
+*Inicio de sesión*
 <p align="center">
   <img src="images/wire1.png" alt="PB" width="500">
 </p>
 
+*Nota.* Elaboración propia.  
+
+**Figura**
 Perfil de usuario
 <p align="center">
   <img src="images/wire2.png" alt="PB" width="500">
