@@ -11,7 +11,7 @@
 <h4 style="text-align: center;"><strong>Docente: Hugo Allan Mori Paiva </h4>
 <h4 style="text-align: center;"><strong>Startup: Arquitech</strong></h4>
 
-### **Team members:**
+### Team members:
 
 <table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
   <tr>
@@ -47,6 +47,7 @@
 <hr>
 
 ## Registro de Versiones del Informe
+
 # 
 
 <body class="c9">
@@ -212,13 +213,17 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 ## 1.1. Startup Profile
 
-### 1.1.1. Descripción de la Startup
+### *1.1.1. Descripción de la Startup*
 
-### 1.1.2. Perfiles de Integrantes del Equipo
+Foundex es una startup impulsada por jóvenes universitarios de la Universidad Peruana de Ciencias Aplicadas (UPC) dedicada a permitir gestionar eficientemente proyectos de construcción para pequeñas y medianas empresas constructoras, asimismo, para trabajadores administrativos. A través de nuestra herramienta digital, ArquiTech, se podrá realizar solicitudes de servicios tanto como el monitoreo de avances y gastos de las construcciones.  
+Nuestro objetivo es facilitar la administración y mejorar la transparencia de los procesos constructivos. Los principales procesos que gestionamos son: la administración de trabajadores, la gestión de materiales, el control de presupuestos, control del tiempo de ejecución de la obra y el seguimiento en tiempo real del progreso de cada proyecto.   
+En Foundex, creemos que  es fundamental agilizar los procesos de construcción para ayudar a nuestros clientes a obtener mayor ganancias, reducir tiempos de ejecución y tomar decisiones informadas. Nuestra empresa apuesta por la tecnología como una herramienta clave para transformar el sector, permitiendo que incluso las pequeñas y medianas empresas puedan acceder a una gestión profesional, organizada y eficiente de sus obras.  
+**Misión:** Brindar soluciones digitales innovadoras que ayuden a optimizar la gestión de proyectos de construcción en pequeñas y medianas empresas. Esto facilita la administración de recursos, el seguimiento de avances, el control de gastos y otros procesos más con la finalidad de impulsar la eficiencia, la transparencia y la toma de decisiones estratégicas en el sector de construcción.   
+**Visión:** Ser la plataforma líder en Latinoamérica en la digitalización de procesos constructivos para pequeñas y medianas empresas, transformando la manera en que se gestionan las obras mediante tecnología accesible, eficaz y enfocada en las necesidades de nuestros usuarios.
 
-### ***1.1.2. Perfiles de integrantes del equipo (Todos)***
+### *1.1.2. Perfiles de Integrantes del Equipo*
 
-#### Figura 1
+**Figura 2**
 
 *Perfil de Raúl Bellido*
 
@@ -228,7 +233,23 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 *Nota.* Elaboración propia.
 
-#### Figura 2
+**Figura 3**
+
+*Perfil de Daniela Gómez*  
+
+<p align="center">
+  <img src="images/PerfilDaniela.png" alt="PB" width="1000">
+</p>
+
+**Figura 4**
+
+*Perfil de Sandra Luyo*  
+
+<p align="center">
+  <img src="images/PerfilSandra.png" alt="PB" width="1000">
+</p>
+
+**Figura 5**
 
 *Perfil de Ernesto Rodas*  
 
@@ -237,7 +258,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 </p>
 
 
-#### Figura 3
+**Figura 6**
 
 *Perfil de Melisa Sulca*  
 
@@ -258,25 +279,32 @@ Particularmente, los supervisores de obra (quienes en muchos casos también cump
 
 Frente a este panorama, surge la necesidad de una solución digital adaptada a esta realidad: accesible, intuitiva, y enfocada en automatizar tareas críticas como el control de inventario, la gestión de personal, y la generación de reportes. Una herramienta que no solo ayude a optimizar procesos, sino que también facilite la toma de decisiones estratégicas, mejore la comunicación y permita a estas empresas competir en un mercado cada vez más exigente.
 
-**What (¿Qué problema existe?)**  
+**What (¿Qué problema existe?)**
+
 El principal problema que enfrentan muchas pequeñas y medianas empresas del sector construcción es la falta de una herramienta digital centralizada que permita gestionar eficientemente sus obras. Actualmente, gran parte de la gestión operativa , como el control de inventario, la asistencia del personal, el avance del proyecto y la generación de reportes, se realiza de forma manual o desorganizada, utilizando hojas de cálculo, aplicaciones no integradas o canales de mensajería informal. Esta situación genera desorden, pérdida de información, errores administrativos y retrasos en la toma de decisiones.
 
 **Why (¿Por qué es importante gestionar bien una obra?)**  
+
 Porque una buena gestión de obra garantiza que los proyectos se desarrollen dentro del presupuesto, en el tiempo estimado y cumpliendo los estándares de calidad y seguridad. Cuando estos procesos no se administran adecuadamente, se corre el riesgo de incurrir en sobrecostos, retrasos, accidentes laborales, reclamos de los contratantes y una menor rentabilidad del proyecto. Además, una gestión eficiente fortalece la transparencia y la confianza entre los supervisores de obra y los contratantes, lo cual es clave para futuras oportunidades de negocio.
 
 **When (¿Cuándo ocurre?)**  
+
 Este problema ocurre principalmente durante las etapas de ejecución y supervisión de las obras, donde se requiere una coordinación constante entre personal, materiales, plazos y reportes. Sucede tanto al inicio del día (planificación y distribución de tareas), como durante el desarrollo del proyecto (seguimiento en campo) y al cierre del día (informes de avance).
 
 **Where (¿Dónde sucede?)**  
+
 Principalmente en obras ubicadas en zonas urbanas y semiurbanas de Lima Metropolitana, como San Juan de Lurigancho, Villa El Salvador, Ate y San Martín de Porres. Estas áreas concentran una alta actividad de pequeñas y medianas empresas constructoras que aún no han adoptado herramientas digitales especializadas.
 
 **Who (¿A quién afecta?)**  
+
 Afecta directamente a los supervisores de obra, quienes deben cumplir múltiples roles en la gestión operativa, y a los contratantes de empresas privadas, quienes exigen cumplimiento de plazos, transparencia y seguridad en la ejecución del proyecto. También impacta a los trabajadores administrativos que deben organizar, comunicar y reportar toda la información relacionada con los avances de la obra.
 
 **How (¿Cómo se manifiesta el problema?)**  
+
 Se manifiesta mediante la falta de control en el inventario, errores en la asistencia de personal, demoras en la entrega de reportes, dificultades en la comunicación entre actores involucrados y poca capacidad para tomar decisiones basadas en datos. Además, el uso de canales informales como WhatsApp o Excel disperso impide centralizar la información y genera retrabajo.
 
 **How much (¿Qué tan grave es?)**  
+
 La gravedad radica en que estas deficiencias pueden representar pérdidas económicas importantes: retrasos que extienden la duración de la obra, compras innecesarias por mal control de materiales, baja productividad del personal, y descontento del cliente. Además, las soluciones existentes en el mercado como Procore o Buildertrend, aunque completas, son financieramente inaccesibles para estas empresas (costos desde $95 hasta $370 mensuales), lo que deja un vacío en el mercado que nuestra solución puede cubrir.
 
 
