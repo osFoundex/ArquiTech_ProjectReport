@@ -46,7 +46,7 @@
 
 <hr>
 
-## Registro de Versiones del Informe
+# Registro de Versiones del Informe
 
 # 
 
@@ -76,10 +76,12 @@
 # 
 <hr>
 
-## Project Report Collaboration Insights
+# Project Report Collaboration Insights
 Para realizar el informe de este proyecto, utilizaremos un repositorio llamado “ArquiTech\_ProjectReport” el cual está colocado en nuestra organización llamada “osFoundex” en GitHub. Se puede observar en el siguiente enlace: [https://github.com/Paulu27/ArquiTech\_ProjectReport](https://github.com/Paulu27/ArquiTech_ProjectReport)   
-**TB1:**  
+
+<ins>**TB1:**</ins>  
 Para la elaboración de este informe, primero utilizamos un documento de google donde podíamos ver los avances en simultáneo. Posteriormente, una vez terminado, realizamos commits en el repositorio del project report en GitHub. A continuación, mostraremos analíticas de participación:  
+
 **Figura 1**  
 *Analíticas de participación TB1*  
 <p align="center">
@@ -91,7 +93,7 @@ Para la elaboración de este informe, primero utilizamos un documento de google 
 #
 <hr>
 
-## Tabla de Contenidos
+# Tabla de Contenidos
 
 <details>
     <summary>Capítulo I: Introducción </summary>    
@@ -196,16 +198,72 @@ Para la elaboración de este informe, primero utilizamos un documento de google 
 
 <hr>
 
-## Student Outcome
+# Student Outcome
 El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC \- Student Outcome 3**  
 **Criterio:** *Capacidad de comunicarse efectivamente con un rango de audiencias.*   
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC \- Student Outcome 3\.
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-| :---- | :---- | :---- |
-| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | Bellido Salas, Raúl *TB1* Investigué los segmentos objetivos. Redacté la Task matrix. Ayudé en la creación del diagrama de clases. Modelé el diagrama de datos. Realicé 2 entrevistas para el primer segmento objetivo. Ayudé en la modelación de wireframes, y redacté el sprint planning Gómez Flores, Daniela Araceli *TB1* Para esta entrega, realicé los Lean UX Problem Statements, Estrategias y tácticas frente a competidores, User Personas, User Journey Mapping, Empathy Mapping, 5 user stories, impact mapping, product backlog de mis user stories, organization systems, labeling systems, diagrama de contexto, diagrama de contenedores, landing page wireframe, landing page mockup. Luyo Correa, Sandra Paula *TB1* Me encargué de realizar el registro de versiones, el project report collaboration insights, Lean UX Assumptions, Lean UX Hypothesis Statements, diseño de entrevistas, 2 entrevistas, As-Is Scenario Mapping, To-Be Scenario Mapping, 5 user stories, el product backlog de dichas historias, Web App Applications Prototyping, Software Object-Oriented Design, Source Code Management, Source Code Style Guide & Conventions, Sprint Backlog 1, Software Documentation Evidence for Sprint Review. Rodas Sotomayor, Ernesto *TB1* Hice los antecedentes y problemáticas, registro y análisis de las entrevistas, 5 user stories, Ubiquitous language, SEO Tags and Meta Tags, Searching Systems, Navigation Systems. Sulca Silva, Melisa Geraldine *TB1* Realice el Startup Profile, el Análisis Competitivo, el Style Guidelines, General Style Guide, el Web Style Guidelines, una épica con sus respectivos user stories, el diagrama de componentes y los wireframes de las user stories. | Al desarrollar y presentar la landing page del proyecto ArquiTech, junto con los distintos capítulos y secciones del informe, nuestro equipo demostró su capacidad para comunicar oralmente de manera efectiva a distintas audiencias, desde compañeros de clase hasta evaluadores académicos. La inclusión de elementos clave como el análisis colaborativo y los avances en cada capítulo permitió estructurar el discurso técnico de forma clara y coherente. Durante la exposición del sprint y la funcionalidad de la plataforma, los miembros del equipo lograron expresar sus ideas con precisión, evidenciando un dominio del contenido técnico y una correcta adecuación del lenguaje según el público. Esto refleja su crecimiento en habilidades de comunicación profesional, esenciales para el desarrollo y validación de soluciones en ingeniería de software. |
-| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | Bellido Salas, Raúl *TB1* Investigué los segmentos objetivos. Redacté la Task matrix. Ayudé en la creación del diagrama de clases. Modelé el diagrama de datos. Realicé 2 entrevistas para el primer segmento objetivo. Ayudé en la modelación de wireframes, y redacté el sprint planning Gómez Flores, Daniela Araceli *TB1* Para esta entrega, realicé los Lean UX Problem Statements, Estrategias y tácticas frente a competidores, User Personas, User Journey Mapping, Empathy Mapping, 5 user stories, impact mapping, product backlog de mis user stories, organization systems, labeling systems, diagrama de contexto, diagrama de contenedores, landing page wireframe, landing page mockup. Luyo Correa, Sandra Paula *TB1* Me encargué de realizar el registro de versiones, el project report collaboration insights, Lean UX Assumptions, Lean UX Hypothesis Statements, diseño de entrevistas, 2 entrevistas, As-Is Scenario Mapping, To-Be Scenario Mapping, 5 user stories, el product backlog de dichas historias, Web App Applications Prototyping, Software Object-Oriented Design, Source Code Management, Source Code Style Guide & Conventions, Sprint Backlog 1, Software Documentation Evidence for Sprint Review. Rodas Sotomayor, Ernesto *TB1* Hice los antecedentes y problemáticas, registro y análisis de las entrevistas, 5 user stories, Ubiquitous language, SEO Tags and Meta Tags, Searching Systems, Navigation Systems. Sulca Silva, Melisa Geraldine *TB1* Realice el Startup Profile, el Análisis Competitivo, el Style Guidelines, General Style Guide, el Web Style Guidelines, una épica con sus respectivos user stories, el diagrama de componentes y los wireframes de las user stories. | A lo largo del desarrollo de la landing page y la elaboración del informe del proyecto ArquiTech, fortalecimos nuestra capacidad para comunicar por escrito con efectividad a diferentes rangos de audiencia. Desde la redacción técnica de los capítulos hasta los apartados de documentación colaborativa, configuraciones y evidencia de desarrollo, supimos adaptar el lenguaje y el nivel de detalle según el propósito y el lector, ya sea académico, técnico o administrativo. Logramos estructurar un documento claro, coherente y completo, reflejando tanto el proceso como los resultados del proyecto de forma profesional. Esta experiencia nos permitió reforzar nuestras habilidades de redacción técnica y documentación, fundamentales para el ejercicio profesional en ingeniería de software. |
-
+<body class="c6 doc-content">
+<table class="c9">
+<tr class="c10">
+<td class="c3" colspan="1" rowspan="1"><p>Criterio específico</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Acciones realizadas</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Conclusiones</p></td>
+</tr>
+<tr class="c10">
+<td class="c3" colspan="1" rowspan="1"><p>Comunica oralmente con efectividad a diferentes rangos de audiencia.</p></td>
+<td class="c3" colspan="1" rowspan="1">
+	<p>Bellido Salas, Raúl</p>
+	<p><i>TB1</i></p>
+	<p>Investigué los segmentos objetivos. Redacté la Task matrix. Ayudé en la creación del diagrama de clases. Modelé el diagrama de datos. Realicé 2 entrevistas para el primer segmento objetivo. Ayudé en la modelación de wireframes, y redacté el sprint planning</p>
+	<p></p>
+	<p>Gómez Flores, Daniela Araceli</p>
+	<p><i>TB1</i></p>
+	<p>Para esta entrega, realicé los Lean UX Problem Statements, Estrategias y tácticas frente a competidores, User Personas, User Journey Mapping, Empathy Mapping, 5 user stories, impact mapping, product backlog de mis user stories, organization systems, labeling systems, diagrama de contexto, diagrama de contenedores, landing page wireframe, landing page mockup.</p>
+	<p></p>
+	<p>Luyo Correa, Sandra Paula</p>
+	<p><i>TB1</i></p>
+	<p>Me encargué de realizar el registro de versiones, el project report collaboration insights, Lean UX Assumptions, Lean UX Hypothesis Statements, diseño de entrevistas, 2 entrevistas, As-Is Scenario Mapping, To-Be Scenario Mapping, 5 user stories, el product backlog de dichas historias, Web App Applications Prototyping, Software Object-Oriented Design, Source Code Management, Source Code Style Guide & Conventions, Sprint Backlog 1, Software Documentation Evidence for Sprint Review.</p>
+	<p></p>
+	<p>Rodas Sotomayor, Ernesto</p>
+	<p><i>TB1</i></p>
+	<p>Realicé los antecedentes (5ws y 2H),los análisis de las entrevistas, el UX Canvas, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, App wireframes, App mock Ups</p>
+	<p><i>TB1</i></p>
+	<p>Sulca Silva, Melisa Geraldine</p>
+	<p><i>TB1</i></p>
+	<p>Realice el Startup Profile, el Análisis Competitivo, el Style Guidelines, General Style Guide, el Web Style Guidelines, una épica con sus respectivos user stories, el diagrama de componentes y los wireframes de las user stories.</p>
+</td>
+<td class="c3" colspan="1" rowspan="1"><p>La presentación del proyecto BuildTruck ha demostrado la capacidad del equipo para comunicar de manera clara y efectiva su propuesta de valor a diversos públicos, desde especialistas técnicos hasta posibles usuarios no familiarizados con soluciones digitales. Al adaptar el lenguaje y los recursos visuales según la audiencia, se logró transmitir con precisión los beneficios y funcionalidades de la plataforma.</p></td>
+</tr>
+<tr class="c11">
+<td class="c3" colspan="1" rowspan="1"><p>Comunica por escrito con efectividad a diferentes rangos de audiencia</p></td>
+<td class="c3" colspan="1" rowspan="1">
+	<p>Bellido Salas, Raúl</p>
+	<p><i>TB1</i></p>
+	<p>Investigué los segmentos objetivos. Redacté la Task matrix. Ayudé en la creación del diagrama de clases. Modelé el diagrama de datos. Realicé 2 entrevistas para el primer segmento objetivo. Ayudé en la modelación de wireframes, y redacté el sprint planning</p>
+	<p></p>
+	<p>Gómez Flores, Daniela Araceli</p>
+	<p><i>TB1</i></p>
+	<p>Para esta entrega, realicé los Lean UX Problem Statements, Estrategias y tácticas frente a competidores, User Personas, User Journey Mapping, Empathy Mapping, 5 user stories, impact mapping, product backlog de mis user stories, organization systems, labeling systems, diagrama de contexto, diagrama de contenedores, landing page wireframe, landing page mockup.</p>
+	<p></p>
+	<p>Luyo Correa, Sandra Paula</p>
+	<p><i>TB1</i></p>
+	<p>Me encargué de realizar el registro de versiones, el project report collaboration insights, Lean UX Assumptions, Lean UX Hypothesis Statements, diseño de entrevistas, 2 entrevistas, As-Is Scenario Mapping, To-Be Scenario Mapping, 5 user stories, el product backlog de dichas historias, Web App Applications Prototyping, Software Object-Oriented Design, Source Code Management, Source Code Style Guide & Conventions, Sprint Backlog 1, Software Documentation Evidence for Sprint Review.</p>
+	<p></p>
+	<p>Rodas Sotomayor, Ernesto</p>
+	<p><i>TB1</i></p>
+	<p>Realicé los antecedentes (5ws y 2H),los análisis de las entrevistas, el UX Canvas, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, App wireframes, App mock Ups</p>
+	<p><i>TB1</i></p>
+	<p>Sulca Silva, Melisa Geraldine</p>
+	<p><i>TB1</i></p>
+	<p>Realice el Startup Profile, el Análisis Competitivo, el Style Guidelines, General Style Guide, el Web Style Guidelines, una épica con sus respectivos user stories, el diagrama de componentes y los wireframes de las user stories.</p>
+</td>
+<td class="c3" colspan="1" rowspan="1">
+	<p>La elaboración del informe y los recursos complementarios del proyecto permitió ejercitar una comunicación escrita estructurada, concisa y orientada a distintos perfiles de lectura. A través de fichas, mapas, cuadros y descripciones técnicas claras, se facilitó la comprensión del problema, la solución propuesta y su impacto, tanto para audiencias técnicas como para usuarios administrativos.</p>
+</td>
+</tr>
+</table>
+</body>
 
 <hr>
 
