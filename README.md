@@ -1861,6 +1861,13 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 <img src="images/userflow5.png" alt="PB" width="500">
 
+---
+
+**User Goal 3:** Ver detalles del consumo de materiales y reportes de avance (en modo solo lectura)  
+**Descripción:** El contratante desea evaluar cómo se están utilizando los recursos materiales y verificar si el avance reportado está alineado con lo esperado.
+
+<img src="images/userflow6.png" alt="PB" width="500">
+
 ## 4.5. Web Applications Prototyping
 **Figura**
 <p align="center">
