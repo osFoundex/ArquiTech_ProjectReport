@@ -1691,38 +1691,45 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 **Figura**  
 <p align="center">
   <img src="images/wireframes1.png" alt="PB" width="500">
+*Nota.* Elaboración propia. 
 </p>
-*Nota.* Elaboración propia.  
+<br>
+
 
 **Figura**
 <p align="center">
   <img src="images/wireframes2.png" alt="PB" width="500">
+*Nota.* Elaboración propia. 
 </p>
-*Nota.* Elaboración propia.  
+ 
 
 **Figura**
 <p align="center">
   <img src="images/wireframes3.png" alt="PB" width="500">
+*Nota.* Elaboración propia. 
 </p>
-*Nota.* Elaboración propia.  
+  
 
 **Figura**
 <p align="center">
   <img src="images/wireframes4.png" alt="PB" width="500">
-</p>
 *Nota.* Elaboración propia.  
+</p>
+
 
 **Figura**
 <p align="center">
   <img src="images/wireframes5.png" alt="PB" width="500">
-</p>
 *Nota.* Elaboración propia.  
+</p>
+
 
 **Figura**
 <p align="center">
-  <img src="images/wireframes6.png" alt="PB" width="500">
+  <img src="images/wireframes6.png" alt="PB" width="500
+*Nota.* Elaboración propia. 
 </p>
-*Nota.* Elaboración propia.  
+ 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
