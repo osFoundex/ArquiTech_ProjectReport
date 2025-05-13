@@ -1838,6 +1838,13 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 <img src="images/userflow2.png" alt="PB" width="500">
 
+---
+
+**User Goal 3:** Reportar incidencias en obra  
+**Descripción:** El supervisor reporta eventos importantes en campo (fallas de maquinaria, ausencias masivas, problemas logísticos).
+
+<img src="images/userflow3.png" alt="PB" width="500">
+
 ## 4.5. Web Applications Prototyping
 **Figura**
 <p align="center">
