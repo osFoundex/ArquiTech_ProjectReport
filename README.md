@@ -2673,7 +2673,7 @@ Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de
 *Sprint 2 de ArquiTech*
 
 <p align="center">
-  <img src="images/SprintBacklog2.png" alt="PB" width="1000">
+  <img src="images/SprintBacklog2.PNG" alt="PB" width="1000">
 </p>
 
 *Nota.* Elaboración propia. Obtenido de [https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9](https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9)
