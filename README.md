@@ -1691,7 +1691,7 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 **Figura**  
 <p align="center">
   <img src="images/wireframes1.png" alt="PB" width="500">
-*Nota.* Elaboración propia. 
+<br>*Nota.* Elaboración propia. 
 </p>
 <br>
 
@@ -1699,7 +1699,7 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 **Figura**
 <p align="center">
   <img src="images/wireframes2.png" alt="PB" width="500">
-*Nota.* Elaboración propia. 
+<br>*Nota.* Elaboración propia. 
 </p>
  
 
