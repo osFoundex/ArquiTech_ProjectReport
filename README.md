@@ -1689,31 +1689,40 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 ### *4.4.1. Web Applications Wireframes.*
 
 **Figura**  
-*Inicio de sesión*
 <p align="center">
-  <img src="images/wire1.png" alt="PB" width="500">
+  <img src="images/wireframes1.png" alt="PB" width="500">
 </p>
-
 *Nota.* Elaboración propia.  
 
 **Figura**
-Perfil de usuario
 <p align="center">
-  <img src="images/wire2.png" alt="PB" width="500">
+  <img src="images/wireframes2.png" alt="PB" width="500">
 </p>
+*Nota.* Elaboración propia.  
 
-
-informacion del inventario
+**Figura**
 <p align="center">
-  <img src="images/wire3.png" alt="PB" width="500">
+  <img src="images/wireframes3.png" alt="PB" width="500">
 </p>
+*Nota.* Elaboración propia.  
 
-
-Gestion de trabajadores
+**Figura**
 <p align="center">
-  <img src="images/wire4.png" alt="PB" width="500">
+  <img src="images/wireframes4.png" alt="PB" width="500">
 </p>
+*Nota.* Elaboración propia.  
 
+**Figura**
+<p align="center">
+  <img src="images/wireframes5.png" alt="PB" width="500">
+</p>
+*Nota.* Elaboración propia.  
+
+**Figura**
+<p align="center">
+  <img src="images/wireframes6.png" alt="PB" width="500">
+</p>
+*Nota.* Elaboración propia.  
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
