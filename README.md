@@ -1815,6 +1815,14 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
+**Figura**
+<p align="center">
+  <img src="images/web-app-prototyping.png" alt="PB" width="500">
+<br> Nota Elaboración propia.
+</p>
+<br>
+
+* Link del video:  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUCIfTixniJPqJdWsmlCJHUB2oQZ_jRx1hPoDtGdPdiNjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BV3Le8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUCIfTixniJPqJdWsmlCJHUB2oQZ_jRx1hPoDtGdPdiNjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BV3Le8)
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -1831,11 +1839,7 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 ### 4.6.2. Software Architecture Container Diagrams
 
 <p align="center">
-
-
-
-  <img src="images/Arquitech_DiagramaContenedor.png" alt="PB" width="1000">
-
+  <img src="images/Arquitech_DiagramaContenedor.png" alt="PB" width="700">
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
@@ -1845,7 +1849,7 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 ### 4.7.1. Class Diagrams
 
 <p align="center">
-  <img src="images/Arquitech - Class diagram.png" alt="PB" width="1000">
+  <img src="images/ArquiTech - Class diagram.png" alt="PB" width="1000">
 </p>
 
 
@@ -2368,7 +2372,7 @@ Para que nuestra landing page esté disponible para todos nuestros usuarios, la 
 **Figura**  
 *Explicación del paso 5*
 <p align="center">
-  <img src="images/Deployment_paso5.png" alt="PB" width="1000">
+  <img src="images/Deployment_paso5.PNG" alt="PB" width="1000">
 </p>
 
 *Nota.* Elaboración propia.
