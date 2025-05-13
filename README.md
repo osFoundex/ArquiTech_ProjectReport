@@ -1845,6 +1845,16 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 <img src="images/userflow3.png" alt="PB" width="500">
 
+---
+
+### Segmento Objetivo #2: Contratantes de Empresas Privadas
+
+**User Goal 1:** Visualizar el estado y progreso de mis obras contratadas (solo lectura)  
+**Descripción:** El contratante necesita consultar las obras activas donde ha contratado los servicios, con acceso a información clara y actualizada.
+
+<img src="images/userflow4.png" alt="PB" width="500">
+
+
 ## 4.5. Web Applications Prototyping
 **Figura**
 <p align="center">
