@@ -1674,13 +1674,13 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 
 ### *4.3.1. Landing Page Wireframe*
 <p align="center">
-  <img src="images/Wireframe_Landing.jpg" alt="PB" width="1000">
+  <img src="images/Wireframe_Landing.JPG" alt="PB" width="500">
 </p>
 
 
 ### *4.3.2. Landing Page Mock-up*
 <p align="center">
-  <img src="images/Mockup_Landing.jpg" alt="PB" width="1000">
+  <img src="images/Mockup_landing.JPG" alt="PB" width="500">
 </p>
 
 
@@ -1726,56 +1726,90 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 
 **Figura**
 <p align="center">
-  <img src="images/wireframes6.png" alt="PB" width="500>
+  <img src="images/wireframes6.png" alt="PB" width="500">
 <br>*Nota.* Elaboración propia.  
 </p>
 <br>
 
 
-### 4.4.2. Web Applications Wireflow Diagrams
+### *4.4.2. Web Applications Wireflow Diagrams*
+**Segmento #2: Contratantes de empresa privadas** 
+<br>
+**User Goal 1: Supervisión de Materiales y personal de obra**
+<br>
+Como usuario, quiero poder ver la lista de proyectos que posee mi empresa con sus respectivos reportes de materiales y trabajadores para poder obtener un mejor control y supervisión de materiales y personal de cada obra.
+
+**Wireflow:** 
+<br>
+**Figura**
+<p align="center">
+  <img src="images/wireflow1.png" alt="PB" width="500">
+<br>*Nota.* Elaboración propia.  
+</p>
+<br>
+Para poder obtener los reportes anteriormente dichos que brinda Arquitech a cada usuario, debes primero acceder a la app web mediante el login. Luego, podrás observar la lista de trabajadores y materiales cuando presiones “ver detalles” en la página de listado de proyectos. Esto te dirigirá a la sección de materiales donde puedes visualizar campos como la cantidad de materiales, el stock, el precio, el estado del pago, el nombre del material, etc. En cuanto a la sección de trabajadores, logras acceder con la barra lateral donde se muestra aquella sección y se detalla el nombre del trabajador, su rol y la fecha de cuando fue contratado.
+<br><br>
+
+
+**Segmento #1: Supervisores de obra** 
+<br>
+**User Goal 1: Gestión de maquinarias y accidentes** 
+<br>
+Como usuario quiero tener detallado las maquinarias que se usan por cada proyecto y que incidentes suelen ocurrir en las obras para tener una visión panorámica más acertada sobre lo seguro que son las obras y asegurarse de que se cuenta con las máquinas necesarias.
+
+**Wireflow:** <br>
+**Figura**
+<p align="center">
+  <img src="images/wireflow2.png" alt="PB" width="500">
+<br>*Nota.* Elaboración propia.  
+</p>
+<br>
+Para acceder a las secciones de maquinarias e incidentes debes presionar aquellos botones con los respectivos nombres. En la sección Incidentes, verás un detallado de una lista de los incidentes ocurridos en cada obra,  así podrás estar informado de la fecha en la que ocurrió aquel incidente, el tipo de incidente que ocurrió, la severidad del incidente y el estado de resolución de aquello. Por otro lado, en la sección de Maquinarias, puedes visualizar el nombre de la maquinaria que posee cada obra, la licencia de la maquinaria, la fecha de registro de la maquinaria asignada a la obra y el estado de funcionamiento de aquella. 
+
+
 
 ### 4.4.3. Web Applications Mock-ups
-**Figura**
+**Figura 1**
 <p align="center">
-  <img src="images/mockup1.png" alt="PB" width="500>
-*Nota.* Elaboración propia. 
-</p>
-<br>
-
-**Figura**
-<p align="center">
-  <img src="images/mockup2.png" alt="PB" width="500>
-*Nota.* Elaboración propia. 
-</p>
-<br>
-
-**Figura**
-<p align="center">
-  <img src="images/mockup3.png" alt="PB" width="500>
-*Nota.* Elaboración propia. 
-</p>
-<br>
-
-**Figura**
-<p align="center">
-  <img src="images/mockup4.png" alt="PB" width="500>
-*Nota.* Elaboración propia. 
-</p>
-<br>
-
-**Figura**
-<p align="center">
-  <img src="images/mockup5.png" alt="PB" width="500>
+  <img src="images/mockup1.png" alt="PB" width="500">
 <br>*Nota.* Elaboración propia. 
 </p>
 <br>
 
-**Figura**
+**Figura 2**
 <p align="center">
-  <img src="images/mockup6.png" alt="PB" width="500>
+  <img src="images/mockup2.png" alt="PB" width="500">
 <br>*Nota.* Elaboración propia. 
 </p>
 <br>
+
+**Figura 3**
+<p align="center">
+  <img src="images/mockup3.png" alt="PB" width="500">
+<br>*Nota.* Elaboración propia. 
+</p>
+<br>
+
+**Figura 4**
+<p align="center">
+  <img src="images/mockup4.png" alt="PB" width="500">
+<br>*Nota.* Elaboración propia. 
+</p>
+<br>
+
+**Figura 5**
+<p align="center">
+  <img src="images/mockup5.png" alt="PB" width="500">
+<br>*Nota.* Elaboración propia. 
+</p>
+
+
+**Figura 6**
+<p align="center">
+  <img src="images/mockup6.png" alt="PB" width="500">
+<br>*Nota.* Elaboración propia. 
+</p>
+
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
