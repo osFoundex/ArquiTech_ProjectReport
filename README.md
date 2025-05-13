@@ -208,10 +208,10 @@ Para la elaboración del informe del TP1, de igual manera que en la entrega pasa
             <li><a href="#5216-services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></li>
             <li><a href="#5217-software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></li>
             <li><a href="#5218-team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></li>
-	    <li><a href="#522-sprint-1">5.2.2. Sprint 2</a></li>
-            <li><a href="#5221-sprint-planning-1">5.2.2.1. Sprint Planning 2</a></li>
+	    <li><a href="#522-sprint-2">5.2.2. Sprint 2</a></li>
+            <li><a href="#5221-sprint-planning-2">5.2.2.1. Sprint Planning 2</a></li>
             <li><a href="#5222-aspect-leaders-and-collaborators">5.2.2.2. Aspect Leaders and Collaborators</a></li>
-            <li><a href="#5223-sprint-backlog-1">5.2.2.3. Sprint Backlog 2</a></li>
+            <li><a href="#5223-sprint-backlog-2">5.2.2.3. Sprint Backlog 2</a></li>
             <li><a href="#5224-development-evidence-for-sprint-review">5.2.2.4. Development Evidence for Sprint Review</a></li>
             <li><a href="#5225-execution-evidence-for-sprint-review">5.2.2.5. Execution Evidence for Sprint Review</a></li>
             <li><a href="#5226-services-documentation-evidence-for-sprint-review">5.2.2.6. Services Documentation Evidence for Sprint Review</a></li>
@@ -2623,10 +2623,231 @@ Para el sprint 2 de ArquiTech, realizamos una reunión inicial para coordinar de
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.  
 
+<body class="c9 doc-content">
+<h4></h4>
+<table class="c8">
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p><b>Team Member (Last Name, First Name)</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>GitHub Username</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Landing page Leader (L) / Collaborator (C)</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Documentation Leader (L) / Collaborator (C)</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Frontend Web Application Leader (L) / Collaborator (C)</b></p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Bellido Salas, Raúl</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>raulbellidosalas</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Gómez Flores, Daniela Araceli</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>DanieGF1</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Luyo Correa, Sandra Paula</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>Paulu27</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Rodas Sotomayor, Ernesto</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>ernesto0710</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+</tr>
+</table>
+<p></p>
+</body>
 
 #### 5.2.2.3. Sprint Backlog 2.  
 
+Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de la plataforma y también en mejorar la landing page realizada en el sprint anterior. De la misma manera que en el sprint anterior, seguimos usando el software de “Jira” para llevar el control de nuestro sprint backlog.
 
+**Figura**  
+*Sprint 2 de ArquiTech*
+
+<p align="center">
+  <img src="images/SprintBacklog2.png" alt="PB" width="1000">
+</p>
+
+*Nota.* Elaboración propia. Obtenido de [https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9](https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9)
+
+<body class="c15 doc-content">
+<p></p>
+<table class="c12">
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>Sprint #</p></td>
+<td class="c16" colspan="7" rowspan="1"><p>Sprint 2</p></td>
+</tr>
+<tr class="c5">
+<td class="c13" colspan="2" rowspan="1"><p>User Story</p></td>
+<td class="c17" colspan="6" rowspan="1"><p>Work Item/Task</p></td>
+</tr>
+<tr class="c11">
+<td class="c3" colspan="1" rowspan="1"><p>Id</p></td>
+<td class="c8" colspan="1" rowspan="1"><p>Title</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>Id</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Title</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Description</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>Estimation (Hours)</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Assigned To</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Status (To-do / InProcess / ToReview / Done)</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="4"><p>HU04</p></td>
+<td class="c8" colspan="1" rowspan="4"><p>Consultar Historial de Transacciones de Inventario</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica de transacciones de inventario</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Diseñar e implementar la estructura de datos para registrar transacciones de entrada y uso de materiales.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar vista del historial de transacciones</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Crear una interfaz que muestre una lista de transacciones con tipo, cantidad, proveedor (si aplica) y fecha.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T3</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Mensaje para historial vacío</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Mostrar mensaje adecuado cuando no haya transacciones registradas.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>1</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T4</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Conectar vista con backend</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Realizar integración para que la vista reciba los datos reales del sistema.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gómez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="4"><p>HU10</p></td>
+<td class="c8" colspan="1" rowspan="4"><p>Lista de trabajadores por obra</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear vista de trabajadores por obra</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar sección que muestra la lista de trabajadores asignados a una obra seleccionada.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar buscador de trabajadores</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar campo de búsqueda por nombre o cargo.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gómez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T3</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Filtrar resultados en tiempo real</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Aplicar lógica para filtrar trabajadores con base en la búsqueda ingresada.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>1</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T4</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Conectar vista con base de datos de obras y trabajadores</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Obtener trabajadores por obra desde backend.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="3"><p>HU21</p></td>
+<td class="c8" colspan="1" rowspan="3"><p>Visualizar reportes semanales</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear vista de reportes semanales</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar interfaz con resumen consolidado y gráficos.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Mostrar consolidado de datos</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Procesar datos de asistencias, materiales y avances por semana.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T3</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Conectar con API de reportes diarios</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Obtener información semanal desde el backend.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="3"><p>HU24</p></td>
+<td class="c8" colspan="1" rowspan="3"><p>Seleccionar obra específica para ver sus reportes</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear menú desplegable para selección de obra</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Permitir al usuario elegir una obra desde una lista.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Filtrar reportes por obra seleccionada</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Mostrar solo reportes correspondientes a la obra elegida.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T3</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Persistencia de selección entre vistas</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Conservar la obra seleccionada al navegar entre reportes.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>1</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="3"><p>HU25</p></td>
+<td class="c8" colspan="1" rowspan="3"><p>Visualizar Lista de Proyectos</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear vista de lista de proyectos</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Mostrar proyectos activos con nombre, fecha, presupuesto y estado.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Mostrar mensaje cuando no hay proyectos</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Diseñar mensaje claro si el usuario no tiene proyectos registrados.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>1</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T3</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Conectar con API de proyectos por usuario</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Obtener proyectos desde backend autenticado.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gómez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+</table>
+<p></p>
+</body>
 
 #### 5.2.2.4. Development Evidence for Sprint Review.  
 
