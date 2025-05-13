@@ -1854,6 +1854,12 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 <img src="images/userflow4.png" alt="PB" width="500">
 
+---
+
+**User Goal 2:** Visualizar el uso y estado de la maquinaria asignada a la obra  
+**Descripción:** Permitir que el contratante consulte, en tiempo real y de forma clara, qué maquinarias están siendo utilizadas en sus obras, cuál es su estado operativo y cómo impactan en el avance del proyecto.
+
+<img src="images/userflow5.png" alt="PB" width="500">
 
 ## 4.5. Web Applications Prototyping
 **Figura**
