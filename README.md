@@ -1830,6 +1830,13 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 **Descripción:** El supervisor desea registrar el ingreso, uso y nivel de materiales en obra para evitar desperdicios y garantizar continuidad en las actividades.
 
   <img src="images/userflow1.png" alt="PB" width="500">
+  
+---
+
+**User Goal 2:** Controlar la asistencia y roles de los trabajadores  
+**Descripción:** El supervisor debe tener control total sobre el personal: quién está presente, qué tarea cumple y qué rol desempeña.
+
+<img src="images/userflow2.png" alt="PB" width="500">
 
 ## 4.5. Web Applications Prototyping
 **Figura**
