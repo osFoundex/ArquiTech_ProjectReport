@@ -208,6 +208,15 @@ Para la elaboración del informe del TP1, de igual manera que en la entrega pasa
             <li><a href="#5216-services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></li>
             <li><a href="#5217-software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></li>
             <li><a href="#5218-team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></li>
+	    <li><a href="#522-sprint-1">5.2.2. Sprint 2</a></li>
+            <li><a href="#5221-sprint-planning-1">5.2.2.1. Sprint Planning 2</a></li>
+            <li><a href="#5222-aspect-leaders-and-collaborators">5.2.2.2. Aspect Leaders and Collaborators</a></li>
+            <li><a href="#5223-sprint-backlog-1">5.2.2.3. Sprint Backlog 2</a></li>
+            <li><a href="#5224-development-evidence-for-sprint-review">5.2.2.4. Development Evidence for Sprint Review</a></li>
+            <li><a href="#5225-execution-evidence-for-sprint-review">5.2.2.5. Execution Evidence for Sprint Review</a></li>
+            <li><a href="#5226-services-documentation-evidence-for-sprint-review">5.2.2.6. Services Documentation Evidence for Sprint Review</a></li>
+            <li><a href="#5227-software-deployment-evidence-for-sprint-review">5.2.2.7. Software Deployment Evidence for Sprint Review</a></li>
+            <li><a href="#5228-team-collaboration-insights-during-sprint">5.2.2.8. Team Collaboration Insights during Sprint</a></li>
         </ul>        
 </details>
 
@@ -2549,7 +2558,96 @@ Publicamos nuestra landing page como un sitio web a través de GitHub para que s
   <img src="images/Team Collaboration.png" alt="PB" width="1000">
 </p>
 
-## Conclusiones
+### *5.2.2. Sprint 2*
+
+#### 5.2.2.1. Sprint Planning 2.  
+
+Para el sprint 2 de ArquiTech, realizamos una reunión inicial para coordinar de lo que se encargaría cada uno en esta entrega.
+
+<body class="c10 doc-content">
+<p></p>
+<table class="c11">
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p><b>Sprint #</b></p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Sprint 2</p></td>
+</tr>
+<tr class="c9">
+<td class="c12" colspan="2" rowspan="1"><p><b>Sprint Planning Background:</b></p><p>Decidimos centrarnos en la codificación del Frontend Web Application de BuildTruck, nos repartimos el código de este,</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Date</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>2025-05-08</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Time</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>10:00 AM</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Location</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Discord server call</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Prepared By</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Luyo Correa, Sandra Paula</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Attendees (to planning meeting)</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Bellido Salas, Raúl</p><p></p><p>Gómez Flores, Daniela Araceli</p><p></p><p>Luyo Correa, Sandra Paula</p><p></p><p>Rodas Sotomayor, Ernesto</p><p></p><p>Sulca Silva, Melisa Geraldine</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Sprint n - Review Summary</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Revisamos nuestras business goals y discutimos sobre las user stories que realizaríamos en esta entrega</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Sprint n - Retrospective Summary</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Start:</p><p>Debemos empezar a comunicarnos más entre nosotros</p><p>Debemos planear con anticipación las tareas en grupo e individuales</p><p>Stop:</p><p>No pedir ayuda al resto del grupo si tienes alguna duda.</p><p>Continue:</p><p>Realizar notificaciones de los avances hechos.</p><p></p></td>
+</tr>
+<tr class="c9">
+<td class="c12" colspan="2" rowspan="1"><p><b>Sprint Goal & User Stories</b></p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Sprint n Goal</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Our focus is on <b>implementing the Frontend Web Application</b></p><p>We believe it delivers <b>a clear entry point and structured onboarding experience</b> to <b>construction SMEs and administrative staff</b>,</p><p>this will be confirmed when <b>users are able to successfully access the platform, complete the registration process, and navigate to their project dashboard without friction</b>.</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Sprint n Velocity</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>3</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Sum of Story Points</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>7</p></td>
+</tr>
+</table>
+<p></p>
+</body>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators.  
+
+
+#### 5.2.2.3. Sprint Backlog 2.  
+
+
+
+#### 5.2.2.4. Development Evidence for Sprint Review.  
+
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.  
+
+
+
+#### 5.2.2.6. Software Deployment Evidence for Sprint Review.  
+
+
+
+#### 5.2.2.7. Team Collaboration Insights during Sprint.  
+
+
+
+
+# Conclusiones
+
+#
 
 El desarrollo de Foundex y su solución digital ArquiTech representa el esfuerzo conjunto de un equipo de jóvenes universitarios comprometidos con transformar el sector de la construcción a través de la tecnología. A lo largo del presente informe, hemos documentado detalladamente cada etapa del proceso de diseño, análisis y desarrollo del producto, partiendo desde la identificación de la problemática hasta la implementación funcional de una herramienta que permite a las pequeñas y medianas empresas constructoras gestionar eficientemente sus proyectos.
 Este proyecto integró enfoques modernos como el Lean UX y metodologías ágiles que guiaron el descubrimiento de necesidades reales del usuario, validación de hipótesis y definición clara de requerimientos. La estructuración del producto se apoyó en herramientas como user personas, escenarios “as-is” y “to-be”, user stories y backlog priorizado, permitiendo una alineación precisa con los objetivos del negocio y las expectativas del usuario final.
@@ -2560,8 +2658,9 @@ Además, el uso del control de versiones, el manejo estructurado del código y l
 Foundex no solo ha logrado desarrollar una solución funcional e innovadora, sino que también ha demostrado cómo la sinergia entre diversas disciplinas y una visión estratégica bien definida pueden generar un impacto significativo. Este trabajo conjunto nos permite sentar bases sólidas para cumplir nuestra visión de convertirnos en la plataforma líder de digitalización de procesos constructivos en Perú.
 
 
-## Bibliografía
+# Bibliografía
 
+#
 
 Angular. (s.f.). Angular coding style guide. [https://angular.io/guide/styleguide](https://angular.io/guide/styleguide)   
 Buildertrend. (s.f.). *Construction Management  Software*. Buildertrend. [Recuperado el dia 19 de abril de 2025, de](https://www.procore.com/es)  [https://buildertrend.com/](https://buildertrend.com/)  
@@ -2576,8 +2675,6 @@ Semantic Versioning. (s.f.). Semantic Versioning 2.0.0. [https://semver.org/](ht
 SpecFlow. (s.f.). Gherkin conventions for readable specifications. [https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)   
 Spring. (s.f.). Spring Boot features. [https://docs.spring.io/spring-boot/docs/current/reference/html/features.html](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html)   
 W3Schools. (s.f.). HTML style guide and coding conventions. [https://www.w3schools.com/html/html5\_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp) 
-
-
 
 <hr>
 
