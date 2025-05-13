@@ -1726,55 +1726,57 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 
 **Figura**
 <p align="center">
-  <img src="images/wireframes6.png" alt="PB" width="500
-<br>*Nota.* Elaboración propia. 
+  <img src="images/wireframes6.png" alt="PB" width="500>
+<br>*Nota.* Elaboración propia.  
 </p>
 <br>
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups
 **Figura**
 <p align="center">
-  <img src="images/mockup1.png" alt="PB" width="500
+  <img src="images/mockup1.png" alt="PB" width="500>
+*Nota.* Elaboración propia. 
+</p>
+<br>
+
+**Figura**
+<p align="center">
+  <img src="images/mockup2.png" alt="PB" width="500>
+*Nota.* Elaboración propia. 
+</p>
+<br>
+
+**Figura**
+<p align="center">
+  <img src="images/mockup3.png" alt="PB" width="500>
+*Nota.* Elaboración propia. 
+</p>
+<br>
+
+**Figura**
+<p align="center">
+  <img src="images/mockup4.png" alt="PB" width="500>
+*Nota.* Elaboración propia. 
+</p>
+<br>
+
+**Figura**
+<p align="center">
+  <img src="images/mockup5.png" alt="PB" width="500>
 <br>*Nota.* Elaboración propia. 
 </p>
 <br>
 
 **Figura**
 <p align="center">
-  <img src="images/mockup2.png" alt="PB" width="500
+  <img src="images/mockup6.png" alt="PB" width="500>
 <br>*Nota.* Elaboración propia. 
 </p>
 <br>
 
-**Figura**
-<p align="center">
-  <img src="images/mockup3.png" alt="PB" width="500
-<br>*Nota.* Elaboración propia. 
-</p>
-<br>
-
-**Figura**
-<p align="center">
-  <img src="images/mockup4.png" alt="PB" width="500
-<br>*Nota.* Elaboración propia. 
-</p>
-<br>
-
-**Figura**
-<p align="center">
-  <img src="images/mockup5.png" alt="PB" width="500
-<br>*Nota.* Elaboración propia. 
-</p>
-<br>
-
-**Figura**
-<p align="center">
-  <img src="images/mockup6.png" alt="PB" width="500
-<br>*Nota.* Elaboración propia. 
-</p>
-<br>
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
