@@ -1732,18 +1732,18 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 <br>
 
 
-### *4.4.2. Web Applications Wireflow Diagrams*
+### *4.4.2. Web Applications Wire Diagrams*
 **Segmento #2: Contratantes de empresa privadas** 
 <br>
 **User Goal 1: Supervisión de Materiales y personal de obra**
 <br>
 Como usuario, quiero poder ver la lista de proyectos que posee mi empresa con sus respectivos reportes de materiales y trabajadores para poder obtener un mejor control y supervisión de materiales y personal de cada obra.
 
-**Wireflow:** 
+**Wire:** 
 <br>
 **Figura**
 <p align="center">
-  <img src="images/wireflow1.png" alt="PB" width="500">
+  <img src="images/wire1.png" alt="PB" width="500">
 <br>*Nota.* Elaboración propia.  
 </p>
 <br>
@@ -1813,6 +1813,13 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
+
+### Segmento 1: Supervisores de obra
+
+**User Goal 1:** Gestionar y controlar materiales de construcción  
+**Descripción:** El supervisor desea registrar el ingreso, uso y nivel de materiales en obra para evitar desperdicios y garantizar continuidad en las actividades.
+
+  <img src="images/userflow1.png" alt="PB" width="500">
 
 ## 4.5. Web Applications Prototyping
 **Figura**
