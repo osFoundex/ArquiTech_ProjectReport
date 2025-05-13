@@ -93,6 +93,16 @@ Para la elaboración de este informe, primero utilizamos un documento de google 
 
 *Nota.* Elaboración propia. 
 
+<ins>**TP1:**</ins>  
+Para la elaboración del informe del TP1, de igual manera que en la entrega pasada, primero utilizamos un documento de google donde podíamos ver los avances que realizábamos del Sprint 2. Luego, convertimos lo realizado a formato markdown y los subimos como commits en el repositorio del project report en GitHub. A continuación, mostraremos analíticas de participación:
+
+**Figura 2**  
+*Analíticas de participación TP1*  
+<p align="center">
+  <img src="images/tb1CollaborationInsights.png" alt="PB" width="1000">
+</p> 
+
+*Nota.* Elaboración propia. 
 #
 <hr>
 
