@@ -205,9 +205,8 @@ Para la elaboración del informe del TP1, de igual manera que en la entrega pasa
             <li><a href="#5213-sprint-backlog-1">5.2.1.3. Sprint Backlog 1</a></li>
             <li><a href="#5214-development-evidence-for-sprint-review">5.2.1.4. Development Evidence for Sprint Review</a></li>
             <li><a href="#5215-execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a></li>
-            <li><a href="#5216-services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review</a></li>
-            <li><a href="#5217-software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review</a></li>
-            <li><a href="#5218-team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint</a></li>
+            <li><a href="#5216-software-deployment-evidence-for-sprint-review">5.2.1.6. Software Deployment Evidence for Sprint Review</a></li>
+            <li><a href="#5217-team-collaboration-insights-during-sprint">5.2.1.7. Team Collaboration Insights during Sprint</a></li>
 	    <li><a href="#522-sprint-2">5.2.2. Sprint 2</a></li>
             <li><a href="#5221-sprint-planning-2">5.2.2.1. Sprint Planning 2</a></li>
             <li><a href="#5222-aspect-leaders-and-collaborators">5.2.2.2. Aspect Leaders and Collaborators</a></li>
@@ -2919,9 +2918,15 @@ En este sprint 2, como fue mencionado con anterioridad, nos centramos en el desa
   <img src="images/ExecutionEvidenceSprint2.png" alt="PB" width="1000">
 </p>
 
-*Nota.* Elaboración propia. Recuperado de [https://youtu.be/404KkiLPBOA](https://youtu.be/404KkiLPBOA)
+*Nota.* Elaboración propia. Recuperado de [https://youtu.be/404KkiLPBOA](https://youtu.be/404KkiLPBOA)  
 
-#### 5.2.2.6. Software Deployment Evidence for Sprint Review.  
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.  
+
+Para realizar el deploy de nuestro proyecto en Netify primero creamos una cuenta e iniciamos sesión, luego escribimos este comando en la terminal de nuestro proyecto en Webstorm:  
+	ng build --configuracion=production
+Luego de esto, vamos a Netify, entramos a la barra de proyectos y ahora en las opciones le damos a "Deploy Manually", después le damos clic a "Browse upload" y seleccionamos la carperta browser que está dentro de la carpeta dist generada con el comando anterior. Presionamos "Upload" y la página se desplega correctamente.
 
 **Figura**  
 *Sprint 2 Deployment Evidence 1*  
@@ -2941,7 +2946,7 @@ En este sprint 2, como fue mencionado con anterioridad, nos centramos en el desa
 
 *Nota.* Elaboración propia.
 
-#### 5.2.2.7. Team Collaboration Insights during Sprint.  
+#### 5.2.2.8. Team Collaboration Insights during Sprint.  
 
 Para poder realizar el código, al igual que en la primera entrega, usamos GitHub. El repositorio usado fue osFoundex/ArquiTech_FrontendWebApp.
 Link del repositorio: [https://github.com/osFoundex/ArquiTech_FrontendWebApp](https://github.com/osFoundex/ArquiTech_FrontendWebApp) 
@@ -2991,3 +2996,5 @@ W3Schools. (s.f.). HTML style guide and coding conventions. [https://www.w3schoo
 <hr>
 
 ## Anexos
+
+Link del video de exposición TP1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ec_o-e8Ty8lCtNdDnvheiHEB00cNJ-8jksf93gQKrMthCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SyNpYf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ec_o-e8Ty8lCtNdDnvheiHEB00cNJ-8jksf93gQKrMthCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SyNpYf)
