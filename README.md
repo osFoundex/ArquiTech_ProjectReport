@@ -2857,20 +2857,103 @@ Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de
 
 #### 5.2.2.4. Development Evidence for Sprint Review.  
 
-
+<table class="c9">
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p><b>Repository</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Branch</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Commit Id</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Commit</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Message Body</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Commited on (Date)</b></p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>DanieGF1/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>0823e28</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: add material model</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>Paulu27/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>c4f2026</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: Update user.entity.spec.ts</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>ernesto0710/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>98f93ba</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: add project.entity.ts</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>raulbellidosalas/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>9105833</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: Updated worker-management.component.css</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>MSS02204/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>2600763</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: add incident.entity.ts</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
+</tr>
+</table>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.  
 
+En este sprint 2, como fue mencionado con anterioridad, nos centramos en el desarrollo del Frontend Web Application de ArquiTech. A continuación, mostramos una imagen y el url de un video explicando lo avanzado.
 
+**Figura**  
+*Video de funcionamiento de la aplicación web de ArquiTech*
+
+<p align="center">
+  <img src="images/ExecutionEvidenceSprint2.png" alt="PB" width="1000">
+</p>
+
+*Nota.* Elaboración propia. Recuperado de [https://youtu.be/404KkiLPBOA](https://youtu.be/404KkiLPBOA)
 
 #### 5.2.2.6. Software Deployment Evidence for Sprint Review.  
 
+**Figura**  
+*Sprint 2 Deployment Evidence 1*  
 
+<p align="center">
+  <img src="images/Sprint2EvidenceDeployment1.jpg" alt="PB" width="1000">
+</p>
+
+*Nota.* Elaboración propia.
+
+**Figura**  
+*Sprint 2 Deployment Evidence 1*  
+
+<p align="center">
+  <img src="imagesSprint2EvidenceDeployment2.jpg" alt="PB" width="1000">
+</p>
+
+*Nota.* Elaboración propia.
 
 #### 5.2.2.7. Team Collaboration Insights during Sprint.  
 
+Para poder realizar el código, al igual que en la primera entrega, usamos GitHub. El repositorio usado fue osFoundex/ArquiTech_FrontendWebApp.
+Link del repositorio: [https://github.com/osFoundex/ArquiTech_FrontendWebApp](https://github.com/osFoundex/ArquiTech_FrontendWebApp) 
 
+**Figura**  
+*Team Collaboration Insights durante Sprint 2*
 
+<p align="center">
+  <img src="images/Sprint2_TeamCollaborationInsights.PNG" alt="PB" width="1000">
+</p>
+
+*Nota.* Elaboración propia.
 
 # Conclusiones
 
