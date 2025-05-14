@@ -229,7 +229,6 @@ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - S
 **Criterio:** *Capacidad de comunicarse efectivamente con un rango de audiencias.*   
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC \- Student Outcome 3\.
 
-<body class="c6 doc-content">
 <table class="c9">
 <tr class="c10">
 <td class="c3" colspan="1" rowspan="1"><p>Criterio específico</p></td>
@@ -242,24 +241,37 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 	<p>Bellido Salas, Raúl</p>
 	<p><i>TB1</i></p>
 	<p>Investigué los segmentos objetivos. Redacté la Task matrix. Ayudé en la creación del diagrama de clases. Modelé el diagrama de datos. Realicé 2 entrevistas para el primer segmento objetivo. Ayudé en la modelación de wireframes, y redacté el sprint planning</p>
+	<p><i>TP</i></p>
+	<p>Me encargué de realizar código para el Frontend Web Application. También realicé el Software Deployment Evidence for Sprint Review y las conclusiones.</p>
 	<p></p>
 	<p>Gómez Flores, Daniela Araceli</p>
 	<p><i>TB1</i></p>
 	<p>Para esta entrega, realicé los Lean UX Problem Statements, Estrategias y tácticas frente a competidores, User Personas, User Journey Mapping, Empathy Mapping, 5 user stories, impact mapping, product backlog de mis user stories, organization systems, labeling systems, diagrama de contexto, diagrama de contenedores, landing page wireframe, landing page mockup.</p>
+	<p><i>TP</i></p>
+	<p>Para esta entrega actualicé la landing page, ayudé a agregar conclusiones e hice parte del Sprint Backlog 2. Ayudé con el Frontend Web Application.</p>
 	<p></p>
 	<p>Luyo Correa, Sandra Paula</p>
 	<p><i>TB1</i></p>
 	<p>Me encargué de realizar el registro de versiones, el project report collaboration insights, Lean UX Assumptions, Lean UX Hypothesis Statements, diseño de entrevistas, 2 entrevistas, As-Is Scenario Mapping, To-Be Scenario Mapping, 5 user stories, el product backlog de dichas historias, Web App Applications Prototyping, Software Object-Oriented Design, Source Code Management, Source Code Style Guide & Conventions, Sprint Backlog 1, Software Documentation Evidence for Sprint Review.</p>
+	<p><i>TP</i></p>
+	<p>Para esta entrega, me encargué de realizar Sprint Planning 2, cuadro de Aspect Leaders y Development Evidence, parte del Product Backlog y de colocar los Team Collaboration Insights. Ayudé con el Frontend Web Application.</p>
 	<p></p>
 	<p>Rodas Sotomayor, Ernesto</p>
 	<p><i>TB1</i></p>
 	<p>Realicé los antecedentes (5ws y 2H),los análisis de las entrevistas, el UX Canvas, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, App wireframes, App mock Ups</p>
-	<p><i>TB1</i></p>
+	<p><i>TP</i></p>
+	<p>Me encargué de agregar User flows al reporte. Ayudé con el Frontend Web Application.</p>
+	<p></p>
 	<p>Sulca Silva, Melisa Geraldine</p>
 	<p><i>TB1</i></p>
 	<p>Realice el Startup Profile, el Análisis Competitivo, el Style Guidelines, General Style Guide, el Web Style Guidelines, una épica con sus respectivos user stories, el diagrama de componentes y los wireframes de las user stories.</p>
+	<p><i>TP</i></p>
+	<p>Me encargué de realizar nuevos wireframes de ArquiTech. Contribuí con las conclusiones. Ayudé con el Frontend Web Application.</p>
 </td>
-<td class="c3" colspan="1" rowspan="1"><p>La presentación del proyecto BuildTruck ha demostrado la capacidad del equipo para comunicar de manera clara y efectiva su propuesta de valor a diversos públicos, desde especialistas técnicos hasta posibles usuarios no familiarizados con soluciones digitales. Al adaptar el lenguaje y los recursos visuales según la audiencia, se logró transmitir con precisión los beneficios y funcionalidades de la plataforma.</p></td>
+<td class="c3" colspan="1" rowspan="1">
+	<p>La presentación del proyecto BuildTruck ha demostrado la capacidad del equipo para comunicar de manera clara y efectiva su propuesta de valor a diversos públicos, desde especialistas técnicos hasta posibles usuarios no familiarizados con soluciones digitales. Al adaptar el lenguaje y los recursos visuales según la audiencia, se logró transmitir con precisión los beneficios y funcionalidades de la plataforma.</p></td>
+	<p></p>
+	<p>Como equipo, al actualizar la Landing Page y desarrollar la primera versión del Frontend Web Application de ArquiTech durante el Sprint 2, fortalecimos nuestra capacidad para comunicar oralmente de manera efectiva a distintos rangos de audiencia. Al presentar nuestros avances en revisiones de sprint, coordinar tareas entre líderes y colaboradores, y explicar el funcionamiento de las funcionalidades implementadas, aprendimos a adaptar nuestro lenguaje técnico a contextos más accesibles para usuarios, compañeros y posibles interesados del proyecto. Esta experiencia nos permitió mejorar nuestra claridad, cohesión y confianza al exponer resultados de desarrollo en entornos colaborativos.</p>
 </tr>
 <tr class="c11">
 <td class="c3" colspan="1" rowspan="1"><p>Comunica por escrito con efectividad a diferentes rangos de audiencia</p></td>
@@ -267,29 +279,39 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 	<p>Bellido Salas, Raúl</p>
 	<p><i>TB1</i></p>
 	<p>Investigué los segmentos objetivos. Redacté la Task matrix. Ayudé en la creación del diagrama de clases. Modelé el diagrama de datos. Realicé 2 entrevistas para el primer segmento objetivo. Ayudé en la modelación de wireframes, y redacté el sprint planning</p>
+	<p><i>TP</i></p>
+	<p>Me encargué de realizar código para el Frontend Web Application. También realicé el Software Deployment Evidence for Sprint Review y las conclusiones.</p>
 	<p></p>
 	<p>Gómez Flores, Daniela Araceli</p>
 	<p><i>TB1</i></p>
 	<p>Para esta entrega, realicé los Lean UX Problem Statements, Estrategias y tácticas frente a competidores, User Personas, User Journey Mapping, Empathy Mapping, 5 user stories, impact mapping, product backlog de mis user stories, organization systems, labeling systems, diagrama de contexto, diagrama de contenedores, landing page wireframe, landing page mockup.</p>
+	<p><i>TP</i></p>
+	<p>Para esta entrega actualicé la landing page, ayudé a agregar conclusiones e hice parte del Sprint Backlog 2. Ayudé con el Frontend Web Application.</p>
 	<p></p>
 	<p>Luyo Correa, Sandra Paula</p>
 	<p><i>TB1</i></p>
 	<p>Me encargué de realizar el registro de versiones, el project report collaboration insights, Lean UX Assumptions, Lean UX Hypothesis Statements, diseño de entrevistas, 2 entrevistas, As-Is Scenario Mapping, To-Be Scenario Mapping, 5 user stories, el product backlog de dichas historias, Web App Applications Prototyping, Software Object-Oriented Design, Source Code Management, Source Code Style Guide & Conventions, Sprint Backlog 1, Software Documentation Evidence for Sprint Review.</p>
+	<p><i>TP</i></p>
+	<p>Para esta entrega, me encargué de realizar Sprint Planning 2, cuadro de Aspect Leaders y Development Evidence, parte del Product Backlog y de colocar los Team Collaboration Insights. Ayudé con el Frontend Web Application.</p>
 	<p></p>
 	<p>Rodas Sotomayor, Ernesto</p>
 	<p><i>TB1</i></p>
 	<p>Realicé los antecedentes (5ws y 2H),los análisis de las entrevistas, el UX Canvas, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, App wireframes, App mock Ups</p>
-	<p><i>TB1</i></p>
+	<p><i>TP</i></p>
+	<p>Me encargué de agregar User flows al reporte. Ayudé con el Frontend Web Application.</p>
+	<p></p>
 	<p>Sulca Silva, Melisa Geraldine</p>
 	<p><i>TB1</i></p>
 	<p>Realice el Startup Profile, el Análisis Competitivo, el Style Guidelines, General Style Guide, el Web Style Guidelines, una épica con sus respectivos user stories, el diagrama de componentes y los wireframes de las user stories.</p>
-</td>
+	<p><i>TP</i></p>
+	<p>Me encargué de realizar nuevos wireframes de ArquiTech. Contribuí con las conclusiones. Ayudé con el Frontend Web Application.</p>
 <td class="c3" colspan="1" rowspan="1">
 	<p>La elaboración del informe y los recursos complementarios del proyecto permitió ejercitar una comunicación escrita estructurada, concisa y orientada a distintos perfiles de lectura. A través de fichas, mapas, cuadros y descripciones técnicas claras, se facilitó la comprensión del problema, la solución propuesta y su impacto, tanto para audiencias técnicas como para usuarios administrativos.</p>
+	<p></p>
+	<p>A lo largo del Sprint 2, al actualizar la Landing Page y desarrollar la primera versión del Frontend Web Application de ArquiTech, reforzamos nuestra capacidad de comunicar por escrito con efectividad a diferentes rangos de audiencia. La elaboración de documentación técnica, reportes de avance, planificación de sprint, registro de colaboración y evidencias detalladas nos permitió transmitir información clara, estructurada y adaptada tanto a usuarios técnicos como a stakeholders no especializados. Este proceso nos ayudó a desarrollar habilidades clave para documentar y comunicar con precisión el progreso y los objetivos del proyecto, asegurando una comprensión compartida entre todos los involucrados.</p>
 </td>
 </tr>
 </table>
-</body>
 
 <hr>
 
