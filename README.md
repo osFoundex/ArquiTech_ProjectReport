@@ -2857,7 +2857,56 @@ Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de
 
 #### 5.2.2.4. Development Evidence for Sprint Review.  
 
-
+<table class="c9">
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p><b>Repository</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Branch</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Commit Id</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Commit</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Message Body</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Commited on (Date)</b></p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>DanieGF1/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>0823e28</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: add material model</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>Paulu27/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>c4f2026</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: Update user.entity.spec.ts</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>ernesto0710/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>98f93ba</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: add project.entity.ts</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>raulbellidosalas/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>9105833</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: Updated worker-management.component.css</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>MSS02204/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>2600763</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: add incident.entity.ts</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
+</tr>
+</table>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.  
 
