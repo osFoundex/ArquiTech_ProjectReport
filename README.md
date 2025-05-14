@@ -2936,7 +2936,7 @@ En este sprint 2, como fue mencionado con anterioridad, nos centramos en el desa
 *Sprint 2 Deployment Evidence 1*  
 
 <p align="center">
-  <img src="imagesSprint2EvidenceDeployment2.jpg" alt="PB" width="1000">
+  <img src="images/Sprint2EvidenceDeployment2.jpg" alt="PB" width="1000">
 </p>
 
 *Nota.* Elaboración propia.
