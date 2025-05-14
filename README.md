@@ -99,7 +99,7 @@ Para la elaboración del informe del TP1, de igual manera que en la entrega pasa
 **Figura 2**  
 *Analíticas de participación TP1*  
 <p align="center">
-  <img src="images/tb1CollaborationInsights.png" alt="PB" width="1000">
+  <img src="images/Insights2.PNG" alt="PB" width="1000">
 </p> 
 
 *Nota.* Elaboración propia. 
