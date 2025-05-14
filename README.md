@@ -2959,13 +2959,15 @@ Link del repositorio: [https://github.com/osFoundex/ArquiTech_FrontendWebApp](ht
 
 #
 
-El desarrollo de Foundex y su solución digital ArquiTech representa el esfuerzo conjunto de un equipo de jóvenes universitarios comprometidos con transformar el sector de la construcción a través de la tecnología. A lo largo del presente informe, hemos documentado detalladamente cada etapa del proceso de diseño, análisis y desarrollo del producto, partiendo desde la identificación de la problemática hasta la implementación funcional de una herramienta que permite a las pequeñas y medianas empresas constructoras gestionar eficientemente sus proyectos.
-Este proyecto integró enfoques modernos como el Lean UX y metodologías ágiles que guiaron el descubrimiento de necesidades reales del usuario, validación de hipótesis y definición clara de requerimientos. La estructuración del producto se apoyó en herramientas como user personas, escenarios “as-is” y “to-be”, user stories y backlog priorizado, permitiendo una alineación precisa con los objetivos del negocio y las expectativas del usuario final.
-El diseño de la arquitectura del software y de la base de datos, junto con las directrices de estilo, garantizaron una plataforma escalable, organizada y visualmente coherente. Asimismo, la implementación se desarrolló mediante sprints colaborativos, registrando los avances en cada fase con evidencias tangibles que reflejan el progreso y compromiso del equipo.
+Consolidación del Frontend como Pilar de Transformación Digital: Durante este sprint, el equipo de ArquiTech fortaleció su compromiso con la digitalización del sector construcción, concentrándose en el desarrollo del Frontend Web Application. Esta herramienta proporciona una interfaz intuitiva y accesible para las pymes constructoras, permitiéndoles gestionar sus obras de manera más eficiente desde cualquier dispositivo.
 
-Además, el uso del control de versiones, el manejo estructurado del código y la configuración de despliegue demuestran un enfoque profesional hacia la sostenibilidad y evolución del sistema.
+Ejecución Ágil y Centrada en el Usuario: Se aplicaron principios de Lean UX y metodologías ágiles que permitieron diseñar e implementar funcionalidades priorizadas según las necesidades reales de los usuarios. La creación de vistas como historial de transacciones, reportes semanales, listas de proyectos y trabajadores evidenció una validación continua del valor entregado.
 
-Foundex no solo ha logrado desarrollar una solución funcional e innovadora, sino que también ha demostrado cómo la sinergia entre diversas disciplinas y una visión estratégica bien definida pueden generar un impacto significativo. Este trabajo conjunto nos permite sentar bases sólidas para cumplir nuestra visión de convertirnos en la plataforma líder de digitalización de procesos constructivos en Perú.
+Desarrollo Estructurado con Herramientas Estratégicas: Las tareas fueron guiadas por user stories bien definidas dentro de un backlog gestionado en Jira. La integración entre frontend y backend, junto a la conexión con bases de datos, garantizó una experiencia coherente y alineada con los objetivos del producto.
+
+Colaboración Técnica Multidisciplinaria y Escalabilidad: La arquitectura modular, el trabajo en ramas específicas por integrante, y el uso de GitHub como sistema de control de versiones reflejan una ejecución colaborativa y escalable. Cada commit representó avances tangibles hacia una plataforma sostenible y técnicamente robusta.
+
+Impacto del Sprint en la Visión Global del Proyecto: Este segundo sprint fue clave para convertir los lineamientos estratégicos en resultados concretos. La sinergia del equipo permitió consolidar una versión funcional del sistema, sentando las bases para una futura implementación real en el sector construcción peruano. Se reafirma así la visión de Foundex de liderar procesos de innovación digital a través de soluciones enfocadas en el usuario y sostenibles a largo plazo.
 
 
 # Bibliografía
