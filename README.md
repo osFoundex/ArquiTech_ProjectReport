@@ -2922,6 +2922,14 @@ En este sprint 2, como fue mencionado con anterioridad, nos centramos en el desa
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
+| **Endpoint**                     | **Path**              | **Descripción**                                                                 |
+|----------------------------------|-----------------------|---------------------------------------------------------------------------------|
+| **Materials Endpoint**           | `/materials`          | Punto de acceso para gestionar datos relacionados con materiales (ejemplo: cemento, acero). |
+| **Workers Endpoint**             | `/workers`            | Punto de acceso para gestionar datos de trabajadores (ejemplo: nombres, roles).   |
+| **Incidents Endpoint**           | `/incidents`          | Punto de acceso para gestionar datos de incidentes (ejemplo: accidentes, fallos). |
+| **Machines Endpoint**            | `/machinery`          | Punto de acceso para gestionar datos de maquinaria (ejemplo: excavadoras, placas). |
+| **Project Endpoint**             | `/projects`           | Punto de acceso para gestionar datos de proyectos (ejemplo: presupuestos, estados). |
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.  
 
 Para realizar el deploy de nuestro proyecto en Netify primero creamos una cuenta e iniciamos sesión, luego escribimos este comando en la terminal de nuestro proyecto en Webstorm:  
