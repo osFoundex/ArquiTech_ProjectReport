@@ -2959,7 +2959,13 @@ Link del repositorio: [https://github.com/osFoundex/ArquiTech_FrontendWebApp](ht
 
 #
 
+El desarrollo de Foundex y su solución digital ArquiTech representa el esfuerzo conjunto de un equipo de jóvenes universitarios comprometidos con transformar el sector de la construcción a través de la tecnología. A lo largo del presente informe, hemos documentado detalladamente cada etapa del proceso de diseño, análisis y desarrollo del producto, partiendo desde la identificación de la problemática hasta la implementación funcional de una herramienta que permite a las pequeñas y medianas empresas constructoras gestionar eficientemente sus proyectos.
+Este proyecto integró enfoques modernos como el Lean UX y metodologías ágiles que guiaron el descubrimiento de necesidades reales del usuario, validación de hipótesis y definición clara de requerimientos. La estructuración del producto se apoyó en herramientas como user personas, escenarios “as-is” y “to-be”, user stories y backlog priorizado, permitiendo una alineación precisa con los objetivos del negocio y las expectativas del usuario final.
+El diseño de la arquitectura del software y de la base de datos, junto con las directrices de estilo, garantizaron una plataforma escalable, organizada y visualmente coherente. Asimismo, la implementación se desarrolló mediante sprints colaborativos, registrando los avances en cada fase con evidencias tangibles que reflejan el progreso y compromiso del equipo.
 
+Además, el uso del control de versiones, el manejo estructurado del código y la configuración de despliegue demuestran un enfoque profesional hacia la sostenibilidad y evolución del sistema.
+
+Foundex no solo ha logrado desarrollar una solución funcional e innovadora, sino que también ha demostrado cómo la sinergia entre diversas disciplinas y una visión estratégica bien definida pueden generar un impacto significativo. Este trabajo conjunto nos permite sentar bases sólidas para cumplir nuestra visión de convertirnos en la plataforma líder de digitalización de procesos constructivos en Perú.
 
 
 # Bibliografía
