@@ -1,4 +1,3 @@
-
 <h1 style="text-align: center;"><strong>Informe del Trabajo Final</strong></h1>
 <h3 style="text-align: center;"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h1>
 
@@ -70,6 +69,12 @@
 <td class="c5" colspan="1" rowspan="1"><p>Raúl Bellido Salas</p><p></p><p>Daniela Araceli Gómez Flores</p><p></p><p>Sandra Paula Luyo Correa</p><p></p><p>Ernesto Rodas Sotomayor</p><p></p><p>Melisa Geraldine Sulca</p></td>
 <td class="c5" colspan="1" rowspan="1"><p>Para la segunda entrega, hemos agregado la documentación del Sprint 2 y actualizado las conclusiones y anexos del documento de reporte. También, actualizamos la landing page y creamos la primera versión del Frontend Web Applications.</p></td>
 </tr>
+<tr class="c7">
+<td class="c5" colspan="1" rowspan="1"><p>TB2</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>19/06/2025</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>Raúl Bellido Salas</p><p></p><p>Daniela Araceli Gómez Flores</p><p></p><p>Sandra Paula Luyo Correa</p><p></p><p>Ernesto Rodas Sotomayor</p><p></p><p>Melisa Geraldine Sulca</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>En esta tercera entrega, hemos agregado la documentación del Sprint 3 desarrollado, Validation Interviews (Diseño de entrevistas, registro de entrevistas y evaluaciones según heurísticas), también se realizó el Video About-the-Product y se actualizaron las conclusiones, bibliografía y anexos.</p></td>
+</tr>
 </table>
 </body>
 
@@ -82,7 +87,7 @@
 
 Para realizar el informe de este proyecto, utilizaremos un repositorio llamado “ArquiTech\_ProjectReport” el cual está colocado en nuestra organización llamada “osFoundex” en GitHub. Se puede observar en el siguiente enlace: [https://github.com/Paulu27/ArquiTech\_ProjectReport](https://github.com/Paulu27/ArquiTech_ProjectReport)   
 
-<ins>**TB1:**</ins>  
+<ins> **TB1:** </ins>  
 Para la elaboración de este informe, primero utilizamos un documento de google donde podíamos ver los avances en simultáneo. Posteriormente, una vez terminado, realizamos commits en el repositorio del project report en GitHub. A continuación, mostraremos analíticas de participación:  
 
 **Figura 1**  
@@ -93,7 +98,7 @@ Para la elaboración de este informe, primero utilizamos un documento de google 
 
 *Nota.* Elaboración propia. 
 
-<ins>**TP1:**</ins>  
+<ins> **TP1:** </ins>  
 Para la elaboración del informe del TP1, de igual manera que en la entrega pasada, primero utilizamos un documento de google donde podíamos ver los avances que realizábamos del Sprint 2. Luego, convertimos lo realizado a formato markdown y los subimos como commits en el repositorio del project report en GitHub. A continuación, mostraremos analíticas de participación:
 
 **Figura 2**  
@@ -103,6 +108,16 @@ Para la elaboración del informe del TP1, de igual manera que en la entrega pasa
 </p> 
 
 *Nota.* Elaboración propia. 
+
+<ins> **TB2:** </ins> 
+Para la documentación de esta entrega, hemos realizado los commits de nuestras partes al repositorio "ArquiTech_ProjectReport". A continuación, mostramos los Insights del repositorio mencionado para comprobar la participación de cada uno de los miembros del equipo.
+
+**Figura 3**  
+*Analíticas de participación del TB2*  
+<p align="center">
+  <img src="images/Insights2.PNG" alt="PB" width="1000">
+</p>
+
 #
 <hr>
 
@@ -194,10 +209,12 @@ Para la elaboración del informe del TP1, de igual manera que en la entrega pasa
     <summary>Capítulo V: Product Implementation, Validation & Deployment </summary>
         <ul>
             <li><a href="#51-software-configuration-management">5.1. Software Configuration Management</a></li>
+	<ul>
             <li><a href="#511-software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a></li>
             <li><a href="#512-source-code-management">5.1.2. Source Code Management</a></li>
             <li><a href="#513-source-code-style-guide-&-conventions">5.1.3. Source Code Style Guide & Conventions</a></li>
             <li><a href="#514-software-deployment-configuration">5.1.4. Software Deployment Configuration</a></li>
+	</ul>
             <li><a href="#52-landing-page,-services-&-applications-implementation">5.2. Landing Page, Services & Applications Implementation</a></li>
             <li><a href="#521-sprint-1">5.2.1. Sprint 1</a></li>
             <li><a href="#5211-sprint-planning-1">5.2.1.1. Sprint Planning 1</a></li>
@@ -216,6 +233,20 @@ Para la elaboración del informe del TP1, de igual manera que en la entrega pasa
             <li><a href="#5226-services-documentation-evidence-for-sprint-review">5.2.2.6. Services Documentation Evidence for Sprint Review</a></li>
             <li><a href="#5227-software-deployment-evidence-for-sprint-review">5.2.2.7. Software Deployment Evidence for Sprint Review</a></li>
             <li><a href="#5228-team-collaboration-insights-during-sprint">5.2.2.8. Team Collaboration Insights during Sprint</a></li>
+	    <li><a href="#523-sprint-3">5.2.3. Sprint 3</a></li>
+            <li><a href="#5231-sprint-planning-2">5.2.3.1. Sprint Planning 3</a></li>
+            <li><a href="#5232-aspect-leaders-and-collaborators">5.2.3.2. Aspect Leaders and Collaborators</a></li>
+            <li><a href="#5233-sprint-backlog-2">5.2.3.3. Sprint Backlog 3</a></li>
+            <li><a href="#5234-development-evidence-for-sprint-review">5.2.3.4. Development Evidence for Sprint Review</a></li>
+            <li><a href="#5235-execution-evidence-for-sprint-review">5.2.3.5. Execution Evidence for Sprint Review</a></li>
+            <li><a href="#5236-services-documentation-evidence-for-sprint-review">5.2.3.6. Services Documentation Evidence for Sprint Review</a></li>
+            <li><a href="#5237-software-deployment-evidence-for-sprint-review">5.2.3.7. Software Deployment Evidence for Sprint Review</a></li>
+            <li><a href="#5238-team-collaboration-insights-during-sprint">5.2.3.8. Team Collaboration Insights during Sprint</a></li>	
+            <li><a href="#53-validation-interviews">5.3. Validation Interviews.</a></li>
+            <li><a href="#531-diseño-de-entrevistas">5.3.1. Diseño de Entrevistas.</a></li>
+            <li><a href="#532-registro-de-entrevistas">5.3.2. Registro de Entrevistas.</a></li>
+            <li><a href="#533-evaluaciones-según-heurísticas">5.3.3. Evaluaciones según heurísticas.</a></li>
+            <li><a href="#54-video-about-the-product">5.4. Video About-the-Product.</a></li>
         </ul>        
 </details>
 
@@ -329,7 +360,7 @@ En Foundex, creemos que  es fundamental agilizar los procesos de construcción p
 
 ### *1.1.2. Perfiles de Integrantes del Equipo*
 
-**Figura 2**
+**Figura 4**
 
 *Perfil de Raúl Bellido*
 
@@ -339,7 +370,7 @@ En Foundex, creemos que  es fundamental agilizar los procesos de construcción p
 
 *Nota.* Elaboración propia.
 
-**Figura 3**
+**Figura 5**
 
 *Perfil de Daniela Gómez*  
 
@@ -347,7 +378,7 @@ En Foundex, creemos que  es fundamental agilizar los procesos de construcción p
   <img src="images/PerfilDaniela.png" alt="PB" width="1000">
 </p>
 
-**Figura 4**
+**Figura 6**
 
 *Perfil de Sandra Luyo*  
 
@@ -355,7 +386,7 @@ En Foundex, creemos que  es fundamental agilizar los procesos de construcción p
   <img src="images/PerfilSandra.png" alt="PB" width="1000">
 </p>
 
-**Figura 5**
+**Figura 7**
 
 *Perfil de Ernesto Rodas*  
 
@@ -363,7 +394,7 @@ En Foundex, creemos que  es fundamental agilizar los procesos de construcción p
   <img src="images/profile-ernesto.png" alt="PB" width="1000">
 </p>
 
-**Figura 6**
+**Figura 8**
 
 *Perfil de Melisa Sulca*  
 
@@ -474,7 +505,7 @@ La gravedad radica en que estas deficiencias pueden representar pérdidas econó
 
 #### 1.2.2.4. Lean UX Canvas
 
-**Figura 7**  
+**Figura 9**  
 *Lean UX Canvas*  
 <p align="center">
   <img src="images/ux-canvas.png" alt="PB" width="1000">
@@ -698,7 +729,7 @@ Usan herramientas de planificación, presupuestos y CRM, para gestionar eficient
 
 + **Entrevista #1:**
 
-**Figura 8**  
+**Figura 10**  
 *Imagen del usuario número 1 entrevistado*
 <p align="center">
   <img src="images/entrevista_1_segmento_1.png" alt="PB" width="900">
@@ -716,7 +747,7 @@ Finalmente, recomendó incluir funcionalidades adicionales como el control separ
 
 + **Entrevista #2:**
 
-**Figura 9**  
+**Figura 11**  
 *Imagen del usuario número 2 entrevistado*
 <p align="center">
   <img src="images/entrevista_2_segmento_1.png" alt="PB" width="1000">
@@ -739,7 +770,7 @@ Finalmente, propuso que la herramienta digital sea integral, que consolide toda 
 
 + **Entrevista #3:**
 
-**Figura 10**  
+**Figura 12**  
 *Imagen del usuario número 3 entrevistado*
 <p align="center">
   <img src="images/entrevista_3_segmento_1.png" alt="PB" width="1000">
@@ -761,7 +792,7 @@ Finalmente, sugirió funciones adicionales como alertas automáticas por faltas 
 
 + **Entrevista #4:**  
 
-**Figura 11**  
+**Figura 13**  
 *Imagen del usuario número 1 entrevistado*  
 <p align="center">
   <img src="images/entrevista_1_segmento_2.png" alt="PB" width="1000">
@@ -783,7 +814,7 @@ Finalmente, destacó que lo que más espera de una constructora es transparencia
 
 + **Entrevista #5:**
 
-**Figura 12**  
+**Figura 14**  
 *Imagen del usuario número 2 entrevistado*  
 <p align="center">
   <img src="images/entrevista_2_segmento_2.png" alt="PB" width="1000">
@@ -805,7 +836,7 @@ Confía más en herramientas digitales que entreguen reportes actualizados, regi
 
 + **Entrevista #6:**
 
-**Figura 13**  
+**Figura 15**  
 *Imagen del usuario número 3 entrevistado*  
 <p align="center">
   <img src="images/entrevista_3_segmento_2.png" alt="PB" width="1000">
@@ -827,7 +858,7 @@ Afirma que el uso de una herramienta como **ArquiTech** influiría fuertemente e
 
 <ins>**Segmento objetivo #1: Supervisores de obra**</ins>  
 
-**Figura 14**  
+**Figura 16**  
 *Herramientas utilizadas por supervisores de obra*  
 <p align="center">
   <img src="images/grafico-1.png" alt="PB" width="900">
@@ -837,7 +868,7 @@ Afirma que el uso de una herramienta como **ArquiTech** influiría fuertemente e
 
 Este gráfico muestra que el 100% de los supervisores entrevistados utilizan herramientas tradicionales como hojas de tareo físicas y archivos Excel para registrar la asistencia del personal y el control de inventario. No se reportó el uso de herramientas digitales especializadas, lo cual evidencia un entorno operativo altamente manual y fragmentado. La ausencia de plataformas centralizadas limita el acceso en tiempo real a la información, genera duplicación de esfuerzos y favorece errores operativos.
 
-**Figura 15**  
+**Figura 17**  
 *Frustraciones frecuentes en la supervisión de obras*  
 <p align="center">
   <img src="images/grafico-2.png" alt="PB" width="900">
@@ -847,7 +878,7 @@ Este gráfico muestra que el 100% de los supervisores entrevistados utilizan her
 
 Los entrevistados coinciden en que las principales fuentes de frustración en su gestión son: la inasistencia del personal clave (100%), los retrasos en la entrega de materiales por parte de proveedores (100%), y los errores en el control de inventario (100%). Además, un 66% de los casos reportó dificultades por la descoordinación entre áreas administrativas y técnicas. Estos factores no solo afectan la ejecución operativa, sino también la valorización económica del proyecto y la relación con el contratante.
 
-**Figura 16**  
+**Figura 18**  
 *Necesidades principales detectadas en supervisores*  
 <p align="center">
   <img src="images/grafico-3.png" alt="PB" width="1000">
@@ -866,7 +897,7 @@ Las necesidades más urgentes identificadas por los supervisores giran en torno 
 
 <ins>**Segmento objetivo #2: Contratantes de empresas privadas**</ins>
 
-**Figura 17**  
+**Figura 19**  
 *Herramientas utilizadas por constructoras para informar a contratantes*  
 <p align="center">
   <img src="images/grafico-4.png" alt="PB" width="1000">
@@ -876,7 +907,7 @@ Las necesidades más urgentes identificadas por los supervisores giran en torno 
 
 El gráfico evidencia que los contratantes reciben información mayormente a través de canales informales y no estructurados. El 100% mencionó el uso de correos electrónicos con archivos Word o Excel, y mensajes vía WhatsApp, como principales métodos de comunicación. Solo el 33% reportó el uso de presentaciones formales, y ninguno indicó el uso de plataformas digitales especializadas. Esta informalidad afecta la transparencia, organización y trazabilidad de los proyectos.
 
-**Figura 18**  
+**Figura 20**  
 *Frustraciones frecuentes reportadas por contratantes*  
 <p align="center">
   <img src="images/grafico-5.png" alt="PB" width="1000">
@@ -886,7 +917,7 @@ El gráfico evidencia que los contratantes reciben información mayormente a tra
 
 Los contratantes entrevistados manifestaron una frustración generalizada por la falta de visibilidad en tiempo real (100%), los retrasos no comunicados a tiempo (100%) y los errores de calidad en obra (66%). Además, todos (100%) destacaron la preocupación por la falta de transparencia en el uso de materiales, lo cual genera desconfianza, sobrecostos y problemas con terceros (clientes o proveedores).
 
-**Figura 19**  
+**Figura 21**  
 *Necesidades principales detectadas en contratantes*  
 <p align="center">
   <img src="images/grafico-6.png" alt="PB" width="1000">
@@ -901,7 +932,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 ### *2.3.1. User Personas*
 
-**Figura 20**  
+**Figura 22**  
 *User persona del segmento #1: Supervisor de Obra*  
 <p align="center">
   <img src="images/user_persona1.jpg" alt="PB" width="1000" align="center">
@@ -909,7 +940,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota.* Elaboración propia.  
 
-**Figura 21**  
+**Figura 23**  
 *User persona del segmento #2: Contratista de Empresas privadas*  
 <p align="center">
   <img src="images/user_persona2.jpg" alt="PB" width="1000">
@@ -935,7 +966,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 ### *2.3.3. User Journey Mapping*
 
-**Figura 22**  
+**Figura 24**  
 *User Journey Mapping del segmento #1: Supervisor de Obra*  
 <p align="center">
   <img src="images/journey1.png" alt="PB" width="1000">
@@ -943,7 +974,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota.* Elaboración propia.  
 
-**Figura 23**  
+**Figura 25**  
 *User Journey Mapping del segmento #2: Contratista de Empresas privadas*  
 <p align="center">
   <img src="images/journey2.png" alt="PB" width="1000">
@@ -954,7 +985,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 ### *2.3.4. Empathy Mapping*
 
-**Figura 24**  
+**Figura 26**  
 *Empathy Mapping del segmento #1: Supervisor de Obra*  
 <p align="center">
   <img src="images/empathy1.png" alt="PB" width="1000">
@@ -962,7 +993,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota.* Elaboración propia.  
 
-**Figura 25**  
+**Figura 27**  
 *Empathy Mapping del segmento #2: Contratista de Empresas privadas*  
 <p align="center">
   <img src="images/empathy2.png" alt="PB" width="1000">
@@ -975,7 +1006,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 <ins>**As-Is Scenario Mapping del segmento #1: Supervisores de Obra**</ins>
 
-**Figura 26**  
+**Figura 28**  
 *As-Is Scenario Mapping para segmento #1*  
 <p align="center">
   <img src="images/OS_As-is_S1.jpg" alt="PB" width="1000">
@@ -983,7 +1014,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
-**Figura 27**  
+**Figura 29**  
 *Áreas positivas del As-Is Scenario Mapping para segmento #1*  
 <p align="center">
   <img src="images/OS_As-is_S1_AP.jpg" alt="PB" width="1000">
@@ -991,7 +1022,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
-**Figura 28**   
+**Figura 30**   
 *Áreas negativas del As-Is Scenario Mapping para segmento #1*
 <p align="center">
   <img src="images/OS_As-is_S1_AN.jpg" alt="PB" width="1000">
@@ -999,7 +1030,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
-**Figura 29**   
+**Figura 31**   
 *Blank areas del As-Is Scenario Mapping para segmento \#1*
 <p align="center">
   <img src="images/OS_As-is_S1_BA.jpg" alt="PB" width="1000">
@@ -1009,7 +1040,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 <ins>**As-Is Scenario Mapping para Segmento \# 2: Contratantes de Empresas Privadas**</ins>  
 
-**Figura 30**   
+**Figura 32**   
 *As-Is Scenario Mapping para segmento #2*  
 <p align="center">
   <img src="images/OS_As-is_S2.jpg" alt="PB" width="1000">
@@ -1017,7 +1048,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
-**Figura 31**   
+**Figura 33**   
 *Áreas positivas del As-Is Scenario Mapping para segmento #2*  
 <p align="center">
   <img src="images/OS_As-is_S2_AP.jpg" alt="PB" width="1000">
@@ -1025,7 +1056,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
-**Figura 32**   
+**Figura 34**   
 *Áreas negativas del As-Is Scenario Mapping para segmento #2*  
 <p align="center">
   <img src="images/OS_As-is_S2_AN.jpg" alt="PB" width="1000">
@@ -1033,7 +1064,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
-**Figura 33**   
+**Figura 35**   
 *Blank areas del As-Is Scenario Mapping para segmento #2*  
 <p align="center">
   <img src="images/OS_As-is_S2_BA.jpg" alt="PB" width="1000">
@@ -1071,7 +1102,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 <ins>**To-Be Scenario Mapping del segmento #1: Supervisores de obra**</ins>  
 
-**Figura 34**   
+**Figura 36**   
 *To-Be Scenario Mapping del segmento #1*
 <p align="center">
   <img src="images/OS_To-be_S1.jpg" alt="PB" width="1000">
@@ -1079,7 +1110,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
-**Figura 35**   
+**Figura 37**   
 *Áreas positivas del To-Be Scenario Mapping para segmento #1*
 <p align="center">
   <img src="images/OS_To-be_S1_AP.jpg" alt="PB" width="1000">
@@ -1087,7 +1118,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
-**Figura 36**   
+**Figura 38**   
 *Áreas negativas del To-Be Scenario Mapping para segmento #1*
 <p align="center">
   <img src="images/OS_To-be_S1_AN.jpg" alt="PB" width="1000">
@@ -1095,7 +1126,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
-**Figura 37**   
+**Figura 39**   
 *Blank areas del To-Be Scenario Mapping para segmento #1*
 <p align="center">
   <img src="images/OS_To-be_S1_BA.jpg" alt="PB" width="1000">
@@ -1105,7 +1136,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 <ins>**To-Be Scenario Mapping para Segmento #2: Contratantes de Empresas Privadas**</ins>  
 
-**Figura 38**   
+**Figura 40**   
 *To-Be Scenario Mapping para segmento #2*  
 <p align="center">
   <img src="images/OS_To-be_S2.jpg" alt="PB" width="1000">
@@ -1113,7 +1144,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
-**Figura 39**   
+**Figura 41**   
 *Áreas positivas del To-Be Scenario Mapping para segmento #2*
 <p align="center">
   <img src="images/OS_To-be_S2_AP.jpg" alt="PB" width="1000">
@@ -1121,7 +1152,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
-**Figura 40**   
+**Figura 42**   
 *Áreas negativas del To-Be Scenario Mapping para segmento #2*
 <p align="center">
   <img src="images/OS_To-be_S2_AN.jpg" alt="PB" width="1000">
@@ -1129,7 +1160,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
-**Figura 41**   
+**Figura 43**   
 *Blank areas del To-Be Scenario Mapping para segmento #2*
 <p align="center">
   <img src="images/OS_To-be_S2_BA.jpg" alt="PB" width="1000">
@@ -1343,7 +1374,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 ## 3.3. Impact Mapping
 
-**Figura 42**   
+**Figura 44**   
 *Impact Mapping de ArquiTech*
 <p align="center">
   <img src="images/impact_mapp.JPG" alt="PB" width="1000">
@@ -1385,7 +1416,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 
 Adicionalmente, para llevar a cabo el manejo del product backlog, decidimos usar la herramienta virtual “Jira”.  
 
-**Figura 43**   
+**Figura 45**   
 *Product Backlog de ArquiTech*
 <p align="center">
   <img src="images/ProductBacklog.png" alt="PB" width="1000">
@@ -1410,7 +1441,7 @@ Se presentará el diseño conceptual para la landing page como para la aplicaci�
 
 <ins> **Branding e ícono:** </ins>  
 
-**Figura 44**   
+**Figura 46**   
 *Logo*  
 <p align="center">
   <img src="images/A-logo.png" alt="PB" width="1000">
@@ -1454,7 +1485,7 @@ La tipografía de Arquitech cumple un importante rol en la expresión de la iden
 * Tipografía del Logo y Títulos:  
 	El logo de Arquitech que se eligió comunica claridad con varios valores clave como el profesionalismo y técnica, por lo que se ha utilizado la tipografía Anton Regular que pertenece a la Anton Font Family. Esta tipografía transmite un aspecto fuerte y serio, lo cual es ideal para una empresa de construcción que busca mejorar los procesos de las obras. Además, las letras son altas y gruesas, lo que da buena visibilidad al nombre de la empresa en el logo y en los títulos. Cabe agregar, que tiene un aire moderno, pero sin dejar de ser profesional.
  
-**Figura 45**  
+**Figura 47**  
 *Tipografía de logo y títulos*
 <p align="center">
   <img src="images/font-demo1.png" alt="PB" width="1000">
@@ -1465,7 +1496,7 @@ La tipografía de Arquitech cumple un importante rol en la expresión de la iden
 * Tipografía de Texto Regular:  
 	Para el texto de la landing page y la aplicación se ha elegido la tipografía Futura que pertenece a Futura Font Family con el objetivo de que el usuario pueda obtener una cómoda y agradable lectura al visitar nuestras plataformas digitales. Además, esta tipografía representa modernidad, minimalismo, profesionalismo y seriedad. Aquello ayuda a la marca a representar tecnicismo, precisión y avances.
 
-**Figura 46**  
+**Figura 48**  
 *Tipografía de texto regular*
 <p align="center">
   <img src="images/futura-font.png" alt="PB" width="1000">
@@ -1476,7 +1507,7 @@ La tipografía de Arquitech cumple un importante rol en la expresión de la iden
 <ins> **Colores** </ins>  
 	Es importante elegir los colores para las plataformas digitales  adecuadamente, ya que así se asegura que la experiencia del usuario sea placentera y agradable. Por ello, nos aseguramos que la paleta de colores seleccionada de Arquitech refleje la esencia de la startup en la landing page y en nuestra aplicación.  
 
-**Figura 47**  
+**Figura 49**  
 *Paleta de colores de ArquiTech*
 <p align="center">
   <img src="images/color-pallete.png" alt="PB" width="1000">
@@ -1510,21 +1541,21 @@ La interfaz de Arquitech debe ser responsiva y se debe adaptar a diversos tamañ
 Medidas para Web Responsive:  
 Monitor pequeño: 1296x1781px
 
-**Figura 48**  
+**Figura 50**  
 <p align="center">
   <img src="images/web-responsive.png" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración Propia
 
-**Figura 49**  
+**Figura 51**  
 <p align="center">
   <img src="images/web-responsive2.png" alt="PB" width="1000">
 </p>
 
 *Nota*. Elaboración Propia
 
-**Figura 50**  
+**Figura 52**  
 <p align="center">
   <img src="images/web-responsive3.png" alt="PB" width="1000">
 </p>
@@ -1728,7 +1759,7 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 
 ### *4.4.1. Web Applications Wireframes.*
 
-**Figura**  
+**Figura 53**  
 <p align="center">
   <img src="images/wireframes1.png" alt="PB" width="500">
 <br>*Nota.* Elaboración propia. 
@@ -1736,35 +1767,35 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 <br>
 
 
-**Figura**
+**Figura 54**
 <p align="center">
   <img src="images/wireframes2.png" alt="PB" width="500">
 <br>*Nota.* Elaboración propia. 
 </p>
 <br>
 
-**Figura**
+**Figura 55**
 <p align="center">
   <img src="images/wireframes3.png" alt="PB" width="500">
 <br>*Nota.* Elaboración propia. 
 </p>
 <br>  
 
-**Figura**
+**Figura 56**
 <p align="center">
   <img src="images/wireframes4.png" alt="PB" width="500">
 <br>*Nota.* Elaboración propia.  
 </p>
 <br>
 
-**Figura**
+**Figura 57**
 <p align="center">
   <img src="images/wireframes5.png" alt="PB" width="500">
 <br>*Nota.* Elaboración propia.  
 </p>
 <br>
 
-**Figura**
+**Figura 58**
 <p align="center">
   <img src="images/wireframes6.png" alt="PB" width="500">
 <br>*Nota.* Elaboración propia.  
@@ -1781,7 +1812,7 @@ Como usuario, quiero poder ver la lista de proyectos que posee mi empresa con su
 
 **Wire:** 
 <br>
-**Figura**
+**Figura 59**
 <p align="center">
   <img src="images/wire1.png" alt="PB" width="500">
 <br>*Nota.* Elaboración propia.  
@@ -1798,7 +1829,7 @@ Para poder obtener los reportes anteriormente dichos que brinda Arquitech a cada
 Como usuario quiero tener detallado las maquinarias que se usan por cada proyecto y que incidentes suelen ocurrir en las obras para tener una visión panorámica más acertada sobre lo seguro que son las obras y asegurarse de que se cuenta con las máquinas necesarias.
 
 **Wireflow:** <br>
-**Figura**
+**Figura 60**
 <p align="center">
   <img src="images/wireflow2.png" alt="PB" width="500">
 <br>*Nota.* Elaboración propia.  
@@ -1809,44 +1840,50 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 
 ### 4.4.3. Web Applications Mock-ups
-**Figura 1**
+**Figura 61**  
 <p align="center">
   <img src="images/mockup1.png" alt="PB" width="500">
+	
 <br>*Nota.* Elaboración propia. 
 </p>
 <br>
 
-**Figura 2**
+**Figura 62**  
 <p align="center">
   <img src="images/mockup2.png" alt="PB" width="500">
+	
 <br>*Nota.* Elaboración propia. 
 </p>
 <br>
 
-**Figura 3**
+**Figura 63**  
 <p align="center">
   <img src="images/mockup3.png" alt="PB" width="500">
+	
 <br>*Nota.* Elaboración propia. 
 </p>
 <br>
 
-**Figura 4**
+**Figura 64**  
 <p align="center">
   <img src="images/mockup4.png" alt="PB" width="500">
+	
 <br>*Nota.* Elaboración propia. 
 </p>
 <br>
 
-**Figura 5**
+**Figura 65**  
 <p align="center">
   <img src="images/mockup5.png" alt="PB" width="500">
+	
 <br>*Nota.* Elaboración propia. 
 </p>
 
 
-**Figura 6**
+**Figura 66**  
 <p align="center">
   <img src="images/mockup6.png" alt="PB" width="500">
+	
 <br>*Nota.* Elaboración propia. 
 </p>
 
@@ -1859,21 +1896,33 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 **User Goal 1:** Gestionar y controlar materiales de construcción  
 **Descripción:** El supervisor desea registrar el ingreso, uso y nivel de materiales en obra para evitar desperdicios y garantizar continuidad en las actividades.
 
-  <img src="images/userflow1.png" alt="PB" width="500">
-  
+**Figura 67**  
+<p align="center">
+  <img src="images/userflow1.png" alt="PB" width="500"> 
+	
+<br>*Nota.* Elaboración propia. 
+</p>  
 ---
 
 **User Goal 2:** Controlar la asistencia y roles de los trabajadores  
 **Descripción:** El supervisor debe tener control total sobre el personal: quién está presente, qué tarea cumple y qué rol desempeña.
 
+**Figura 68**  
+<p align="center">
 <img src="images/userflow2.png" alt="PB" width="500">
+	
+<br>*Nota.* Elaboración propia. 
 
 ---
 
 **User Goal 3:** Reportar incidencias en obra  
 **Descripción:** El supervisor reporta eventos importantes en campo (fallas de maquinaria, ausencias masivas, problemas logísticos).
 
+**Figura 69**  
+<p align="center">
 <img src="images/userflow3.png" alt="PB" width="500">
+
+<br>*Nota.* Elaboración propia.
 
 ---
 
@@ -1882,14 +1931,22 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 **User Goal 1:** Visualizar el estado y progreso de mis obras contratadas (solo lectura)  
 **Descripción:** El contratante necesita consultar las obras activas donde ha contratado los servicios, con acceso a información clara y actualizada.
 
+**Figura 70**  
+<p align="center">
 <img src="images/userflow4.png" alt="PB" width="500">
+
+<br>*Nota.* Elaboración propia.
 
 ---
 
 **User Goal 2:** Visualizar el uso y estado de la maquinaria asignada a la obra  
 **Descripción:** Permitir que el contratante consulte, en tiempo real y de forma clara, qué maquinarias están siendo utilizadas en sus obras, cuál es su estado operativo y cómo impactan en el avance del proyecto.
 
+**Figura 71**  
+<p align="center">
 <img src="images/userflow5.png" alt="PB" width="500">
+
+<br>*Nota.* Elaboración propia.
 
 ---
 
@@ -1899,32 +1956,38 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 <img src="images/userflow6.png" alt="PB" width="500">
 
 ## 4.5. Web Applications Prototyping
-**Figura**
+**Figura 72**
+*Video of Web Applications Prototype of ArquiTech*
 <p align="center">
   <img src="images/web-app-prototyping.png" alt="PB" width="500">
-<br> Nota Elaboración propia.
 </p>
-<br>
 
-* Link del video:  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUCIfTixniJPqJdWsmlCJHUB2oQZ_jRx1hPoDtGdPdiNjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BV3Le8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUCIfTixniJPqJdWsmlCJHUB2oQZ_jRx1hPoDtGdPdiNjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BV3Le8)
+<br>*Nota.* Elaboración propia. Link del video:  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUCIfTixniJPqJdWsmlCJHUB2oQZ_jRx1hPoDtGdPdiNjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BV3Le8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUCIfTixniJPqJdWsmlCJHUB2oQZ_jRx1hPoDtGdPdiNjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BV3Le8)
+
 
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagrams
 
+**Figura 73**
+*Software Architecture Context Diagram of ArquiTech*
 <p align="center">
-
-
   <img src="images/Arquitech_DiagramaContexto.png" alt="PB" width="1000">
-
-
 </p>
+
+<br>*Nota.* Elaboración propia.
+
 
 ### 4.6.2. Software Architecture Container Diagrams
 
+**Figura 74**
+*Software Architecture Container Diagram of ArquiTech*
 <p align="center">
   <img src="images/Arquitech_DiagramaContenedor.png" alt="PB" width="700">
 </p>
+
+<br>*Nota.* Elaboración propia.
+
 
 ### 4.6.3. Software Architecture Components Diagrams
 
@@ -1932,10 +1995,13 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 ### 4.7.1. Class Diagrams
 
+**Figura 75**
+*Class Diagram of ArquiTech*
 <p align="center">
   <img src="images/ArquiTech - Class diagram.png" alt="PB" width="1000">
 </p>
 
+<br>*Nota.* Elaboración propia.
 
 ### 4.7.2. Class Dictionary
 
@@ -2131,9 +2197,13 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 ### *4.8.1. Database Diagram*
 
+**Figura 76**
+*Database Diagram of ArquiTech*
 <p align="center">
   <img src="images/database_diagram.png" alt="PB" width="1000">
 </p>
+
+*Nota.* Elaboración propia.  
 
 <hr>
 
@@ -2149,18 +2219,17 @@ Esta sección presentará las herramientas que se han utilizado durante este pro
 
 En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figma,  para el desarrollo de Software Development se ha usado la herramienta WebStorm, para el lenguaje de programación se utilizó TypeScript y para el frontend Framework se ha usado el framework Angular y para la versión de control y colaboraciones se ha usado Git y GitHub.  
 **FIGMA:** Es una herramienta de diseño de interfaces y experiencias de usuario que permite crear wireframes, mockups, prototipos interactivos y diseños de alta fidelidad. Debido a su enfoque colaborativo en tiempo real, múltiples diseñadores o desarrolladores pueden trabajar simultáneamente desde cualquier lado. Además, permite definir la estructura visual y la interacción del usuario con la aplicación antes de comenzar el desarrollo.  
-**Figura 1**  
-*Logo de Figma*
 
+**Figura 77**  
+*Logo de Figma*
 <p align="center">
   <img src="images/fig-logo.png" alt="PB" width="1000">
 </p>
 
-
 *Nota.* Obtenido de: [https://images.app.goo.gl/CChj4WHkrcpoj8o86](https://images.app.goo.gl/CChj4WHkrcpoj8o86)   
 
 **WEBSTORM:** Es un entorno de desarrollo integrado (IDE) desarrollado por JetBrains, se especializa en tecnologías web como JavaScript, TypeScript, Angular, React y Node.js. Incluso, ofrece funciones avanzadas como autocompletado inteligente. También, proporciona optimización para desarrollar aplicaciones web modernas y gestiona proyectos de forma eficiente, ya que se integra con herramientas como GitHub.  
-**Figura 2**  
+**Figura 78**  
 *Logo de WebStorm*
 <p align="center">
   <img src="images/storm-logo.png" alt="PB" width="180">
@@ -2169,7 +2238,8 @@ En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figm
 *Nota.* Obtenido de: [https://images.app.goo.gl/7nFfHpyKEJwk53nNA](https://images.app.goo.gl/7nFfHpyKEJwk53nNA)   
 
 **TYPESCRIPT:** Es un lenguaje de programación creado por Microsoft que está diseñado para facilitar el desarrollo de aplicaciones mantenibles, robustas y escalables. Este lenguaje mejora la calidad del código al detectar errores en el tiempo de desarrollo, lo que disminuye los fallos en la producción. Es utilizado ampliamente en frameworks modernos como Angular, lo que permite la creación de componentes reutilizables y una arquitectura de aplicación clara y organizada  
-**Figura 3**  
+
+**Figura 79**  
 *Logo de TypeScript*  
 <p align="center">
   <img src="images/ts-logo.png" alt="PB" width="180">
@@ -2178,9 +2248,9 @@ En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figm
 *Nota.* Obtenido de: [https://images.app.goo.gl/gG7rMNP4BM3nZBwE6](https://images.app.goo.gl/gG7rMNP4BM3nZBwE6)   
 
 **ANGULAR:** Es un framework de desarrollo de web basado en TypeScript, mantenido por Google y permite construir aplicaciones web dinámicas y escalables a través de una arquitectura basada en componentes, servicios y módulos. Este facilita la creación de interfaces reactivas, maneja eficientemente el estado de la aplicación y su conexión con APIs. La estructura modular que presenta favorece el trabajo en equipo y el mantenimiento de proyectos de gran escala.   
-**Figura 4**  
-*Logo de Angular*
 
+**Figura 80**  
+*Logo de Angular*
 <p align="center">
   <img src="images/angular-logo.png" alt="PB" width="180">
 </p>
@@ -2188,7 +2258,8 @@ En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figm
 *Nota.* Obtenido de: [https://images.app.goo.gl/vchNL7nTDhGaoSff8](https://images.app.goo.gl/vchNL7nTDhGaoSff8)   
 
 **GIT:** Es un sistema de control de versiones que se utiliza ampliamente en el desarrollo de software. Los desarrolladores con esta herramienta realizan un seguimiento de los cambios en el código, pueden colaborar de forma eficiente y mantener un historial completo de cada modificación hecha en el proyecto. Cada usuario tiene una copia completa del repositorio en su máquina local ya que Git funciona de manera distribuida. Este permite crear ramas para desarrollar nuevas funciones o para solucionar errores sin afectar el código principal. Los cambios pueden fusionarse con el repositorio principal cuando se finalice una tarea, de esta forma te aseguras una integración ordenada.  
-**Figura 5**  
+
+**Figura 81**  
 *Logo de Git*
 <p align="center">
   <img src="images/git-logo.png" alt="PB" width="180">
@@ -2197,20 +2268,17 @@ En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figm
 *Nota.* Obtenido de: [https://images.app.goo.gl/LrRXiPXPNboAr5LY7](https://images.app.goo.gl/LrRXiPXPNboAr5LY7)   
 
 **GITHUB:** Es una plataforma en la nube que ofrece alojamiento de repositorios en Git, lo que permite compartir, almacenar y colaborar en proyectos de desarrollo de software entre programadores. También, incluye funcionalidades como revisión de código, historial de código, gestión de issues y flujos de trabajo de integración continua del equipo. GitHub facilita la colaboración entre miembros del equipo de trabajo mediante ramas, pull requests y revisiones de código. Además, permite  gestionar versiones, mantener un historial completo para el proyecto.  
-**Figura 6**  
-*Logo de Github*
 
+**Figura 82**  
+*Logo de Github*
 <p align="center">
   <img src="images/hub-logo.png" alt="PB" width="180">
 </p>
 
-
 *Nota.* Obtenido de: [https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8](https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8) 
 
 
-
 ### *5.1.2. Source Code Management*
-
 
 Para poder llevar un mejor control del código de la aplicación y trabajar grupalmente, usaremos la plataforma “GitHub”. De esta manera, podremos observar y realizar modificaciones a los commits hechos por los integrantes del equipo.  
 Hemos creado los siguientes cuatro repositorios en nuestra organización, cada uno para un producto distinto:
@@ -2298,13 +2366,11 @@ Los mensajes de los commits seguirán la especificación de Conventional Commits
 | ernesto0710 | Ernesto Rodas Sotomayor |
 | MSS02204 | Melisa Geraldine Sulca Silva |
 
-**Figura**  
+**Figura 83**  
 *Miembros de osFoundex*
-
 <p align="center">
   <img src="images/foundex-members.png" alt="PB" width="1000">
 </p>
-
 
 *Nota.* Elaboración propia. Obtenido de [https://github.com/orgs/osFoundex/people](https://github.com/orgs/osFoundex/people) 
 
@@ -2379,7 +2445,7 @@ Para JavaScript, se seguirán las prácticas recomendadas por la ["Google TypeSc
 
 **TypeScript:**
 
-Se adoptará la ["Google TypeScript Style Guide"](https://google.github.io/styleguide/tsguide.html) y la ["Angular Coding Style Guide"](https://angular.io/guide/styleguide) para proyectos con Angular. Las convenciones incluyen:  
+Se adoptará la "Google TypeScript Style Guide" y la "Angular Coding Style Guide" para proyectos con Angular. Las convenciones incluyen:  
 **Nomenclatura**:
 
 * Igual que JavaScript: camelCase para variables y funciones, PascalCase para clases e interfaces (e.g., UserInterface, AuthService).  
@@ -2399,7 +2465,8 @@ Se adoptará la ["Google TypeScript Style Guide"](https://google.github.io/style
 
 **Java:**
 
-Para Java, se seguirá la ["Google Java Style Guide"](https://google.github.io/styleguide/javaguide.html) y las recomendaciones de ["Spring Boot Features"](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html). Las convenciones son:  
+Para Java, se seguirá la "Google Java Style Guide" y las recomendaciones de "Spring Boot Features". Las convenciones son:  
+
 **Nomenclatura**:
 
 * Clases en PascalCase.  
@@ -2420,7 +2487,7 @@ Para Java, se seguirá la ["Google Java Style Guide"](https://google.github.io/s
 
 **Gherkin (para especificaciones):**
 
-Aunque Gherkin no es un lenguaje de programación, se utilizará para escribir pruebas de aceptación en un formato legible, siguiendo las ["Gherkin Conventions for Readable Specifications"](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/). Las convenciones son:  
+Aunque Gherkin no es un lenguaje de programación, se utilizará para escribir pruebas de aceptación en un formato legible, siguiendo las "Gherkin Conventions for Readable Specifications". Las convenciones son:  
 **Nomenclatura**:
 
 * Escenarios en inglés, con títulos descriptivos en tercera persona (e.g., User logs in with valid credentials).  
@@ -2459,7 +2526,7 @@ Para que nuestra landing page esté disponible para todos nuestros usuarios, la 
    * Nos desplazamos hasta encontrar el apartado "GitHub Pages".  
    * Elegimos la rama “develop” y guardamos los cambios con "Save".
 
-**Figura**  
+**Figura 84**  
 *Explicación del paso 5*
 <p align="center">
   <img src="images/Deployment_paso5.PNG" alt="PB" width="1000">
@@ -2502,40 +2569,46 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 
 </div>
 
-##### 5.2.1.2. Aspect Leaders and Collaborators
+#### 5.2.1.2. Aspect Leaders and Collaborators
 
-##### 5.2.1.3. Sprint Backlog 1
+| Team Member (Last Name, First Name) | GitHub Username | Landing page Leader (L) / Collaborator (C) | DocumentationLeader (L) / Collaborator (C) | Epics Leader (L) / Collaborator (C) |
+| :---- | :---- | :---- | :---- | :---- |
+| Bellido Salas, Raúl | raulbellidosalas | C | L | C |
+| Gómez Flores, Daniela Araceli | DanieGF1 | L | C | C |
+| Luyo Correa, Sandra Paula | Paulu27 | C | C | L |
+| Rodas Sotomayor, Ernesto | ernesto0710 | C | C | C |
+| Sulca Silva, Melisa Geraldine | MSS02204 | C | C | C |
+
+#### 5.2.1.3. Sprint Backlog 1
 
 Para este primer sprint, nuestro objetivo principal es desarrollar el Landing Page de ArquiTech. Para esto realizamos tareas por cada historia de usuario referente a la Landing Page y las asignamos a un integrante y para tener una mejor organización del Backlog, hemos utilizado la herramienta “Jira”.  
-**Figura**  
-*Sprint 1 de ArquiTech*
 
+**Figura 85**  
+*Sprint 1 de ArquiTech*
 <p align="center">
   <img src="images/ArquiTech_Sprint1Backlog.png" alt="PB" width="1000">
 </p>
 
-
 *Nota.* Elaboración propia. Obtenido de [https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9](https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9) 
 
-| Sprint \# | Sprint 1 |  |  |  |  |  |  |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| User Story |  | Work Item/Task |  |  |  |  |  |
-| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
-| HU11 | Ver descripción de ArquiTech | T1 | Crear sección de descripción de ArquiTech | Redactar y presentar una descripción clara y concisa de ArquiTech, enfocada en sus beneficios para contratantes de empresas privadas. Incluir texto breve y bien estructurado en la sección de inicio. | 2 | Sandra Luyo | Done |
-| HU12 | Contactar al equipo de ArquiTech para contratar el servicio | T1 | Crear botón para ir a sección de contacto | Añadir un botón “Contacto” en la barra superior del sitio web que, al hacer clic, desplace automáticamente la página hacia la sección de contacto. | 2 | Melisa Sulca | Done |
-|  |  | T2 | Implementar formulario de contacto funcional | Crear formulario con campos obligatorios (nombres, apellidos, email, número telefónico). Mostrar mensaje de éxito cuando se complete correctamente. | 4 | Daniela Gómez | Done |
-|  |  | T3 | Validar formulario de contacto | Programar validaciones para que el formulario no se envíe si faltan campos obligatorios o si el email no tiene un formato válido. Mostrar mensaje de error adecuado. | 3 | Daniela Gómez | InProcess |
-| HU13 | Explorar beneficios | T1 | Crear sección de beneficios | Diseñar e implementar una sección dedicada a los beneficios de ArquiTech. Incluir texto explicativo, ejemplos visuales (como capturas o íconos) | 3 | Sandra Luyo | Done |
-|  |  | T2 | Crear un botón para “Ver Más Beneficios” | Crear un botón “Ver Más Beneficios” debajo de los primeros beneficios, que se expanda y se vean más detalles. | 3 | Raúl Bellido | Done |
-| HU14 | Observar los medios oficiales de comunicación directa con ArquiTech | T1 | Añadir medios oficiales al pie de página | Incluir número telefónico y correo electrónico en el lado derecho del pie de página, debajo del título “Contáctanos”. | 2 | Ernesto Rodas | Done |
-| HU15 | Visitar las redes sociales de ArquiTech | T1 | Añadir íconos de redes sociales al pie de página | Insertar íconos visibles de las redes sociales en las que ArquiTech tiene presencia. | 2 | Ernesto Rodas | Done |
-|  |  | T2 | Habilitar enlaces hacia redes sociales | Configurar los íconos para que, al hacer clic, se abra una nueva pestaña con la red social correspondiente. | 1 | Melisa Sulca | Done |
+<table class="c16">
+	
+<tr class="c2">
+	<td class="c5" colspan="1" rowspan="1"><p class="c0"><span class="c6">Sprint #</span></p></td><td class="c8" colspan="7" rowspan="1"><p class="c0"><span class="c6">Sprint 1</span></p></td></tr>
+	<tr class="c2"><td class="c11" colspan="2" rowspan="1"><p class="c0"><span class="c6">User Story</span></p></td><td class="c17" colspan="6" rowspan="1"><p class="c0"><span class="c6">Work Item/Task</span></p></td></tr>
+	<tr class="c14"><td class="c5" colspan="1" rowspan="1"><p class="c0"><span class="c6">Id</span></p></td><td class="c13" colspan="1" rowspan="1"><p class="c0"><span class="c6">Title</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c6">Id</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c0"><span class="c6">Title</span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c6">Description</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c0"><span class="c6">Estimation (Hours)</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Assigned To</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Status (To-do / InProcess / ToReview / Done)</span></p></td></tr>
+	<tr class="c14"><td class="c5" colspan="1" rowspan="1"><p class="c0"><span class="c6">HU11</span></p></td><td class="c13" colspan="1" rowspan="1"><p class="c0"><span class="c6">Ver descripci&oacute;n de ArquiTech</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c6">T1</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c0"><span class="c6">Crear secci&oacute;n de descripci&oacute;n de ArquiTech</span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c6">Redactar y presentar una descripci&oacute;n clara y concisa de ArquiTech, enfocada en sus beneficios para contratantes de empresas privadas. Incluir texto breve y bien estructurado en la secci&oacute;n de inicio.</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c0"><span class="c6">2</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Sandra Luyo</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Done</span></p></td></tr>
+	<tr class="c2"><td class="c5" colspan="1" rowspan="3"><p class="c0"><span class="c6">HU12</span></p></td><td class="c13" colspan="1" rowspan="3"><p class="c0"><span class="c6">Contactar al equipo de ArquiTech para contratar el servicio</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c6">T1</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c0"><span class="c6">Crear bot&oacute;n para ir a secci&oacute;n de contacto</span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c6">A&ntilde;adir un bot&oacute;n &ldquo;Contacto&rdquo; en la barra superior del sitio web que, al hacer clic, desplace autom&aacute;ticamente la p&aacute;gina hacia la secci&oacute;n de contacto.</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c0"><span class="c6">2</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Melisa Sulca</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Done</span></p></td></tr>
+	<tr class="c2"><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c6">T2</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c0"><span class="c6">Implementar formulario de contacto funcional</span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c6">Crear formulario con campos obligatorios (nombres, apellidos, email, n&uacute;mero telef&oacute;nico). Mostrar mensaje de &eacute;xito cuando se complete correctamente.</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c0"><span class="c6">4</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Daniela G&oacute;mez</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Done</span></p></td></tr>
+	<tr class="c2"><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c6">T3</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c0"><span class="c6">Validar formulario de contacto</span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c6">Programar validaciones para que el formulario no se env&iacute;e si faltan campos obligatorios o si el email no tiene un formato v&aacute;lido. Mostrar mensaje de error adecuado.</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c0"><span class="c6">3</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Daniela G&oacute;mez</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Done</span></p></td></tr>
+	<tr class="c2"><td class="c5" colspan="1" rowspan="2"><p class="c0"><span class="c6">HU13</span></p></td><td class="c13" colspan="1" rowspan="2"><p class="c0"><span class="c6">Explorar beneficios</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c6">T1</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c0"><span class="c6">Crear secci&oacute;n de beneficios</span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c6">Dise&ntilde;ar e implementar una secci&oacute;n dedicada a los beneficios de ArquiTech. Incluir texto explicativo, ejemplos visuales (como capturas o &iacute;conos)</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c0"><span class="c6">3</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Sandra Luyo</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Done</span></p></td></tr>
+	<tr class="c2"><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c6">T2</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c0"><span class="c6">Crear un bot&oacute;n para &ldquo;Ver M&aacute;s Beneficios&rdquo;</span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c6">Crear un bot&oacute;n &ldquo;Ver M&aacute;s Beneficios&rdquo; debajo de los primeros beneficios, que se expanda y se vean m&aacute;s detalles.</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c0"><span class="c6">3</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Ra&uacute;l Bellido</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Done</span></p></td></tr>
+	<tr class="c14"><td class="c5" colspan="1" rowspan="1"><p class="c0"><span class="c6">HU14</span></p></td><td class="c13" colspan="1" rowspan="1"><p class="c0"><span class="c6">Observar los medios oficiales de comunicaci&oacute;n directa con ArquiTech</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c6">T1</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c0"><span class="c6">A&ntilde;adir medios oficiales al pie de p&aacute;gina</span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c6">Incluir n&uacute;mero telef&oacute;nico y correo electr&oacute;nico en el lado derecho del pie de p&aacute;gina, debajo del t&iacute;tulo &ldquo;Cont&aacute;ctanos&rdquo;.</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c0"><span class="c6">2</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Ernesto Rodas</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Done</span></p></td></tr>
+	<tr class="c2"><td class="c5" colspan="1" rowspan="2"><p class="c0"><span class="c6">HU15</span></p></td><td class="c13" colspan="1" rowspan="2"><p class="c0"><span class="c6">Visitar las redes sociales de ArquiTech</span></p></td><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c6">T1</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c0"><span class="c6">A&ntilde;adir &iacute;conos de redes sociales al pie de p&aacute;gina</span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c6">Insertar &iacute;conos visibles de las redes sociales en las que ArquiTech tiene presencia.</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c0"><span class="c6">2</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Ernesto Rodas</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Done</span></p></td></tr>
+	<tr class="c2"><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c6">T2</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c0"><span class="c6">Habilitar enlaces hacia redes sociales</span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c6">Configurar los &iacute;conos para que, al hacer clic, se abra una nueva pesta&ntilde;a con la red social correspondiente.</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c0"><span class="c6">1</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Melisa Sulca</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Done</span></p></td></tr>
+</table>
 
-
-
-##### 5.2.1.4. Development Evidence for Sprint Review
-
-#### 
+#### 5.2.1.4. Development Evidence for Sprint Review
 
 | Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -2546,41 +2619,44 @@ Para este primer sprint, nuestro objetivo principal es desarrollar el Landing Pa
 | MSS02204/ArquiTech\_LandingPage | feature/develop | 1h189i | feat: Modified index.html | \- | 24/04/2025 |
 
 
-##### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
 
+**Figura 86**  
+*Video for execution evidence for Sprint 3*
 <p align="center">
   <img src="images/exec-evidence.png" alt="PB" width="1000">
 </p>
 
-
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184\_upc\_edu\_pe/EbvwyilLlUFAlVSjfsN0MVkBaJrYisaLUfiwVz2AJmBgng?e=sU6Bz0\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EbvwyilLlUFAlVSjfsN0MVkBaJrYisaLUfiwVz2AJmBgng?e=sU6Bz0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184\_upc\_edu\_pe/EbvwyilLlUFAlVSjfsN0MVkBaJrYisaLUfiwVz2AJmBgng?e=sU6Bz0\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EbvwyilLlUFAlVSjfsN0MVkBaJrYisaLUfiwVz2AJmBgng?e=sU6Bz0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 
 
-##### 5.2.1.6. Software Deployment Evidence for Sprint Review
+
+#### 5.2.1.6. Software Deployment Evidence for Sprint Review
 Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.  
 Publicamos nuestra landing page como un sitio web a través de GitHub para que sea accesible a todos nuestros usuarios. Primero, creamos una cuenta y un repositorio público con el nombre adecuado. Luego, subimos los archivos de la página, activamos GitHub Pages desde la configuración y verificamos que el sitio estuviera disponible en línea. Cuando queremos hacer cambios, simplemente actualizamos los archivos y los volvemos a subir.  
-**Figura**  
-*Evidencia de deployment 1*
+
+**Figura 87**  
+*Evidencia de deployment 1*  
 
 <p align="center">
   <img src="images/github-pages.png" alt="PB" width="1000">
 </p>
 
 *Nota.* Elaboración propia.  
-**Figura**  
-*Evidencia de deployment 2*
 
+**Figura 88**  
+*Evidencia de deployment 2*  
 <p align="center">
   <img src="images/landing-fromt.png" alt="PB" width="1000">
 </p>
 
-*Nota.* Elaboración propia.
+*Nota.* Elaboración propia.  
 
 
+#### 5.2.1.7. Team Collaboration Insights during Sprint
 
-##### 5.2.1.7. Team Collaboration Insights during Sprint
-
+**Figura 89**  
+*Team Collaboration Insights during Sprint 1*
 <p align="center">
   <img src="images/Team Collaboration.png" alt="PB" width="1000">
 </p>
@@ -2650,8 +2726,6 @@ Para el sprint 2 de ArquiTech, realizamos una reunión inicial para coordinar de
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.  
 
-<body class="c9 doc-content">
-<h4></h4>
 <table class="c8">
 <tr class="c3">
 <td class="c2" colspan="1" rowspan="1"><p><b>Team Member (Last Name, First Name)</b></p></td>
@@ -2689,24 +2763,19 @@ Para el sprint 2 de ArquiTech, realizamos una reunión inicial para coordinar de
 <td class="c2" colspan="1" rowspan="1"><p>C</p></td>
 </tr>
 </table>
-<p></p>
-</body>
 
 #### 5.2.2.3. Sprint Backlog 2.  
 
 Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de la plataforma y también en mejorar la landing page realizada en el sprint anterior. De la misma manera que en el sprint anterior, seguimos usando el software de “Jira” para llevar el control de nuestro sprint backlog.
 
-**Figura**  
-*Sprint 2 de ArquiTech*
-
+**Figura 90**  
+*Sprint 2 de ArquiTech*  
 <p align="center">
   <img src="images/SprintBacklog2.PNG" alt="PB" width="1000">
 </p>
 
 *Nota.* Elaboración propia. Obtenido de [https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9](https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9)
 
-<body class="c15 doc-content">
-<p></p>
 <table class="c12">
 <tr class="c5">
 <td class="c3" colspan="1" rowspan="1"><p>Sprint #</p></td>
@@ -2873,8 +2942,6 @@ Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
 </table>
-<p></p>
-</body>
 
 #### 5.2.2.4. Development Evidence for Sprint Review.  
 
@@ -2933,9 +3000,8 @@ Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de
 
 En este sprint 2, como fue mencionado con anterioridad, nos centramos en el desarrollo del Frontend Web Application de ArquiTech. A continuación, mostramos una imagen y el url de un video explicando lo avanzado.
 
-**Figura**  
+**Figura 91**  
 *Video de funcionamiento de la aplicación web de ArquiTech*
-
 <p align="center">
   <img src="images/ExecutionEvidenceSprint2.png" alt="PB" width="1000">
 </p>
@@ -2958,7 +3024,7 @@ Para realizar el deploy de nuestro proyecto en Netify primero creamos una cuenta
 	ng build --configuracion=production
 Luego de esto, vamos a Netify, entramos a la barra de proyectos y ahora en las opciones le damos a "Deploy Manually", después le damos clic a "Browse upload" y seleccionamos la carperta browser que está dentro de la carpeta dist generada con el comando anterior. Presionamos "Upload" y la página se desplega correctamente.
 
-**Figura**  
+**Figura 92**  
 *Sprint 2 Deployment Evidence 1*  
 
 <p align="center">
@@ -2967,9 +3033,8 @@ Luego de esto, vamos a Netify, entramos a la barra de proyectos y ahora en las o
 
 *Nota.* Elaboración propia.
 
-**Figura**  
+**Figura 93**  
 *Sprint 2 Deployment Evidence 1*  
-
 <p align="center">
   <img src="images/Sprint2EvidenceDeployment2.jpg" alt="PB" width="1000">
 </p>
@@ -2981,16 +3046,34 @@ Luego de esto, vamos a Netify, entramos a la barra de proyectos y ahora en las o
 Para poder realizar el código, al igual que en la primera entrega, usamos GitHub. El repositorio usado fue osFoundex/ArquiTech_FrontendWebApp.
 Link del repositorio: [https://github.com/osFoundex/ArquiTech_FrontendWebApp](https://github.com/osFoundex/ArquiTech_FrontendWebApp) 
 
-**Figura**  
+**Figura 94**  
 *Team Collaboration Insights durante Sprint 2*
-
 <p align="center">
   <img src="images/Sprint2_TeamCollaborationInsights.PNG" alt="PB" width="1000">
 </p>
 
 *Nota.* Elaboración propia.
 
-# Conclusiones
+### *5.2.3. Sprint 3*  
+
+#### 5.2.3.1.Sprint Planning 3.  
+#### 5.2.3.2. Aspect Leaders and Collaborators.  
+#### 5.2.3.3.Sprint Backlog 3.  
+#### 5.2.3.4.Development Evidence for Sprint Review.  
+#### 5.2.3.5.Execution Evidence for Sprint Review.  
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.  
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.  
+#### 5.2.3.8.Team Collaboration Insights during Sprint.  
+
+## 5.3. Validation Interviews.  
+
+### *5.3.1. Diseño de Entrevistas.*  
+### *5.3.2. Registro de Entrevistas.*  
+### *5.3.3. Evaluaciones según heurísticas.*  
+
+## 5.4. Video About-the-Product.  
+
+# Conclusiones  
 
 #
 
@@ -3026,5 +3109,7 @@ W3Schools. (s.f.). HTML style guide and coding conventions. [https://www.w3schoo
 <hr>
 
 ## Anexos
+
+#
 
 Link del video de exposición TP1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ec_o-e8Ty8lCtNdDnvheiHEB00cNJ-8jksf93gQKrMthCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SyNpYf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ec_o-e8Ty8lCtNdDnvheiHEB00cNJ-8jksf93gQKrMthCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SyNpYf)
