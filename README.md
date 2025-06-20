@@ -4173,6 +4173,8 @@ Incluir indicadores (ej. tareas pendientes) en las cards.
 
 ## 5.4. Video About-the-Product.  
 
+
+
 # Conclusiones  
 
 #
@@ -4187,10 +4189,12 @@ Incluir indicadores (ej. tareas pendientes) en las cards.
 
 - **Impacto del Sprint en la Visión Global del Proyecto:** Este segundo sprint fue clave para convertir los lineamientos estratégicos en resultados concretos. La sinergia del equipo permitió consolidar una versión funcional del sistema, sentando las bases para una futura implementación real en el sector construcción peruano. Se reafirma así la visión de Foundex de liderar procesos de innovación digital a través de soluciones enfocadas en el usuario y sostenibles a largo plazo.
 
-- **m:**
+- **Avance significativo en el backend y mejoras en el frontend:**  Esta entrega, la cual contiene el sprint 3, fue altamente productivo, con un enfoque claro en la implementación y mejora de funcionalidades clave del backend. La gestión de inventarios, materiales, maquinaria, trabajadores, incidentes y proyectos avanzó considerablemente, permitiendo la creación de una infraestructura sólida que facilitará el control de los recursos en los proyectos de construcción. Las APIs desarrolladas para registrar entradas y salidas de materiales, así como para gestionar tareas y asignación de trabajadores, fueron implementadas exitosamente. Además, se implementó mejoras al frontend en todas las secciones que contiene nuestra plataforma. Este avance no solo mejora la operativa interna de nuestra startup Arquitech, sino que también establece una base sólida para la integración con el frontend en el siguiente sprint, lo que será crucial para ofrecer una experiencia de usuario fluida y eficiente. 
+
   
-- **mn:**
-  
+- **Retroalimentación de usuarios y áreas de mejora en la interfaz::** La retroalimentación de los usuarios durante las entrevistas de validación proporcionó valiosos insights sobre la experiencia de usuario y áreas de mejora en la interfaz. Aunque la plataforma ArquiTech fue considerada útil y práctica por los supervisores de obra y contratantes, se identificaron varios problemas de usabilidad, como la visibilidad del botón "Iniciar Sesión", la falta de filtros de fechas en los reportes, y la dificultad para navegar en una página larga. Los usuarios también sugirieron mejorar la escalabilidad para manejar múltiples proyectos y la visibilidad de indicadores clave en la pantalla principal. Estas observaciones destacan la necesidad de optimizar la interfaz para facilitar la navegación y mejorar la eficiencia operativa, asegurando que la plataforma sea aún más útil y accesible en el siguiente sprint.
+
+  <br><br>
 
 # Bibliografía
 
