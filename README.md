@@ -3278,11 +3278,13 @@ Durante el Sprint 3 de ArquiTech, se han identificado diversos aspectos funciona
 
 #### 5.2.3.3.Sprint Backlog 3.  
 
-Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar las funcionalidades clave del backend, con un enfoque en eficiencia, control de inventarios, y gestión de recursos dentro de los proyectos de construcción. El equipo trabajó en la creación de una infraestructura sólida que permitiera registrar y gestionar materiales, maquinaria, trabajadores, y transacciones, asegurando un flujo de trabajo óptimo para los supervisores de obra. Además, se implementó un sistema de reportes y consultas que permite a los contratistas tener una visión clara y actualizada del progreso de los proyectos.
+Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar las funcionalidades clave del backend, con un enfoque en eficiencia, control de inventarios, y gestión de recursos dentro de los proyectos de construcción. El equipo trabajó en la creación de una infraestructura sólida que permitiera registrar y gestionar materiales, maquinaria, trabajadores, y transacciones, asegurando un flujo de trabajo óptimo para los supervisores de obra. Además, se implementó un sistema de reportes y consultas que permite a los contratistas tener una visión clara y actualizada del progreso de los proyectos. Como se observa en la siguiente imagen, seguimos usando Jira para el control del Product Backlog de ArquiTech.
 
 **Figura**  
-*Sprint 2 de ArquiTech*  
-
+*Sprint 3 de ArquiTech*  
+<p align="center">
+  <img src="images/SprintBacklog3.PNG" alt="PB" width="1000">
+</p>
 
 *Nota.* Elaboración propia. Obtenido de 
 
@@ -3401,7 +3403,7 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c9" colspan="1" rowspan="1"><p>Crear API para registrar trabajadores.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Desarrollar la API que permita registrar trabajadores con sus datos personales, cargo y asignación a proyectos.</p></td>
 <td class="c6" colspan="1" rowspan="1"><p>5</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Paula Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
 <tr class="c5">
@@ -3409,7 +3411,7 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c9" colspan="1" rowspan="1"><p>Desarrollar API para actualizar datos de trabajadores.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Implementar la API que permita actualizar la información de los trabajadores, como cargo, fecha de contratación, o asignación de tareas.</p></td>
 <td class="c6" colspan="1" rowspan="1"><p>4</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Paula Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
 <td class="c3" colspan="1" rowspan="2"><p>HU07</p></td>
@@ -3418,7 +3420,7 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica para asignación de tareas.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Diseñar la estructura de datos para asignar tareas a los trabajadores y establecer un rol específico para cada tarea.</p></td>
 <td class="c6" colspan="1" rowspan="1"><p>5</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Paula Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
 <tr class="c5">
@@ -3426,7 +3428,7 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c9" colspan="1" rowspan="1"><p>Desarrollar API para asignar tareas a los trabajadores.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Implementar la API que permita asignar tareas a los trabajadores de acuerdo con sus roles en el proyecto.</p></td>
 <td class="c6" colspan="1" rowspan="1"><p>3</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Paula Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
 <td class="c3" colspan="1" rowspan="2"><p>HU08</p></td>
@@ -3435,7 +3437,7 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c9" colspan="1" rowspan="1"><p>Desarrollar lógica para consultar tareas de un trabajador.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Crear la API que permita consultar las tareas asignadas a un trabajador específico en el proyecto.</p></td>
 <td class="c6" colspan="1" rowspan="1"><p>4</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Paula Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
 <tr class="c5">
@@ -3443,7 +3445,7 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c9" colspan="1" rowspan="1"><p>Integrar tareas con base de datos.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Desarrollar la integración de la API para mostrar las tareas del trabajador desde la base de datos.</p></td>
 <td class="c6" colspan="1" rowspan="1"><p>3</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Paula Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
 <td class="c3" colspan="1" rowspan="2"><p>HU09</p></td>
@@ -3472,23 +3474,6 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
-<td class="c3" colspan="1" rowspan="2"><p>HU20</p></td>
-<td class="c8" colspan="1" rowspan="2"><p>Generar reporte diario de avance.</p></td>
-<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
-<td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica para generar reportes diarios.</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>Diseñar la estructura de datos y la lógica para registrar y generar reportes diarios con las actividades realizadas, materiales utilizados, personal presente y observaciones.</p></td>
-<td class="c6" colspan="1" rowspan="1"><p>6</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
-</tr>
-<tr class="c5">
-<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
-<td class="c9" colspan="1" rowspan="1"><p>Desarrollar API para almacenar reportes diarios.</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>Implementar una API que permita guardar los reportes diarios generados, validando que todos los campos obligatorios estén completos antes de almacenarlos en la base de datos.</p></td>
-<td class="c6" colspan="1" rowspan="1"><p>6</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
-</tr>
 <td class="c3" colspan="1" rowspan="2"><p>HU21</p></td>
 <td class="c8" colspan="1" rowspan="2"><p>Visualizar reportes semanales.</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
@@ -3506,31 +3491,6 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
-<td class="c3" colspan="1" rowspan="3"><p>HU22</p></td>
-<td class="c8" colspan="1" rowspan="3"><p>Recibir notificación de nuevo reporte.</p></td>
-<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
-<td class="c9" colspan="1" rowspan="1"><p>Implementar sistema de notificaciones automáticas.</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la lógica backend para enviar notificaciones automáticas por correo electrónico o notificaciones push cuando se genere un nuevo reporte diario o semanal.</p></td>
-<td class="c6" colspan="1" rowspan="1"><p>6</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
-</tr>
-<tr class="c5">
-<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
-<td class="c9" colspan="1" rowspan="1"><p>Conectar sistema de notificaciones con la generación de reportes.</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>Integrar el sistema de notificaciones con el proceso de generación de reportes, de manera que se envíe una notificación tan pronto como se guarde un reporte.</p></td>
-<td class="c6" colspan="1" rowspan="1"><p>6</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>To-do</p></td>
-</tr>
-<tr class="c5">
-<td class="c10" colspan="1" rowspan="1"><p>T3</p></td>
-<td class="c9" colspan="1" rowspan="1"><p>Configurar notificaciones por correo electrónico.</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>Configurar el envío de notificaciones por correo electrónico, con un resumen del reporte generado y un enlace para visualizarlo.</p></td>
-<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>To-do</p></td>
-</tr>
 <td class="c3" colspan="1" rowspan="2"><p>HU24</p></td>
 <td class="c8" colspan="1" rowspan="2"><p>Seleccionar obra específica para ver sus reportes.</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
@@ -3547,31 +3507,6 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c6" colspan="1" rowspan="1"><p>3</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
-</tr>
-<td class="c3" colspan="1" rowspan="3"><p>HU25</p></td>
-<td class="c8" colspan="1" rowspan="3"><p>Visualizar Lista de Proyectos.</p></td>
-<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
-<td class="c9" colspan="1" rowspan="1"><p>Crear API para obtener lista de proyectos.</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>Desarrollar una API que recupere la lista de proyectos activos, incluyendo el nombre, presupuesto y estado de cada uno.</p></td>
-<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
-</tr>
-<tr class="c5">
-<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
-<td class="c9" colspan="1" rowspan="1"><p>Implementar mensaje cuando no haya proyectos.</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>Crear la lógica backend para mostrar un mensaje adecuado si no hay proyectos registrados en el sistema.</p></td>
-<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
-</tr>
-<tr class="c5">
-<td class="c10" colspan="1" rowspan="1"><p>T3</p></td>
-<td class="c9" colspan="1" rowspan="1"><p>Conectar API con la base de datos de proyectos.</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>Integrar la API con la base de datos para que la lista de proyectos se recupere en tiempo real según el usuario autenticado.</p></td>
-<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
-<td class="c4" colspan="1" rowspan="1"><p>To-do</p></td>
 </tr>
 </table>
 
@@ -3636,15 +3571,25 @@ Se implementaron y probaron varias APIs que facilitaron el registro y seguimient
 El equipo también trabajó en la corrección y optimización de la base de datos, mejorando las relaciones entre los datos de inventarios, maquinaria y trabajadores, para garantizar un acceso más rápido y eficiente a la información.
 
 **Figura**
+*Video de funcionamiento del FrontEnd de Arquitech*
+<p align="center">
+  <img src="images/ExecutionEvidence1-sprint3.png" alt="PB" width="1000">
+</p>
 
-Video de funcionamiento del backend de Arquitech:
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/EWTfq_IdirROijGqQnkWt_QBxGQ-wP291zlqgPXHHDR-Tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=61qQjr](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/EWTfq_IdirROijGqQnkWt_QBxGQ-wP291zlqgPXHHDR-Tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=61qQjr)
 
+**Figura**
+*Video de funcionamiento del Backend de Arquitech*
+<p align="center">
+  <img src="images/ExecutionEvidence2-sprint3.png" alt="PB" width="1000">
+</p>
+
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/Efy-TwvGZzRBlFIWupcfvnQBYFopeFw_CbLzBMhTAK1DpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Xtpv0R](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/Efy-TwvGZzRBlFIWupcfvnQBYFopeFw_CbLzBMhTAK1DpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Xtpv0R)
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.  
 
 Durante el Sprint 3, el enfoque se centró en la implementación del backend real para la aplicación web de ArquiTech. A lo largo de este Sprint, reemplazamos la fake API, anteriormente desarrollada a modo de prueba, con servicios backend funcionales, asegurando la conectividad en el siguiente sprint  a una base de datos real que gestiona las diversas operaciones del sistema. Las funcionalidades de gestión de materiales, proyectos, trabajadores, tareas, maquinaria, usuarios y roles están completamente implementadas y operativas.
 A continuación, se detallan las funcionalidades implementadas para cada uno de los Bounded Contexts de ArquiTech y sus correspondientes tablas en la base de datos:
-
 
 1. **Gestión de Usuarios y Roles (Users and Roles)**  
    **Tabla:** Users  
@@ -3727,19 +3672,189 @@ A continuación, se detallan las funcionalidades implementadas para cada uno de 
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.  
 
+Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boot arquitech-back-end en la plataforma Railway, con el objetivo de implementar una API REST para la creación de usuarios mediante el endpoint POST /api/v1/users. Las actividades incluyeron la configuración de un proyecto en Railway, la integración con una base de datos MySQL, y la habilitación de Swagger UI para pruebas de la API. Los pasos abarcan la creación de recursos en la nube, configuración del proyecto, automatización del despliegue, y verificación del funcionamiento, siguiendo un formato claro inspirado en el ejemplo proporcionado.
+
+1. Creación de Cuenta y Proyecto en Railway  
+	- Se creó una cuenta en la plataforma Railway para gestionar el despliegue de la aplicación.  
+
+	- En el panel de Railway, se inició un nuevo proyecto para alojar la aplicación arquitech-back-end.  
+
+	- Resultado: Se estableció un entorno en la nube listo para configurar los servicios necesarios.
+
+2. Configuración del Servicio MySQL en Railway  
+	- Se habilitó un servicio de base de datos MySQL dentro del proyecto en Railway.  
+
+	- Se obtuvieron las credenciales de conexión desde el panel de Railway (pestaña Connection Details):
+		* Host: mysql.railway.internal  
+		* Puerto: 3306  
+		* Base de datos: railway  
+		* Usuario: root  
+		* Contraseña: UISlFkUqysRjoRInMzbPgIHVTXDIqGIy
+	- Resultado: La base de datos MySQL quedó configurada y accesible para la aplicación.
+
+3. Configuración de Variables de Entorno en Railway  
+	- En el panel de Railway, se accedió al servicio de la aplicación (selfless-courage-production) y se configuraron las variables de entorno en la pestaña Settings > Environment Variables:  
+			
+			DATABASE_URL=jdbc:mysql://mysql.railway.internal:3306/railway?serverTimezone=UTC
+			PROD_DB_USERNAME=root
+			PROD_DB_PASSWORD=UISlFkUqysRjoRInMzbPgIHVTXDIqGIy
+			NIXPACKS_JDK_VERSION=21
+
+	- Resultado: Las variables aseguraron una conexión segura y dinámica a la base de datos.
+
+4. Configuración del Proyecto Spring Boot para Integración con Railway  
+	- Se creó el archivo application.properties en el proyecto para integrar la aplicación con Railway:
+
+			spring.application.name=arquitech-back-end
+			spring.datasource.url=${DATABASE_URL:jdbc:mysql://localhost:3306/railway?serverTimezone=UTC}
+			spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+			spring.datasource.username=${PROD_DB_USERNAME:root}
+			spring.datasource.password=${PROD_DB_PASSWORD:UISlFkUqysRjoRInMzbPgIHVTXDIqGIy}
+			spring.jpa.show-sql=true
+			spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
+			spring.jpa.hibernate.ddl-auto=validate
+			spring.jpa.open-in-view=true
+			spring.jpa.hibernate.naming.physical-strategy=com.acme.arquitech.platform.shared.infrastructure.persistence.jpa.configuration.strategy.SnakeCaseWithPluralizedTablePhysicalNamingStrategy
+			server.port=${PORT:8080}
+			server.address=0.0.0.0
+			server.forward-headers-strategy=native
+			springdoc.api-docs.path=/v3/api-docs
+			springdoc.swagger-ui.path=/swagger-ui.html
+			springdoc.swagger-ui.enabled=true
+			springdoc.servers[0].url=https://selfless-courage-production.up.railway.app
+			springdoc.servers[0].description=Production Server
+			logging.level.org.springframework=DEBUG
+			logging.level.org.hibernate=DEBUG
+			logging.level.com.zaxxer.hikari=DEBUG
+			logging.level.com.acme.arquitech=DEBUG
+	- Se creó un archivo system.properties para especificar la versión de Java:  
+
+			java.runtime.version=21
+			maven.version=3.9.4
+
+	- Resultado: El proyecto quedó configurado para producción, con soporte para HTTPS y Swagger UI.
+
+5. Subida del Código al Repositorio  
+	- Se creó un repositorio en GitHub para el proyecto arquitech-back-end.  
+
+	- Se subieron los archivos del proyecto, incluyendo el código fuente, application.properties, y system.properties:  
+
+			bash
+
+			git init
+			git add .
+			git commit -m "Configuración inicial para despliegue en Railway"
+			git remote add origin <URL-del-repositorio>
+			git push -u origin main
+
+	- Resultado: El código quedó disponible para su integración con Railway.
+
+6. Vinculación del Repositorio con Railway  
+	- En el panel de Railway, se vinculó el repositorio de GitHub al proyecto arquitech-back-end.  
+
+	- Se configuró Railway para realizar despliegues automáticos tras cada git push a la rama main.  
+
+	- Resultado: El proceso de despliegue se automatizó mediante la integración con GitHub.
+
+7. Despliegue de la Aplicación en Railway  
+	- Se desencadenó el primer despliegue desde Railway, que compiló el proyecto usando Maven y Java 21.  
+
+	- Se verificaron los Deploy Logs en el panel de Railway para confirmar que la aplicación iniciaba correctamente y se conectaba a la base de datos MySQL.  
+
+	- Resultado: La aplicación quedó desplegada en https://selfless-courage-production.up.railway.app.
+
+8. Habilitación de Swagger UI para Pruebas  
+	- Se accedió a https://selfless-courage-production.up.railway.app/swagger-ui.html para probar la API.  
+
+	- Se configuró Swagger UI en application.properties para asegurar que usara la URL correcta (https).  
+
+	- Resultado: Swagger UI quedó habilitado para interactuar con los endpoints de la API.
+
+9. Prueba del Endpoint POST  
+	- Se probó el endpoint POST /api/v1/users desde Swagger UI con el siguiente JSON:  
+
+			json
+			
+			{
+			  "name": "Raul Bellido Salas",
+			  "email": "Raul.Bellido@constructora.com",
+			  "password": "hashed_password_999",
+			  "role": "SUPERVISOR",
+			  "profilePicture": "https://example.com/new.jpg"
+			}
+
+	- La solicitud devolvió un 201 Created, confirmando que el usuario se guardó en la base de datos.  
+
+	- Resultado: La funcionalidad de la API fue validada exitosamente.
+
+10. Verificación de la Base de Datos  
+	- Se accedió al panel de Railway, pestaña Data del servicio MySQL, para confirmar que los usuarios creados se almacenaran correctamente.  
+
+	- Resultado: Los datos se guardaron como se esperaba en la base de datos.
+
+11. Actualización Continua del Sitio  
+	- Para futuros cambios, se editaron los archivos del proyecto localmente y se subieron al repositorio:  
+
+			bash
+			
+			git add .
+			git commit -m "Actualización de la aplicación"
+			git push
+
+	- Railway redeplegó la aplicación automáticamente tras cada commit.  
+
+	- Resultado: Se estableció un flujo continuo para actualizar la aplicación.
+
+
 **Figura**  
-*Sprint 2 Deployment Evidence 1*  
-	
-	
-*Nota.* Elaboración propia.
-	
-**Figura**  
-*Sprint 2 Deployment Evidence 1*  
-	
+*Sprint 3 Deployment Evidence 1*  
+<p align="center">
+  <img src="images/Sprint3_Deployment_Evidence1.jpg" alt="PB" width="500">
+</p>
 	
 *Nota.* Elaboración propia.
 
-#### 5.2.3.8.Team Collaboration Insights during Sprint.  
+**Figura**  
+*Sprint 3 Deployment Evidence 2*  
+<p align="center">
+  <img src="images/Sprint3_Deployment_Evidence2.jpg" alt="PB" width="500">
+</p>
+	
+*Nota.* Elaboración propia.
+
+**Figura**  
+*Sprint 3 Deployment Evidence 3*  
+<p align="center">
+  <img src="images/Sprint3_Deployment_Evidence3.jpg" alt="PB" width="500">
+</p>
+	
+*Nota.* Elaboración propia.
+
+**Figura**  
+*Sprint 3 Deployment Evidence 4*  
+<p align="center">
+  <img src="images/Sprint3_Deployment_Evidence4.jpg" alt="PB" width="500">
+</p>
+	
+*Nota.* Elaboración propia.
+
+**Figura**  
+*Sprint 3 Deployment Evidence 5*  
+<p align="center">
+  <img src="images/Sprint3_Deployment_Evidence5.jpg" alt="PB" width="500">
+</p>
+	
+*Nota.* Elaboración propia.
+
+**Figura**  
+*Sprint 3 Deployment Evidence 6*  
+<p align="center">
+  <img src="images/Sprint3_Deployment_Evidence6.jpg" alt="PB" width="500">
+</p>
+	
+*Nota.* Elaboración propia.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.	 
 
 Para poder realizar el código, al igual que en la primera entrega, usamos GitHub. El repositorio usado fue osFoundex/Arquitech_BackendWebApp.
 Link del repositorio: 
@@ -3808,8 +3923,6 @@ Link del repositorio:
 Entrevistada #1: Fiorella Perez
 
 **Figura**
-
-
 *Imagen del usuario número 1 entrevistada*
 
 <p align="center">
