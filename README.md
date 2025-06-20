@@ -3124,7 +3124,7 @@ Link del repositorio: [https://github.com/osFoundex/ArquiTech_FrontendWebApp](ht
 
 ### *5.2.3. Sprint 3*  
 
-#### 5.2.3.1.Sprint Planning 3. 
+#### 5.2.3.1. Sprint Planning 3. 
 
 Para el Sprint 3 de ArquiTech, realizamos una reunión inicial en la que coordinamos las tareas asignadas a cada miembro del equipo para esta entrega. Durante la reunión, definimos que el backend sería el enfoque principal, trabajando en las funcionalidades clave para gestionar el inventario de materiales, el uso de los mismos en obras, el registro de maquinaria y trabajadores, así como el inventario.
 
@@ -3276,7 +3276,7 @@ Durante el Sprint 3 de ArquiTech, se han identificado diversos aspectos funciona
 </tr>
 </table>
 
-#### 5.2.3.3.Sprint Backlog 3.  
+#### 5.2.3.3. Sprint Backlog 3.  
 
 Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar las funcionalidades clave del backend, con un enfoque en eficiencia, control de inventarios, y gestión de recursos dentro de los proyectos de construcción. El equipo trabajó en la creación de una infraestructura sólida que permitiera registrar y gestionar materiales, maquinaria, trabajadores, y transacciones, asegurando un flujo de trabajo óptimo para los supervisores de obra. Además, se implementó un sistema de reportes y consultas que permite a los contratistas tener una visión clara y actualizada del progreso de los proyectos. Como se observa en la siguiente imagen, seguimos usando Jira para el control del Product Backlog de ArquiTech.
 
@@ -3511,7 +3511,7 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 </table>
 
 
-#### 5.2.3.4.Development Evidence for Sprint Review. 
+#### 5.2.3.4. Development Evidence for Sprint Review. 
 
 <table class="c9">
 <tr class="c5">
@@ -3564,13 +3564,13 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 </tr>
 </table>
 
-#### 5.2.3.5.Execution Evidence for Sprint Review.  
+#### 5.2.3.5. Execution Evidence for Sprint Review.  
 
 En este sprint 3, el enfoque principal fue la implementación y mejora del backend de la aplicación, con un fuerte énfasis en la gestión de materiales, maquinaria, trabajadores y proyectos de construcción. Este sprint estuvo dedicado a desarrollar funcionalidades clave para optimizar la gestión operativa de la plataforma, permitiendo una mejor planificación y seguimiento de los proyectos de construcción.
 Se implementaron y probaron varias APIs que facilitaron el registro y seguimiento de materiales, maquinaria y trabajadores asignados a proyectos.  También se habilitaron funcionalidades de consulta de inventario de materiales, generación de reportes de avance y la gestión de proyectos de obra.
 El equipo también trabajó en la corrección y optimización de la base de datos, mejorando las relaciones entre los datos de inventarios, maquinaria y trabajadores, para garantizar un acceso más rápido y eficiente a la información.
 
-**Figura**
+**Figura**  
 *Video de funcionamiento del FrontEnd de Arquitech*
 <p align="center">
   <img src="images/ExecutionEvidence1-sprint3.png" alt="PB" width="1000">
@@ -3578,7 +3578,7 @@ El equipo también trabajó en la corrección y optimización de la base de dato
 
 *Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/EWTfq_IdirROijGqQnkWt_QBxGQ-wP291zlqgPXHHDR-Tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=61qQjr](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/EWTfq_IdirROijGqQnkWt_QBxGQ-wP291zlqgPXHHDR-Tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=61qQjr)
 
-**Figura**
+**Figura**  
 *Video de funcionamiento del Backend de Arquitech*
 <p align="center">
   <img src="images/ExecutionEvidence2-sprint3.png" alt="PB" width="1000">
@@ -3586,7 +3586,7 @@ El equipo también trabajó en la corrección y optimización de la base de dato
 
 *Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/Efy-TwvGZzRBlFIWupcfvnQBYFopeFw_CbLzBMhTAK1DpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Xtpv0R](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/Efy-TwvGZzRBlFIWupcfvnQBYFopeFw_CbLzBMhTAK1DpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Xtpv0R)
 
-#### 5.2.3.6.Services Documentation Evidence for Sprint Review.  
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.  
 
 Durante el Sprint 3, el enfoque se centró en la implementación del backend real para la aplicación web de ArquiTech. A lo largo de este Sprint, reemplazamos la fake API, anteriormente desarrollada a modo de prueba, con servicios backend funcionales, asegurando la conectividad en el siguiente sprint  a una base de datos real que gestiona las diversas operaciones del sistema. Las funcionalidades de gestión de materiales, proyectos, trabajadores, tareas, maquinaria, usuarios y roles están completamente implementadas y operativas.
 A continuación, se detallan las funcionalidades implementadas para cada uno de los Bounded Contexts de ArquiTech y sus correspondientes tablas en la base de datos:
@@ -3670,7 +3670,7 @@ A continuación, se detallan las funcionalidades implementadas para cada uno de 
      Registro de incidentes ocurridos durante los proyectos de construcción, facilitando el seguimiento y la resolución de problemas.
    
 
-#### 5.2.3.7.Software Deployment Evidence for Sprint Review.  
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.  
 
 Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boot arquitech-back-end en la plataforma Railway, con el objetivo de implementar una API REST para la creación de usuarios mediante el endpoint POST /api/v1/users. Las actividades incluyeron la configuración de un proyecto en Railway, la integración con una base de datos MySQL, y la habilitación de Swagger UI para pruebas de la API. Los pasos abarcan la creación de recursos en la nube, configuración del proyecto, automatización del despliegue, y verificación del funcionamiento, siguiendo un formato claro inspirado en el ejemplo proporcionado.
 
