@@ -3787,6 +3787,9 @@ Entrevistada #1: Fiorella Perez
 
 *Imagen del usuario número 1 entrevistada*
 
+<p align="center">
+  <img src="images/VIEntrevista1.png" alt="PB" width="1000">
+</p>
 
 *Nota.* Elaboración propia. Obtenido de 
 
@@ -3801,6 +3804,9 @@ Entrevistada #2: Denisse Vargas
 
 *Imagen del usuario número 2 entrevistada*
 
+<p align="center">
+  <img src="images/VIEntrevista2.png" alt="PB" width="1000">
+</p>
 
 *Nota.* Elaboración propia. Obtenido de
 
@@ -3814,6 +3820,9 @@ Entrevista #3: Fernando Mayta
 
 *Imagen del usuario número 3 entrevistada*
 
+<p align="center">
+  <img src="images/VIEntrevista3.png" alt="PB" width="1000">
+</p>
 
 *Nota.* Elaboración propia. Obtenido de
 
@@ -3831,6 +3840,9 @@ Entrevista #1: Milagros Arellano
 
 *Imagen del usuario número 1 entrevistada*
 
+<p align="center">
+  <img src="images/VIEntrevista4.png" alt="PB" width="1000">
+</p>
 
 *Nota.* Elaborado propia. Obtenido de 
 
@@ -3844,6 +3856,9 @@ Entrevista #2: Alyssa Ortega
 
 *Imagen del usuario número 2 entrevistada*
 
+<p align="center">
+  <img src="images/VIEntrevista5.png" alt="PB" width="1000">
+</p>
 
 *Nota.* Elaborado propia. Obtenido de 
 
@@ -3862,6 +3877,9 @@ Entrevista #3: Karolay Correa
 
 *Imagen del usuario número 3 entrevistada*
 
+<p align="center">
+  <img src="images/VIEntrevista6.png" alt="PB" width="1000">
+</p>
 
 *Nota.* Elaborado propia. Obtenido de 
 
