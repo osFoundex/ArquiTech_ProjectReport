@@ -115,7 +115,7 @@ Para la documentación de esta entrega, hemos realizado los commits de nuestras 
 **Figura 3**  
 *Analíticas de participación del TB2*  
 <p align="center">
-  <img src="images/Insights2.PNG" alt="PB" width="1000">
+  <img src="images/tb2CollaborationInsights.PNG" alt="PB" width="1000">
 </p>
 
 #
@@ -3861,7 +3861,9 @@ Link del repositorio:
 
 **Figura**  
 *Team Collaboration Insights durante Sprint 3*
-	
+<p align="center">
+  <img src="images/CollaborationInsights3.PNG" alt="PB" width="1000">
+</p>
 	
 *Nota.* Elaboración propia
 
