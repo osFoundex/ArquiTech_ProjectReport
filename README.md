@@ -3788,7 +3788,7 @@ Entrevistada #1: Fiorella Perez
 *Imagen del usuario número 1 entrevistada*
 
 <p align="center">
-  <img src="images/VIEntrevista1.png" alt="PB" width="1000">
+  <img src="images/VIEntrevista1.png" alt="PB" width="500">
 </p>
 
 *Nota.* Elaboración propia. Obtenido de 
@@ -3805,7 +3805,7 @@ Entrevistada #2: Denisse Vargas
 *Imagen del usuario número 2 entrevistada*
 
 <p align="center">
-  <img src="images/VIEntrevista2.png" alt="PB" width="1000">
+  <img src="images/VIEntrevista2.png" alt="PB" width="500">
 </p>
 
 *Nota.* Elaboración propia. Obtenido de
@@ -3821,7 +3821,7 @@ Entrevista #3: Fernando Mayta
 *Imagen del usuario número 3 entrevistada*
 
 <p align="center">
-  <img src="images/VIEntrevista3.png" alt="PB" width="1000">
+  <img src="images/VIEntrevista3.png" alt="PB" width="500">
 </p>
 
 *Nota.* Elaboración propia. Obtenido de
@@ -3841,7 +3841,7 @@ Entrevista #1: Milagros Arellano
 *Imagen del usuario número 1 entrevistada*
 
 <p align="center">
-  <img src="images/VIEntrevista4.png" alt="PB" width="1000">
+  <img src="images/VIEntrevista4.png" alt="PB" width="500">
 </p>
 
 *Nota.* Elaborado propia. Obtenido de 
@@ -3857,7 +3857,7 @@ Entrevista #2: Alyssa Ortega
 *Imagen del usuario número 2 entrevistada*
 
 <p align="center">
-  <img src="images/VIEntrevista5.png" alt="PB" width="1000">
+  <img src="images/VIEntrevista5.png" alt="PB" width="500">
 </p>
 
 *Nota.* Elaborado propia. Obtenido de 
@@ -3878,7 +3878,7 @@ Entrevista #3: Karolay Correa
 *Imagen del usuario número 3 entrevistada*
 
 <p align="center">
-  <img src="images/VIEntrevista6.png" alt="PB" width="1000">
+  <img src="images/VIEntrevista6.png" alt="PB" width="500">
 </p>
 
 *Nota.* Elaborado propia. Obtenido de 
@@ -4025,13 +4025,17 @@ Fernando comentó que no vio rápidamente el botón "Iniciar Sesión" al desplaz
 
 *Captura conceptual de Landing Page con botón poco visible*
 
+<p align="center">
+  <img src="images/EHProblema1.png" alt="PB" width="500">
+</p>
+
 *Nota.* Elaboración propia
 
 ***Recomendación:***
 
 Resaltar el botón con un color contrastante y colocarlo en la parte superior o en un menú fijo para facilitar su hallazgo y mejorar la experiencia de aprendizaje inicial.
 
-<br>
+<br><br>
 
 **PROBLEMA #2:** *Escalabilidad incierta con múltiples proyectos.*
 
@@ -4048,7 +4052,9 @@ Fernando expresó preocupación sobre el rendimiento de la plataforma al visuali
 
 *Captura conceptual de cards de proyectos sin indicador de carga*
 
-
+<p align="center">
+  <img src="images/EHProblema2.png" alt="PB" width="500">
+</p>
 
 *Nota.* Elaboración propia
 
@@ -4056,7 +4062,7 @@ Fernando expresó preocupación sobre el rendimiento de la plataforma al visuali
 
 Implementar un sistema de paginación o un indicador de carga para proyectos múltiples y realizar pruebas de escalabilidad para asegurar un rendimiento eficiente.
 
-<br>
+<br><br>
 
 **PROBLEMA #3:** *Filtro de fechas no disponible en Reporte Semanal.*
 
@@ -4072,7 +4078,9 @@ Karolay sugirió la necesidad de filtrar el "Reporte Semanal" por fechas especí
 
 *Captura conceptual de Reporte Semanal sin filtro de fechas*
 
-
+<p align="center">
+  <img src="images/EHProblema3.png" alt="PB" width="500">
+</p>
 
 *Nota.* Elaboración propia
 
@@ -4080,7 +4088,7 @@ Karolay sugirió la necesidad de filtrar el "Reporte Semanal" por fechas especí
 
 Añadir un desplegable o calendario en la pestaña "Reportes" para seleccionar rangos de fechas, mejorando la flexibilidad y el control del usuario.
 
-<br>
+<br><br>
 
 **PROBLEMA #4:** *Acceso rápido a secciones largo en Landing Page.*
 
@@ -4097,6 +4105,9 @@ Fiorella encontró la Landing Page larga, sugiriendo un botón para bajar rápid
 
 *Problema#4*
 
+<p align="center">
+  <img src="images/EHProblema4.png" alt="PB" width="500">
+</p>
 
 *Nota.* Elaboración propia
 
@@ -4104,7 +4115,7 @@ Fiorella encontró la Landing Page larga, sugiriendo un botón para bajar rápid
 
 Añadir botones ancla o un menú fijo.
 
-<br>
+<br><br>
 
 **PROBLEMA #5:** *Menús poco visuales.*
 
@@ -4121,7 +4132,9 @@ Denisse propuso menús más visuales, ya que los actuales del sidenavbar pueden 
 
 *Problema #5*
 
-
+<p align="center">
+  <img src="images/EHProblema5.png" alt="PB" width="500">
+</p>
 
 *Nota.* Elaboración propia
 
@@ -4146,7 +4159,9 @@ Milagros sugirió indicadores clave, cuya ausencia dificulta la toma de decision
 
 *Problema #6* 
 
-
+<p align="center">
+  <img src="images/EHProblema6.png" alt="PB" width="500">
+</p>
 
 *Nota.* Elaboración propia
 
@@ -4154,7 +4169,7 @@ Milagros sugirió indicadores clave, cuya ausencia dificulta la toma de decision
 
 Incluir indicadores (ej. tareas pendientes) en las cards.
 
-<br>
+<br><br>
 
 ## 5.4. Video About-the-Product.  
 
