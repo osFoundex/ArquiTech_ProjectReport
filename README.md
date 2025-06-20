@@ -2596,11 +2596,11 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 | Location | Google Meet Group Call |
 | Prepared By | Gomez Flores, Daniela Aracelli |
 | Attendees (to planning meeting) | Bellido Salas, Raúl  Gómez Flores, Daniela Araceli Luyo Correa, Sandra Paula Rodas Sotomayor, Ernesto Sulca Silva, Melisa Geraldine |
-| Sprint n \- Review Summary | Revisamos nuestras business goals, discutimos sobre las user stories y dimos feedback. También revisamos los riesgos futuros que podríamos encontrar en la realización del producto. Finalmente revisamos el avance individual y grupal. |
-| Sprint n \- Retrospective Summary | Start: Debemos empezar a comunicarnos más entre nosotros Debemos planear con anticipación las tareas en grupo e individuales Stop: Dejar de esperar al último momento para culminar las tareas Continue: Hacer preguntas al product owner Hacer reuniones interdiarias para priorizar el avance  |
+| Sprint 1 \- Review Summary | Revisamos nuestras business goals, discutimos sobre las user stories y dimos feedback. También revisamos los riesgos futuros que podríamos encontrar en la realización del producto. Finalmente revisamos el avance individual y grupal. |
+| Sprint 1 \- Retrospective Summary | Start: Debemos empezar a comunicarnos más entre nosotros Debemos planear con anticipación las tareas en grupo e individuales Stop: Dejar de esperar al último momento para culminar las tareas Continue: Hacer preguntas al product owner Hacer reuniones interdiarias para priorizar el avance  |
 | **Sprint Goal & User Stories** |  |
-| Sprint n Goal | Our focus is on implementing the core functionalities of the landing page and user registration module. We believe it delivers a clear entry point and structured onboarding experience to construction SMEs and administrative staff, this will be confirmed when users are able to successfully access the platform, complete the registration process, and navigate to their project dashboard without friction. |
-| Sprint n Velocity | 3 |
+| Sprint 1 Goal | Our focus is on implementing the core functionalities of the landing page and user registration module. We believe it delivers a clear entry point and structured onboarding experience to construction SMEs and administrative staff, this will be confirmed when users are able to successfully access the platform, complete the registration process, and navigate to their project dashboard without friction. |
+| Sprint 1 Velocity | 3 |
 | Sum of Story Points | 7 |
 
 </div>
@@ -2734,22 +2734,22 @@ Para el sprint 2 de ArquiTech, realizamos una reunión inicial para coordinar de
 <td class="c1" colspan="1" rowspan="1"><p>Bellido Salas, Raúl</p><p></p><p>Gómez Flores, Daniela Araceli</p><p></p><p>Luyo Correa, Sandra Paula</p><p></p><p>Rodas Sotomayor, Ernesto</p><p></p><p>Sulca Silva, Melisa Geraldine</p></td>
 </tr>
 <tr class="c2">
-<td class="c1" colspan="1" rowspan="1"><p>Sprint n - Review Summary</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Sprint 2 - Review Summary</p></td>
 <td class="c1" colspan="1" rowspan="1"><p>Revisamos nuestras business goals y discutimos sobre las user stories que realizaríamos en esta entrega</p></td>
 </tr>
 <tr class="c2">
-<td class="c1" colspan="1" rowspan="1"><p>Sprint n - Retrospective Summary</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Sprint 2 - Retrospective Summary</p></td>
 <td class="c1" colspan="1" rowspan="1"><p>Start:</p><p>Debemos empezar a comunicarnos más entre nosotros</p><p>Debemos planear con anticipación las tareas en grupo e individuales</p><p>Stop:</p><p>No pedir ayuda al resto del grupo si tienes alguna duda.</p><p>Continue:</p><p>Realizar notificaciones de los avances hechos.</p><p></p></td>
 </tr>
 <tr class="c9">
 <td class="c12" colspan="2" rowspan="1"><p><b>Sprint Goal & User Stories</b></p></td>
 </tr>
 <tr class="c2">
-<td class="c1" colspan="1" rowspan="1"><p>Sprint n Goal</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Sprint 2 Goal</p></td>
 <td class="c1" colspan="1" rowspan="1"><p>Our focus is on <b>implementing the Frontend Web Application</b></p><p>We believe it delivers <b>a clear entry point and structured onboarding experience</b> to <b>construction SMEs and administrative staff</b>,</p><p>this will be confirmed when <b>users are able to successfully access the platform, complete the registration process, and navigate to their project dashboard without friction</b>.</p></td>
 </tr>
 <tr class="c2">
-<td class="c1" colspan="1" rowspan="1"><p>Sprint n Velocity</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Sprint 2 Velocity</p></td>
 <td class="c1" colspan="1" rowspan="1"><p>3</p></td>
 </tr>
 <tr class="c2">
@@ -2794,6 +2794,13 @@ Para el sprint 2 de ArquiTech, realizamos una reunión inicial para coordinar de
 <tr class="c3">
 <td class="c2" colspan="1" rowspan="1"><p>Rodas Sotomayor, Ernesto</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>ernesto0710</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Sulca Silva, Melisa Geraldine</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>MSS02204/MSS0220</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>C</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>C</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>C</p></td>
@@ -2991,7 +2998,7 @@ Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de
 <td class="c3" colspan="1" rowspan="1"><p><b>Commited on (Date)</b></p></td>
 </tr>
 <tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>DanieGF1/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>DanieGF1/ArquiTech_FrontendWebApp</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>0823e28</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>feat: add material model</p></td>
@@ -2999,7 +3006,7 @@ Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de
 <td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
 </tr>
 <tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>Paulu27/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Paulu27/ArquiTech_FrontendWebApp</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>c4f2026</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>feat: Update user.entity.spec.ts</p></td>
@@ -3007,7 +3014,7 @@ Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de
 <td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
 </tr>
 <tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>ernesto0710/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>ernesto0710/ArquiTech_FrontendWebApp</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>98f93ba</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>feat: add project.entity.ts</p></td>
@@ -3015,7 +3022,7 @@ Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de
 <td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
 </tr>
 <tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>raulbellidosalas/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>raulbellidosalas/ArquiTech_FrontendWebApp</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>9105833</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>feat: Updated worker-management.component.css</p></td>
@@ -3023,7 +3030,7 @@ Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de
 <td class="c3" colspan="1" rowspan="1"><p>13/05/2025</p></td>
 </tr>
 <tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>MSS02204/BuildTruck_LandingPage</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>MSS02204/ArquiTech_FrontendWebApp</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>2600763</p></td>
 <td class="c3" colspan="1" rowspan="1"><p>feat: add incident.entity.ts</p></td>
@@ -3092,14 +3099,631 @@ Link del repositorio: [https://github.com/osFoundex/ArquiTech_FrontendWebApp](ht
 
 ### *5.2.3. Sprint 3*  
 
-#### 5.2.3.1.Sprint Planning 3.  
+#### 5.2.3.1.Sprint Planning 3. 
+
+Para el Sprint 3 de ArquiTech, realizamos una reunión inicial en la que coordinamos las tareas asignadas a cada miembro del equipo para esta entrega. Durante la reunión, definimos que el backend sería el enfoque principal, trabajando en las funcionalidades clave para gestionar el inventario de materiales, el uso de los mismos en obras, el registro de maquinaria y trabajadores, así como el inventario.
+
+
+<body class="c10 doc-content">
+<p></p>
+<table class="c11">
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p><b>Sprint #</b></p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Sprint 3</p></td>
+</tr>
+<tr class="c9">
+<td class="c12" colspan="2" rowspan="1"><p><b>Sprint Planning Background:</b></p><p>Decidimos centrarnos en la codificación del Backend Web Application de Arquitech, nos repartimos el tareas para desarrollar distintas partes del codigo de nuestra base de datos de Arquitech</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Date</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>2025-06-15</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Time</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>09:40 PM</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Location</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Discord server call</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Prepared By</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Luyo Correa, Sandra Paula</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Attendees (to planning meeting)</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Bellido Salas, Raúl</p><p></p><p>Gómez Flores, Daniela Araceli</p><p></p><p>Luyo Correa, Sandra Paula</p><p></p><p>Rodas Sotomayor, Ernesto</p><p></p><p>Sulca Silva, Melisa Geraldine</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Sprint 3 - Review Summary</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Durante el Sprint 3, se completaron diversas funcionalidades clave del backend, las cuales estaban enfocadas principalmente en el manejo de inventarios, gestión de materiales, maquinaria y trabajadores. Los desarrollos se centraron en la creación y validación de APIs para registrar entradas y salidas de materiales, registrar maquinaria y controlar la asignación de trabajadores a tareas de distintos proyectos. También, la sección de reporte, el contratista puede visualizar los reportes para tener un control más directo del proyecto. Cada funcionalidad fue desarrollada exitosamente en la base de datos, mejorando el proceso de gestión operativa de ArquiTech.</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Sprint 3 - Retrospective Summary</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>En la retrospectiva del Sprint 3, se destacaron varios logros clave, como la exitosa implementación de las APIs para la gestión de inventarios, el registro de maquinaria y la asignación de trabajadores.
+Para el próximo sprint, se acordó que será crucial juntar el backend con el frontend para garantizar la correcta interacción entre ambos y asegurar que las funcionalidades desarrolladas en el backend se reflejen de manera adecuada en la interfaz de usuario. Además, se comprometió a mejorar la validación de entradas en las APIs, así como a implementar pruebas más rigurosas y automatizadas. Se sugirió optimizar el tiempo de despliegue de las funcionalidades en producción para aumentar la eficiencia y la agilidad del equipo.
+En general, el Sprint 3 fue productivo y se avanzó significativamente en las funcionalidades clave del backend, aunque aún hay espacio para optimizar algunos procesos. El siguiente paso será integrar las funcionalidades del backend con el frontend, lo que permitirá probar la interacción completa de las funcionalidades y asegurar una experiencia de usuario fluida y eficiente.</p></td>
+</tr>
+<tr class="c9">
+<td class="c12" colspan="2" rowspan="1"><p><b>Sprint Goal & User Stories</b></p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Sprint 3 Goal</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>Our focus is on <b>on developing and implementing key backend functionalities for managing material inventories, registering machinery and workers, and enabling transaction queries. Additionally, we aim to provide contractors and supervisors with the ability to generate project reports to improve control and oversight. Finally, we are laying the groundwork for backend and frontend integration in the upcoming sprints.</b></p><p>We believe it delivers <b>a robust backend system capable of managing essential operations like material inventory control, machinery assignment, worker registration, and transaction tracking. These improvements will ensure efficient project management and provide a seamless experience for users in terms of data tracking and reporting.
+</b>,</p><p>this will be confirmed when <b> the backend functionalities are integrated with the frontend, and users can interact with the system to view and manage inventories, machinery, workers, and reports in real-time. The successful integration and validation of APIs will demonstrate that the system is operating as expected</b>.</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Sprint 3 Velocity</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>45</p></td>
+</tr>
+<tr class="c2">
+<td class="c1" colspan="1" rowspan="1"><p>Sum of Story Points</p></td>
+<td class="c1" colspan="1" rowspan="1"><p>49</p></td>
+</tr>
+</table>
+<p></p>
+</body>
+
+
 #### 5.2.3.2. Aspect Leaders and Collaborators.  
+
+Durante el Sprint 3 de ArquiTech, se han identificado diversos aspectos funcionales clave relacionados con el desarrollo del backend de la aplicación, así como algunos ajustes esenciales en el frontend. Con el fin de organizar eficientemente las tareas del equipo, se ha implementado una matriz de Liderazgo y Colaboración (LACX), donde a cada miembro del equipo se le asigna el rol de líder (L) en áreas críticas del desarrollo del backend, mientras que en otras áreas asumen el rol de colaborador (C), promoviendo una colaboración eficiente entre todos.
+
+
+<table class="c8">
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p><b>Team Member (Last Name, First Name)</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>GitHub Username</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Backend de Gestión de Incidentes</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Backend de Gestión de Maquinaria</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Backend de Gestión de Materiales</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Backend de Gestión de Tareas y Trabajadores</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Backend de Gestión de Proyectos</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Backend de Gestión de Usuarios y roles</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Landing page</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Documentation</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Frontend Web Application</b></p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Bellido Salas, Raúl</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>raulbellidosalas</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Gómez Flores, Daniela Araceli</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>DanieGF1</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Luyo Correa, Sandra Paula</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>Paulu27</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Rodas Sotomayor, Ernesto</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>ernesto0710</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Sulca Silva, Melisa Geraldine</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>MSS02204/MSS0220</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+</tr>
+</table>
+
 #### 5.2.3.3.Sprint Backlog 3.  
-#### 5.2.3.4.Development Evidence for Sprint Review.  
+
+Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar las funcionalidades clave del backend, con un enfoque en eficiencia, control de inventarios, y gestión de recursos dentro de los proyectos de construcción. El equipo trabajó en la creación de una infraestructura sólida que permitiera registrar y gestionar materiales, maquinaria, trabajadores, y transacciones, asegurando un flujo de trabajo óptimo para los supervisores de obra. Además, se implementó un sistema de reportes y consultas que permite a los contratistas tener una visión clara y actualizada del progreso de los proyectos.
+
+**Figura**  
+*Sprint 2 de ArquiTech*  
+
+
+*Nota.* Elaboración propia. Obtenido de 
+
+<table class="c12">
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>Sprint #</p></td>
+<td class="c16" colspan="7" rowspan="1"><p>Sprint 3</p></td>
+</tr>
+<tr class="c5">
+<td class="c13" colspan="2" rowspan="1"><p>User Story</p></td>
+<td class="c17" colspan="6" rowspan="1"><p>Work Item/Task</p></td>
+</tr>
+<tr class="c11">
+<td class="c3" colspan="1" rowspan="1"><p>Id</p></td>
+<td class="c8" colspan="1" rowspan="1"><p>Title</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>Id</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Title</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Description</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>Estimation (Hours)</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Assigned To</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Status (To-do / InProcess / ToReview / Done)</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="3"><p>HU01</p></td>
+<td class="c8" colspan="1" rowspan="3"><p>Registrar Entrada de Materiales.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica de registro de entradas de materiales.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Diseñar la estructura de datos para registrar las entradas de materiales, asegurando que la cantidad, proveedor y fecha sean correctamente almacenados en la base de datos.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar validación de datos incompletos.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Crear la lógica de backend para validar que todos los campos requeridos (cantidad, proveedor, fecha) estén presentes antes de guardar la entrada en el inventario.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T3</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Conectar lógica de la tabla entradas con base de datos.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar la integración entre el modelo de entradas y la base de datos para que los datos de materiales sean correctamente almacenados y actualizados.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="2"><p>HU02</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Registrar uso (salida) de materiales de Obra.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica de salida de materiales</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Diseñar la estructura de datos y lógica de backend para registrar las salidas de materiales, validando que el inventario se reduzca correctamente.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar validación de uso mayor al stock disponible.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Crear una validación para asegurarse de que no se registre una salida superior al inventario disponible, y que el sistema no permita la operación si el stock es insuficiente.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="2"><p>HU03</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Recibir alerta si la cantidad de salida excede el inventario.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Desarrollar sistema de alertas por exceso de salida.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar la lógica de backend para enviar alertas cuando se intente registrar una salida de material que exceda la cantidad disponible en el inventario.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>To-do</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Integrar sistema de alertas con backend.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la integración del sistema de alertas con el backend para enviar notificaciones de error en tiempo real.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>To-do</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>HU04</p></td>
+<td class="c8" colspan="1" rowspan="1"><p>Consulta de inventario.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear API para consultar inventario.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Diseñar y desarrollar una API que permita consultar todo el inventario de entrada y salida de materiales.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>5</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="2"><p>HU05</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Registrar maquinaria asignada al proyecto.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica para registro de maquinaria.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar la estructura de datos en el backend para registrar la maquinaria asignada a un proyecto, incluyendo el número de serie y el estado de la maquinaria.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar validación de maquinaria duplicada.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Crear la validación que impida registrar maquinaria con un número de serie duplicado en el sistema.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>To-do</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>HU06</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Registro de trabajadores.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear API para registrar trabajadores.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la API que permita registrar trabajadores con sus datos personales, cargo y asignación a proyectos.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>5</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Paula Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Desarrollar API para actualizar datos de trabajadores.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar la API que permita actualizar la información de los trabajadores, como cargo, fecha de contratación, o asignación de tareas.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Paula Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>HU07</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Asignación de tareas y roles.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica para asignación de tareas.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Diseñar la estructura de datos para asignar tareas a los trabajadores y establecer un rol específico para cada tarea.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>5</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Paula Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Desarrollar API para asignar tareas a los trabajadores.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar la API que permita asignar tareas a los trabajadores de acuerdo con sus roles en el proyecto.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Paula Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>HU08</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Visualización de tareas de un trabajador.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Desarrollar lógica para consultar tareas de un trabajador.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Crear la API que permita consultar las tareas asignadas a un trabajador específico en el proyecto.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Paula Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Integrar tareas con base de datos.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la integración de la API para mostrar las tareas del trabajador desde la base de datos.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Paula Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>HU09</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Ingresar un Nuevo Proyecto.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear modelo de datos para proyectos.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Crear la estructura de datos para registrar proyectos, incluyendo nombre, presupuesto y estado.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>5</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar API para crear un nuevo proyecto.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la API para ingresar un nuevo proyecto con los datos proporcionados por el usuario.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="1"><p>HU10</p></td>
+<td class="c8" colspan="1" rowspan="1"><p>Lista de trabajadores por obra.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear API para listar trabajadores por obra.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la API para recuperar la lista de trabajadores asignados a un proyecto específico.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>HU20</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Generar reporte diario de avance.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica para generar reportes diarios.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Diseñar la estructura de datos y la lógica para registrar y generar reportes diarios con las actividades realizadas, materiales utilizados, personal presente y observaciones.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>6</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Desarrollar API para almacenar reportes diarios.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar una API que permita guardar los reportes diarios generados, validando que todos los campos obligatorios estén completos antes de almacenarlos en la base de datos.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>6</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>HU21</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Visualizar reportes semanales.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear API para obtener reportes semanales consolidados.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar una API que recupere los reportes diarios de la semana y los consolide en un solo reporte semanal, incluyendo la información de materiales y avance.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>6</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Desarrollar lógica para procesar los datos semanales.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Crear la lógica para procesar y consolidar los datos de los reportes diarios en un solo archivo o formato adecuado para la visualización.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="3"><p>HU22</p></td>
+<td class="c8" colspan="1" rowspan="3"><p>Recibir notificación de nuevo reporte.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar sistema de notificaciones automáticas.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la lógica backend para enviar notificaciones automáticas por correo electrónico o notificaciones push cuando se genere un nuevo reporte diario o semanal.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>6</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Conectar sistema de notificaciones con la generación de reportes.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Integrar el sistema de notificaciones con el proceso de generación de reportes, de manera que se envíe una notificación tan pronto como se guarde un reporte.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>6</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>To-do</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T3</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Configurar notificaciones por correo electrónico.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Configurar el envío de notificaciones por correo electrónico, con un resumen del reporte generado y un enlace para visualizarlo.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>To-do</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>HU24</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Seleccionar obra específica para ver sus reportes.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear API para filtrar reportes por obra.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar una API que permita filtrar y mostrar los reportes específicos de una obra seleccionada.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar lógica de persistencia de selección de obra.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Crear la lógica backend para que la selección de la obra se mantenga persistente entre las diferentes secciones del sistema, mostrando los reportes correctos.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="3"><p>HU25</p></td>
+<td class="c8" colspan="1" rowspan="3"><p>Visualizar Lista de Proyectos.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear API para obtener lista de proyectos.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar una API que recupere la lista de proyectos activos, incluyendo el nombre, presupuesto y estado de cada uno.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar mensaje cuando no haya proyectos.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Crear la lógica backend para mostrar un mensaje adecuado si no hay proyectos registrados en el sistema.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T3</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Conectar API con la base de datos de proyectos.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Integrar la API con la base de datos para que la lista de proyectos se recupere en tiempo real según el usuario autenticado.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>To-do</p></td>
+</tr>
+</table>
+
+
+#### 5.2.3.4.Development Evidence for Sprint Review. 
+
+<table class="c9">
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p><b>Repository</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Branch</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Commit Id</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Commit</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Message Body</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Commited on (Date)</b></p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>DanieGF1/Arquitech_BackendWebApp</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>d0c909d</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: featureIncidents</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>17/06/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>Paulu27/Arquitech_BackendWebApp</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>d8f5d68</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: Add workers and tasks</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>18/06/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>ernesto0710/Arquitech_BackendWebApp</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>c67b683</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: add machinery-backend</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>19/06/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>raulbellidosalas/Arquitech_BackendWebApp</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>3d740eb</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: added the project and user endpoints</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>18/06/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>MSS0220/Arquitech_BackendWebApp</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>7799323</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>feat: add-material-section</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>17/06/2025</p></td>
+</tr>
+</table>
+
 #### 5.2.3.5.Execution Evidence for Sprint Review.  
+
+En este sprint 3, el enfoque principal fue la implementación y mejora del backend de la aplicación, con un fuerte énfasis en la gestión de materiales, maquinaria, trabajadores y proyectos de construcción. Este sprint estuvo dedicado a desarrollar funcionalidades clave para optimizar la gestión operativa de la plataforma, permitiendo una mejor planificación y seguimiento de los proyectos de construcción.
+Se implementaron y probaron varias APIs que facilitaron el registro y seguimiento de materiales, maquinaria y trabajadores asignados a proyectos.  También se habilitaron funcionalidades de consulta de inventario de materiales, generación de reportes de avance y la gestión de proyectos de obra.
+El equipo también trabajó en la corrección y optimización de la base de datos, mejorando las relaciones entre los datos de inventarios, maquinaria y trabajadores, para garantizar un acceso más rápido y eficiente a la información.
+
+**Figura**
+
+Video de funcionamiento del backend de Arquitech:
+
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.  
+
+Durante el Sprint 3, el enfoque se centró en la implementación del backend real para la aplicación web de ArquiTech. A lo largo de este Sprint, reemplazamos la fake API, anteriormente desarrollada a modo de prueba, con servicios backend funcionales, asegurando la conectividad en el siguiente sprint  a una base de datos real que gestiona las diversas operaciones del sistema. Las funcionalidades de gestión de materiales, proyectos, trabajadores, tareas, maquinaria, usuarios y roles están completamente implementadas y operativas.
+A continuación, se detallan las funcionalidades implementadas para cada uno de los Bounded Contexts de ArquiTech y sus correspondientes tablas en la base de datos:
+
+
+1. **Gestión de Usuarios y Roles (Users and Roles)**  
+   **Tabla:** Users  
+
+   **Operaciones CRUD:**
+   	- **GET:** Obtener todos los usuarios o un usuario específico.  
+   	- **POST:** Crear un nuevo usuario.  
+   	- **PUT:** Actualizar un usuario existente.  
+   	- **DELETE:** Eliminar un usuario.  
+
+   **Descripción:**  
+     Gestión de usuarios y sus roles dentro del sistema, permitiendo la creación, actualización y eliminación de usuarios.
+
+
+2. **Gestión de Proyectos (Projects)**  
+   **Tabla:** Projects  
+
+   **Operaciones CRUD:**
+   	- **GET:** Obtener todos los proyectos o un proyecto específico.  
+   	- **POST:** Crear un nuevo proyecto.  
+   	- **PUT:** Actualizar un proyecto existente.  
+   	- **DELETE:** Eliminar un proyecto.  
+
+   **Descripción:**  
+     Permite gestionar los proyectos de construcción, registrar nuevos proyectos y actualizar su información.
+
+
+3. **Gestión de Tareas y Trabajadores (Tasks and Workers)**  
+   **Tablas:** Workers y Tasks  
+
+   **Operaciones CRUD:**
+   	- **GET:** Obtener trabajadores o tareas asignadas.  
+   	- **POST:** Crear un nuevo trabajador o tarea.  
+   	- **PUT:** Actualizar la asignación de tareas a trabajadores.  
+   	- **DELETE:** Eliminar tareas o trabajadores.  
+
+   **Descripción:**  
+     Gestión de trabajadores asignados a tareas específicas dentro de los proyectos.
+
+
+4. **Gestión de Materiales (Materials)**  
+   **Tabla:** Materials  
+
+   **Operaciones CRUD:**
+   	- **GET:** Consultar los materiales disponibles o entradas/salidas de materiales.  
+   	- **POST:** Registrar la entrada de materiales.  
+   	- **PUT:** Actualizar la cantidad de materiales.  
+   	- **DELETE:** Eliminar registros de materiales.  
+
+   **Descripción:**  
+     Registro y seguimiento de materiales en inventario, incluyendo las fechas de entrada y salida.
+
+
+5. **Gestión de Maquinaria (Machinery)**  
+   **Tabla:** Machinery  
+
+   **Operaciones CRUD:**
+   	- **GET:** Obtener la lista de maquinaria.  
+   	- **POST:** Registrar nueva maquinaria.  
+   	- **PUT:** Actualizar el estado de la maquinaria.  
+   	- **DELETE:** Eliminar maquinaria.  
+
+   **Descripción:**  
+     Gestión de la maquinaria asignada a los proyectos, permitiendo registrar, actualizar y eliminar maquinaria.
+
+
+
+6. **Gestión de Incidentes (Incidents)**  
+   **Tabla:** Incidents  
+
+   **Operaciones CRUD:**
+  	- **GET:** Obtener los detalles de los incidentes registrados.  
+   	- **POST:** Registrar un nuevo incidente.  
+   	- **PUT:** Actualizar un incidente.  
+   	- **DELETE:** Eliminar un incidente.  
+
+   **Descripción:**  
+     Registro de incidentes ocurridos durante los proyectos de construcción, facilitando el seguimiento y la resolución de problemas.
+   
+
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.  
+
+**Figura**  
+*Sprint 2 Deployment Evidence 1*  
+	
+	
+*Nota.* Elaboración propia.
+	
+**Figura**  
+*Sprint 2 Deployment Evidence 1*  
+	
+	
+*Nota.* Elaboración propia.
+
 #### 5.2.3.8.Team Collaboration Insights during Sprint.  
+
+Para poder realizar el código, al igual que en la primera entrega, usamos GitHub. El repositorio usado fue osFoundex/Arquitech_BackendWebApp.
+Link del repositorio: 
+
+**Figura**  
+*Team Collaboration Insights durante Sprint 3*
+	
+	
+*Nota.* Elaboración propia
 
 ## 5.3. Validation Interviews.  
 
