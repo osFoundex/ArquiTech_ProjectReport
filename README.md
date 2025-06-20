@@ -3728,7 +3728,148 @@ Link del repositorio:
 ## 5.3. Validation Interviews.  
 
 ### *5.3.1. Diseño de Entrevistas.*  
+
+**Segmento Objetivo #1: Supervisores de Obras**
+
+1. **Perfil del entrevistado:**
+	- ¿Cuál es tu nombre y tu rol en la supervisión de obras?
+	- ¿Qué herramientas usas actualmente para gestionar la obra y supervisar el progreso?
+
+2. **Tras mostrar la Landing Page:**
+	- ¿Qué entendiste que ofrece la plataforma ArquiTech?
+	- ¿Crees que esta solución es útil para alguien en tu rol de supervisor de obra?
+	-  ¿Qué mejorarías en la página para que sea más clara y útil en tu día a día?
+
+3. **Tras la demostración de la aplicación web:**
+	- ¿Cómo crees que ArquiTech podría agilizar la supervisión diaria de la obra?
+	- ¿Qué tan fácil fue visualizar y actualizar los reportes de la obra usando la plataforma?
+	- ¿La aplicación te ayudó a visualizar el progreso de los recursos (materiales, personal) de manera clara y sencilla?
+	- ¿Hubo alguna función que no entendiste o que no encontraste útil durante la demostración?
+	- ¿Qué tan confiable consideras la plataforma para llevar el control de inventarios y obreros en tiempo real?
+
+4. **Cierre:**
+	- ¿Qué es lo que más te gustó de la plataforma ArquiTech?
+	- ¿Usarías esta herramienta regularmente para gestionar tus proyectos de obra? ¿Por qué?
+
+
+<br>
+
+**Segmento Objetivo #2: Contratantes de Empresas Privadas**
+
+1. **Perfil del entrevistado:**
+	- ¿Cuál es tu nombre y tu rol como contratante de proyectos de construcción?
+	- ¿Qué herramientas o métodos usas actualmente para monitorear el avance de las obras que contratas?
+
+2. **Tras mostrar la Landing Page:**
+	- ¿Qué entendiste que ofrece la plataforma ArquiTech?
+	- ¿Crees que esta plataforma sería útil para alguien en tu rol como contratante de empresas privadas?
+	- ¿Qué mejorarías en la página para que sea más clara y útil para supervisar los proyectos que contratas?
+
+3. **Tras la demostración de la aplicación web:**
+	- ¿Qué impresión general te dio la plataforma ArquiTech?
+	- ¿Te parece útil para tener visibilidad de los reportes, materiales, incidentes y personal en las obras que contratas?
+	- ¿Fue fácil usar la plataforma para revisar el progreso y gestionar los recursos de las obras?
+	- ¿Qué funcionalidades adicionales o cambios te gustaría que la plataforma tuviera para mejorar tu experiencia como contratante?
+
+4. **Cierre:**
+	- ¿Qué es lo que más te gustó de la plataforma ArquiTech?
+	- ¿Usarías esta herramienta para supervisar el progreso de tus proyectos de construcción? ¿Por qué?
+
+
 ### *5.3.2. Registro de Entrevistas.*  
+
+**Segmento objetivo #1: Supervisores de obra**
+
+Entrevistada #1: Fiorella Perez
+
+**Figura**
+
+
+*Imagen del usuario número 1 entrevistada*
+
+
+*Nota.* Elaboración propia. Obtenido de 
+
+Actualmente, Fiorella Pérez, quien es una supervisora de obra de 28 años, utiliza hojas de Excel para controlar inventarios y asistencia, y WhatsApp para coordinar con el equipo. Los avances de la obra se registran manualmente y se informan semanalmente a los contratantes. Ella percibe ArquiTech como una plataforma útil para centralizar la gestión de proyectos de construcción, control de inventarios, asistencia y reportes. La propuesta de la herramienta le parece interesante para mejorar la organización y facilitar la comunicación. Además, ella sugiere una mayor visibilidad en la página para el acceso rápido a las secciones de la landing page ya que comenta que es largo la página por lo que si hubiera la opción de que con un botón baje rápido a esa opción sería lo mejor, además le gustaría una sección destacada para plazos y tareas pendientes para mejorar la priorización. Asimismo, ella comenta que la plataforma le parece útil para agilizar su trabajo diario, especialmente en la actualización de avances y la gestión de recursos. Encontró la interfaz intuitiva, con los colores adecuados y fácil de usar, permitiéndole registrar y visualizar los avances de forma rápida y clara. También, considera que la plataforma es confiable para llevar el control de inventarios y asistencia en tiempo real, lo que le ahorraría tiempo y reduciría los errores. 
+Sin embargo, mencionó que sería útil contar con un modo offline en caso de problemas de conectividad en las obras. Lo que más le agradó a Fiorella fue la centralización de las funciones en una sola plataforma, lo que le permitiría gestionar más eficientemente las tareas diarias y reducir los errores. Por último, nos comenta que está dispuesta a usar la plataforma regularmente porque le ayudaría a ahorrar tiempo y mejorar la precisión en los informes. Cree que la opción offline haría la herramienta aún más útil para obras con conectividad limitada.
+
+<br>
+
+Entrevistada #2: Denisse Vargas
+
+**Figura**
+
+*Imagen del usuario número 2 entrevistada*
+
+
+*Nota.* Elaboración propia. Obtenido de
+
+Denisse Vargas, supervisora de obra civil, comenta que en su día a día usa Excel, WhatsApp y formatos físicos para controlar asistencia, materiales y coordinar con el equipo. Aunque le funciona, dice que todo está muy desordenado y se pierde tiempo buscando información. Al probar ArquiTech, le pareció una buena alternativa para organizar mejor todo lo relacionado con la obra en un solo lugar. Le gustó que sea práctica, fácil de usar y enfocada en lo que realmente se necesita en campo. Menciona que la plataforma le facilitaría registrar avances, ver asistencia y controlar inventarios sin depender de otros medios. Sugiere que se mejore el diseño con menús más visuales y que exista una opción offline para zonas sin señal. En general, la vio clara y útil, y destaca que usarla le ahorraría tiempo y ayudaría a evitar errores. Está dispuesta a utilizar ArquiTech con frecuencia porque le permitiría tener más control, ser más rápida al informar y trabajar con más orden.
+
+<br>
+
+Entrevista #3: Fernando Mayta
+
+**Figura**
+
+*Imagen del usuario número 3 entrevistada*
+
+
+*Nota.* Elaboración propia. Obtenido de
+
+Fernando Mayta, un supervisor de obra de 26 años, expresó una valoración muy positiva hacia la plataforma ArquiTech, destacando particularmente su funcionalidad para gestionar tareas de manera eficiente. Entre las apreciaciones más notables, Jaime señaló que lo que más le gustó fue la capacidad de añadir y editar datos en las tablas interactivas, especialmente en las secciones de trabajadores y sus tareas, así como en materiales. Esta característica le pareció un gran avance frente a su método actual de anotaciones manuales en cuadernos, ya que le ahorra tiempo y le permite mantener un control más organizado de los recursos y actividades en la obra. La facilidad para realizar estas acciones mediante botones como "Añadir" y los íconos de editar y borrar en cada fila fue un punto fuerte que resaltó, considerándolo una herramienta práctica para su día a día.
+Respecto al uso regular de la plataforma, Fernando afirmó que sí la emplearía consistentemente para gestionar sus proyectos, fundamentando su decisión en los beneficios de organización que ofrece y en la capacidad de proporcionar información al contratante sin necesidad de generar reportes manuales. Sin embargo, su entusiasmo se vio matizado por una preocupación sobre la escalabilidad de la herramienta, expresando incertidumbre sobre su rendimiento al supervisar múltiples proyectos simultáneamente, una situación común en su rol. Esta observación sugiere que, aunque valora las tareas asignadas (gestionar trabajadores, tareas, materiales, maquinaria e incidentes), considera crucial que la plataforma demuestre estabilidad bajo condiciones de alta demanda para ganarse su confianza a largo plazo.
+Su entusiasmo por las tablas interactivas refleja una necesidad práctica de eficiencia, pero su preocupación por la escalabilidad sugiere que la validación debe enfocarse en pruebas con múltiples proyectos. Esto podría guiar iteraciones para mejorar el rendimiento bajo carga.
+
+<br>
+
+**Segmento Objetivo #2: Contratantes de empresas privadas**
+
+Entrevista #1: Milagros Arellano
+
+**Figura**
+
+*Imagen del usuario número 1 entrevistada*
+
+
+*Nota.* Elaborado propia. Obtenido de 
+
+Milagros Fernández, que trabaja como contratante de obras para una empresa privada, suele recibir reportes por Excel o PDF, además de comunicarse con los responsables por WhatsApp o correo. Dice que a veces no tiene información clara o actualizada, lo que le complica el seguimiento. Al usar ArquiTech, le pareció útil para tener todo lo importante en un solo lugar y con acceso inmediato: reportes, asistencia, materiales e incidentes. Lo que más le gustó fue lo simple que es de entender y que no hace falta ser experta en tecnología para usarla. Comenta que le ayudaría a tomar decisiones más rápido y tener control sin depender 100% del contratista. Sugiere que se añadan indicadores clave en la pantalla principal y opciones para comparar obras o recibir alertas. En general, considera que la herramienta le ahorraría tiempo y que sí la usaría, ya que le da más control y mejora la comunicación con los supervisores.
+
+<br>
+
+Entrevista #2: Alyssa Ortega
+
+**Figura**
+
+*Imagen del usuario número 2 entrevistada*
+
+
+*Nota.* Elaborado propia. Obtenido de 
+
+Alyssa Ortega, contratante de empresas privadas en proyectos de construcción, actualmente emplea herramientas como Excel para el control de inventarios y asistencia, y WhatsApp para coordinarse con su equipo. Los avances de obra se registran manualmente y se comunican a los superiores o contratantes mediante reportes semanales. Aunque este sistema le ha funcionado hasta ahora, reconoce que implica una inversión de tiempo considerable y es propenso a errores humanos, especialmente al consolidar datos de diferentes fuentes.
+Tras conocer la plataforma ArquiTech, Alyssa manifestó una percepción positiva sobre su utilidad y valor práctico. Considera que la propuesta es adecuada para optimizar su labor diaria como contratista, permitiéndole centralizar funciones clave como la supervisión de avances, gestión de recursos humanos, materiales, incidentes, maquinaria y generación de reportes automatizados, todo desde una misma plataforma.
+Resaltó que la plataforma le parece intuitiva, organizada y estéticamente adecuada, con colores agradables y navegación clara. Para ella, una de las ventajas más relevantes fue la posibilidad de acceder a información detallada de cada proyecto y trabajador asignado, así como visualizar los estados de avance, recursos utilizados y posibles incidencias. Esta visibilidad ayudaría a tener un mayor control y mejor toma de decisiones en tiempo real.
+Como punto a mejorar, sugirió incorporar una sección destacada para tareas pendientes y plazos, lo que facilita la priorización de actividades urgentes dentro de las obras. También comentó que la landing page podría beneficiarse de accesos rápidos (por ejemplo, botones ancla) que lleven directamente a cada sección, ya que sugiere que la longitud de la página puede dificultar la navegación rápida.
+Lo que más le agradó fue la posibilidad de tener todas las funcionalidades centralizadas en una sola herramienta, lo cual representa una mejora significativa frente a su sistema actual fragmentado. Considera que esto le permitiría agilizar procesos, reducir errores y mejorar la precisión de los reportes enviados a sus superiores. Finalmente, Alyssa expresó que sí estaría dispuesta a utilizar la plataforma de forma regular, ya que le ahorraría tiempo, optimizaría sus tareas diarias y representaría una evolución profesional en la forma en que gestiona sus obras.
+
+
+<br>
+
+Entrevista #3: Karolay Correa
+
+**Figura**
+
+*Imagen del usuario número 3 entrevistada*
+
+
+*Nota.* Elaborado propia. Obtenido de 
+
+Karolay Correa, una contratante de 27 años, mostró una impresión altamente favorable hacia ArquiTech, con un enfoque particular en la utilidad del reporte semanal automático como su aspecto más destacado. Apreció profundamente la claridad y el detalle que ofrecen las tablas del reporte, que incluyen tareas terminadas, incidentes registrados y movimientos de materiales, considerándolas una mejora significativa respecto a los informes en PDF que actualmente solicita a las constructoras. Esta funcionalidad le proporcionó una visión completa de la obra sin depender de visitas físicas o comunicaciones tardías, lo que le generó una sensación de control y tranquilidad al realizar las tareas asignadas de revisar el progreso y descargar el informe.
+Sobre la adopción regular de la plataforma, Karolay indicó que sí la usaría para supervisar el progreso de sus proyectos de construcción, justificando su decisión por los ahorros de tiempo y la transparencia que le brinda. Resaltó que la herramienta le permite tomar decisiones rápidas, siempre y cuando las constructoras también la adopten, lo que subraya su dependencia de la colaboración externa. Además, expresó un deseo de personalización en el reporte, sugiriendo que su experiencia podría mejorar si se incorporan filtros o alertas, lo que indica que, aunque las tareas asignadas (visualizar datos y descargar reportes) fueron satisfactorias, espera que la plataforma evolucione para adaptarse aún más a sus necesidades específicas como contratante.
+Su valoración del reporte semanal destaca la importancia de la visibilidad para contratantes, mientras que su interés en personalización (filtros, alertas) apunta a áreas de mejora. La adopción por constructoras sigue siendo un factor crítico.
+
+
 ### *5.3.3. Evaluaciones según heurísticas.*  
 
 ## 5.4. Video About-the-Product.  
