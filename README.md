@@ -3890,22 +3890,292 @@ Su valoración del reporte semanal destaca la importancia de la visibilidad para
 
 ### *5.3.3. Evaluaciones según heurísticas.*  
 
+<p align="center">UX Heuristics & Principles Evaluation</p>
+<p align="center">Usability – Inclusive Design – Information Architecture</p>
+CARRERA : Ingeniería de Software
+CURSO : Desarrollo de Aplicaciones Open Source
+SECCIÓN: 4348
+PROFESORES:
+
+AUDITOR: FOUNDEX
+
+CLIENTE(S):
+ - Fiorella Perez
+ - Denisse Vargas
+ - Fernando Mayta
+ - Milagros Arellano
+ - Alyssa Ortega
+ - Karolay Correa
+
+**SITE O APP A EVALUAR:** ARQUITECH
+
+**TAREAS A EVALUAR:**
+
+*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+
+1. Navegación y exploración de la Landing Page.
+2. Acceso a la sesión de usuario mediante "Iniciar Sesión".
+3. Visualización de cards de proyectos en la pantalla principal.
+4. Acceso a detalles de un proyecto mediante el botón "Ver Detalles".
+5. Gestión de datos en la pestaña "Materiales" (añadir, visualizar, editar, eliminar para supervisores).  
+6. Gestión de datos en la pestaña "Trabajadores" (añadir, visualizar, editar, eliminar para supervisores; visualizar tareas con "Ver").  
+7. Gestión de datos en la pestaña "Incidentes" (añadir, visualizar, editar, eliminar para supervisores).  
+8. Gestión de datos en la pestaña "Maquinaria" (añadir, visualizar, editar, eliminar para supervisores).
+9. Visualización de datos en las pestañas "Materiales", "Trabajadores", "Incidentes" y "Maquinaria" (para contratantes). 
+10. Acceso y visualización del "Reporte Semanal" en la pestaña "Reportes" (para contratantes)
+11. Descarga del informe del "Reporte Semanal" (para contratantes).
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*
+
+1. Notificación directa de incidentes urgentes al contratante.
+2. Filtrado de fechas en el "Reporte Semanal"  
+3. Comparación de datos entre múltiples proyectos  
+4. Gestión de modo offline para áreas sin conectividad  
+5. Configuración de alertas personalizadas para incidentes o recursos
+
+***ESCALA DE SEVERIDAD***
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table class="c8">
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p><b>Nivel</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Descripción</b></p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>1</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</p></td>
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</p></td>
+</tr>
+</table>
+
+***TABLA DE RESUMEN***
+
+<table class="c9">
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p><b>#</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Problema</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Escala de severidad</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Heurística/Principio violada(o)</b></p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>1</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Botón "Iniciar Sesión" poco visible en Landing Page</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Usabilidad - Facilidad para aprenderlo, Visibilidad del estado del sistema</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Escalabilidad incierta con múltiples proyectos</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Heurísticas de IA - Crecimiento, Usabilidad - Eficiencia</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Filtro de fechas no disponible en Reporte Semanal
+</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Usabilidad - Flexibilidad y eficiencia en el uso, Heurísticas de IA </p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Acceso rápido a secciones largo en Landing Page</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Usabilidad - Eficiencia, Heurísticas de IA - Navegación enfocada</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>5</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Menús poco visuales</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Usabilidad - Reconocer antes que recordar, Diseño estético y minimalista</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>6</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Indicadores clave ausentes en pantalla principal
+</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>Heurísticas de IA - Usabilidad - Visibilidad del estado del sistema</p></td>
+</tr>
+</table>
+
+***DESCRIPCIÓN DE PROBLEMAS:***
+
+**PROBLEMA #1:** *Botón "Iniciar Sesión" poco visible en Landing Page.*
+
+***Severidad:*** 2
+
+***Heurística violada:*** Usabilidad - Facilidad para aprenderlo, Visibilidad del estado del sistema.
+
+**Problema:**
+
+Fernando comentó que no vio rápidamente el botón "Iniciar Sesión" al desplazarse por la Landing Page, lo que indica que no está lo suficientemente destacado. Esto afecta la facilidad de acceso inicial para nuevos usuarios, ya que deben buscarlo entre el contenido extenso, lo que puede generar frustración y retrasar la tarea de iniciar sesión.
+
+**Figura**
+
+*Captura conceptual de Landing Page con botón poco visible*
+
+*Nota.* Elaboración propia
+
+***Recomendación:***
+
+Resaltar el botón con un color contrastante y colocarlo en la parte superior o en un menú fijo para facilitar su hallazgo y mejorar la experiencia de aprendizaje inicial.
+
+<br>
+
+**PROBLEMA #2:** *Escalabilidad incierta con múltiples proyectos.*
+
+***Severidad:*** 2
+
+***Heurística violada:*** Heurísticas de IA - Crecimiento, Usabilidad - Eficiencia.
+
+***Problema:***
+
+Fernando expresó preocupación sobre el rendimiento de la plataforma al visualizar cards de proyectos cuando supervisa múltiples obras simultáneamente, sugiriendo que la escalabilidad no está clara. Esto podría reducir la eficiencia si la interfaz se vuelve lenta o confusa al manejar varios proyectos, afectando la tarea de visualizar cards de forma efectiva.
+
+
+**Figura**
+
+*Captura conceptual de cards de proyectos sin indicador de carga*
+
+
+
+*Nota.* Elaboración propia
+
+***Recomendación:***
+
+Implementar un sistema de paginación o un indicador de carga para proyectos múltiples y realizar pruebas de escalabilidad para asegurar un rendimiento eficiente.
+
+<br>
+
+**PROBLEMA #3:** *Filtro de fechas no disponible en Reporte Semanal.*
+
+***Severidad:*** 2
+
+***Heurística violada:*** Usabilidad - Flexibilidad y eficiencia en el uso, Heurísticas de IA - ¿Es controlable?.
+
+***Problema:***
+
+Karolay sugirió la necesidad de filtrar el "Reporte Semanal" por fechas específicas, pero la falta de esta opción limita su control sobre los datos históricos al acceder al reporte. Esto reduce la flexibilidad y eficiencia al revisar información más allá de la semana actual, afectando su capacidad de análisis.
+
+**Figura**
+
+*Captura conceptual de Reporte Semanal sin filtro de fechas*
+
+
+
+*Nota.* Elaboración propia
+
+***Recomendación:***
+
+Añadir un desplegable o calendario en la pestaña "Reportes" para seleccionar rangos de fechas, mejorando la flexibilidad y el control del usuario.
+
+<br>
+
+**PROBLEMA #4:** *Acceso rápido a secciones largo en Landing Page.*
+
+***Severidad:*** 2
+
+***Heurística violada:*** Usability - Efficiency, AI Heuristics - Focused Navigation.
+
+***Problema:***
+
+Fiorella encontró la Landing Page larga, sugiriendo un botón para bajar rápido a secciones, afectando la eficiencia de navegación.
+
+
+**Figura**
+
+*Problema#4*
+
+
+*Nota.* Elaboración propia
+
+***Recomendación:***
+
+Añadir botones ancla o un menú fijo.
+
+<br>
+
+**PROBLEMA #5:** *Menús poco visuales.*
+
+***Severidad:*** 2
+
+***Heurística violada:*** Usability - Recognition Rather than Recall, Aesthetic and Minimalist Design.
+
+***Problema:***
+
+Denisse propuso menús más visuales, ya que los actuales del sidenavbar pueden ser confusos al acceder a detalles.
+
+
+**Figura**
+
+*Problema #5*
+
+
+
+*Nota.* Elaboración propia
+
+***Recomendación:***
+
+Añadir íconos y colores a las pestañas del sidenavbar.
+
+<br>
+
+**PROBLEMA #6:** *Indicadores clave ausentes en pantalla principal.*
+
+***Severidad:*** 2
+
+***Heurística violada:*** AI Heuristics - Is it Communicative?, Usability - Visibility of System Status
+
+***Problema:***
+
+Milagros sugirió indicadores clave, cuya ausencia dificulta la toma de decisiones al visualizar 
+
+
+**Figura**
+
+*Problema #6* 
+
+
+
+*Nota.* Elaboración propia
+
+***Recomendación:***
+
+Incluir indicadores (ej. tareas pendientes) en las cards.
+
+<br>
+
 ## 5.4. Video About-the-Product.  
 
 # Conclusiones  
 
 #
 
-Consolidación del Frontend como Pilar de Transformación Digital: Durante este sprint, el equipo de ArquiTech fortaleció su compromiso con la digitalización del sector construcción, concentrándose en el desarrollo del Frontend Web Application. Esta herramienta proporciona una interfaz intuitiva y accesible para las pymes constructoras, permitiéndoles gestionar sus obras de manera más eficiente desde cualquier dispositivo.
+- **Consolidación del Frontend como Pilar de Transformación Digital:** Durante este sprint, el equipo de ArquiTech fortaleció su compromiso con la digitalización del sector construcción, concentrándose en el desarrollo del Frontend Web Application. Esta herramienta proporciona una interfaz intuitiva y accesible para las pymes constructoras, permitiéndoles gestionar sus obras de manera más eficiente desde cualquier dispositivo.
 
-Ejecución Ágil y Centrada en el Usuario: Se aplicaron principios de Lean UX y metodologías ágiles que permitieron diseñar e implementar funcionalidades priorizadas según las necesidades reales de los usuarios. La creación de vistas como historial de transacciones, reportes semanales, listas de proyectos y trabajadores evidenció una validación continua del valor entregado.
+- **Ejecución Ágil y Centrada en el Usuario: ** Se aplicaron principios de Lean UX y metodologías ágiles que permitieron diseñar e implementar funcionalidades priorizadas según las necesidades reales de los usuarios. La creación de vistas como historial de transacciones, reportes semanales, listas de proyectos y trabajadores evidenció una validación continua del valor entregado.
 
-Desarrollo Estructurado con Herramientas Estratégicas: Las tareas fueron guiadas por user stories bien definidas dentro de un backlog gestionado en Jira. La integración entre frontend y backend, junto a la conexión con bases de datos, garantizó una experiencia coherente y alineada con los objetivos del producto.
+- **Desarrollo Estructurado con Herramientas Estratégicas:** Las tareas fueron guiadas por user stories bien definidas dentro de un backlog gestionado en Jira. La integración entre frontend y backend, junto a la conexión con bases de datos, garantizó una experiencia coherente y alineada con los objetivos del producto.
 
-Colaboración Técnica Multidisciplinaria y Escalabilidad: La arquitectura modular, el trabajo en ramas específicas por integrante, y el uso de GitHub como sistema de control de versiones reflejan una ejecución colaborativa y escalable. Cada commit representó avances tangibles hacia una plataforma sostenible y técnicamente robusta.
+- **Colaboración Técnica Multidisciplinaria y Escalabilidad:** La arquitectura modular, el trabajo en ramas específicas por integrante, y el uso de GitHub como sistema de control de versiones reflejan una ejecución colaborativa y escalable. Cada commit representó avances tangibles hacia una plataforma sostenible y técnicamente robusta.
 
-Impacto del Sprint en la Visión Global del Proyecto: Este segundo sprint fue clave para convertir los lineamientos estratégicos en resultados concretos. La sinergia del equipo permitió consolidar una versión funcional del sistema, sentando las bases para una futura implementación real en el sector construcción peruano. Se reafirma así la visión de Foundex de liderar procesos de innovación digital a través de soluciones enfocadas en el usuario y sostenibles a largo plazo.
+- **Impacto del Sprint en la Visión Global del Proyecto:** Este segundo sprint fue clave para convertir los lineamientos estratégicos en resultados concretos. La sinergia del equipo permitió consolidar una versión funcional del sistema, sentando las bases para una futura implementación real en el sector construcción peruano. Se reafirma así la visión de Foundex de liderar procesos de innovación digital a través de soluciones enfocadas en el usuario y sostenibles a largo plazo.
 
+- **m:**
+  
+- **mn:**
+  
 
 # Bibliografía
 
