@@ -45,7 +45,7 @@
 
 <hr>
 
-# Registro de Versiones del Informe
+# **Registro de Versiones del Informe**
 
 # 
 
@@ -78,12 +78,10 @@
 </table>
 </body>
 
-# 
-<hr>
-
-# Project Report Collaboration Insights
-
 #
+
+# **Project Report Collaboration Insights**
+
 
 Para realizar el informe de este proyecto, utilizaremos un repositorio llamado “ArquiTech\_ProjectReport” el cual está colocado en nuestra organización llamada “osFoundex” en GitHub. Se puede observar en el siguiente enlace: [https://github.com/Paulu27/ArquiTech\_ProjectReport](https://github.com/Paulu27/ArquiTech_ProjectReport)   
 
@@ -121,176 +119,184 @@ Para la documentación de esta entrega, hemos realizado los commits de nuestras 
 #
 <hr>
 
-# Tabla de Contenidos
+# **Tabla de Contenidos**
 
 #
 
-<details>
-    <summary>Capítulo I: Introducción </summary>    
-        <ul>
-            <li><a href="#11-Startup-Profile">1.1. Startup Profile</a></li>
-	    <ul>
-            <li><a href="#111-Descripción-de-la-Startup">1.1.1. Descripción de la Startup</a></li>
-            <li><a href="#112-Perfiles-de-Integrantes-del-Equipo">1.1.2. Perfiles de Integrantes del Equipo</a></li>
-	    </ul>
-            <li><a href="#12-Solution-Profile">1.2. Solution Profile</a></li>
-	    <ul>
-            <li><a href="#121-Antecedentes-y-Problemática">1.2.1. Antecedentes y Problemática</a></li>
-            <li><a href="#122-Lean-UX-Process">1.2.2. Lean UX Process</a></li>
-		<ul>
-            <li><a href="#1221-Lean-UX-Problem-Statements">1.2.2.1. Lean UX Problem Statements</a></li>
-            <li><a href="#1222-Lean-UX-Assumptions">1.2.2.2. Lean UX Assumptions</a></li>
-            <li><a href="#1223-Lean-UX-Hypothesis-Statements">1.2.2.3. Lean UX Hypothesis Statements</a></li>
-            <li><a href="#1224-Lean-UX-Canvas">1.2.2.4. Lean UX Canvas</a></li>
-		</ul>
-	    </ul>
-            <li><a href="#13-Segmentos-Objetivos">1.3. Segmentos Objetivos</a></li>
-        </ul>    
-</details>
+<a href="#registro-de-versiones-del-informe">Registro de Versiones del Informe</a>
 
-<details>
-    <summary>Capítulo II: Requirements Elicitation & Analysis</summary>
+<a href="#project-report-collaboration-insights">Project Report Collaboration Insights</a>
+
+<a href="#tabla-de-contenidos">Tabla de Contenidos</a>
+
+<a href="#student-outcome">Student Outcome</a>
+
+<a href="#capítulo-i-introducción">Capítulo I: Introducción</a>    
+    	<ul>
+            <a href="#11-startup-profile">1.1. Startup Profile</a><br>
+	    <ul>
+            <a href="#111-descripción-de-la-startup">1.1.1. Descripción de la Startup</a><br>
+            <a href="#112-perfiles-de-integrantes-del-equipo">1.1.2. Perfiles de Integrantes del Equipo</a><br>
+	    </ul>
+            <a href="#12-solution-profile">1.2. Solution Profile</a><br>
+	    <ul>
+            <a href="#121-antecedentes-y-problemática">1.2.1. Antecedentes y Problemática</a><br>
+            <a href="#122-lean-ux-process">1.2.2. Lean UX Process</a><br>
+		<ul>
+            <a href="#1221-lean-ux-problem-statements">1.2.2.1. Lean UX Problem Statements</a><br>
+            <a href="#1222-lean-ux-assumptions">1.2.2.2. Lean UX Assumptions</a><br>
+            <a href="#1223-lean-ux-hypothesis-statements">1.2.2.3. Lean UX Hypothesis Statements</a><br>
+            <a href="#1224-lean-ux-canvas">1.2.2.4. Lean UX Canvas</a><br>
+		</ul>
+	    </ul>
+            <a href="#13-segmentos-objetivos">1.3. Segmentos Objetivos</a><br>
+        </ul>    
+
+
+
+<a href="#capítulo-ii-requirements-elicitation--analysis">Capítulo II: Requirements Elicitation & Analysis</a>
         <ul>
-            <li><a href="#21-competidores">2.1. Competidores</a></li>
+            <a href="#21-competidores">2.1. Competidores</a><br>
 		<ul>
-            <li><a href="#211-Análisis-competitivo">2.1.1. Análisis competitivo</a></li>
-            <li><a href="#212-Estrategias-y-tácticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a></li>
+            <a href="#211-análisis-competitivo">2.1.1. Análisis competitivo</a><br>
+            <a href="#212-estrategias-y-tácticas-frente-a-competidores">2.1.2. Estrategias y tácticas frente a competidores</a><br>
 		</ul>
-            <li><a href="#22-Entrevistas">2.2. Entrevistas</a></li>
+            <a href="#22-entrevistas">2.2. Entrevistas</a><br>
 		<ul>
-            <li><a href="#221-Diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a></li>
-            <li><a href="#222-Registro-de-entrevistas">2.2.2. Registro de entrevistas</a></li>
-            <li><a href="#223-Análisis-de-entrevistas">2.2.3. Análisis de entrevistas</a></li>
+            <a href="#221-diseño-de-entrevistas">2.2.1. Diseño de entrevistas</a><br>
+            <a href="#222-registro-de-entrevistas">2.2.2. Registro de entrevistas</a><br>
+            <a href="#223-análisis-de-entrevistas">2.2.3. Análisis de entrevistas</a><br>
 		</ul>
-            <li><a href="#23-Needfinding">2.3. Needfinding</a></li>
+            <a href="#23-needfinding">2.3. Needfinding</a><br>
 		<ul>
-            <li><a href="#231-User-Personas">2.3.1. User Personas</a></li>
-            <li><a href="#232-User-Task-Matrix">2.3.2. User Task Matrix</a></li>
-            <li><a href="#233-User-Journey-Mapping">2.3.3. User Journey Mapping</a></li>
-            <li><a href="#234-Empathy-Mapping">2.3.4. Empathy Mapping</a></li>
-            <li><a href="#235-As-is-Scenario-Mapping">2.3.5. As-is Scenario Mapping</a></li>
+            <a href="#231-user-personas">2.3.1. User Personas</a><br>
+            <a href="#232-user-task-matrix">2.3.2. User Task Matrix</a><br>
+            <a href="#233-user-journey-mapping">2.3.3. User Journey Mapping</a><br>
+            <a href="#234-empathy-mapping">2.3.4. Empathy Mapping</a><br>
+            <a href="#235-as-is-scenario-mapping">2.3.5. As-is Scenario Mapping</a><br>
 		</ul>
-            <li><a href="#24-Ubiquitous-Language">2.4. Ubiquitous Language</a></li>
+            <a href="#24-ubiquitous-language">2.4. Ubiquitous Language</a><br>
         </ul>   
-</details>
 
-<details>
-    <summary>Capítulo III: Requirements Specification </summary>
+<a href="#capítulo-iii-requirements-specification">Capítulo III: Requirements Specification </a>
         <ul>
-            <li><a href="#31-To-Be-Scenario-Mapping">3.1. To-Be Scenario Mapping</a></li>
-            <li><a href="#32-User-Stories">3.2. User Stories</a></li>
-            <li><a href="#33-Impact-Mapping">3.3. Impact Mapping</a></li>
-            <li><a href="#34-Product-Backlog">3.4. Product Backlog</a></li>
+            <a href="#31-to-be-scenario-mapping">3.1. To-Be Scenario Mapping</a><br>
+            <a href="#32-user-stories">3.2. User Stories</a><br>
+            <a href="#33-impact-mapping">3.3. Impact Mapping</a><br>
+            <a href="#34-product-backlog">3.4. Product Backlog</a><br>
         </ul>    
-</details>
 
-<details>
-    <summary>Capítulo IV: Product Design </summary>
+<a href="#capítulo-iv-product-design">Capítulo IV: Product Design </a>
         <ul>
-            <li><a href="#41-Style-Guidelines">4.1. Style Guidelines</a></li>
+            <a href="#41-style-guidelines">4.1. Style Guidelines</a><br>
 		<ul>
-            <li><a href="#411-General-Style-Guidelines">4.1.1. General Style Guidelines</a></li>
-            <li><a href="#412-Web-Style-Guidelines">4.1.2. Web Style Guidelines</a></li>
+            <a href="#411-general-style-guidelines">4.1.1. General Style Guidelines</a><br>
+            <a href="#412-web-style-guidelines">4.1.2. Web Style Guidelines</a><br>
 		</ul>
-            <li><a href="#42-Information-Architecture">4.2. Information Architecture</a></li>
+            <a href="#42-information-architecture">4.2. Information Architecture</a><br>
 		<ul>
-            <li><a href="#421-Organization-Systems">4.2.1. Organization Systems</a></li>
-            <li><a href="#422-Labeling-Systems">4.2.2. Labeling Systems</a></li>
-            <li><a href="#423-SEO-Tags-and-Meta-Tags">4.2.3. SEO Tags and Meta Tags</a></li>
-            <li><a href="#424-Searching-Systems">4.2.4. Searching Systems</a></li>
-            <li><a href="#425-Navigation-Systems">4.2.5. Navigation Systems</a></li>
+            <a href="#421-organization-systems">4.2.1. Organization Systems</a><br>
+            <a href="#422-labeling-systems">4.2.2. Labeling Systems</a><br>
+            <a href="#423-seo-tags-and-meta-tags">4.2.3. SEO Tags and Meta Tags</a><br>
+            <a href="#424-searching-systems">4.2.4. Searching Systems</a><br>
+            <a href="#425-navigation-systems">4.2.5. Navigation Systems</a><br>
 		</ul>
-            <li><a href="#43-Landing-Page-UI-Design">4.3. Landing Page UI Design</a></li>
+            <a href="#43-landing-page-ui-design">4.3. Landing Page UI Design</a><br>
 		<ul>
-            <li><a href="#431-Landing-Page-Wireframe">4.3.1. Landing Page Wireframe</a></li>
-            <li><a href="#432-Landing-Page-Mock-up">4.3.2. Landing Page Mock-up</a></li>
+            <a href="#431-landing-page-wireframe">4.3.1. Landing Page Wireframe</a><br>
+            <a href="#432-landing-page-mock-up">4.3.2. Landing Page Mock-up</a><br>
 		</ul>
-            <li><a href="#44-Web-Applications-UXUI-Design">4.4. Web Applications UX/UI Design</a></li>
+            <a href="#44-web-applications-uxui-design">4.4. Web Applications UX/UI Design</a><br>
 		<ul>
-            <li><a href="#441-Web-Applications-Wireframes">4.4.1. Web Applications Wireframes</a></li>
-            <li><a href="#442-Web-Applications-Wireflow-Diagrams">4.4.2. Web Applications Wireflow Diagrams</a></li>
-            <li><a href="#443-Web-Applications-Mock-ups">4.4.3. Web Applications Mock-ups</a></li>
-            <li><a href="#444-Web-Applications-User-Flow-Diagrams">4.4.4. Web Applications User Flow Diagrams</a></li>
+            <a href="#441-web-applications-wireframes">4.4.1. Web Applications Wireframes</a><br>
+            <a href="#442-web-applications-wire-diagrams">4.4.2. Web Applications Wireflow Diagrams</a><br>
+            <a href="#443-web-applications-mock-ups">4.4.3. Web Applications Mock-ups</a><br>
+            <a href="#444-web-applications-user-flow-diagrams">4.4.4. Web Applications User Flow Diagrams</a><br>
 		</ul>
-            <li><a href="#45-Web-Applications-Prototyping">4.5. Web Applications Prototyping</a></li>
-            <li><a href="#46-Domain-Driven-Software-Architecture">4.6. Domain-Driven Software Architecture</a></li>
+            <a href="#45-web-applications-prototyping">4.5. Web Applications Prototyping</a><br>
+            <a href="#46-domain-driven-software-architecture">4.6. Domain-Driven Software Architecture</a><br>
 		<ul>
-            <li><a href="#461-Software-Architecture-Context-Diagrams">4.6.1. Software Architecture Context Diagrams</a></li>
-            <li><a href="#462-Software-Architecture-Container-Diagrams">4.6.2. Software Architecture Container Diagrams</a></li>
-            <li><a href="#463-Software-Architecture-Components-Diagrams">4.6.3. Software Architecture Components Diagrams</a></li>
+            <a href="#461-software-architecture-context-diagrams">4.6.1. Software Architecture Context Diagrams</a><br>
+            <a href="#462-software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams</a><br>
+            <a href="#463-software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams</a><br>
 		</ul>
-            <li><a href="#47-Software-Object-Oriented-Design">4.7. Software Object-Oriented Design</a></li>
+            <a href="#47-software-object-oriented-design">4.7. Software Object-Oriented Design</a><br>
 		<ul>
-            <li><a href="#471-Class-Diagrams">4.7.1. Class Diagrams</a></li>
-            <li><a href="#472-Class-Dictionary">4.7.2. Class Dictionary</a></li>
+            <a href="#471-class-diagrams">4.7.1. Class Diagrams</a><br>
+            <a href="#472-class-dictionary">4.7.2. Class Dictionary</a><br>
 		</ul>
-            <li><a href="#48-Database-Design">4.8. Database Design</a></li>
+            <a href="#48-database-design">4.8. Database Design</a><br>
 		<ul>
-            <li><a href="#481-Database-Diagram">4.8.1. Database Diagram</a></li>
+            <a href="#481-database-diagram">4.8.1. Database Diagram</a><br>
 		</ul>
         </ul>    
-</details>
 
-<details>
-    <summary>Capítulo V: Product Implementation, Validation & Deployment </summary>
+<a href="#capítulo-v-product-implementation-validation--deployment">Capítulo V: Product Implementation, Validation & Deployment </a>
         <ul>
-            <li><a href="#51-software-configuration-management">5.1. Software Configuration Management</a></li>
+            <a href="#51-software-configuration-management">5.1. Software Configuration Management</a><br>
 	<ul>
-            <li><a href="#511-software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a></li>
-            <li><a href="#512-source-code-management">5.1.2. Source Code Management</a></li>
-            <li><a href="#513-source-code-style-guide-&-conventions">5.1.3. Source Code Style Guide & Conventions</a></li>
-            <li><a href="#514-software-deployment-configuration">5.1.4. Software Deployment Configuration</a></li>
+            <a href="#511-software-development-environment-configuration">5.1.1. Software Development Environment Configuration</a><br>
+            <a href="#512-source-code-management">5.1.2. Source Code Management</a><br>
+            <a href="#513-source-code-style-guide-&-conventions">5.1.3. Source Code Style Guide & Conventions</a><br>
+            <a href="#514-software-deployment-configuration">5.1.4. Software Deployment Configuration</a><br>
 	</ul>
-            <li><a href="#52-landing-page,-services-&-applications-implementation">5.2. Landing Page, Services & Applications Implementation</a></li>
+            <a href="#52-landing-page-services--applications-implementation">5.2. Landing Page, Services & Applications Implementation</a><br>
 		<ul>
-            <li><a href="#521-sprint-1">5.2.1. Sprint 1</a></li>
+            <a href="#521-sprint-1">5.2.1. Sprint 1</a><br>
 			<ul>
-            <li><a href="#5211-sprint-planning-1">5.2.1.1. Sprint Planning 1</a></li>
-            <li><a href="#5212-aspect-leaders-and-collaborators">5.2.1.2. Aspect Leaders and Collaborators</a></li>
-            <li><a href="#5213-sprint-backlog-1">5.2.1.3. Sprint Backlog 1</a></li>
-            <li><a href="#5214-development-evidence-for-sprint-review">5.2.1.4. Development Evidence for Sprint Review</a></li>
-            <li><a href="#5215-execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a></li>
-            <li><a href="#5216-software-deployment-evidence-for-sprint-review">5.2.1.6. Software Deployment Evidence for Sprint Review</a></li>
-            <li><a href="#5217-team-collaboration-insights-during-sprint">5.2.1.7. Team Collaboration Insights during Sprint</a></li>
+            <a href="#5211-sprint-planning-1">5.2.1.1. Sprint Planning 1</a><br>
+            <a href="#5212-aspect-leaders-and-collaborators">5.2.1.2. Aspect Leaders and Collaborators</a><br>
+            <a href="#5213-sprint-backlog-1">5.2.1.3. Sprint Backlog 1</a><br>
+            <a href="#5214-development-evidence-for-sprint-review">5.2.1.4. Development Evidence for Sprint Review</a><br>
+            <a href="#5215-execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review</a><br>
+            <a href="#5216-software-deployment-evidence-for-sprint-review">5.2.1.6. Software Deployment Evidence for Sprint Review</a><br>
+            <a href="#5217-team-collaboration-insights-during-sprint">5.2.1.7. Team Collaboration Insights during Sprint</a><br>
 			</ul>
-	    <li><a href="#522-sprint-2">5.2.2. Sprint 2</a></li>
+	    <a href="#522-sprint-2">5.2.2. Sprint 2</a><br>
 			<ul>
-            <li><a href="#5221-sprint-planning-2">5.2.2.1. Sprint Planning 2</a></li>
-            <li><a href="#5222-aspect-leaders-and-collaborators">5.2.2.2. Aspect Leaders and Collaborators</a></li>
-            <li><a href="#5223-sprint-backlog-2">5.2.2.3. Sprint Backlog 2</a></li>
-            <li><a href="#5224-development-evidence-for-sprint-review">5.2.2.4. Development Evidence for Sprint Review</a></li>
-            <li><a href="#5225-execution-evidence-for-sprint-review">5.2.2.5. Execution Evidence for Sprint Review</a></li>
-            <li><a href="#5226-services-documentation-evidence-for-sprint-review">5.2.2.6. Services Documentation Evidence for Sprint Review</a></li>
-            <li><a href="#5227-software-deployment-evidence-for-sprint-review">5.2.2.7. Software Deployment Evidence for Sprint Review</a></li>
-            <li><a href="#5228-team-collaboration-insights-during-sprint">5.2.2.8. Team Collaboration Insights during Sprint</a></li>
+            <a href="#5221-sprint-planning-2">5.2.2.1. Sprint Planning 2</a><br>
+            <a href="#5222-aspect-leaders-and-collaborators">5.2.2.2. Aspect Leaders and Collaborators</a><br>
+            <a href="#5223-sprint-backlog-2">5.2.2.3. Sprint Backlog 2</a><br>
+            <a href="#5224-development-evidence-for-sprint-review">5.2.2.4. Development Evidence for Sprint Review</a><br>
+            <a href="#5225-execution-evidence-for-sprint-review">5.2.2.5. Execution Evidence for Sprint Review</a><br>
+            <a href="#5226-services-documentation-evidence-for-sprint-review">5.2.2.6. Services Documentation Evidence for Sprint Review</a><br>
+            <a href="#5227-software-deployment-evidence-for-sprint-review">5.2.2.7. Software Deployment Evidence for Sprint Review</a><br>
+            <a href="#5228-team-collaboration-insights-during-sprint">5.2.2.8. Team Collaboration Insights during Sprint</a><br>
 			</ul>
-	    <li><a href="#523-sprint-3">5.2.3. Sprint 3</a></li>
+	    <a href="#523-sprint-3">5.2.3. Sprint 3</a><br>
 			<ul>
-            <li><a href="#5231-sprint-planning-2">5.2.3.1. Sprint Planning 3</a></li>
-            <li><a href="#5232-aspect-leaders-and-collaborators">5.2.3.2. Aspect Leaders and Collaborators</a></li>
-            <li><a href="#5233-sprint-backlog-2">5.2.3.3. Sprint Backlog 3</a></li>
-            <li><a href="#5234-development-evidence-for-sprint-review">5.2.3.4. Development Evidence for Sprint Review</a></li>
-            <li><a href="#5235-execution-evidence-for-sprint-review">5.2.3.5. Execution Evidence for Sprint Review</a></li>
-            <li><a href="#5236-services-documentation-evidence-for-sprint-review">5.2.3.6. Services Documentation Evidence for Sprint Review</a></li>
-            <li><a href="#5237-software-deployment-evidence-for-sprint-review">5.2.3.7. Software Deployment Evidence for Sprint Review</a></li>
-            <li><a href="#5238-team-collaboration-insights-during-sprint">5.2.3.8. Team Collaboration Insights during Sprint</a></li>	
-			</ul>
-		</ul>
-            <li><a href="#53-validation-interviews">5.3. Validation Interviews.</a></li>
-		<ul>
-            <li><a href="#531-diseño-de-entrevistas">5.3.1. Diseño de Entrevistas.</a></li>
-            <li><a href="#532-registro-de-entrevistas">5.3.2. Registro de Entrevistas.</a></li>
-            <li><a href="#533-evaluaciones-según-heurísticas">5.3.3. Evaluaciones según heurísticas.</a></li>
-		</ul>
-            <li><a href="#54-video-about-the-product">5.4. Video About-the-Product.</a></li>
-        </ul>        
-</details>
+            <a href="#5231-sprint-planning-2">5.2.3.1. Sprint Planning 3</a><br>
+            <a href="#5232-aspect-leaders-and-collaborators">5.2.3.2. Aspect Leaders and Collaborators</a><br>
+            <a href="#5233-sprint-backlog-3">5.2.3.3. Sprint Backlog 3</a><br>
+            <a href="#5234-development-evidence-for-sprint-review">5.2.3.4. Development Evidence for Sprint Review</a><br>
+            <a href="#5235-execution-evidence-for-sprint-review">5.2.3.5. Execution Evidence for Sprint Review</a><br>
+            <a href="#5236-services-documentation-evidence-for-sprint-review">5.2.3.6. Services Documentation Evidence for Sprint Review</a><br>
+        <a href="#5237-software-deployment-evidence-for-sprint-review">5.2.3.7. Software Deployment Evidence for Sprint Review</a>
+<br>
+<a href="#5238-team-collaboration-insights-during-sprint">5.2.3.8. Team Collaboration Insights during Sprint</a>
+
+</ul>
+</ul>
+<a href="#53-validation-interviews">5.3. Validation Interviews.</a>
+<ul>
+<a href="#531-diseño-de-entrevistas">5.3.1. Diseño de Entrevistas.</a><br>
+<a href="#532-registro-de-entrevistas">5.3.2. Registro de Entrevistas.</a><br>
+<a href="#533-evaluaciones-según-heurísticas">5.3.3. Evaluaciones según heurísticas.</a>
+</ul>
+<a href="#54-video-about-the-product">5.4. Video About-the-Product.</a>
+</ul>        
+
+<a href="#conclusiones">Conclusiones</a>
+<ul><a href="#video-about-the-team">Video About the team</a></ul>
+
+<a href="#bibliografía">Bibliografía</a>
+
+<a href="#anexos">Anexos</a>
 
 <hr>
 
-# Student Outcome
+# **Student Outcome**
 
-# 
 
 El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 3**  
 **Criterio:** *Capacidad de comunicarse efectivamente con un rango de audiencias.*   
@@ -407,11 +413,11 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 
 <hr>
 
-# Capítulo I: Introducción 
+# **Capítulo I: Introducción** 
 
-## 1.1. Startup Profile
+## **1.1. Startup Profile**
 
-### *1.1.1. Descripción de la Startup*
+### ***1.1.1. Descripción de la Startup***
 
 Foundex es una startup impulsada por jóvenes universitarios de la Universidad Peruana de Ciencias Aplicadas (UPC) dedicada a permitir gestionar eficientemente proyectos de construcción para pequeñas y medianas empresas constructoras, asimismo, para trabajadores administrativos. A través de nuestra herramienta digital, ArquiTech, se podrá realizar solicitudes de servicios tanto como el monitoreo de avances y gastos de las construcciones.  
 Nuestro objetivo es facilitar la administración y mejorar la transparencia de los procesos constructivos. Los principales procesos que gestionamos son: la administración de trabajadores, la gestión de materiales, el control de presupuestos, control del tiempo de ejecución de la obra y el seguimiento en tiempo real del progreso de cada proyecto.   
@@ -419,7 +425,7 @@ En Foundex, creemos que  es fundamental agilizar los procesos de construcción p
 **Misión:** Brindar soluciones digitales innovadoras que ayuden a optimizar la gestión de proyectos de construcción en pequeñas y medianas empresas. Esto facilita la administración de recursos, el seguimiento de avances, el control de gastos y otros procesos más con la finalidad de impulsar la eficiencia, la transparencia y la toma de decisiones estratégicas en el sector de construcción.   
 **Visión:** Ser la plataforma líder en Latinoamérica en la digitalización de procesos constructivos para pequeñas y medianas empresas, transformando la manera en que se gestionan las obras mediante tecnología accesible, eficaz y enfocada en las necesidades de nuestros usuarios.
 
-### *1.1.2. Perfiles de Integrantes del Equipo*
+### ***1.1.2. Perfiles de Integrantes del Equipo***
 
 **Figura 4**
 
@@ -465,9 +471,9 @@ En Foundex, creemos que  es fundamental agilizar los procesos de construcción p
 
 *Nota.* Elaboración propia.  
 
-## 1.2. Solution Profile
+## **1.2. Solution Profile**
 
-### *1.2.1. Antecedentes y problemática*
+### ***1.2.1. Antecedentes y problemática***
 
 En el contexto actual del sector construcción en Lima Metropolitana, muchas pequeñas y medianas empresas enfrentan dificultades al momento de administrar sus proyectos de forma eficiente. La mayoría de estos procesos, como la gestión de materiales, personal, presupuestos y avances de obra, aún se realizan de manera manual o a través de herramientas poco integradas, como hojas de cálculo, notas físicas o mensajería informal, lo que genera desorganización, pérdida de información y errores costosos.
  
@@ -504,9 +510,9 @@ Se manifiesta mediante la falta de control en el inventario, errores en la asist
 La gravedad radica en que estas deficiencias pueden representar pérdidas económicas importantes: retrasos que extienden la duración de la obra, compras innecesarias por mal control de materiales, baja productividad del personal, y descontento del cliente. Además, las soluciones existentes en el mercado como Procore o Buildertrend, aunque completas, son financieramente inaccesibles para estas empresas (costos desde $95 hasta $370 mensuales), lo que deja un vacío en el mercado que nuestra solución puede cubrir.
 
 
-### *1.2.2. Lean UX Process*
+### ***1.2.2. Lean UX Process***
 
-#### 1.2.2.1. Lean UX Problem Statements
+#### **1.2.2.1. Lean UX Problem Statements**
 
 * Nuestra solución digital ha sido desarrollada pensando en brindar a las pequeñas y medianas empresas del sector construcción, así como a su personal administrativo, una herramienta eficaz para gestionar sus obras. Desde la solicitud de servicios hasta el control del progreso y los gastos, la plataforma busca simplificar la administración y promover una mayor claridad en cada etapa del proceso constructivo.
 
@@ -525,7 +531,7 @@ La gravedad radica en que estas deficiencias pueden representar pérdidas econó
 * ¿De qué forma podemos diseñar una plataforma que se adapte a distintos niveles de habilidad tecnológica, que sea accesible tanto para empresas con mayor experiencia como para aquellas que recién están empezando, y que puedan aprovechar sus beneficios sin necesidad de invertir demasiado tiempo en aprender a utilizarla?
 
 
-#### 1.2.2.2. Lean UX Assumptions
+#### **1.2.2.2. Lean UX Assumptions**
 
 **Assumptions worksheet**
 
@@ -559,12 +565,12 @@ La gravedad radica en que estas deficiencias pueden representar pérdidas econó
 * **¿Cómo debe verse nuestro producto y cómo comportarse?**  
 	* La interfaz de nuestro producto debe ser intuitiva y resposive con un diseño que transmita confianza y profesionalismo y que sea de respuesta rápida.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements
+#### **1.2.2.3. Lean UX Hypothesis Statements**
 * Creemos que ofrecer una plataforma web centralizada para supervisores y asistentes administrativos que integre la gestión de inventario, personal y obreros resultará en una reducción del tiempo dedicado a tareas administrativas, y lo sabremos porque el tiempo promedio para generar reportes diarios disminuirá de 60 minutos a 15 minutos en las primeras cuatro semanas de uso.  
 * Creemos que proporcionar un modo offline que sincronice datos de inventario y asistencia una vez conectado para supervisores en obras sin internet resultará en un uso continuo en entornos remotos, y lo sabremos porque el 90% de las actualizaciones offline se sincronizará correctamente en las primeras 24 horas.  
 * Creemos que proporcionar un onboarding interactivo con videos cortos para supervisores y asistentes resultará en una curva de aprendizaje más corta, y lo sabremos porque el 75% de los nuevos usuarios realizarán al menos tres acciones clave (registrar asistencia, actualizar inventario, generar reporte) en su primera semana.
 
-#### 1.2.2.4. Lean UX Canvas
+#### **1.2.2.4. Lean UX Canvas**
 
 **Figura 9**  
 *Lean UX Canvas*  
@@ -574,7 +580,7 @@ La gravedad radica en que estas deficiencias pueden representar pérdidas econó
 
 *Nota.* Elaboración propia.  
 
-## 1.3. Segmentos Objetivos
+## **1.3. Segmentos Objetivos**
 
 <ins>**Segmento objetivo #1: Supervisores de obra**</ins>  
 
@@ -596,7 +602,7 @@ Edad: Entre 34 y 45 años, con una media de de 39 años
 Nivel socioeconómico: Clase media-alta  
 Desafíos: Necesitan obras terminadas a tiempo para evitar interrupciones en sus operaciones o pérdidas económicas. Esperan que todo esté en regla: licencias, seguros, normas de construcción y seguridad laboral.
 
-# Capítulo II: Requirements Elicitation & Analysis
+# **Capítulo II: Requirements Elicitation & Analysis**
 
 ## 2.1. Competidores
 
@@ -613,14 +619,14 @@ Desafíos: Necesitan obras terminadas a tiempo para evitar interrupciones en sus
 </tr>
 <tr class="c12">
 <td class="c20" colspan="2" rowspan="1"><p>Nombre</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>BuildTruck</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>ArquiTech</p></td>
 <td class="c1" colspan="1" rowspan="1"><p></p><p>Procore</p><p></p></td>
 <td class="c1" colspan="1" rowspan="1"><p>BuilderTrend</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>BuildWise</p></td>
 </tr>
 <tr class="c12">
 <td class="c20" colspan="2" rowspan="1"><p>Logo</p></td>
-<td class="c7" colspan="1" rowspan="1"><p><img src="images/A-logo.png" alt="BuildTruck Logo" width="94" height="94"></p></td>
+<td class="c7" colspan="1" rowspan="1"><p><img src="images/A-logo.png" alt="ArquiTech Logo" width="94" height="94"></p></td>
 <td class="c1" colspan="1" rowspan="1"><p><img src="images/ProcoreLogo.png" alt="Procore Logo" width="91" height="31"></p></td>
 <td class="c1" colspan="1" rowspan="1"><p><img src="images/BuildertrendLogo.png" alt="BuilderTrend Logo" width="88" height="31"></p></td>
 <td class="c9" colspan="1" rowspan="1"><p><img src="images/BuildwiseLogo.png" alt="BuildWise Logo" width="85" height="20"></p></td>
@@ -628,7 +634,7 @@ Desafíos: Necesitan obras terminadas a tiempo para evitar interrupciones en sus
 <tr class="c18">
 <td class="c11" colspan="1" rowspan="2"><p>Perfil</p></td>
 <td class="c6" colspan="1" rowspan="1"><p>Overview</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>BuildTruck es una plataforma digital integral que permite a constructoras y equipos administrativos gestionar con eficiencia sus proyectos. Se basa en la optimización de procesos, brindando herramientas que les permita tomar decisiones informadas.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>ArquiTech es una plataforma digital integral que permite a constructoras y equipos administrativos gestionar con eficiencia sus proyectos. Se basa en la optimización de procesos, brindando herramientas que les permita tomar decisiones informadas.</p></td>
 <td class="c1" colspan="1" rowspan="1"><p>Procore es una plataforma que impulsa las construcciones basadas en datos para permitir que los clientes posean una visión completa de sus proyectos en distintas escalas, pero más aún para las grandes constructoras.</p></td>
 <td class="c1" colspan="1" rowspan="1"><p>BuilderTrend es una empresa de software de gestión de construcción residencial y remodelación. Us```markdown
 Usan herramientas de planificación, presupuestos y CRM, para gestionar eficientemente los negocios.
@@ -1155,7 +1161,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 | Onboarding | Introducción / Capacitación inicial | Proceso mediante el cual nuevos usuarios aprenden a usar la plataforma por medio de videos y tutoriales guiados. |
 
 
-# Capítulo III: Requirements Specification
+# **Capítulo III: Requirements Specification**
 
 #
 
@@ -1230,7 +1236,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 *Nota*. Elaboración propia. Realizado en [https://bit.ly/44AMcUs](https://bit.ly/44AMcUs)   
 
 
-## 3.2. User Stories
+## **3.2. User Stories**
 
 
 | EPIC ID | Descripción de la Épica |
@@ -1246,11 +1252,11 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 <p></p>
 <table class="c4">
 <tr class="c22">
-<td class="c16" colspan="1" rowspan="1"><p>Epic / Story ID</p></td>
-<td class="c13" colspan="1" rowspan="1"><p>Título</p></td>
-<td class="c15" colspan="1" rowspan="1"><p>Descripción</p></td>
-<td class="c19" colspan="1" rowspan="1"><p>Criterios de Aceptación</p></td>
-<td class="c11" colspan="1" rowspan="1"><p>Relacionado con (Epic ID)</p></td>
+<td class="c16" colspan="1" rowspan="1"><p><strong>Epic / Story ID</strong></p></td>
+<td class="c13" colspan="1" rowspan="1"><p><strong>Título</strong></p></td>
+<td class="c15" colspan="1" rowspan="1"><p><strong>Descripción</strong></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><strong>Criterios de Aceptación</strong></p></td>
+<td class="c11" colspan="1" rowspan="1"><p><strong>Relacionado con (Epic ID)</strong></p></td>
 </tr>
 <tr class="c1">
 <td class="c16" colspan="1" rowspan="1"><p>EP01/HU01</p></td>
@@ -1267,13 +1273,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 <td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Registrar uso de material con éxito</b></u></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra y tengo un inventario con 500 kg de cemento.</p><p><b>When</b>: Registro el uso de 200 kg de cemento para el día actual.</p><p><b>Then</b>: El sistema reduce el inventario a 300 kg y registra la transacción de uso con la fecha actual.</p><p><u><b>Escenario 2: Intentar registrar uso mayor al stock disponible</b></u></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra y tengo un inventario con 100 kg de cemento.</p><p><b>When</b>: Intento registrar el uso de 150 kg de cemento.</p><p><b>Then</b>: El sistema muestra un error indicando que no hay suficiente stock y no actualiza el inventario.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
 </tr>
-<tr class="c1">
-<td class="c16" colspan="1" rowspan="1"><p>EP01/HU03</p></td>
-<td class="c13" colspan="1" rowspan="1"><p>Recibir Alertas de Bajo Nivel de Inventario</p><p></p></td>
-<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero recibir alertas cuando el inventario esté bajo, para reabastecer a tiempo y evitar retrasos.</p><p></p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Recibir alerta de bajo nivel de material</b></u></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra, y el inventario tiene 150 kg de cemento con un nivel mínimo de 100 kg.</p><p><b>When</b>: Registro el uso de 60 kg de cemento, reduciendo el stock a 90 kg.</p><p><b>Then</b>: El sistema me envía una notificación indicando que el cemento está por debajo del nivel mínimo (90 kg < 100 kg).</p><p><u><b>Escenario 2: No recibir alerta si el nivel es suficiente</b></u></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra, y el inventario tiene 150 kg de cemento con un nivel mínimo de 100 kg.</p><p><b>When</b>: Registro el uso de 20 kg de cemento, reduciendo el stock a 130 kg.</p><p><b>Then</b>: El sistema no envía ninguna notificación, ya que el stock (130 kg) está por encima del nivel mínimo.</p></td>
-<td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
-</tr>
+
 <tr class="c1">
 <td class="c16" colspan="1" rowspan="1"><p>EP01/HU04</p></td>
 <td class="c13" colspan="1" rowspan="1"><p>Consultar Historial de Transacciones de Inventario</p><p></p></td>
@@ -1303,13 +1303,6 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 <td class="c11" colspan="1" rowspan="1"><p>EP02</p></td>
 </tr>
 <tr class="c1">
-<td class="c16" colspan="1" rowspan="1"><p>EP02/HU08</p></td>
-<td class="c13" colspan="1" rowspan="1"><p>Control de Asistencia</p></td>
-<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero llevar el control de asistencia diaria de los trabajadores en obra, para contar con un registro confiable que respalde pagos y evaluaciones.</p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Registro diario de asistencia de trabajadores</b></u></p><p><b>Given</b>: El supervisor de obra accede a la sección control de asistencia.</p><p><b>When</b>: Completa los datos de la asistencia de los trabajadores al inicio del trabajo.</p><p><b>Then</b>: El sistema guarda el registro con fecha y hora de llegada.</p><p><u><b>Escenario 2: Justificación de ausencia de un trabajador</b></u></p><p><b>Given</b>: Un trabajador no asistió y se debe justificar la ausencia.</p><p><b>When</b>: El supervisor de obra selecciona al trabajador que faltó y añade una observación.</p><p><b>Then</b>: El sistema registra la ausencia como justificada y almacena la observación.</p></td>
-<td class="c11" colspan="1" rowspan="1"><p>EP02</p></td>
-</tr>
-<tr class="c1">
 <td class="c16" colspan="1" rowspan="1"><p>EP06/HU09</p></td>
 <td class="c13" colspan="1" rowspan="1"><p>Ingresar un Nuevo Proyecto</p><p></p></td>
 <td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero ingresar un nuevo proyecto, para planificar y gestionar todas las actividades relacionadas con la obra.</p><p></p></td>
@@ -1325,37 +1318,37 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 </tr>
 <tr class="c1">
 <td class="c16" colspan="1" rowspan="1"><p>EP05/HU11</p></td>
-<td class="c13" colspan="1" rowspan="1"><p>Ver descripción de BuildTruck</p></td>
-<td class="c15" colspan="1" rowspan="1"><p>Como contratante de empresa privada, quiero leer una descripción clara de BuildTruck para entender sus beneficios.</p><p></p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Descripción visible</b></p></u><p><b>Given</b> que soy un contratante de empresa privada y me encuentro en del sitio web de BuildTruck,</p><p><b>When</b> navego hacia abajo en la sección de inicio,</p><p><b>Then</b> se presenta una descripción clara de BuildTruck.</p><p><u><b>Escenario 2: Contenido actualizado</b></u></p><p><b>Given</b> que el contenido se actualiza,</p><p><b>When</b> accedo al sitio web,</p><p><b>Then</b> se muestra la versión más reciente.</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Ver descripción de ArquiTech</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como contratante de empresa privada, quiero leer una descripción clara de ArquiTech para entender sus beneficios.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Descripción visible</b></p></u><p><b>Given</b> que soy un contratante de empresa privada y me encuentro en del sitio web de ArquiTech,</p><p><b>When</b> navego hacia abajo en la sección de inicio,</p><p><b>Then</b> se presenta una descripción clara de ArquiTech.</p><p><u><b>Escenario 2: Contenido actualizado</b></u></p><p><b>Given</b> que el contenido se actualiza,</p><p><b>When</b> accedo al sitio web,</p><p><b>Then</b> se muestra la versión más reciente.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP05</p></td>
 </tr>
 <tr class="c1">
 <td class="c16" colspan="1" rowspan="1"><p>EP05/HU12</p></td>
-<td class="c13" colspan="1" rowspan="1"><p>Contactar al equipo de BuildTruck para contratar el servicio</p></td>
-<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero contactarme con el equipo de BuildTruck para poder tener más información y contratar el servicio.</p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Ir a la sección contacto con un boton</b></u></p><p><b>Given</b> que estoy en la página web de BuildTruck,</p><p><b>When</b> le doy clic al botón que dice “Contacto” en la barra superior al lado derecho,</p><p><b>Then</b> la página se desplazará automáticamente hasta esa sección.</p><p></p><p><b>Escenario 2: Solicitud exitosa con campos completos</b></p><p></p><p><b>Given</b> que estoy en el sitio web de BuildTruck y estoy en la sección "Contacto" de la landing page,</p><p></p><p><b>When</b> completo el formulario que aparece con todos mis datos solicitados obligatorios (nombres, apellidos, email, número telefónico), y presiono el botón "Enviar",</p><p></p><p><b>Then</b> recibo un mensaje de confirmación en la pantalla que dice "Solicitud enviada. Te contactaremos pronto."</p><p><u><b>Escenario 2: Solicitud Fallida por Campo de Email Inválido</b></u></p><p><b>Given</b> que estoy en el sitio web de BuildTruck y estoy en la sección "Contacto" de la landing page,</p><p><b>When</b> relleno el formulario, pero dejo un campo obligatorio vacío o con el tipo de dato equivocado y presiono el botón "Enviar",</p><p><b>Then</b> el formulario mostrará un mensaje de error que indique que falta completar un campo solicitado.</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Contactar al equipo de ArquiTech para contratar el servicio</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero contactarme con el equipo de ArquiTech para poder tener más información y contratar el servicio.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Ir a la sección contacto con un boton</b></u></p><p><b>Given</b> que estoy en la página web de ArquiTech,</p><p><b>When</b> le doy clic al botón que dice “Contacto” en la barra superior al lado derecho,</p><p><b>Then</b> la página se desplazará automáticamente hasta esa sección.</p><p></p><p><b>Escenario 2: Solicitud exitosa con campos completos</b></p><p></p><p><b>Given</b> que estoy en el sitio web de ArquiTech y estoy en la sección "Contacto" de la landing page,</p><p></p><p><b>When</b> completo el formulario que aparece con todos mis datos solicitados obligatorios (nombres, apellidos, email, número telefónico), y presiono el botón "Enviar",</p><p></p><p><b>Then</b> recibo un mensaje de confirmación en la pantalla que dice "Solicitud enviada. Te contactaremos pronto."</p><p><u><b>Escenario 2: Solicitud Fallida por Campo de Email Inválido</b></u></p><p><b>Given</b> que estoy en el sitio web de ArquiTech y estoy en la sección "Contacto" de la landing page,</p><p><b>When</b> relleno el formulario, pero dejo un campo obligatorio vacío o con el tipo de dato equivocado y presiono el botón "Enviar",</p><p><b>Then</b> el formulario mostrará un mensaje de error que indique que falta completar un campo solicitado.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP05</p></td>
 </tr>
 <tr class="c1">
 <td class="c16" colspan="1" rowspan="1"><p>EP05/HU13</p></td>
 <td class="c13" colspan="1" rowspan="1"><p>Explorar beneficios</p></td>
-<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero explorar los beneficios de BuildTruck en la landing page, para entender cómo puede ayudarme a gestionar mejor mis proyectos y ahorrar tiempo.</p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Navegar a la sección de beneficios y leer detalles</b></u></p><p><b>Given</b> que estoy en la página principal de BuildTruck</p><p><b>When</b> desplazo hacia abajo hasta encontrar la sección "Beneficios" y hago clic en el botón "Ver Más Beneficios".</p><p><b>Then</b> se despliega una sección detallada donde leo cómo BuildTruck automatiza la gestión de inventario y asistencia, con ejemplos de reportes en tiempo real.</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero explorar los beneficios de ArquiTech en la landing page, para entender cómo puede ayudarme a gestionar mejor mis proyectos y ahorrar tiempo.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Navegar a la sección de beneficios y leer detalles</b></u></p><p><b>Given</b> que estoy en la página principal de ArquiTech</p><p><b>When</b> desplazo hacia abajo hasta encontrar la sección "Beneficios" y hago clic en el botón "Ver Más Beneficios".</p><p><b>Then</b> se despliega una sección detallada donde leo cómo ArquiTech automatiza la gestión de inventario y asistencia, con ejemplos de reportes en tiempo real.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP05</p></td>
 </tr>
 <tr class="c1">
 <td class="c16" colspan="1" rowspan="1"><p>EP05/HU14</p></td>
-<td class="c13" colspan="1" rowspan="1"><p>Observar los medios oficiales de comunicación directa con BuildTruck.</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Observar los medios oficiales de comunicación directa con ArquiTech.</p></td>
 <td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero contactarme con el equipo directamente para realizar consultas sobre los beneficios u otras dudas que me surjan.</p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Ubicar el lugar donde se encuentran los medios de contacto</b></u></p><p><b>Given</b> que me encuentro en la página web de BuildTruck,</p><p><b>When</b> me desplazo hacia la parte final de la página,</p><p><b>Then</b> veré el número telefónico y el correo electrónico en el lado derecho del pie de página debajo de “Contáctanos”.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Ubicar el lugar donde se encuentran los medios de contacto</b></u></p><p><b>Given</b> que me encuentro en la página web de ArquiTech,</p><p><b>When</b> me desplazo hacia la parte final de la página,</p><p><b>Then</b> veré el número telefónico y el correo electrónico en el lado derecho del pie de página debajo de “Contáctanos”.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP05</p></td>
 </tr>
 <tr class="c1">
 <td class="c16" colspan="1" rowspan="1"><p>EP05/HU15</p></td>
-<td class="c13" colspan="1" rowspan="1"><p>Visitar las redes sociales de BuildTruck</p></td>
-<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero visitar las redes sociales de BuildTruck para poder observar las opiniones de otros usuarios y más información de la empresa.</p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Visualizar las redes en las que la empresa tiene una cuenta</b></u></p><p><b>Given</b> que me encuentro en la página de BuildTruck.</p><p><b>When</b> me desplazo hacia el final de la página</p><p><b>Then</b> observaré los íconos de las redes sociales en las que BuildTruck tiene una cuenta.</p><p><u><b>Escenario 2: Entrar a las redes desde las páginas</b></u></p><p><b>Given</b> que me encuentro observando los íconos de las redes sociales en el pie de la página,</p><p><b>When</b> le doy clic a uno de los íconos,</p><p><b>Then</b> se abrirá otra pestaña con la cuenta de la red social del ícono que seleccioné.</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Visitar las redes sociales de ArquiTech</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero visitar las redes sociales de ArquiTech para poder observar las opiniones de otros usuarios y más información de la empresa.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Visualizar las redes en las que la empresa tiene una cuenta</b></u></p><p><b>Given</b> que me encuentro en la página de ArquiTech.</p><p><b>When</b> me desplazo hacia el final de la página</p><p><b>Then</b> observaré los íconos de las redes sociales en las que ArquiTech tiene una cuenta.</p><p><u><b>Escenario 2: Entrar a las redes desde las páginas</b></u></p><p><b>Given</b> que me encuentro observando los íconos de las redes sociales en el pie de la página,</p><p><b>When</b> le doy clic a uno de los íconos,</p><p><b>Then</b> se abrirá otra pestaña con la cuenta de la red social del ícono que seleccioné.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP05</p></td>
 </tr>
 <tr class="c1">
@@ -1380,38 +1373,10 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 <td class="c11" colspan="1" rowspan="1"><p>EP04</p></td>
 </tr>
 <tr class="c1">
-<td class="c16" colspan="1" rowspan="1"><p>EP04/HU19</p></td>
-<td class="c13" colspan="1" rowspan="1"><p>Configurar Notificaciones</p></td>
-<td class="c15" colspan="1" rowspan="1"><p>Como usuario administrador, quiero configurar mis preferencias de notificación (correo, SMS, alertas in-app), para recibir los avisos más importantes por los medios que prefiera.</p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Activar notificaciones por correo</b></u></p><p></p><p><b>Given</b> estoy en la sección de notificaciones del perfil.</p><p><b>When</b> activo la opción “Notificarme por correo” y guardo cambios.</p><p><b>Then</b> el sistema guarda mi preferencia y empiezo a recibir avisos por email.</p><p><u><b>Escenario 2: Desactivar todas las notificaciones</b></u></p><p><b>Given</b> desactivo todas las opciones de notificación.</p><p><b>When</b> guardo los cambios</p><p><b>Then</b> el sistema me muestra una advertencia indicando que desactivé todas las notificaciones.</p></td>
-<td class="c11" colspan="1" rowspan="1"><p>EP04</p></td>
-</tr>
-<tr class="c1">
-<td class="c16" colspan="1" rowspan="1"><p>EP03/HU20</p></td>
-<td class="c13" colspan="1" rowspan="1"><p>Generar reporte diario de avance</p></td>
-<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero poder generar un reporte diario del avance de las actividades en campo, incluyendo personal presente, materiales utilizados y observaciones, para mantener un control organizado</p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario: Generación de reporte diario de obra 1:</b></u></p><p><b>Given</b>: que el Supervisor ha iniciado sesión en el sistema y se encuentra en el módulo de reportes,</p><p><b>When</b>: completa la información del día (actividades realizadas, materiales usados, observaciones y personal presente) y pulsa el botón "Generar reporte",</p><p><b>Then</b>: el sistema debe guardar el reporte correctamente, mostrar una confirmación visual y permitir visualizarlo en el historial de reportes.</p><p><u><b>Escenario 2: Validación de campos obligatorios</b></u></p><p><b>Given</b>: Que el supervisor está en el formulario de reporte diario,</p><p><b>When</b>: intenta generar el reporte sin completar todos los campos requeridos (como fecha o avance físico),</p><p><b>Then</b>: el sistema debe mostrar mensajes de error que indiquen qué campos faltan y evitar la generación hasta que estén completos.</p></td>
-<td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
-</tr>
-<tr class="c1">
 <td class="c16" colspan="1" rowspan="1"><p>EP03/HU21</p></td>
 <td class="c13" colspan="1" rowspan="1"><p>Visualizar reportes semanales</p></td>
 <td class="c15" colspan="1" rowspan="1"><p>Como Gerente de Obra, quiero visualizar reportes semanales consolidados que resuman los avances diarios, asistencias, y consumo de materiales.</p></td>
 <td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Acceso a reportes semanales consolidados</b></u></p><p><b>Given</b>: que el gerente ha iniciado sesión y se encuentra en el módulo de reportes,</p><p><b>When</b>: selecciona la opción “reporte semanal” desde el menú,</p><p><b>Then</b>: el sistema debe mostrarle un reporte con gráficos y datos consolidados de los últimos 7 días.</p><p><u><b>Escenario 2: Datos faltantes en la semana</b></u></p><p><b>Given</b>: que uno o más días de la semana no tienen reporte cargado,</p><p><b>When</b>: el gerente accede al reporte semanal,</p><p><b>Then</b>: el sistema debe indicarle qué días no cuentan con información y mostrar los demás datos correctamente.</p></td>
-<td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
-</tr>
-<tr class="c1">
-<td class="c16" colspan="1" rowspan="1"><p>EP03/HU22</p></td>
-<td class="c13" colspan="1" rowspan="1"><p>Recibir notificación de nuevo reporte</p></td>
-<td class="c15" colspan="1" rowspan="1"><p>Como Contratante de empresa privada, quiero recibir una notificación automática cada vez que se genere un nuevo reporte de obra, para mantenerme al tanto del avance sin necesidad de ingresar a la plataforma constantemente.</p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Notificación por correo electrónico</b></u></p><p><b>Given</b>: que el contratante está registrado y tiene su correo validado,</p><p><b>When</b>: se genera un nuevo reporte diario o semanal,</p><p><b>Then</b>: el sistema debe enviarle un correo con un resumen del contenido y un enlace para visualizarlo.</p><p><u><b>Escenario 2: Notificación push desde la app</b></u></p><p><b>Given</b>: que el contratante tiene la app instalada y ha activado las notificaciones,</p><p><b>When</b>: se publica un nuevo reporte,</p><p><b>Then</b>: el sistema debe enviarle una notificación push con un mensaje corto y opción para abrir el reporte directamente.</p></td>
-<td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
-</tr>
-<tr class="c1">
-<td class="c16" colspan="1" rowspan="1"><p>EP03/HU23</p></td>
-<td class="c13" colspan="1" rowspan="1"><p>Agregar evidencias fotográficas a los reportes</p></td>
-<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero poder adjuntar fotos como evidencia visual al generar un reporte, para documentar el estado real del avance, incidentes o condiciones de la obra en cada etapa.</p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Adjuntar imágenes desde el dispositivo</b></u></p><p><b>Given</b>: que el supervisor está generando un nuevo reporte,</p><p></p><p><b>When</b>: selecciona la opción “Agregar imágenes” y carga una o varias fotos desde su dispositivo,</p><p><b>Then</b>: el sistema debe adjuntar correctamente las imágenes al reporte y mostrar una vista previa.</p><p><u><b>Escenario 2: Visualización en el reporte generado</b></u></p><p><b>Given</b>: que el reporte ya fue generado con imágenes adjuntas,</p><p><b>When</b>: otro usuario (gerente, asistente, contratante) lo abre,</p><p><b>Then</b>: el sistema debe mostrar las imágenes junto con los datos del reporte, organizadas por fecha o sección.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
 </tr>
 <tr class="c1">
@@ -1433,7 +1398,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 </body>
 
 
-## 3.3. Impact Mapping
+## **3.3. Impact Mapping**
 
 **Figura 44**   
 *Impact Mapping de ArquiTech*
@@ -1444,19 +1409,17 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 *Nota*. Elaboración propia.  
 
 
-## 3.4. Product Backlog
+## **3.4. Product Backlog**
 
 
 | \# Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8\)  |
 | ----- | ----- | :---- | :---- | ----- |
 |  **1** |  **HU01** | Registrar Entrada de Materiales  | Como Supervisor de Obra, quiero registrar la entrada de materiales, para mantener un inventario actualizado y evitar retrasos. |  **2** |
 |  **2** |  **HU02** |  Registrar Uso de Materiales en Obra | Como Supervisor de Obra, quiero registrar el uso de materiales, para controlar el consumo y evitar desperdicios. |  **2** |
-|  **3** |  **HU03** | Recibir Alertas de Bajo Nivel de Inventario  | Como Supervisor de Obra, quiero recibir alertas cuando el inventario esté bajo, para abastecer a tiempo y evitar retrasos. |  **3** |
 |  **4** |  **HU04** |  Consultar Historial de Transacciones de Inventario  | Como Supervisor de Obra, quiero consultar el historial de transacciones de inventario, para auditar el uso de materiales y detectar irregularidades. |  **5** |
 | **5** | **HU05** | Registrar Maquinaria Asignada al Proyecto | Como Supervisor de Obra, quiero registrar maquinaria asignada al proyecto, para gestionar su disponibilidad y evitar retrasos. |  **2** |
 |  **6** |  **HU06** |   Registro de trabajadores | Como supervisor de obra, quiero registrar a los trabajadores con sus datos personales, cargo y especialidad, para tener un control ordenado y centralizado del personal en cada proyecto. |  **3** |
 |  **7** |  **HU07** |  Asignación de tareas y roles | Como supervisor de obra, quiero asignar tareas específicas y roles a cada trabajador dentro de una obra, para saber sus responsabilidades diarias en una lista de trabajadores. |  **3** |
-|  **8** |  **HU08** |  Control de Asistencia | Como supervisor de obra, quiero llevar el control de asistencia diaria de los trabajadores en obra, para contar con un registro confiable que respalde pagos y evaluaciones. |  **5** |
 |  **9** |  **HU 09** |  Ingresar un Nuevo Proyecto | Como Supervisor de Obra, quiero ingresar un nuevo proyecto, para planificar y gestionar todas las actividades relacionadas con la obra. |  **3** |
 |  **10** |  **HU10** |   Lista de trabajadores por obra | Como supervisor de obra, quiero ver una lista de todos los trabajadores asignados a cada obra, para saber rápidamente quién está trabajando en cada proyecto y que roles o tareas cumplen. |  **3** |
 |  **11** |  **HU11** |  Ver descripción de ArquiTech | Como contratante de empresa privada, quiero leer una descripción clara de ArquiTech para entender sus beneficios.  |  **1** |
@@ -1467,11 +1430,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 |  **16** |  **HU16** |  Editar información de perfil | Como usuario de la plataforma, quiero poder editar mi información personal (nombre, correo, cargo),para mantener mis datos actualizados en el sistema. |  **2** |
 |  **17** |  **HU17** |  Cambiar foto de perfil | Como usuario registrado, quiero subir o cambiar mi foto de perfil, para personalizar mi cuenta y facilitar la identificación. |  **1** |
 | **18** | **HU18** | Cambiar contraseña | Como usuario autenticado, quiero cambiar mi contraseña de acceso, para mantener segura mi cuenta. | **2** |
-|  **19** |  **HU19** |  Configurar notificaciones | Como usuario administrador, quiero configurar mis preferencias de notificación (correo, SMS, alertas in-app), para recibir los avisos más importantes por los medios que prefiera |  **2** |
-|  **20** |  **HU20** |  Generar reporte diario de avance | Permite al Supervisor de Obra registrar de forma estructurada el avance del día, incluyendo actividades realizadas, asistencia del personal y materiales utilizados. |  **3** |
 |  **21** |  **HU 21** |  Visualizar reportes semanales |  Permite al Gerente de Obra acceder a un resumen semanal consolidado con gráficos y métricas del proyecto, para monitorear el desempeño general. |  **3** |
-|  **22** |  **HU22** |  Recibir notificación de nuevo reporte | Envía una notificación (push o por correo) automáticamente al contratante o gerente cada vez que se genere un nuevo reporte, facilitando el seguimiento oportuno. |  **2** |
-|  **23** |  **HU23** | Agregar evidencias fotográficas a los reportes | Permite al Supervisor adjuntar imágenes al reporte diario como respaldo visual del avance, incidentes o condiciones de la obra. |  **5** |
 |  **24** |  **HU24** | Seleccionar obra específica para ver sus reportes | Permite a usuarios que gestionan múltiples obras filtrar los reportes por proyecto, mostrando solo los relacionados con la obra seleccionada. |  **2** |
 |  **25** |  **HU25** |  Visualizar Lista de Proyectos | Como Supervisor de Obra, quiero visualizar una lista de mis proyectos, para tener un panorama claro de todas mis obras activas.  |  **3** |
 
@@ -1487,11 +1446,11 @@ Adicionalmente, para llevar a cabo el manejo del product backlog, decidimos usar
 
 <hr>
 
-# Capítulo IV: Product Design
+# **Capítulo IV: Product Design**
 
 #
 
-## 4.1. Style Guidelines
+## **4.1. Style Guidelines**
 
 Esta sección ofrece la estructura que va contener nuestro diseño y los elementos visuales de nuestra aplicación llamada Arquitech. Se  presentarán recursos como tipografías del logo y del texto, las paletas de colores que se van a usar en nuestra aplicación y nuestro logo. Todo aquello con el propósito de garantizar una imagen visual coherente y que coincida con el objetivo principal de nuestra startup, que es la de brindar soluciones digitales innovadoras para optimizar la gestión de proyectos de construcción de pequeñas y medianas empresas. Esta sección se divide en General Style Guidelines, Web Style Guidelines y Mobile Style Guidelines y se mostrará la experiencia visual atractiva y accesible que les presentaremos a nuestros usuarios. Es necesario que el diseño sea coherente para facilitar la navegación y mejorar la experiencia del usuario, asegurando la funcionalidad, claridad y alineación con las características que representa Arquitech.  
 
@@ -1950,7 +1909,7 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 
 
-### 4.4.4. Web Applications User Flow Diagrams
+### **4.4.4. Web Applications User Flow Diagrams**
 
 ### Segmento 1: Supervisores de obra
 
@@ -2026,9 +1985,9 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 <br>*Nota.* Elaboración propia. Link del video:  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUCIfTixniJPqJdWsmlCJHUB2oQZ_jRx1hPoDtGdPdiNjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BV3Le8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUCIfTixniJPqJdWsmlCJHUB2oQZ_jRx1hPoDtGdPdiNjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BV3Le8)
 
 
-## 4.6. Domain-Driven Software Architecture
+## **4.6. Domain-Driven Software Architecture**
 
-### 4.6.1. Software Architecture Context Diagrams
+### **4.6.1. Software Architecture Context Diagrams**
 
 **Figura 73**
 *Software Architecture Context Diagram of ArquiTech*
@@ -2039,7 +1998,7 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 <br>*Nota.* Elaboración propia.
 
 
-### 4.6.2. Software Architecture Container Diagrams
+### **4.6.2. Software Architecture Container Diagrams**
 
 **Figura 74**
 *Software Architecture Container Diagram of ArquiTech*
@@ -2050,13 +2009,13 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 <br>*Nota.* Elaboración propia.
 
 
-### 4.6.3. Software Architecture Components Diagrams
+### **4.6.3. Software Architecture Components Diagrams**
 
-## 4.7. Software Object-Oriented Design
+## **4.7. Software Object-Oriented Design**
 
-### 4.7.1. Class Diagrams
+### **4.7.1. Class Diagrams**
 
-**Figura 75**
+**Figura 75**  
 *Class Diagram of ArquiTech*
 <p align="center">
   <img src="images/ArquiTech - Class diagram.png" alt="PB" width="1000">
@@ -2064,7 +2023,7 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 <br>*Nota.* Elaboración propia.
 
-### 4.7.2. Class Dictionary
+### **4.7.2. Class Dictionary**
 
 * A continuación, se dará una descripción de las clases del proyecto mostradas en el diagrama de clases, de igual manera sus atributos y métodos.   
   * **Clase “User”:** Representa a los usuarios del sistema (Supervisores, contratantes y desarrolladores) que interactúan con la plataforma para gestionar proyectos, recibir notificaciones o acceder a la API.
@@ -2254,9 +2213,9 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
   * 
 
 
-## 4.8. Database Design
+## **4.8. Database Design**
 
-### *4.8.1. Database Diagram*
+### ***4.8.1. Database Diagram***
 
 **Figura 76**
 *Database Diagram of ArquiTech*
@@ -2268,15 +2227,15 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 <hr>
 
-# Capítulo V: Product Implementation, Validation & Deployment
+# **Capítulo V: Product Implementation, Validation & Deployment**
 
 #
 
-## 5.1. Software Configuration Management.
+## **5.1. Software Configuration Management.**
 
 Esta sección presentará las herramientas que se han utilizado durante este proyecto para desarrollar nuestras plataformas digitales con una gestión estructurada de los cambios, versiones y configuraciones dentro del desarrollo de software.
 
-### *5.1.1. Software Development Environment Configuration.*
+### ***5.1.1. Software Development Environment Configuration.***
 
 En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figma,  para el desarrollo de Software Development se ha usado la herramienta WebStorm, para el lenguaje de programación se utilizó TypeScript y para el frontend Framework se ha usado el framework Angular y para la versión de control y colaboraciones se ha usado Git y GitHub.  
 **FIGMA:** Es una herramienta de diseño de interfaces y experiencias de usuario que permite crear wireframes, mockups, prototipos interactivos y diseños de alta fidelidad. Debido a su enfoque colaborativo en tiempo real, múltiples diseñadores o desarrolladores pueden trabajar simultáneamente desde cualquier lado. Además, permite definir la estructura visual y la interacción del usuario con la aplicación antes de comenzar el desarrollo.  
@@ -2339,7 +2298,7 @@ En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figm
 *Nota.* Obtenido de: [https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8](https://images.app.goo.gl/pnqQ8SUDrhUb9AMb8) 
 
 
-### *5.1.2. Source Code Management*
+### ***5.1.2. Source Code Management***
 
 Para poder llevar un mejor control del código de la aplicación y trabajar grupalmente, usaremos la plataforma “GitHub”. De esta manera, podremos observar y realizar modificaciones a los commits hechos por los integrantes del equipo.  
 Hemos creado los siguientes cuatro repositorios en nuestra organización, cada uno para un producto distinto:
@@ -2437,7 +2396,7 @@ Los mensajes de los commits seguirán la especificación de Conventional Commits
 
 
 
-### *5.1.3. Source Code Style Guide & Conventions*
+### ***5.1.3. Source Code Style Guide & Conventions***
 
 En esta sección, detallaremos las convenciones y guías de estilo adoptadas para los lenguajes utilizados en el proyecto: **HTML**, **CSS**, **JavaScript**, **TypeScript** y **Java**. Todas las nomenclaturas se realizarán en inglés, siguiendo estándares ampliamente reconocidos para garantizar consistencia, legibilidad y mantenimiento del código. Las guías de referencia adoptadas son estándares de la industria, incluyendo las recomendaciones de W3Schools, Google, Angular, Spring Boot y SpecFlow (para Gherkin). A continuación, se describen las convenciones para cada lenguaje.
 
@@ -2608,7 +2567,7 @@ Para que nuestra landing page esté disponible para todos nuestros usuarios, la 
 
 ### *5.2.1. Sprint 1*
 
-##### 5.2.1.1. Sprint Planning 1
+##### **5.2.1.1. Sprint Planning 1**
 
 <div style='text-align: justify;'>
 Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar la reunión inicial del sprint realizado, detallando lo que se planeó, acordó y revisó en la reunión.
@@ -2630,7 +2589,7 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 
 </div>
 
-#### 5.2.1.2. Aspect Leaders and Collaborators
+#### **5.2.1.2. Aspect Leaders and Collaborators**
 
 | Team Member (Last Name, First Name) | GitHub Username | Landing page Leader (L) / Collaborator (C) | DocumentationLeader (L) / Collaborator (C) | Epics Leader (L) / Collaborator (C) |
 | :---- | :---- | :---- | :---- | :---- |
@@ -2640,7 +2599,7 @@ Ahora, mostraremos nuestro sprint planning. En esta sección, vamos a explicar l
 | Rodas Sotomayor, Ernesto | ernesto0710 | C | C | C |
 | Sulca Silva, Melisa Geraldine | MSS02204 | C | C | C |
 
-#### 5.2.1.3. Sprint Backlog 1
+#### **5.2.1.3. Sprint Backlog 1**
 
 Para este primer sprint, nuestro objetivo principal es desarrollar el Landing Page de ArquiTech. Para esto realizamos tareas por cada historia de usuario referente a la Landing Page y las asignamos a un integrante y para tener una mejor organización del Backlog, hemos utilizado la herramienta “Jira”.  
 
@@ -2669,7 +2628,7 @@ Para este primer sprint, nuestro objetivo principal es desarrollar el Landing Pa
 	<tr class="c2"><td class="c7" colspan="1" rowspan="1"><p class="c0"><span class="c6">T2</span></p></td><td class="c4" colspan="1" rowspan="1"><p class="c0"><span class="c6">Habilitar enlaces hacia redes sociales</span></p></td><td class="c1" colspan="1" rowspan="1"><p class="c0"><span class="c6">Configurar los &iacute;conos para que, al hacer clic, se abra una nueva pesta&ntilde;a con la red social correspondiente.</span></p></td><td class="c10" colspan="1" rowspan="1"><p class="c0"><span class="c6">1</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Melisa Sulca</span></p></td><td class="c3" colspan="1" rowspan="1"><p class="c0"><span class="c6">Done</span></p></td></tr>
 </table>
 
-#### 5.2.1.4. Development Evidence for Sprint Review
+#### **5.2.1.4. Development Evidence for Sprint Review**
 
 | Repository  | Branch | Commit Id | Commit | Message Body | Commited on (Date) |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -2680,7 +2639,7 @@ Para este primer sprint, nuestro objetivo principal es desarrollar el Landing Pa
 | MSS02204/ArquiTech\_LandingPage | feature/develop | 1h189i | feat: Modified index.html | \- | 24/04/2025 |
 
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+#### **5.2.1.5. Execution Evidence for Sprint Review**
 
 **Figura 86**  
 *Video for execution evidence for Sprint 3*
@@ -2692,7 +2651,7 @@ Para este primer sprint, nuestro objetivo principal es desarrollar el Landing Pa
 
 
 
-#### 5.2.1.6. Software Deployment Evidence for Sprint Review
+#### **5.2.1.6. Software Deployment Evidence for Sprint Review**
 Para realizar el deployment de este sprint, hemos realizado varios procesos, a continuación realizaremos un resumen de cada uno de ellos.  
 Publicamos nuestra landing page como un sitio web a través de GitHub para que sea accesible a todos nuestros usuarios. Primero, creamos una cuenta y un repositorio público con el nombre adecuado. Luego, subimos los archivos de la página, activamos GitHub Pages desde la configuración y verificamos que el sitio estuviera disponible en línea. Cuando queremos hacer cambios, simplemente actualizamos los archivos y los volvemos a subir.  
 
@@ -2722,9 +2681,9 @@ Publicamos nuestra landing page como un sitio web a través de GitHub para que s
   <img src="images/Team Collaboration.png" alt="PB" width="1000">
 </p>
 
-### *5.2.2. Sprint 2*
+### ***5.2.2. Sprint 2***
 
-#### 5.2.2.1. Sprint Planning 2.  
+#### **5.2.2.1. Sprint Planning 2.**  
 
 Para el sprint 2 de ArquiTech, realizamos una reunión inicial para coordinar de lo que se encargaría cada uno en esta entrega.
 
@@ -2736,7 +2695,7 @@ Para el sprint 2 de ArquiTech, realizamos una reunión inicial para coordinar de
 <td class="c1" colspan="1" rowspan="1"><p>Sprint 2</p></td>
 </tr>
 <tr class="c9">
-<td class="c12" colspan="2" rowspan="1"><p><b>Sprint Planning Background:</b></p><p>Decidimos centrarnos en la codificación del Frontend Web Application de BuildTruck, nos repartimos el código de este,</p></td>
+<td class="c12" colspan="2" rowspan="1"><p><b>Sprint Planning Background:</b></p><p>Decidimos centrarnos en la codificación del Frontend Web Application de ArquiTech, nos repartimos el código de este,</p></td>
 </tr>
 <tr class="c2">
 <td class="c1" colspan="1" rowspan="1"><p>Date</p></td>
@@ -2785,7 +2744,7 @@ Para el sprint 2 de ArquiTech, realizamos una reunión inicial para coordinar de
 <p></p>
 </body>
 
-#### 5.2.2.2. Aspect Leaders and Collaborators.  
+#### **5.2.2.2. Aspect Leaders and Collaborators.**  
 
 <table class="c8">
 <tr class="c3">
@@ -2832,7 +2791,7 @@ Para el sprint 2 de ArquiTech, realizamos una reunión inicial para coordinar de
 </tr>
 </table>
 
-#### 5.2.2.3. Sprint Backlog 2.  
+#### **5.2.2.3. Sprint Backlog 2.**  
 
 Para el sprint 2 de ArquiTech, nos hemos centrado en desarrollar el front end de la plataforma y también en mejorar la landing page realizada en el sprint anterior. De la misma manera que en el sprint anterior, seguimos usando el software de “Jira” para llevar el control de nuestro sprint backlog.
 
@@ -3109,7 +3068,7 @@ Luego de esto, vamos a Netify, entramos a la barra de proyectos y ahora en las o
 
 *Nota.* Elaboración propia.
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint.  
+#### **5.2.2.8. Team Collaboration Insights during Sprint.**  
 
 Para poder realizar el código, al igual que en la primera entrega, usamos GitHub. El repositorio usado fue osFoundex/ArquiTech_FrontendWebApp.
 Link del repositorio: [https://github.com/osFoundex/ArquiTech_FrontendWebApp](https://github.com/osFoundex/ArquiTech_FrontendWebApp) 
@@ -3122,9 +3081,9 @@ Link del repositorio: [https://github.com/osFoundex/ArquiTech_FrontendWebApp](ht
 
 *Nota.* Elaboración propia.
 
-### *5.2.3. Sprint 3*  
+### ***5.2.3. Sprint 3***  
 
-#### 5.2.3.1. Sprint Planning 3. 
+#### **5.2.3.1. Sprint Planning 3.** 
 
 Para el Sprint 3 de ArquiTech, realizamos una reunión inicial en la que coordinamos las tareas asignadas a cada miembro del equipo para esta entrega. Durante la reunión, definimos que el backend sería el enfoque principal, trabajando en las funcionalidades clave para gestionar el inventario de materiales, el uso de los mismos en obras, el registro de maquinaria y trabajadores, así como el inventario.
 
@@ -3190,7 +3149,7 @@ En general, el Sprint 3 fue productivo y se avanzó significativamente en las fu
 </body>
 
 
-#### 5.2.3.2. Aspect Leaders and Collaborators.  
+#### **5.2.3.2. Aspect Leaders and Collaborators.**  
 
 Durante el Sprint 3 de ArquiTech, se han identificado diversos aspectos funcionales clave relacionados con el desarrollo del backend de la aplicación, así como algunos ajustes esenciales en el frontend. Con el fin de organizar eficientemente las tareas del equipo, se ha implementado una matriz de Liderazgo y Colaboración (LACX), donde a cada miembro del equipo se le asigna el rol de líder (L) en áreas críticas del desarrollo del backend, mientras que en otras áreas asumen el rol de colaborador (C), promoviendo una colaboración eficiente entre todos.
 
@@ -3276,7 +3235,7 @@ Durante el Sprint 3 de ArquiTech, se han identificado diversos aspectos funciona
 </tr>
 </table>
 
-#### 5.2.3.3. Sprint Backlog 3.  
+#### **5.2.3.3. Sprint Backlog 3.**  
 
 Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar las funcionalidades clave del backend, con un enfoque en eficiencia, control de inventarios, y gestión de recursos dentro de los proyectos de construcción. El equipo trabajó en la creación de una infraestructura sólida que permitiera registrar y gestionar materiales, maquinaria, trabajadores, y transacciones, asegurando un flujo de trabajo óptimo para los supervisores de obra. Además, se implementó un sistema de reportes y consultas que permite a los contratistas tener una visión clara y actualizada del progreso de los proyectos. Como se observa en la siguiente imagen, seguimos usando Jira para el control del Product Backlog de ArquiTech.
 
@@ -3511,7 +3470,7 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 </table>
 
 
-#### 5.2.3.4. Development Evidence for Sprint Review. 
+#### **5.2.3.4. Development Evidence for Sprint Review.** 
 
 <table class="c9">
 <tr class="c5">
@@ -3564,7 +3523,7 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 </tr>
 </table>
 
-#### 5.2.3.5. Execution Evidence for Sprint Review.  
+#### **5.2.3.5. Execution Evidence for Sprint Review.**  
 
 En este sprint 3, el enfoque principal fue la implementación y mejora del backend de la aplicación, con un fuerte énfasis en la gestión de materiales, maquinaria, trabajadores y proyectos de construcción. Este sprint estuvo dedicado a desarrollar funcionalidades clave para optimizar la gestión operativa de la plataforma, permitiendo una mejor planificación y seguimiento de los proyectos de construcción.
 Se implementaron y probaron varias APIs que facilitaron el registro y seguimiento de materiales, maquinaria y trabajadores asignados a proyectos.  También se habilitaron funcionalidades de consulta de inventario de materiales, generación de reportes de avance y la gestión de proyectos de obra.
@@ -3586,7 +3545,7 @@ El equipo también trabajó en la corrección y optimización de la base de dato
 
 *Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/Efy-TwvGZzRBlFIWupcfvnQBYFopeFw_CbLzBMhTAK1DpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Xtpv0R](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310931_upc_edu_pe/Efy-TwvGZzRBlFIWupcfvnQBYFopeFw_CbLzBMhTAK1DpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Xtpv0R)
 
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review.  
+#### **5.2.3.6. Services Documentation Evidence for Sprint Review.**  
 
 Durante el Sprint 3, el enfoque se centró en la implementación del backend real para la aplicación web de ArquiTech. A lo largo de este Sprint, reemplazamos la fake API, anteriormente desarrollada a modo de prueba, con servicios backend funcionales, asegurando la conectividad en el siguiente sprint  a una base de datos real que gestiona las diversas operaciones del sistema. Las funcionalidades de gestión de materiales, proyectos, trabajadores, tareas, maquinaria, usuarios y roles están completamente implementadas y operativas.
 A continuación, se detallan las funcionalidades implementadas para cada uno de los Bounded Contexts de ArquiTech y sus correspondientes tablas en la base de datos:
@@ -3670,7 +3629,7 @@ A continuación, se detallan las funcionalidades implementadas para cada uno de 
      Registro de incidentes ocurridos durante los proyectos de construcción, facilitando el seguimiento y la resolución de problemas.
    
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review.  
+#### **5.2.3.7. Software Deployment Evidence for Sprint Review.**  
 
 Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boot arquitech-back-end en la plataforma Railway, con el objetivo de implementar una API REST para la creación de usuarios mediante el endpoint POST /api/v1/users. Las actividades incluyeron la configuración de un proyecto en Railway, la integración con una base de datos MySQL, y la habilitación de Swagger UI para pruebas de la API. Los pasos abarcan la creación de recursos en la nube, configuración del proyecto, automatización del despliegue, y verificación del funcionamiento, siguiendo un formato claro inspirado en el ejemplo proporcionado.
 
@@ -3761,10 +3720,10 @@ Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boo
 
 	- Se verificaron los Deploy Logs en el panel de Railway para confirmar que la aplicación iniciaba correctamente y se conectaba a la base de datos MySQL.  
 
-	- Resultado: La aplicación quedó desplegada en https://selfless-courage-production.up.railway.app.
+	- Resultado: La aplicación quedó desplegada en [https://selfless-courage-production.up.railway.app](https://selfless-courage-production.up.railway.app).
 
 8. Habilitación de Swagger UI para Pruebas  
-	- Se accedió a https://selfless-courage-production.up.railway.app/swagger-ui.html para probar la API.  
+	- Se accedió a [https://selfless-courage-production.up.railway.app/swagger-ui.html](https://selfless-courage-production.up.railway.app/swagger-ui.html) para probar la API.  
 
 	- Se configuró Swagger UI en application.properties para asegurar que usara la URL correcta (https).  
 
@@ -3854,7 +3813,7 @@ Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boo
 	
 *Nota.* Elaboración propia.
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint.	 
+#### **5.2.3.8. Team Collaboration Insights during Sprint.**	 
 
 Para poder realizar el código, al igual que en la primera entrega, usamos GitHub. El repositorio usado fue osFoundex/Arquitech_BackendWebApp.
 Link del repositorio: 
@@ -3867,9 +3826,9 @@ Link del repositorio:
 	
 *Nota.* Elaboración propia
 
-## 5.3. Validation Interviews.  
+## **5.3. Validation Interviews.**  
 
-### *5.3.1. Diseño de Entrevistas.*  
+### ***5.3.1. Diseño de Entrevistas.***  
 
 <ins> **Segmento Objetivo #1: Supervisores de Obras** </ins>
 
@@ -3918,7 +3877,7 @@ Link del repositorio:
 	- ¿Usarías esta herramienta para supervisar el progreso de tus proyectos de construcción? ¿Por qué?
 
 
-### *5.3.2. Registro de Entrevistas.*  
+### ***5.3.2. Registro de Entrevistas.***  
 
 <ins> **Segmento objetivo #1: Supervisores de obra** </ins>
 
@@ -4021,7 +3980,7 @@ Sobre la adopción regular de la plataforma, Karolay indicó que sí la usaría 
 Su valoración del reporte semanal destaca la importancia de la visibilidad para contratantes, mientras que su interés en personalización (filtros, alertas) apunta a áreas de mejora. La adopción por constructoras sigue siendo un factor crítico.
 
 
-### *5.3.3. Evaluaciones según heurísticas.*  
+### ***5.3.3. Evaluaciones según heurísticas.***  
 
 <p align="center"><strong>UX Heuristics & Principles Evaluation</strong></p>
 <p align="center"><strong>Usability – Inclusive Design – Information Architecture</strong></p>
@@ -4307,7 +4266,7 @@ Incluir indicadores (ej. tareas pendientes) en las cards.
 
 <br><br>
 
-## 5.4. Video About-the-Product.  
+## **5.4. Video About-the-Product.**  
 
 En esta sección, presentamos el Video About the Product, diseñado para captar la atención de los visitantes de nuestro Landing Page y los usuarios de nuestras aplicaciones, ofreciendo una visión clara y atractiva del modelo de negocio y las características principales de nuestra solución de software, Arquitech. Este video tiene como objetivo principal comunicar cómo nuestra plataforma facilita procesos clave como la creación de usuarios de manera eficiente y segura. Dirigido tanto a potenciales clientes interesados en conocer las capacidades de nuestro producto como a usuarios que desean realizar tareas relacionadas con la gestión de usuarios, el video adopta un tono profesional, innovador y accesible, alineado con la identidad de nuestra plataforma. A través de una demostración dinámica de las funcionalidades, el video resalta la facilidad de uso y la integración con una base de datos. Además, incluye un testimonio positivo de un usuario participante en las entrevistas de validación, reforzando la credibilidad y el valor de nuestra solución. Este contenido busca inspirar confianza y motivar a los espectadores a explorar y adoptar nuestra plataforma para optimizar sus procesos.
 
@@ -4320,7 +4279,7 @@ En esta sección, presentamos el Video About the Product, diseñado para captar 
 *Nota.* Elaboración propia. Obtenido de [https://www.youtube.com/watch?v=k3Z0771Au1Y](https://www.youtube.com/watch?v=k3Z0771Au1Y)
 
 
-# Conclusiones  
+# **Conclusiones**  
 
 #
 
@@ -4341,7 +4300,7 @@ En esta sección, presentamos el Video About the Product, diseñado para captar 
 
   <br><br>
 
-## Video About the Team 
+## **Video About the Team** 
 
 En este video,  los miembros del equipo compartieron sus experiencias y contribuciones durante el proyecto, destacando sus roles, desafíos y aprendizajes.
 
@@ -4374,9 +4333,7 @@ En general, la experiencia del equipo resaltó la importancia de la colaboració
 *Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EQCTD1-Mk7dLnVOrxnxxUg4B71nnvQD3fAwOSZFhL_nNsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pheJMQ]
 
 
-# Bibliografía
-
-#
+# **Bibliografía**
 
 Angular. (s.f.). *Angular coding style guide.* [https://angular.io/guide/styleguide](https://angular.io/guide/styleguide)   
 Buildertrend. (s.f.). *Construction Management  Software*. Buildertrend. [Recuperado el dia 19 de abril de 2025, de](https://www.procore.com/es)  [https://buildertrend.com/](https://buildertrend.com/)  
@@ -4394,9 +4351,7 @@ W3Schools. (s.f.). *HTML style guide and coding conventions.* [https://www.w3sch
 
 <hr>
 
-## Anexos
-
-#
+## **Anexos**
 
 Anexo A. Link del video de exposición TP1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ec_o-e8Ty8lCtNdDnvheiHEB00cNJ-8jksf93gQKrMthCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SyNpYf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ec_o-e8Ty8lCtNdDnvheiHEB00cNJ-8jksf93gQKrMthCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SyNpYf)
 
