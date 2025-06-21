@@ -4023,27 +4023,28 @@ Su valoración del reporte semanal destaca la importancia de la visibilidad para
 
 ### *5.3.3. Evaluaciones según heurísticas.*  
 
-<p align="center">UX Heuristics & Principles Evaluation</p>
-<p align="center">Usability – Inclusive Design – Information Architecture</p>
-CARRERA : Ingeniería de Software
-CURSO : Desarrollo de Aplicaciones Open Source
-SECCIÓN: 4348
-PROFESORES:
-	Bautista Ubillús, Efraín Ricardo
-	Castro Veramendi, Rafael Oswaldo
-	Flores Moroco, Juan Antonio
-	Mori Paiva, Hugo Allan
-	Robles Fernández, Iván
-	Sánchez Seña, Alberto Wilmer
-	Velásquez Núñez, Ángel Augusto
-AUDITOR: FOUNDEX
-CLIENTE(S):
-	Fiorella Perez
- 	Denisse Vargas
- 	Fernando Mayta
- 	Milagros Arellano
- 	Alyssa Ortega
- 	Karolay Correa
+<p align="center"><strong>UX Heuristics & Principles Evaluation</strong></p>
+<p align="center"><strong>Usability – Inclusive Design – Information Architecture</strong></p>
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Aplicaciones Open Source  
+**SECCIÓN:** 4348  
+**PROFESORES:**  
+	Bautista Ubillús, Efraín Ricardo  
+	Castro Veramendi, Rafael Oswaldo  
+	Flores Moroco, Juan Antonio  
+	Mori Paiva, Hugo Allan  
+	Robles Fernández, Iván  
+	Sánchez Seña, Alberto Wilmer  
+	Velásquez Núñez, Ángel Augusto  
+**AUDITOR:** Foundex  
+**CLIENTE(S):**  
+	Fiorella Perez  
+ 	Denisse Vargas  
+ 	Fernando Mayta  
+ 	Milagros Arellano  
+ 	Alyssa Ortega  
+ 	Karolay Correa  
 
 ***SITE O APP A EVALUAR:*** ArquiTech
 
