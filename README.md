@@ -8,9 +8,9 @@
 <h4 align="center"><strong>Ingeniería de Software</strong></h4>
 <h4 align="center"><strong> Desarrollo de Aplicaciones Open Source - 4348</strong></h4>
 <h4 align="center"><strong>Docente: Hugo Allan Mori Paiva </h4>
-<h4 align="center"><strong>Startup: Arquitech</strong></h4>
+<h4 align="center">Startup: Arquitech</strong></h4>
 
-**Team members:**
+<p align="center"><strong>Team members:</strong></p>
 
 <table align="center"; style="width: 100%; border-collapse: collapse; margin: 0 auto;">
   <tr>
