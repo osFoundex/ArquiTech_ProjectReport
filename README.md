@@ -3922,11 +3922,10 @@ Link del repositorio:
 
 <ins> **Segmento objetivo #1: Supervisores de obra** </ins>
 
-**Entrevistada #1: Fiorella Perez**
+**Entrevistada #1: Fiorella Perez**  
 
-**Figura 105**
+**Figura 105**  
 *Imagen del usuario número 1 entrevistada*
-
 <p align="center">
   <img src="images/VIEntrevista1.png" alt="PB" width="500">
 </p>
@@ -3938,10 +3937,9 @@ Sin embargo, mencionó que sería útil contar con un modo offline en caso de pr
 
 <br>
 
-**Entrevistada #2: Denisse Vargas**
+**Entrevistada #2: Denisse Vargas**  
 
-**Figura 106**
-
+**Figura 106**  
 *Imagen del usuario número 2 entrevistada*
 
 <p align="center">
@@ -3954,10 +3952,9 @@ Denisse Vargas, supervisora de obra civil, comenta que en su día a día usa Exc
 
 <br>
 
-**Entrevista #3: Fernando Mayta**
+**Entrevista #3: Fernando Mayta**  
 
-**Figura 107**
-
+**Figura 107**  
 *Imagen del usuario número 3 entrevistado*
 
 <p align="center">
@@ -3974,10 +3971,9 @@ Su entusiasmo por las tablas interactivas refleja una necesidad práctica de efi
 
 <ins> **Segmento Objetivo #2: Contratantes de empresas privadas** </ins>
 
-**Entrevista #4: Milagros Arellano**
+**Entrevista #4: Milagros Arellano**   
 
-**Figura 108**
-
+**Figura 108**  
 *Entrevista #4*
 
 <p align="center">
@@ -3990,7 +3986,7 @@ Milagros Fernández, que trabaja como contratante de obras para una empresa priv
 
 <br>
 
-**Entrevista #5: Alyssa Ortega**
+**Entrevista #5: Alyssa Ortega**  
 
 **Figura 109**  
 *Entrevista #5*  
@@ -4010,16 +4006,15 @@ Lo que más le agradó fue la posibilidad de tener todas las funcionalidades cen
 
 <br>
 
-**Entrevista #6: Karolay Correa**
+**Entrevista #6: Karolay Correa**  
 
 **Figura 110**  
 *Entrevista #6*
-
 <p align="center">
   <img src="images/VIEntrevista6.png" alt="PB" width="500">
 </p>
 
-*Nota.* Elaborado propia. Obtenido de 
+*Nota.* Elaborado propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/EeLI-JXBQP1HgrOmhRHclu4BjNY6hvm4IayEttBoqCys5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ptneIc](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/EeLI-JXBQP1HgrOmhRHclu4BjNY6hvm4IayEttBoqCys5w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ptneIc)
 
 Karolay Correa, una contratante de 27 años, mostró una impresión altamente favorable hacia ArquiTech, con un enfoque particular en la utilidad del reporte semanal automático como su aspecto más destacado. Apreció profundamente la claridad y el detalle que ofrecen las tablas del reporte, que incluyen tareas terminadas, incidentes registrados y movimientos de materiales, considerándolas una mejora significativa respecto a los informes en PDF que actualmente solicita a las constructoras. Esta funcionalidad le proporcionó una visión completa de la obra sin depender de visitas físicas o comunicaciones tardías, lo que le generó una sensación de control y tranquilidad al realizar las tareas asignadas de revisar el progreso y descargar el informe.
 Sobre la adopción regular de la plataforma, Karolay indicó que sí la usaría para supervisar el progreso de sus proyectos de construcción, justificando su decisión por los ahorros de tiempo y la transparencia que le brinda. Resaltó que la herramienta le permite tomar decisiones rápidas, siempre y cuando las constructoras también la adopten, lo que subraya su dependencia de la colaboración externa. Además, expresó un deseo de personalización en el reporte, sugiriendo que su experiencia podría mejorar si se incorporan filtros o alertas, lo que indica que, aunque las tareas asignadas (visualizar datos y descargar reportes) fueron satisfactorias, espera que la plataforma evolucione para adaptarse aún más a sus necesidades específicas como contratante.
