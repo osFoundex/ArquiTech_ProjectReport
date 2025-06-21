@@ -4313,6 +4313,17 @@ Incluir indicadores (ej. tareas pendientes) en las cards.
 
 ## 5.4. Video About-the-Product.  
 
+En esta sección, presentamos el Video About the Product, diseñado para captar la atención de los visitantes de nuestro Landing Page y los usuarios de nuestras aplicaciones, ofreciendo una visión clara y atractiva del modelo de negocio y las características principales de nuestra solución de software, Arquitech. Este video tiene como objetivo principal comunicar cómo nuestra plataforma facilita procesos clave como la creación de usuarios de manera eficiente y segura. Dirigido tanto a potenciales clientes interesados en conocer las capacidades de nuestro producto como a usuarios que desean realizar tareas relacionadas con la gestión de usuarios, el video adopta un tono profesional, innovador y accesible, alineado con la identidad de nuestra plataforma. A través de una demostración dinámica de las funcionalidades, el video resalta la facilidad de uso y la integración con una base de datos. Además, incluye un testimonio positivo de un usuario participante en las entrevistas de validación, reforzando la credibilidad y el valor de nuestra solución. Este contenido busca inspirar confianza y motivar a los espectadores a explorar y adoptar nuestra plataforma para optimizar sus procesos.
+
+**Figura**  
+*Analíticas de participación TB1*  
+<p align="center">
+  <img src="images/abouttheproduct.jpg" alt="PB" width="1000">
+</p> 
+
+*Nota.* Elaboración propia. Obtenido de [https://www.youtube.com/watch?v=k3Z0771Au1Y](https://www.youtube.com/watch?v=k3Z0771Au1Y)
+
+
 
 
 # Conclusiones  
@@ -4335,6 +4346,39 @@ Incluir indicadores (ej. tareas pendientes) en las cards.
 - **Retroalimentación de usuarios y áreas de mejora en la interfaz::** La retroalimentación de los usuarios durante las entrevistas de validación proporcionó valiosos insights sobre la experiencia de usuario y áreas de mejora en la interfaz. Aunque la plataforma ArquiTech fue considerada útil y práctica por los supervisores de obra y contratantes, se identificaron varios problemas de usabilidad, como la visibilidad del botón "Iniciar Sesión", la falta de filtros de fechas en los reportes, y la dificultad para navegar en una página larga. Los usuarios también sugirieron mejorar la escalabilidad para manejar múltiples proyectos y la visibilidad de indicadores clave en la pantalla principal. Estas observaciones destacan la necesidad de optimizar la interfaz para facilitar la navegación y mejorar la eficiencia operativa, asegurando que la plataforma sea aún más útil y accesible en el siguiente sprint.
 
   <br><br>
+
+## Video About the Team 
+
+En este video,  los miembros del equipo compartieron sus experiencias y contribuciones durante el proyecto, destacando sus roles, desafíos y aprendizajes.
+
+	* Contribuciones del equipo
+
+	1. Raúl Bellido Salas se enfocó en organizar entrevistas para comprender las funcionalidades del proyecto y en distribuir tareas tanto para el desarrollo frontend como backend. Contribuyó en la creación de usuarios y en los detalles del proyecto, pero mencionó que enfrentó desafíos en la coordinación debido a los diferentes horarios. Resaltó la importancia del flujo de trabajo y la organización para futuros proyectos.
+
+	2. Sandra Paula Luyo Correa, como líder del equipo, coordinó diversas tareas, incluidas las suposiciones en Linux, entrevistas a usuarios y documentación. Organizó reuniones para asignar tareas en función de las fortalezas del equipo y reconoció la necesidad de mejorar la comunicación en futuros proyectos.
+
+	3. Daniela Araceli Gómez Flores contribuyó creando user personas y gestionando el backend para el manejo de incidentes. Reflexionó sobre la constante colaboración dentro del equipo y la importancia de alinear las tareas para el éxito del proyecto.
+
+	4. Ernesto Rodas Sotomayor trabajó en la arquitectura del backend y destacó la distribución efectiva de tareas según las fortalezas de los integrantes. Reconoció los desafíos de haber faltado a algunas reuniones, pero valoró el apoyo recibido por parte de sus compañeros.
+
+	5. Melisa Sulca Silva contribuyó en varios aspectos de la documentación y en la codificación tanto del frontend como del backend. Señaló que, aunque el equipo trabajó bien en conjunto, a menudo entregaban el trabajo a último momento, lo cual indica la necesidad de una mejor gestión del tiempo.
+
+	*Principales aprendizajes
+
+	- El equipo reconoció la importancia de la comunicación y la organización en los proyectos colaborativos.
+	- Cada integrante reflexionó sobre su crecimiento personal y las habilidades adquiridas, como el diseño centrado en el usuario, la gestión de código y la planificación de sprints, que serán útiles en futuros cursos y en su desarrollo profesional.
+
+En general, la experiencia del equipo resaltó la importancia de la colaboración, la distribución de tareas y la mejora continua en la dinámica del trabajo en equipo.
+
+
+**Figura**  
+*Analíticas de participación TB1*  
+<p align="center">
+  <img src="images/abouttheteam.JPG" alt="PB" width="1000">
+</p> 
+
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EQCTD1-Mk7dLnVOrxnxxUg4B71nnvQD3fAwOSZFhL_nNsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pheJMQ]
+
 
 # Bibliografía
 
@@ -4361,3 +4405,5 @@ W3Schools. (s.f.). HTML style guide and coding conventions. [https://www.w3schoo
 #
 
 Link del video de exposición TP1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ec_o-e8Ty8lCtNdDnvheiHEB00cNJ-8jksf93gQKrMthCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SyNpYf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ec_o-e8Ty8lCtNdDnvheiHEB00cNJ-8jksf93gQKrMthCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SyNpYf)
+
+Link del video About the Team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EQCTD1-Mk7dLnVOrxnxxUg4B71nnvQD3fAwOSZFhL_nNsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pheJMQ]
