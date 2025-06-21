@@ -1,18 +1,18 @@
-<h1 style="text-align: center;"><strong>Informe del Trabajo Final</strong></h1>
-<h3 style="text-align: center;"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h1>
+<h1 align="center"><strong>Informe del Trabajo Final</strong></h1>
+<h3 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h1>
 
-<div style="text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Descripción de la imagen" style="width: 50%; height: auto;">
+<div align="center">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Descripción de la imagen" style="width: 50%; height: auto;">
 </div>
 
-<h4 style="text-align: center;"><strong>Ingeniería de Software</strong></h4>
-<h4 style="text-align: center;"><strong> Desarrollo de Aplicaciones Open Source - 4348</strong></h4>
-<h4 style="text-align: center;"><strong>Docente: Hugo Allan Mori Paiva </h4>
-<h4 style="text-align: center;"><strong>Startup: Arquitech</strong></h4>
+<h4 align="center"><strong>Ingeniería de Software</strong></h4>
+<h4 align="center"><strong> Desarrollo de Aplicaciones Open Source - 4348</strong></h4>
+<h4 align="center"><strong>Docente: Hugo Allan Mori Paiva </h4>
+<h4 align="center"><strong>Startup: Arquitech</strong></h4>
 
 **Team members:**
 
-<table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
+<table align="center"; style="width: 100%; border-collapse: collapse; margin: 0 auto;">
   <tr>
     <th style="border: 1px solid black; padding: 8px; text-align: center;">Nombre</th>
     <th style="border: 1px solid black; padding: 8px; text-align: center;">Código</th>
@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-<h3 style="text-align: center;"><strong>Ciclo 2025-01</strong></h3>
+<h3 align="center"><strong>Ciclo 2025-01</strong></h3>
 
 <hr>
 
@@ -3280,13 +3280,13 @@ Durante el Sprint 3 de ArquiTech, se han identificado diversos aspectos funciona
 
 Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar las funcionalidades clave del backend, con un enfoque en eficiencia, control de inventarios, y gestión de recursos dentro de los proyectos de construcción. El equipo trabajó en la creación de una infraestructura sólida que permitiera registrar y gestionar materiales, maquinaria, trabajadores, y transacciones, asegurando un flujo de trabajo óptimo para los supervisores de obra. Además, se implementó un sistema de reportes y consultas que permite a los contratistas tener una visión clara y actualizada del progreso de los proyectos. Como se observa en la siguiente imagen, seguimos usando Jira para el control del Product Backlog de ArquiTech.
 
-**Figura**  
+**Figura 95**  
 *Sprint 3 de ArquiTech*  
 <p align="center">
   <img src="images/SprintBacklog3.PNG" alt="PB" width="1000">
 </p>
 
-*Nota.* Elaboración propia. Obtenido de 
+*Nota.* Elaboración propia. Obtenido de [https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9](https://foundex.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiY2NhZDYwMDE4YTExNDI4MDg4NmExY2EzODM3NzZiOTciLCJwIjoiaiJ9)
 
 <table class="c12">
 <tr class="c5">
@@ -3570,7 +3570,7 @@ En este sprint 3, el enfoque principal fue la implementación y mejora del backe
 Se implementaron y probaron varias APIs que facilitaron el registro y seguimiento de materiales, maquinaria y trabajadores asignados a proyectos.  También se habilitaron funcionalidades de consulta de inventario de materiales, generación de reportes de avance y la gestión de proyectos de obra.
 El equipo también trabajó en la corrección y optimización de la base de datos, mejorando las relaciones entre los datos de inventarios, maquinaria y trabajadores, para garantizar un acceso más rápido y eficiente a la información.
 
-**Figura**  
+**Figura 96**  
 *Video de funcionamiento del FrontEnd de Arquitech*
 <p align="center">
   <img src="images/ExecutionEvidence1-sprint3.png" alt="PB" width="1000">
@@ -3578,7 +3578,7 @@ El equipo también trabajó en la corrección y optimización de la base de dato
 
 *Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/EWTfq_IdirROijGqQnkWt_QBxGQ-wP291zlqgPXHHDR-Tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=61qQjr](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/EWTfq_IdirROijGqQnkWt_QBxGQ-wP291zlqgPXHHDR-Tg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=61qQjr)
 
-**Figura**  
+**Figura 97**  
 *Video de funcionamiento del Backend de Arquitech*
 <p align="center">
   <img src="images/ExecutionEvidence2-sprint3.png" alt="PB" width="1000">
@@ -3806,7 +3806,7 @@ Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boo
 	- Resultado: Se estableció un flujo continuo para actualizar la aplicación.
 
 
-**Figura**  
+**Figura 98**  
 *Sprint 3 Deployment Evidence 1*  
 <p align="center">
   <img src="images/Sprint3_Deployment_Evidence1.jpg" alt="PB" width="500">
@@ -3814,7 +3814,7 @@ Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boo
 	
 *Nota.* Elaboración propia.
 
-**Figura**  
+**Figura 99**  
 *Sprint 3 Deployment Evidence 2*  
 <p align="center">
   <img src="images/Sprint3_Deployment_Evidence2.jpg" alt="PB" width="500">
@@ -3822,7 +3822,7 @@ Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boo
 	
 *Nota.* Elaboración propia.
 
-**Figura**  
+**Figura 100**  
 *Sprint 3 Deployment Evidence 3*  
 <p align="center">
   <img src="images/Sprint3_Deployment_Evidence3.jpg" alt="PB" width="500">
@@ -3830,7 +3830,7 @@ Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boo
 	
 *Nota.* Elaboración propia.
 
-**Figura**  
+**Figura 101**  
 *Sprint 3 Deployment Evidence 4*  
 <p align="center">
   <img src="images/Sprint3_Deployment_Evidence4.jpg" alt="PB" width="500">
@@ -3838,7 +3838,7 @@ Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boo
 	
 *Nota.* Elaboración propia.
 
-**Figura**  
+**Figura 102**  
 *Sprint 3 Deployment Evidence 5*  
 <p align="center">
   <img src="images/Sprint3_Deployment_Evidence5.jpg" alt="PB" width="500">
@@ -3846,7 +3846,7 @@ Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boo
 	
 *Nota.* Elaboración propia.
 
-**Figura**  
+**Figura 103**  
 *Sprint 3 Deployment Evidence 6*  
 <p align="center">
   <img src="images/Sprint3_Deployment_Evidence6.jpg" alt="PB" width="500">
@@ -3859,7 +3859,7 @@ Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boo
 Para poder realizar el código, al igual que en la primera entrega, usamos GitHub. El repositorio usado fue osFoundex/Arquitech_BackendWebApp.
 Link del repositorio: 
 
-**Figura**  
+**Figura 104**  
 *Team Collaboration Insights durante Sprint 3*
 <p align="center">
   <img src="images/CollaborationInsights3.PNG" alt="PB" width="1000">
@@ -3920,27 +3920,27 @@ Link del repositorio:
 
 ### *5.3.2. Registro de Entrevistas.*  
 
-**Segmento objetivo #1: Supervisores de obra**
+<u>**Segmento objetivo #1: Supervisores de obra**</u>
 
-Entrevistada #1: Fiorella Perez
+**Entrevistada #1: Fiorella Perez**
 
-**Figura**
+**Figura 105**
 *Imagen del usuario número 1 entrevistada*
 
 <p align="center">
   <img src="images/VIEntrevista1.png" alt="PB" width="500">
 </p>
 
-*Nota.* Elaboración propia. Obtenido de 
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EXnJzqTSprlMpQw6v1L7FIoB2sCqQnia07ucBqRB3PkABA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LXMaeD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EXnJzqTSprlMpQw6v1L7FIoB2sCqQnia07ucBqRB3PkABA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LXMaeD)
 
 Actualmente, Fiorella Pérez, quien es una supervisora de obra de 28 años, utiliza hojas de Excel para controlar inventarios y asistencia, y WhatsApp para coordinar con el equipo. Los avances de la obra se registran manualmente y se informan semanalmente a los contratantes. Ella percibe ArquiTech como una plataforma útil para centralizar la gestión de proyectos de construcción, control de inventarios, asistencia y reportes. La propuesta de la herramienta le parece interesante para mejorar la organización y facilitar la comunicación. Además, ella sugiere una mayor visibilidad en la página para el acceso rápido a las secciones de la landing page ya que comenta que es largo la página por lo que si hubiera la opción de que con un botón baje rápido a esa opción sería lo mejor, además le gustaría una sección destacada para plazos y tareas pendientes para mejorar la priorización. Asimismo, ella comenta que la plataforma le parece útil para agilizar su trabajo diario, especialmente en la actualización de avances y la gestión de recursos. Encontró la interfaz intuitiva, con los colores adecuados y fácil de usar, permitiéndole registrar y visualizar los avances de forma rápida y clara. También, considera que la plataforma es confiable para llevar el control de inventarios y asistencia en tiempo real, lo que le ahorraría tiempo y reduciría los errores. 
 Sin embargo, mencionó que sería útil contar con un modo offline en caso de problemas de conectividad en las obras. Lo que más le agradó a Fiorella fue la centralización de las funciones en una sola plataforma, lo que le permitiría gestionar más eficientemente las tareas diarias y reducir los errores. Por último, nos comenta que está dispuesta a usar la plataforma regularmente porque le ayudaría a ahorrar tiempo y mejorar la precisión en los informes. Cree que la opción offline haría la herramienta aún más útil para obras con conectividad limitada.
 
 <br>
 
-Entrevistada #2: Denisse Vargas
+**Entrevistada #2: Denisse Vargas**
 
-**Figura**
+**Figura 106**
 
 *Imagen del usuario número 2 entrevistada*
 
@@ -3948,23 +3948,23 @@ Entrevistada #2: Denisse Vargas
   <img src="images/VIEntrevista2.png" alt="PB" width="500">
 </p>
 
-*Nota.* Elaboración propia. Obtenido de
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EX4QgP8HDfFKt8gTN4CiLikBkPf2UVd1BaLV0qldPv9_SQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KCdcey](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EX4QgP8HDfFKt8gTN4CiLikBkPf2UVd1BaLV0qldPv9_SQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KCdcey)
 
 Denisse Vargas, supervisora de obra civil, comenta que en su día a día usa Excel, WhatsApp y formatos físicos para controlar asistencia, materiales y coordinar con el equipo. Aunque le funciona, dice que todo está muy desordenado y se pierde tiempo buscando información. Al probar ArquiTech, le pareció una buena alternativa para organizar mejor todo lo relacionado con la obra en un solo lugar. Le gustó que sea práctica, fácil de usar y enfocada en lo que realmente se necesita en campo. Menciona que la plataforma le facilitaría registrar avances, ver asistencia y controlar inventarios sin depender de otros medios. Sugiere que se mejore el diseño con menús más visuales y que exista una opción offline para zonas sin señal. En general, la vio clara y útil, y destaca que usarla le ahorraría tiempo y ayudaría a evitar errores. Está dispuesta a utilizar ArquiTech con frecuencia porque le permitiría tener más control, ser más rápida al informar y trabajar con más orden.
 
 <br>
 
-Entrevista #3: Fernando Mayta
+**Entrevista #3: Fernando Mayta**
 
-**Figura**
+**Figura 107**
 
-*Imagen del usuario número 3 entrevistada*
+*Imagen del usuario número 3 entrevistado*
 
 <p align="center">
   <img src="images/VIEntrevista3.png" alt="PB" width="500">
 </p>
 
-*Nota.* Elaboración propia. Obtenido de
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/ER_RwQPYnoVOt7teTSsM8uIBy1eZfnC5By-FhVhfpB6XPw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3nU33L](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/ER_RwQPYnoVOt7teTSsM8uIBy1eZfnC5By-FhVhfpB6XPw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3nU33L)
 
 Fernando Mayta, un supervisor de obra de 26 años, expresó una valoración muy positiva hacia la plataforma ArquiTech, destacando particularmente su funcionalidad para gestionar tareas de manera eficiente. Entre las apreciaciones más notables, Jaime señaló que lo que más le gustó fue la capacidad de añadir y editar datos en las tablas interactivas, especialmente en las secciones de trabajadores y sus tareas, así como en materiales. Esta característica le pareció un gran avance frente a su método actual de anotaciones manuales en cuadernos, ya que le ahorra tiempo y le permite mantener un control más organizado de los recursos y actividades en la obra. La facilidad para realizar estas acciones mediante botones como "Añadir" y los íconos de editar y borrar en cada fila fue un punto fuerte que resaltó, considerándolo una herramienta práctica para su día a día.
 Respecto al uso regular de la plataforma, Fernando afirmó que sí la emplearía consistentemente para gestionar sus proyectos, fundamentando su decisión en los beneficios de organización que ofrece y en la capacidad de proporcionar información al contratante sin necesidad de generar reportes manuales. Sin embargo, su entusiasmo se vio matizado por una preocupación sobre la escalabilidad de la herramienta, expresando incertidumbre sobre su rendimiento al supervisar múltiples proyectos simultáneamente, una situación común en su rol. Esta observación sugiere que, aunque valora las tareas asignadas (gestionar trabajadores, tareas, materiales, maquinaria e incidentes), considera crucial que la plataforma demuestre estabilidad bajo condiciones de alta demanda para ganarse su confianza a largo plazo.
@@ -3972,35 +3972,34 @@ Su entusiasmo por las tablas interactivas refleja una necesidad práctica de efi
 
 <br>
 
-**Segmento Objetivo #2: Contratantes de empresas privadas**
+<u>**Segmento Objetivo #2: Contratantes de empresas privadas**</U>
 
-Entrevista #1: Milagros Arellano
+**Entrevista #4: Milagros Arellano**
 
-**Figura**
+**Figura 108**
 
-*Imagen del usuario número 1 entrevistada*
+*Entrevista #4*
 
 <p align="center">
   <img src="images/VIEntrevista4.png" alt="PB" width="500">
 </p>
 
-*Nota.* Elaborado propia. Obtenido de 
+*Nota.* Elaborado propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/Eew72eoT_21Nuiw0V335e1EBKMbPbC6NPdn7isSkg11w-g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5d0x7U](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/Eew72eoT_21Nuiw0V335e1EBKMbPbC6NPdn7isSkg11w-g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=5d0x7U)
 
 Milagros Fernández, que trabaja como contratante de obras para una empresa privada, suele recibir reportes por Excel o PDF, además de comunicarse con los responsables por WhatsApp o correo. Dice que a veces no tiene información clara o actualizada, lo que le complica el seguimiento. Al usar ArquiTech, le pareció útil para tener todo lo importante en un solo lugar y con acceso inmediato: reportes, asistencia, materiales e incidentes. Lo que más le gustó fue lo simple que es de entender y que no hace falta ser experta en tecnología para usarla. Comenta que le ayudaría a tomar decisiones más rápido y tener control sin depender 100% del contratista. Sugiere que se añadan indicadores clave en la pantalla principal y opciones para comparar obras o recibir alertas. En general, considera que la herramienta le ahorraría tiempo y que sí la usaría, ya que le da más control y mejora la comunicación con los supervisores.
 
 <br>
 
-Entrevista #2: Alyssa Ortega
+**Entrevista #5: Alyssa Ortega**
 
-**Figura**
-
-*Imagen del usuario número 2 entrevistada*
+**Figura 109**  
+*Entrevista #5*  
 
 <p align="center">
   <img src="images/VIEntrevista5.png" alt="PB" width="500">
 </p>
 
-*Nota.* Elaborado propia. Obtenido de 
+*Nota.* Elaborado propia. Obtenido de [https://upcedupe-my.sharepoint.com/personal/u202312443_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312443%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo5636817194%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebb24939f%2D8952%2D4891%2D80f1%2D582eb3d34756](https://upcedupe-my.sharepoint.com/personal/u202312443_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202312443%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo5636817194%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebb24939f%2D8952%2D4891%2D80f1%2D582eb3d34756)
 
 Alyssa Ortega, contratante de empresas privadas en proyectos de construcción, actualmente emplea herramientas como Excel para el control de inventarios y asistencia, y WhatsApp para coordinarse con su equipo. Los avances de obra se registran manualmente y se comunican a los superiores o contratantes mediante reportes semanales. Aunque este sistema le ha funcionado hasta ahora, reconoce que implica una inversión de tiempo considerable y es propenso a errores humanos, especialmente al consolidar datos de diferentes fuentes.
 Tras conocer la plataforma ArquiTech, Alyssa manifestó una percepción positiva sobre su utilidad y valor práctico. Considera que la propuesta es adecuada para optimizar su labor diaria como contratista, permitiéndole centralizar funciones clave como la supervisión de avances, gestión de recursos humanos, materiales, incidentes, maquinaria y generación de reportes automatizados, todo desde una misma plataforma.
@@ -4011,11 +4010,10 @@ Lo que más le agradó fue la posibilidad de tener todas las funcionalidades cen
 
 <br>
 
-Entrevista #3: Karolay Correa
+**Entrevista #6: Karolay Correa**
 
-**Figura**
-
-*Imagen del usuario número 3 entrevistada*
+**Figura 110**  
+*Entrevista #6*
 
 <p align="center">
   <img src="images/VIEntrevista6.png" alt="PB" width="500">
@@ -4036,20 +4034,25 @@ CARRERA : Ingeniería de Software
 CURSO : Desarrollo de Aplicaciones Open Source
 SECCIÓN: 4348
 PROFESORES:
-
+	Bautista Ubillús, Efraín Ricardo
+	Castro Veramendi, Rafael Oswaldo
+	Flores Moroco, Juan Antonio
+	Mori Paiva, Hugo Allan
+	Robles Fernández, Iván
+	Sánchez Seña, Alberto Wilmer
+	Velásquez Núñez, Ángel Augusto
 AUDITOR: FOUNDEX
-
 CLIENTE(S):
- - Fiorella Perez
- - Denisse Vargas
- - Fernando Mayta
- - Milagros Arellano
- - Alyssa Ortega
- - Karolay Correa
+	Fiorella Perez
+ 	Denisse Vargas
+ 	Fernando Mayta
+ 	Milagros Arellano
+ 	Alyssa Ortega
+ 	Karolay Correa
 
-**SITE O APP A EVALUAR:** ARQUITECH
+***SITE O APP A EVALUAR:*** ArquiTech
 
-**TAREAS A EVALUAR:**
+***TAREAS A EVALUAR:***
 
 *El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
 
@@ -4161,10 +4164,8 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 Fernando comentó que no vio rápidamente el botón "Iniciar Sesión" al desplazarse por la Landing Page, lo que indica que no está lo suficientemente destacado. Esto afecta la facilidad de acceso inicial para nuevos usuarios, ya que deben buscarlo entre el contenido extenso, lo que puede generar frustración y retrasar la tarea de iniciar sesión.
 
-**Figura**
-
+**Figura 111**  
 *Captura conceptual de Landing Page con botón poco visible*
-
 <p align="center">
   <img src="images/EHProblema1.png" alt="PB" width="500">
 </p>
@@ -4177,7 +4178,7 @@ Resaltar el botón con un color contrastante y colocarlo en la parte superior o 
 
 <br><br>
 
-**PROBLEMA #2:** *Escalabilidad incierta con múltiples proyectos.*
+**PROBLEMA #2:** *Escalabilidad incierta con múltiples proyectos.* 
 
 ***Severidad:*** 2
 
@@ -4188,8 +4189,7 @@ Resaltar el botón con un color contrastante y colocarlo en la parte superior o 
 Fernando expresó preocupación sobre el rendimiento de la plataforma al visualizar cards de proyectos cuando supervisa múltiples obras simultáneamente, sugiriendo que la escalabilidad no está clara. Esto podría reducir la eficiencia si la interfaz se vuelve lenta o confusa al manejar varios proyectos, afectando la tarea de visualizar cards de forma efectiva.
 
 
-**Figura**
-
+**Figura 112**  
 *Captura conceptual de cards de proyectos sin indicador de carga*
 
 <p align="center">
@@ -4214,7 +4214,7 @@ Implementar un sistema de paginación o un indicador de carga para proyectos mú
 
 Karolay sugirió la necesidad de filtrar el "Reporte Semanal" por fechas específicas, pero la falta de esta opción limita su control sobre los datos históricos al acceder al reporte. Esto reduce la flexibilidad y eficiencia al revisar información más allá de la semana actual, afectando su capacidad de análisis.
 
-**Figura**
+**Figura 113**
 
 *Captura conceptual de Reporte Semanal sin filtro de fechas*
 
@@ -4241,7 +4241,7 @@ Añadir un desplegable o calendario en la pestaña "Reportes" para seleccionar r
 Fiorella encontró la Landing Page larga, sugiriendo un botón para bajar rápido a secciones, afectando la eficiencia de navegación.
 
 
-**Figura**
+**Figura 114**
 
 *Problema#4*
 
@@ -4268,7 +4268,7 @@ Añadir botones ancla o un menú fijo.
 Denisse propuso menús más visuales, ya que los actuales del sidenavbar pueden ser confusos al acceder a detalles.
 
 
-**Figura**
+**Figura 115**
 
 *Problema #5*
 
@@ -4295,7 +4295,7 @@ Añadir íconos y colores a las pestañas del sidenavbar.
 Milagros sugirió indicadores clave, cuya ausencia dificulta la toma de decisiones al visualizar 
 
 
-**Figura**
+**Figura 116**
 
 *Problema #6* 
 
@@ -4315,15 +4315,13 @@ Incluir indicadores (ej. tareas pendientes) en las cards.
 
 En esta sección, presentamos el Video About the Product, diseñado para captar la atención de los visitantes de nuestro Landing Page y los usuarios de nuestras aplicaciones, ofreciendo una visión clara y atractiva del modelo de negocio y las características principales de nuestra solución de software, Arquitech. Este video tiene como objetivo principal comunicar cómo nuestra plataforma facilita procesos clave como la creación de usuarios de manera eficiente y segura. Dirigido tanto a potenciales clientes interesados en conocer las capacidades de nuestro producto como a usuarios que desean realizar tareas relacionadas con la gestión de usuarios, el video adopta un tono profesional, innovador y accesible, alineado con la identidad de nuestra plataforma. A través de una demostración dinámica de las funcionalidades, el video resalta la facilidad de uso y la integración con una base de datos. Además, incluye un testimonio positivo de un usuario participante en las entrevistas de validación, reforzando la credibilidad y el valor de nuestra solución. Este contenido busca inspirar confianza y motivar a los espectadores a explorar y adoptar nuestra plataforma para optimizar sus procesos.
 
-**Figura**  
-*Analíticas de participación TB1*  
+**Figura 117**  
+*Video About-the-product*  
 <p align="center">
   <img src="images/abouttheproduct.jpg" alt="PB" width="1000">
 </p> 
 
 *Nota.* Elaboración propia. Obtenido de [https://www.youtube.com/watch?v=k3Z0771Au1Y](https://www.youtube.com/watch?v=k3Z0771Au1Y)
-
-
 
 
 # Conclusiones  
@@ -4351,7 +4349,7 @@ En esta sección, presentamos el Video About the Product, diseñado para captar 
 
 En este video,  los miembros del equipo compartieron sus experiencias y contribuciones durante el proyecto, destacando sus roles, desafíos y aprendizajes.
 
-	* Contribuciones del equipo
+* Contribuciones del equipo
 
 	1. Raúl Bellido Salas se enfocó en organizar entrevistas para comprender las funcionalidades del proyecto y en distribuir tareas tanto para el desarrollo frontend como backend. Contribuyó en la creación de usuarios y en los detalles del proyecto, pero mencionó que enfrentó desafíos en la coordinación debido a los diferentes horarios. Resaltó la importancia del flujo de trabajo y la organización para futuros proyectos.
 
@@ -4363,7 +4361,7 @@ En este video,  los miembros del equipo compartieron sus experiencias y contribu
 
 	5. Melisa Sulca Silva contribuyó en varios aspectos de la documentación y en la codificación tanto del frontend como del backend. Señaló que, aunque el equipo trabajó bien en conjunto, a menudo entregaban el trabajo a último momento, lo cual indica la necesidad de una mejor gestión del tiempo.
 
-	*Principales aprendizajes
+* Principales aprendizajes
 
 	- El equipo reconoció la importancia de la comunicación y la organización en los proyectos colaborativos.
 	- Cada integrante reflexionó sobre su crecimiento personal y las habilidades adquiridas, como el diseño centrado en el usuario, la gestión de código y la planificación de sprints, que serán útiles en futuros cursos y en su desarrollo profesional.
@@ -4371,8 +4369,8 @@ En este video,  los miembros del equipo compartieron sus experiencias y contribu
 En general, la experiencia del equipo resaltó la importancia de la colaboración, la distribución de tareas y la mejora continua en la dinámica del trabajo en equipo.
 
 
-**Figura**  
-*Analíticas de participación TB1*  
+**Figura 118**  
+*Video About-the-team*  
 <p align="center">
   <img src="images/abouttheteam.JPG" alt="PB" width="1000">
 </p> 
@@ -4384,19 +4382,19 @@ En general, la experiencia del equipo resaltó la importancia de la colaboració
 
 #
 
-Angular. (s.f.). Angular coding style guide. [https://angular.io/guide/styleguide](https://angular.io/guide/styleguide)   
+Angular. (s.f.). *Angular coding style guide.* [https://angular.io/guide/styleguide](https://angular.io/guide/styleguide)   
 Buildertrend. (s.f.). *Construction Management  Software*. Buildertrend. [Recuperado el dia 19 de abril de 2025, de](https://www.procore.com/es)  [https://buildertrend.com/](https://buildertrend.com/)  
 Buildwise. (s.f.). *Buildwise is there for you*. Buildwise \- The innovation center for the construction sector. [Recuperado el dia 19 de abril de 2025, de](https://www.procore.com/es) [https://www.buildwise.be/en/](https://www.buildwise.be/en/)  
-Conventional Commits. (s.f.). Conventional Commits v1.0.0. [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)  
-Driessen, V. (2010, January 5). A successful Git branching model. Nvie. [https://nvie.com/posts/a-successful-git-branching-model/](https://nvie.com/posts/a-successful-git-branching-model/)   
-Google. (s.f.). Google HTML/CSS style guide. [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)   
-Google. (s.f.). Google Java style guide. [https://google.github.io/styleguide/javaguide.html](https://google.github.io/styleguide/javaguide.html)   
-Google. (s.f.). Google TypeScript style guide. [https://google.github.io/styleguide/tsguide.html](https://google.github.io/styleguide/tsguide.html)   
-Procore. (s.f.). *Software de gestión de la construcción*. Procore Technologies. [Recuperado el dia 19 de abril de 2025, de https://www.procore.com/es](https://www.procore.com/es)  
-Semantic Versioning. (s.f.). Semantic Versioning 2.0.0. [https://semver.org/](https://semver.org/)   
-SpecFlow. (s.f.). Gherkin conventions for readable specifications. [https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)   
-Spring. (s.f.). Spring Boot features. [https://docs.spring.io/spring-boot/docs/current/reference/html/features.html](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html)   
-W3Schools. (s.f.). HTML style guide and coding conventions. [https://www.w3schools.com/html/html5\_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp) 
+Conventional Commits. (s.f.). *Conventional Commits v1.0.0.* [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)  
+Driessen, V. (2010, January 5). *A successful Git branching model.* Nvie. [https://nvie.com/posts/a-successful-git-branching-model/](https://nvie.com/posts/a-successful-git-branching-model/)   
+Google. (s.f.). *Google HTML/CSS style guide.* [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)   
+Google. (s.f.). *Google Java style guide.* [https://google.github.io/styleguide/javaguide.html](https://google.github.io/styleguide/javaguide.html)   
+Google. (s.f.). *Google TypeScript style guide.* [https://google.github.io/styleguide/tsguide.html](https://google.github.io/styleguide/tsguide.html)   
+Procore. (s.f.). *Software de gestión de la construcción.* Procore Technologies. [Recuperado el dia 19 de abril de 2025, de https://www.procore.com/es](https://www.procore.com/es)  
+Semantic Versioning. (s.f.). *Semantic Versioning 2.0.0.* [https://semver.org/](https://semver.org/)   
+SpecFlow. (s.f.). *Gherkin conventions for readable specifications.* [https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)   
+Spring. (s.f.). *Spring Boot features.* [https://docs.spring.io/spring-boot/docs/current/reference/html/features.html](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html)   
+W3Schools. (s.f.). *HTML style guide and coding conventions.* [https://www.w3schools.com/html/html5\_syntax.asp](https://www.w3schools.com/html/html5_syntax.asp) 
 
 <hr>
 
@@ -4404,6 +4402,10 @@ W3Schools. (s.f.). HTML style guide and coding conventions. [https://www.w3schoo
 
 #
 
-Link del video de exposición TP1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ec_o-e8Ty8lCtNdDnvheiHEB00cNJ-8jksf93gQKrMthCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SyNpYf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ec_o-e8Ty8lCtNdDnvheiHEB00cNJ-8jksf93gQKrMthCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SyNpYf)
+Anexo A. Link del video de exposición TP1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ec_o-e8Ty8lCtNdDnvheiHEB00cNJ-8jksf93gQKrMthCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SyNpYf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/Ec_o-e8Ty8lCtNdDnvheiHEB00cNJ-8jksf93gQKrMthCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SyNpYf)
 
-Link del video About the Team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EQCTD1-Mk7dLnVOrxnxxUg4B71nnvQD3fAwOSZFhL_nNsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pheJMQ]
+Anexo B. Link del video de exposición TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/EXWQHmhvNhpJkBhYVJtiMToBAkdavOhipSiJX7zUg4mI8w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N26Vdv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314513_upc_edu_pe/EXWQHmhvNhpJkBhYVJtiMToBAkdavOhipSiJX7zUg4mI8w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=N26Vdv)
+
+Anexo C. Link del video About the Product: [https://www.youtube.com/watch?v=k3Z0771Au1Y](https://www.youtube.com/watch?v=k3Z0771Au1Y)
+
+Anexo D. Link del video About the Team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EQCTD1-Mk7dLnVOrxnxxUg4B71nnvQD3fAwOSZFhL_nNsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pheJMQ]
