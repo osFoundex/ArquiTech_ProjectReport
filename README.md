@@ -3871,7 +3871,7 @@ Link del repositorio:
 
 ### *5.3.1. Diseño de Entrevistas.*  
 
-**Segmento Objetivo #1: Supervisores de Obras**
+<ins> **Segmento Objetivo #1: Supervisores de Obras** </ins>
 
 1. **Perfil del entrevistado:**
 	- ¿Cuál es tu nombre y tu rol en la supervisión de obras?
@@ -3896,7 +3896,7 @@ Link del repositorio:
 
 <br>
 
-**Segmento Objetivo #2: Contratantes de Empresas Privadas**
+<ins> **Segmento Objetivo #2: Contratantes de Empresas Privadas** </ins>
 
 1. **Perfil del entrevistado:**
 	- ¿Cuál es tu nombre y tu rol como contratante de proyectos de construcción?
@@ -3920,7 +3920,7 @@ Link del repositorio:
 
 ### *5.3.2. Registro de Entrevistas.*  
 
-<u>**Segmento objetivo #1: Supervisores de obra**</u>
+<ins> **Segmento objetivo #1: Supervisores de obra** </ins>
 
 **Entrevistada #1: Fiorella Perez**
 
@@ -3972,7 +3972,7 @@ Su entusiasmo por las tablas interactivas refleja una necesidad práctica de efi
 
 <br>
 
-<u>**Segmento Objetivo #2: Contratantes de empresas privadas**</U>
+<ins> **Segmento Objetivo #2: Contratantes de empresas privadas** </ins>
 
 **Entrevista #4: Milagros Arellano**
 
