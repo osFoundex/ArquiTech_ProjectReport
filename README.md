@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Informe del Trabajo Final</strong></h1>
-<h3 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h1>
+<h3 align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></h3>
 
 <div align="center">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Descripción de la imagen" style="width: 50%; height: auto;">
@@ -7,8 +7,8 @@
 
 <h4 align="center"><strong>Ingeniería de Software</strong></h4>
 <h4 align="center"><strong> Desarrollo de Aplicaciones Open Source - 4348</strong></h4>
-<h4 align="center"><strong>Docente: Hugo Allan Mori Paiva </h4>
-<h4 align="center">Startup: Arquitech</strong></h4>
+<h4 align="center"><strong>Docente: </strong>Hugo Allan Mori Paiva</h4>
+<h4 align="center"><strong>Startup: </strong>Arquitech</h4>
 
 <p align="center"><strong>Team members:</strong></p>
 
@@ -75,6 +75,12 @@
 <td class="c5" colspan="1" rowspan="1"><p>Raúl Bellido Salas</p><p></p><p>Daniela Araceli Gómez Flores</p><p></p><p>Sandra Paula Luyo Correa</p><p></p><p>Ernesto Rodas Sotomayor</p><p></p><p>Melisa Geraldine Sulca</p></td>
 <td class="c5" colspan="1" rowspan="1"><p>En esta tercera entrega, hemos agregado la documentación del Sprint 3 desarrollado, Validation Interviews (Diseño de entrevistas, registro de entrevistas y evaluaciones según heurísticas), también se realizó el Video About-the-Product y se actualizaron las conclusiones, bibliografía y anexos.</p></td>
 </tr>
+<tr class="c7">
+<td class="c5" colspan="1" rowspan="1"><p>TF</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>09/07/2025</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>Raúl Bellido Salas</p><p></p><p>Daniela Araceli Gómez Flores</p><p></p><p>Sandra Paula Luyo Correa</p><p></p><p>Ernesto Rodas Sotomayor</p><p></p><p>Melisa Geraldine Sulca</p></td>
+<td class="c5" colspan="1" rowspan="1"><p>En esta última entrega del reporte, hemos agregado la documentación del Sprint 4 que hemos desarrollado, se actualizaron el registro de versiones, collaboration, los Project Report Collaboration Insights, Student Outcome el Video About-the-Product, las conclusiones, bibliografía y anexos. También se agregaron recomendaciones.</p></td>
+</tr>
 </table>
 </body>
 
@@ -115,6 +121,19 @@ Para la documentación de esta entrega, hemos realizado los commits de nuestras 
 <p align="center">
   <img src="images/tb2CollaborationInsights.PNG" alt="PB" width="1000">
 </p>
+
+*Nota.* Elaboración propia. 
+
+<ins> **TF:** </ins> 
+Para el reporte de la entrega final de nuestro proyecto, hemos realizado los commits de nuestras partes al repositorio "ArquiTech_ProjectReport". A continuación, una imagen los Insights del repositorio mencionado para comprobar la participación de cada uno de los miembros del equipo.
+
+**Figura 4**  
+*Analíticas de participación del TF*  
+<p align="center">
+  <img src="images/tfCollaborationInsights.PNG" alt="PB" width="1000">
+</p>
+
+*Nota.* Elaboración propia. 
 
 #
 <hr>
@@ -271,11 +290,20 @@ Para la documentación de esta entrega, hemos realizado los commits de nuestras 
             <a href="#5234-development-evidence-for-sprint-review">5.2.3.4. Development Evidence for Sprint Review</a><br>
             <a href="#5235-execution-evidence-for-sprint-review">5.2.3.5. Execution Evidence for Sprint Review</a><br>
             <a href="#5236-services-documentation-evidence-for-sprint-review">5.2.3.6. Services Documentation Evidence for Sprint Review</a><br>
-        <a href="#5237-software-deployment-evidence-for-sprint-review">5.2.3.7. Software Deployment Evidence for Sprint Review</a>
-<br>
-<a href="#5238-team-collaboration-insights-during-sprint">5.2.3.8. Team Collaboration Insights during Sprint</a>
-
-</ul>
+        	<a href="#5237-software-deployment-evidence-for-sprint-review">5.2.3.7. Software Deployment Evidence for Sprint Review</a><br>
+			<a href="#5238-team-collaboration-insights-during-sprint">5.2.3.8. Team Collaboration Insights during Sprint</a>
+			</ul>
+		<a href="#524-sprint-4">5.2.4. Sprint 4</a><br>
+     		<ul>
+            <a href="#5241-sprint-planning-4">5.2.4.1. Sprint Planning 4</a><br>
+            <a href="#5242-aspect-leaders-and-collaborators">5.2.4.2. Aspect Leaders and Collaborators</a><br>
+            <a href="#5243-sprint-backlog-4">5.2.4.3. Sprint Backlog 4</a><br>
+            <a href="#5244-development-evidence-for-sprint-review">5.2.4.4. Development Evidence for Sprint Review</a><br>
+            <a href="#5245-execution-evidence-for-sprint-review">5.2.4.5. Execution Evidence for Sprint Review</a><br>
+            <a href="#5246-services-documentation-evidence-for-sprint-review">5.2.4.6. Services Documentation Evidence for Sprint Review</a><br>
+            <a href="#5247-software-deployment-evidence-for-sprint-review">5.2.4.7. Software Deployment Evidence for Sprint Review</a><br>
+            <a href="#5248-team-collaboration-insights-during-sprint">5.2.4.8. Team Collaboration Insights during Sprint</a>
+      </ul>
 </ul>
 <a href="#53-validation-interviews">5.3. Validation Interviews.</a>
 <ul>
@@ -302,6 +330,8 @@ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - S
 **Criterio:** *Capacidad de comunicarse efectivamente con un rango de audiencias.*   
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC \- Student Outcome 3\.
 
+**Objetivo general:** Desarrollar ArquiTech, una aplicación basada en Domain-Driven Design que facilite la gestión integral de obras de construcción, optimizando el control de tareas, trabajadores, materiales, maquinaria, incidentes y roles de usuario, mediante una arquitectura modular con frontend en Angular y backend en Java, promoviendo la colaboración y el liderazgo compartido en entornos universitarios de desarrollo ágil.
+
 <table class="c9">
 <tr class="c10">
 <td class="c3" colspan="1" rowspan="1"><p>Criterio específico</p></td>
@@ -311,52 +341,72 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 <tr class="c10">
 <td class="c3" colspan="1" rowspan="1"><p>Comunica oralmente con efectividad a diferentes rangos de audiencia.</p></td>
 <td class="c3" colspan="1" rowspan="1">
-	<p>Bellido Salas, Raúl</p>
+	<p><strong>Bellido Salas, Raúl</strong></p>
 	<p><i>TB1</i></p>
 	<p>Investigué los segmentos objetivos. Redacté la Task matrix. Ayudé en la creación del diagrama de clases. Modelé el diagrama de datos. Realicé 2 entrevistas para el primer segmento objetivo. Ayudé en la modelación de wireframes, y redacté el sprint planning</p>
 	<p><i>TP</i></p>
 	<p>Me encargué de realizar código para el Frontend Web Application. También realicé el Software Deployment Evidence for Sprint Review y las conclusiones.</p>
 	<p><i>TB2</i></p>
 	<p>Realicé el backend de la gestión de usuarios y roles, y la gestión de proyectos. Además, realicé el deployment del backend y entrevistas para la validación del producto.</p>
+	<p><i>TF</i></p>
+	<p>Corregí errores de la entrega pasada. Coloqué el nuevo video del student outcome en la landing page. Realicé del Sprint 4: Execution Evidence for Sprint Review y Software Deployment Evidence for Sprint Review. En el backend realicé los endpoints de usuarios y roles, implementé la autenticación.</p>
 	<p></p>
-	<p>Gómez Flores, Daniela Araceli</p>
+	<p><strong>Gómez Flores, Daniela Araceli</strong></p>
 	<p><i>TB1</i></p>
 	<p>Para esta entrega, realicé los Lean UX Problem Statements, Estrategias y tácticas frente a competidores, User Personas, User Journey Mapping, Empathy Mapping, 5 user stories, impact mapping, product backlog de mis user stories, organization systems, labeling systems, diagrama de contexto, diagrama de contenedores, landing page wireframe, landing page mockup.</p>
 	<p><i>TP</i></p>
 	<p>Para esta entrega actualicé la landing page, ayudé a agregar conclusiones e hice parte del Sprint Backlog 2. Ayudé con el Frontend Web Application.</p>
 	<p><i>TB2</i></p>
 	<p>Realicé el backend de la gestión de incidentes. Además, realicé entrevistas para la validación del producto y la evaluación según heurística.</p>
+	<p><i>TF</i></p>
+	<p>En el reporte, del sprint 4 realicé: Sprint Planning 4 y Services Documentation Evidence for Sprint Review. Del backend realicé la conexión con el frontend de los endpoints de incidentes.</p>
 	<p></p>
-	<p>Luyo Correa, Sandra Paula</p>
+	<p><strong>Luyo Correa, Sandra Paula</strong></p>
 	<p><i>TB1</i></p>
 	<p>Me encargué de realizar el registro de versiones, el project report collaboration insights, Lean UX Assumptions, Lean UX Hypothesis Statements, diseño de entrevistas, 2 entrevistas, As-Is Scenario Mapping, To-Be Scenario Mapping, 5 user stories, el product backlog de dichas historias, Web App Applications Prototyping, Software Object-Oriented Design, Source Code Management, Source Code Style Guide & Conventions, Sprint Backlog 1, Software Documentation Evidence for Sprint Review.</p>
 	<p><i>TP</i></p>
 	<p>Para esta entrega, me encargué de realizar Sprint Planning 2, cuadro de Aspect Leaders y Development Evidence, parte del Product Backlog y de colocar los Team Collaboration Insights. Ayudé con el Frontend Web Application.</p>
 	<p><i>TB2</i></p>
 	<p>Realicé el backend de la gestión de tareas y trabajadores. Además, hice entrevistas para la validación del producto y la evaluación según heurística.</p>
+	<p><i>TF</i></p>
+	<p>En el reporte de la entrega final, actualicé el registro de versiones del informe, Project Report Collaboration Insights y el Student Outcome. También, del sprint 4 realicé parte del Sprint Backlog 4 y Team Collaboration Insights during Sprint. Del backend realicé la conexión con el frontend de los endpoints de los bounded context de tareas y trabajadores.</p>
 	<p></p>
-	<p>Rodas Sotomayor, Ernesto</p>
+	<p><strong>Rodas Sotomayor, Ernesto</strong></p>
 	<p><i>TB1</i></p>
 	<p>Realicé los antecedentes (5ws y 2H),los análisis de las entrevistas, el UX Canvas, SEO Tags and Meta Tags, Searching Systems, Navigation Systems, App wireframes, App mock Ups</p>
 	<p><i>TP</i></p>
 	<p>Me encargué de agregar User flows al reporte. Ayudé con el Frontend Web Application.</p>
 	<p><i>TB2</i></p>
 	<p>Realicé el backend de la gestión de maquinaria. Además, hice una entrevista para la validación de nuestro producto.</p>
+	<p><i>TF</i></p>
+	<p>Realicé Aspect Leaders and Collaborators en la documentación del Sprint 4 y también las recomendaciones del proyecto. En el backend realicé la conexión con el frontend de los endpoints de maquinaria.</p>
 	<p></p>
-	<p>Sulca Silva, Melisa Geraldine</p>
+	<p><strong>Sulca Silva, Melisa Geraldine</strong></p>
 	<p><i>TB1</i></p>
 	<p>Realice el Startup Profile, el Análisis Competitivo, el Style Guidelines, General Style Guide, el Web Style Guidelines, una épica con sus respectivos user stories, el diagrama de componentes y los wireframes de las user stories.</p>
 	<p><i>TP</i></p>
 	<p>Me encargué de realizar nuevos wireframes de ArquiTech. Contribuí con las conclusiones. Ayudé con el Frontend Web Application.</p>
 	<p><i>TB2</i></p>
 	<p>Realicé el backend de gestión de materiales. Además, hice una entrevista para la validación de nuestro producto.</p>
+	<p><i>TF</i></p>
+	<p>Realicé parte del Sprint Backlog 4 y las conclusiones del proyecto. En el backend realicé la conexión con el frontend de los endpoints de materiales.</p>
 </td>
 <td class="c3" colspan="1" rowspan="1">
-	<p><i>TB1:</i> La presentación del proyecto Arquitech ha demostrado la capacidad del equipo para comunicar de manera clara y efectiva su propuesta de valor a diversos públicos, desde especialistas técnicos hasta posibles usuarios no familiarizados con soluciones digitales. Al adaptar el lenguaje y los recursos visuales según la audiencia, se logró transmitir con precisión los beneficios y funcionalidades de la plataforma.</p>
+	<p><ins><i><strong>TB1:</strong></i></ins></p>
+	<p><strong>Objetivo específico: </strong> Exponer de manera clara el problema identificado, nuestros primeros hallazgos y los segmentos objetivo a través de entrevistas, presentaciones orales y dinámicas grupales, logrando transmitir nuestras ideas tanto a compañeros como al docente.</p>
+	<p><strong>Conclusión: </strong>La presentación del proyecto Arquitech ha demostrado la capacidad del equipo para comunicar de manera clara y efectiva su propuesta de valor a diversos públicos, desde especialistas técnicos hasta posibles usuarios no familiarizados con soluciones digitales. Al adaptar el lenguaje y los recursos visuales según la audiencia, se logró transmitir con precisión los beneficios y funcionalidades de la plataforma.</p>
 	<p></p>
-	<p><i>TP:</i> Como equipo, al actualizar la Landing Page y desarrollar la primera versión del Frontend Web Application de ArquiTech durante el Sprint 2, fortalecimos nuestra capacidad para comunicar oralmente de manera efectiva a distintos rangos de audiencia. Al presentar nuestros avances en revisiones de sprint, coordinar tareas entre líderes y colaboradores, y explicar el funcionamiento de las funcionalidades implementadas, aprendimos a adaptar nuestro lenguaje técnico a contextos más accesibles para usuarios, compañeros y posibles interesados del proyecto. Esta experiencia nos permitió mejorar nuestra claridad, cohesión y confianza al exponer resultados de desarrollo en entornos colaborativos.</p>
+	<p><ins><i><strong>TP:</strong></i></ins></p>
+	<p><strong>Objetivo específico: </strong>Presentar los avances técnicos del Sprint 2, evidenciando el desarrollo inicial de la aplicación y justificando nuestras decisiones frente al grupo y el docente, con claridad técnica y enfoque en el valor funcional.</p>
+	<p><strong>Conclusión: </strong>Como equipo, al actualizar la Landing Page y desarrollar la primera versión del Frontend Web Application de ArquiTech durante el Sprint 2, fortalecimos nuestra capacidad para comunicar oralmente de manera efectiva a distintos rangos de audiencia. Al presentar nuestros avances en revisiones de sprint, coordinar tareas entre líderes y colaboradores, y explicar el funcionamiento de las funcionalidades implementadas, aprendimos a adaptar nuestro lenguaje técnico a contextos más accesibles para usuarios, compañeros y posibles interesados del proyecto. Esta experiencia nos permitió mejorar nuestra claridad, cohesión y confianza al exponer resultados de desarrollo en entornos colaborativos.</p>
 	<p></p>
-	<p><i>TB2:</i> El equipo continuó desarrollando y validando el backend de ArquiTech en diferentes áreas clave, incluyendo la gestión de usuarios, incidentes, tareas, trabajadores, maquinaria, y materiales. Además, se implementó mejoras en el frontend. Asimismo, las entrevistas de validación fueron una parte importante del proceso, permitiendo recoger retroalimentación valiosa de los usuarios y ajustar la plataforma a sus necesidades. La comunicación oral dentro del equipo fue efectiva para coordinar los avances, mientras que las presentaciones de resultados fueron claras y adaptadas al nivel de conocimiento de los asistentes.</p>
+	<p><ins><i><strong>TB2:</strong></i></ins></p>
+	<p><strong>Objetivo específico: </strong>Validar nuestro producto comunicando nuestras funcionalidades a usuarios reales para que lo evalúen, adaptando nuestro lenguaje a sus perfiles y recogiendo retroalimentación útil para mejorar ArquiTech.</p>
+	<p><strong>Conclusión: </strong>El equipo continuó desarrollando y validando el backend de ArquiTech en diferentes áreas clave, incluyendo la gestión de usuarios, incidentes, tareas, trabajadores, maquinaria, y materiales. Además, se implementó mejoras en el frontend. Asimismo, las entrevistas de validación fueron una parte importante del proceso, permitiendo recoger retroalimentación valiosa de los usuarios y ajustar la plataforma a sus necesidades. La comunicación oral dentro del equipo fue efectiva para coordinar los avances, mientras que las presentaciones de resultados fueron claras y adaptadas al nivel de conocimiento de los asistentes.</p>
+	<p></p>
+	<p><ins><i><strong>TF:</strong></i></ins></p>
+	<p><strong>Objetivo específico: </strong>Exponer el cierre del proyecto explicando tanto los aspectos funcionales como técnicos de ArquiTech, demostrando dominio del sistema y capacidad de respuesta frente a preguntas de diversa índole.</p>
+	<p><strong>Conclusión: </strong>En la entrega final, como equipo Foundex comunicamos de forma clara y precisa los avances y resultados del proyecto ArquiTech, adaptando nuestro discurso a diferentes públicos. La presentación del sistema funcionando, junto con la explicación de su arquitectura e integración, evidenció nuestra capacidad de expresarnos con propiedad técnica y enfoque práctico.</p>
 </td>
 </tr>
 <tr class="c11">
@@ -402,11 +452,20 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
 	<p><i>TB2</i></p>
 	<p>Contribuí con la documentación visual del sprint, además, ayudé a comunicar el diseño de la plataforma de forma clara, asegurando que todos los involucrados comprendieran los avances y el enfoque del proyecto.</p>
 <td class="c3" colspan="1" rowspan="1">
-	<p><i>TB1:</i> La elaboración del informe y los recursos complementarios del proyecto permitió ejercitar una comunicación escrita estructurada, concisa y orientada a distintos perfiles de lectura. A través de fichas, mapas, cuadros y descripciones técnicas claras, se facilitó la comprensión del problema, la solución propuesta y su impacto, tanto para audiencias técnicas como para usuarios administrativos.</p>
+	<p><ins><i><strong>TB1:</strong></i></ins></p>
+	<p><strong>Objetivo específico: </strong>Documentar de forma estructurada los insumos UX, análisis de entrevistas, modelado de escenarios, user stories, y diagramas arquitectónicos en el informe, permitiendo que cualquier lector comprenda el enfoque inicial del proyecto y su justificación.</p>
+	<p><strong>Conclusión: </strong>La elaboración del informe y los recursos complementarios del proyecto permitió ejercitar una comunicación escrita estructurada, concisa y orientada a distintos perfiles de lectura. A través de fichas, mapas, cuadros y descripciones técnicas claras, se facilitó la comprensión del problema, la solución propuesta y su impacto, tanto para audiencias técnicas como para usuarios administrativos.</p>
 	<p></p>
-	<p><i>TP:</i> A lo largo del Sprint 2, al actualizar la Landing Page y desarrollar la primera versión del Frontend Web Application de ArquiTech, reforzamos nuestra capacidad de comunicar por escrito con efectividad a diferentes rangos de audiencia. La elaboración de documentación técnica, reportes de avance, planificación de sprint, registro de colaboración y evidencias detalladas nos permitió transmitir información clara, estructurada y adaptada tanto a usuarios técnicos como a stakeholders no especializados. Este proceso nos ayudó a desarrollar habilidades clave para documentar y comunicar con precisión el progreso y los objetivos del proyecto, asegurando una comprensión compartida entre todos los involucrados.</p>
+	<p><ins><i><strong>TP:</strong></i></ins></p>
+	<p><strong>Objetivo específico: </strong>Presentar los avances técnicos del Sprint 2, evidenciando el desarrollo inicial de la aplicación y justificando nuestras decisiones frente al grupo y el docente, con claridad técnica y enfoque en el valor funcional.</p>
+	<p><strong>Conclusión: </strong>A lo largo del Sprint 2, al actualizar la Landing Page y desarrollar la primera versión del Frontend Web Application de ArquiTech, reforzamos nuestra capacidad de comunicar por escrito con efectividad a diferentes rangos de audiencia. La elaboración de documentación técnica, reportes de avance, planificación de sprint, registro de colaboración y evidencias detalladas nos permitió transmitir información clara, estructurada y adaptada tanto a usuarios técnicos como a stakeholders no especializados. Este proceso nos ayudó a desarrollar habilidades clave para documentar y comunicar con precisión el progreso y los objetivos del proyecto, asegurando una comprensión compartida entre todos los involucrados.</p>
 	<p></p>
-	<p><i>TB2:</i> El equipo ha demostrado una capacidad sobresaliente para comunicar de manera clara y efectiva tanto en la documentación escrita como en la presentación de avances del proyecto. A través de la elaboración de Sprint Backlogs, la creación del backend, la documentación técnica y la planificación del Sprint, se logró transmitir de forma estructurada el progreso y los objetivos del proyecto a audiencias con diferentes niveles de conocimiento técnico. </p>
+	<p><ins><i><strong>TB2:</strong></i></ins></p>
+	<p><strong>Objetivo específico: </strong>Incluir en el informe entrevistas, evaluaciones heurísticas, documentación técnica del backend y análisis colaborativo del sprint, reflejando un trabajo integral y comprensible para audiencias diversas.</p>
+	<p><strong>Conclusión: </strong>El equipo ha demostrado una capacidad sobresaliente para comunicar de manera clara y efectiva tanto en la documentación escrita como en la presentación de avances del proyecto. A través de la elaboración de Sprint Backlogs, la creación del backend, la documentación técnica y la planificación del Sprint, se logró transmitir de forma estructurada el progreso y los objetivos del proyecto a audiencias con diferentes niveles de conocimiento técnico. </p>
+	<p><ins><i><strong>TF:</strong></i></ins></p>
+	<p><strong>Objetivo específico: </strong>Exponer el cierre del proyecto explicando tanto los aspectos funcionales como técnicos de ArquiTech, demostrando dominio del sistema y capacidad de respuesta frente a preguntas de diversa índole.</p>
+	<p><strong>Conclusión: </strong>La documentación del TF fue clara, estructurada y completa. Reflejamos el trabajo realizado en el Sprint 4, la integración de los módulos, la autenticación y la colaboración entre miembros. El informe resultante permitió comunicar de manera efectiva tanto los aspectos funcionales como técnicos del proyecto, facilitando su comprensión a distintos tipos de audiencia.</p>
 </td>
 </tr>
 </table>
@@ -1583,9 +1642,9 @@ Monitor pequeño: 1296x1781px
 *Nota*. Elaboración Propia  
 
 
-## 4.2. Information Architecture
+## **4.2. Information Architecture**
 
-### 4.2.1. Organization Systems
+### ***4.2.1. Organization Systems***
 
 En la arquitectura de información de Arquitech, se aplican distintos sistemas de organización para estructurar el contenido de manera clara y funcional, adaptada al contexto de los usuarios del sector construcción.
 
@@ -1654,7 +1713,7 @@ Esta jerarquía ayuda a que el usuario enfoque su atención en lo prioritario al
 	Esto mejora la experiencia personalizada según el rol.
 
 
-### *4.2.2. Labeling Systems*
+### ***4.2.2. Labeling Systems***
 
 En Arquitech, se ha diseñado un sistema de etiquetado simple y funcional para evitar la sobrecarga cognitiva y facilitar la comprensión inmediata de la interfaz.
 
@@ -1679,7 +1738,7 @@ En Arquitech, se ha diseñado un sistema de etiquetado simple y funcional para e
 		* “Obreros” se relaciona con “Asistencia”, “Tareas”, “Evaluación”.
 
 
-### *4.2.3. SEO Tags and Meta Tags*
+### ***4.2.3. SEO Tags and Meta Tags***
 
 Aquí mostraremos los Meta Tagas y los SEO tags que hemos usado para poder desarrollar el landing page con el objetivo de que sea agradable para los usuarios.
 
@@ -1728,7 +1787,7 @@ Aquí mostraremos los Meta Tagas y los SEO tags que hemos usado para poder desar
 	</head>
 
 
-### *4.2.4. Searching Systems*
+### ***4.2.4. Searching Systems***
 
 Dentro de la plataforma ArquiTech, los sistemas de búsqueda han sido diseñados para facilitar el acceso rápido y eficiente a información crítica relacionada con la gestión de obras. La aplicación contempla un volumen significativo de datos relacionados con proyectos, documentos técnicos, solicitudes, trabajadores, insumos y cronogramas. Por ello, se proyecta la implementación de un sistema de búsqueda integral que ayude a los usuarios a evitar pérdidas de tiempo y a mantener el control operativo en todo momento.  
 
@@ -1747,7 +1806,7 @@ Este sistema será particularmente útil para:
 
 Una vez realizada una búsqueda, los resultados se presentarán de forma estructurada en tablas o tarjetas, con opciones para visualizar, editar o exportar la información según los permisos del usuario.
 
-### *4.2.5. Navigation Systems*
+### ***4.2.5. Navigation Systems***
 
 Los sistemas de navegación implementados en el proyecto ArquiTech han sido diseñados para garantizar una experiencia intuitiva, fluida y orientada a la consecución de objetivos por parte del usuario. Considerando que el público objetivo está conformado principalmente por supervisores de obra, contratistas y personal administrativo de empresas constructoras, se ha priorizado una arquitectura de navegación clara, jerárquica y adaptada al flujo natural de las actividades constructivas.
 
@@ -1761,23 +1820,23 @@ La navegación en la landing page tiene una estructura lineal con anclajes inter
 Este diseño permite que los visitantes comprendan rápidamente el propósito de la solución y se dirijan con claridad hacia la acción deseada.  
 
 
-## 4.3. Landing Page UI Design
+## **4.3. Landing Page UI Design**
 
-### *4.3.1. Landing Page Wireframe*
+### ***4.3.1. Landing Page Wireframe***
 <p align="center">
   <img src="images/Wireframe_Landing.JPG" alt="PB" width="500">
 </p>
 
 
-### *4.3.2. Landing Page Mock-up*
+### ***4.3.2. Landing Page Mock-up***
 <p align="center">
   <img src="images/Mockup_landing.JPG" alt="PB" width="500">
 </p>
 
 
-## 4.4. Web Applications UX/UI Design
+## **4.4. Web Applications UX/UI Design**
 
-### *4.4.1. Web Applications Wireframes.*
+### ***4.4.1. Web Applications Wireframes.***
 
 **Figura 53**  
 <p align="center">
@@ -1823,7 +1882,7 @@ Este diseño permite que los visitantes comprendan rápidamente el propósito de
 <br>
 
 
-### *4.4.2. Web Applications Wire Diagrams*
+### ***4.4.2. Web Applications Wire Diagrams***
 **Segmento #2: Contratantes de empresa privadas** 
 <br>
 **User Goal 1: Supervisión de Materiales y personal de obra**
@@ -1859,7 +1918,7 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 
 
-### 4.4.3. Web Applications Mock-ups
+### ***4.4.3. Web Applications Mock-ups***
 **Figura 61**  
 <p align="center">
   <img src="images/mockup1.png" alt="PB" width="500">
@@ -1911,112 +1970,122 @@ Para acceder a las secciones de maquinarias e incidentes debes presionar aquello
 
 ### **4.4.4. Web Applications User Flow Diagrams**
 
-### Segmento 1: Supervisores de obra
+<ins>**Segmento 1: Supervisores de obra**</ins>
 
 **User Goal 1:** Gestionar y controlar materiales de construcción  
 **Descripción:** El supervisor desea registrar el ingreso, uso y nivel de materiales en obra para evitar desperdicios y garantizar continuidad en las actividades.
 
 **Figura 67**  
+*User flow 1*
 <p align="center">
   <img src="images/userflow1.png" alt="PB" width="500"> 
 	
 <br>*Nota.* Elaboración propia. 
 </p>  
----
 
 **User Goal 2:** Controlar la asistencia y roles de los trabajadores  
 **Descripción:** El supervisor debe tener control total sobre el personal: quién está presente, qué tarea cumple y qué rol desempeña.
 
 **Figura 68**  
+*User flow 2*
 <p align="center">
 <img src="images/userflow2.png" alt="PB" width="500">
 	
 <br>*Nota.* Elaboración propia. 
 
----
-
 **User Goal 3:** Reportar incidencias en obra  
 **Descripción:** El supervisor reporta eventos importantes en campo (fallas de maquinaria, ausencias masivas, problemas logísticos).
 
 **Figura 69**  
+*User flow 3*
 <p align="center">
 <img src="images/userflow3.png" alt="PB" width="500">
 
 <br>*Nota.* Elaboración propia.
 
----
-
-### Segmento Objetivo #2: Contratantes de Empresas Privadas
+<ins>**Segmento Objetivo #2: Contratantes de Empresas Privadas**</ins>
 
 **User Goal 1:** Visualizar el estado y progreso de mis obras contratadas (solo lectura)  
 **Descripción:** El contratante necesita consultar las obras activas donde ha contratado los servicios, con acceso a información clara y actualizada.
 
 **Figura 70**  
+*User flow 4*
 <p align="center">
 <img src="images/userflow4.png" alt="PB" width="500">
 
 <br>*Nota.* Elaboración propia.
 
----
 
 **User Goal 2:** Visualizar el uso y estado de la maquinaria asignada a la obra  
 **Descripción:** Permitir que el contratante consulte, en tiempo real y de forma clara, qué maquinarias están siendo utilizadas en sus obras, cuál es su estado operativo y cómo impactan en el avance del proyecto.
 
 **Figura 71**  
+*User flow 5*
 <p align="center">
 <img src="images/userflow5.png" alt="PB" width="500">
+</p>
 
-<br>*Nota.* Elaboración propia.
-
----
+*Nota.* Elaboración propia.
 
 **User Goal 3:** Ver detalles del consumo de materiales y reportes de avance (en modo solo lectura)  
 **Descripción:** El contratante desea evaluar cómo se están utilizando los recursos materiales y verificar si el avance reportado está alineado con lo esperado.
 
+**Figura 72**  
+*User flow 6*
+<p align="center">
 <img src="images/userflow6.png" alt="PB" width="500">
+</p>
 
-## 4.5. Web Applications Prototyping
-**Figura 72**
+*Nota.* Elaboración propia.
+
+## **4.5. Web Applications Prototyping**
+**Figura 72**  
 *Video of Web Applications Prototype of ArquiTech*
 <p align="center">
   <img src="images/web-app-prototyping.png" alt="PB" width="500">
 </p>
 
-<br>*Nota.* Elaboración propia. Link del video:  [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUCIfTixniJPqJdWsmlCJHUB2oQZ_jRx1hPoDtGdPdiNjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BV3Le8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUCIfTixniJPqJdWsmlCJHUB2oQZ_jRx1hPoDtGdPdiNjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BV3Le8)
-
+*Nota.* Elaboración propia. Link del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUCIfTixniJPqJdWsmlCJHUB2oQZ_jRx1hPoDtGdPdiNjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BV3Le8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224602_upc_edu_pe/EUCIfTixniJPqJdWsmlCJHUB2oQZ_jRx1hPoDtGdPdiNjA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BV3Le8)
 
 ## **4.6. Domain-Driven Software Architecture**
 
-### **4.6.1. Software Architecture Context Diagrams**
+### ***4.6.1. Software Architecture Context Diagrams***
 
-**Figura 73**
-*Software Architecture Context Diagram of ArquiTech*
+**Figura 73**  
+*Software Architecture Context Diagram of ArquiTech*  
 <p align="center">
   <img src="images/Arquitech_DiagramaContexto.png" alt="PB" width="1000">
 </p>
 
-<br>*Nota.* Elaboración propia.
+*Nota.* Elaboración propia.
 
 
-### **4.6.2. Software Architecture Container Diagrams**
+### ***4.6.2. Software Architecture Container Diagrams***
 
-**Figura 74**
-*Software Architecture Container Diagram of ArquiTech*
+**Figura 74**  
+*Software Architecture Container Diagram of ArquiTech*  
 <p align="center">
   <img src="images/Arquitech_DiagramaContenedor.png" alt="PB" width="700">
 </p>
 
-<br>*Nota.* Elaboración propia.
+*Nota.* Elaboración propia.
 
+### ***4.6.3. Software Architecture Components Diagrams***
 
-### **4.6.3. Software Architecture Components Diagrams**
+**Figura 75**  
+*Software Architecture Container Diagram of ArquiTech*  
+<p align="center">
+  <img src="images/ArquiTech_DiagramaComponentes.png" alt="PB" width="700">
+</p>
+
+*Nota.* Elaboración propia.
 
 ## **4.7. Software Object-Oriented Design**
 
-### **4.7.1. Class Diagrams**
+### ***4.7.1. Class Diagrams***
 
 **Figura 75**  
-*Class Diagram of ArquiTech*
+*Class Diagram of ArquiTech*  
 <p align="center">
   <img src="images/ArquiTech - Class diagram.png" alt="PB" width="1000">
 </p>
@@ -2241,7 +2310,7 @@ En este proyecto para el product UX/UI Design se ha utilizado la plataforma Figm
 **FIGMA:** Es una herramienta de diseño de interfaces y experiencias de usuario que permite crear wireframes, mockups, prototipos interactivos y diseños de alta fidelidad. Debido a su enfoque colaborativo en tiempo real, múltiples diseñadores o desarrolladores pueden trabajar simultáneamente desde cualquier lado. Además, permite definir la estructura visual y la interacción del usuario con la aplicación antes de comenzar el desarrollo.  
 
 **Figura 77**  
-*Logo de Figma*
+*Logo de Figma*  
 <p align="center">
   <img src="images/fig-logo.png" alt="PB" width="1000">
 </p>
@@ -2563,9 +2632,9 @@ Para que nuestra landing page esté disponible para todos nuestros usuarios, la 
 
 
 
-## 5.2. Landing Page, Services & Applications Implementation
+## **5.2. Landing Page, Services & Applications Implementation**
 
-### *5.2.1. Sprint 1*
+### ***5.2.1. Sprint 1***
 
 ##### **5.2.1.1. Sprint Planning 1**
 
@@ -3824,7 +3893,52 @@ Link del repositorio:
   <img src="images/CollaborationInsights3.PNG" alt="PB" width="1000">
 </p>
 	
-*Nota.* Elaboración propia
+*Nota.* Elaboración propia. 
+
+### ***5.2.4. Sprint 4.***
+
+##### **5.2.4.1. Sprint Planning 4.** 
+
+
+##### **5.2.4.2. Aspect Leaders and Collaborators.** 
+
+
+##### **5.2.4.3. Sprint Backlog 4.** 
+
+
+##### **5.2.4.4. Development Evidence for Sprint Review.** 
+
+
+##### **5.2.4.5. Execution Evidence for Sprint Review.** 
+
+
+##### **5.2.4.6. Services Documentation Evidence for Sprint Review.** 
+
+
+##### **5.2.4.7. Software Deployment Evidence for Sprint Review.** 
+
+
+##### **5.2.4.8. Team Collaboration Insights during Sprint.**
+
+Para la integración de nuestro trabajo e implementación de la aplicación, como en las entregas anteriores, usamos GitHub. Los repositorios usados fueron:
+- osFoundex/ArquiTech_FrontendWebApp: [https://github.com/osFoundex/ArquiTech_FrontendWebApp](https://github.com/osFoundex/ArquiTech_FrontendWebApp)
+- osFoundex/ArquiTech_BackendWebApp: [https://github.com/osFoundex/Arquitech_BackendWebApp](https://github.com/osFoundex/Arquitech_BackendWebApp)
+
+**Figura 104**  
+*Team Collaboration Insights de FrontendWebApp durante Sprint 4*
+<p align="center">
+  <img src="images/CollaborationInsights4_1.PNG" alt="PB" width="1000">
+</p>
+	
+*Nota.* Elaboración propia. Obtenido de [https://github.com/osFoundex/ArquiTech_FrontendWebApp](https://github.com/osFoundex/ArquiTech_FrontendWebApp)
+
+**Figura 105**  
+*Team Collaboration Insights de BackendWebApps durante Sprint 4*
+<p align="center">
+  <img src="images/CollaborationInsights4_2.PNG" alt="PB" width="1000">
+</p>
+	
+*Nota.* Elaboración propia. Obtenido de [https://github.com/osFoundex/Arquitech_BackendWebApp](https://github.com/osFoundex/Arquitech_BackendWebApp)
 
 ## **5.3. Validation Interviews.**  
 
@@ -4131,7 +4245,7 @@ Fernando comentó que no vio rápidamente el botón "Iniciar Sesión" al desplaz
 
 Resaltar el botón con un color contrastante y colocarlo en la parte superior o en un menú fijo para facilitar su hallazgo y mejorar la experiencia de aprendizaje inicial.
 
-<br><br>
+<br>
 
 **PROBLEMA #2:** *Escalabilidad incierta con múltiples proyectos.* 
 
@@ -4157,7 +4271,7 @@ Fernando expresó preocupación sobre el rendimiento de la plataforma al visuali
 
 Implementar un sistema de paginación o un indicador de carga para proyectos múltiples y realizar pruebas de escalabilidad para asegurar un rendimiento eficiente.
 
-<br><br>
+<br>
 
 **PROBLEMA #3:** *Filtro de fechas no disponible en Reporte Semanal.*
 
@@ -4183,7 +4297,7 @@ Karolay sugirió la necesidad de filtrar el "Reporte Semanal" por fechas especí
 
 Añadir un desplegable o calendario en la pestaña "Reportes" para seleccionar rangos de fechas, mejorando la flexibilidad y el control del usuario.
 
-<br><br>
+<br>
 
 **PROBLEMA #4:** *Acceso rápido a secciones largo en Landing Page.*
 
@@ -4281,8 +4395,6 @@ En esta sección, presentamos el Video About the Product, diseñado para captar 
 
 # **Conclusiones**  
 
-#
-
 - **Consolidación del Frontend como Pilar de Transformación Digital:** Durante este sprint, el equipo de ArquiTech fortaleció su compromiso con la digitalización del sector construcción, concentrándose en el desarrollo del Frontend Web Application. Esta herramienta proporciona una interfaz intuitiva y accesible para las pymes constructoras, permitiéndoles gestionar sus obras de manera más eficiente desde cualquier dispositivo.
 
 - **Ejecución Ágil y Centrada en el Usuario:** Se aplicaron principios de Lean UX y metodologías ágiles que permitieron diseñar e implementar funcionalidades priorizadas según las necesidades reales de los usuarios. La creación de vistas como historial de transacciones, reportes semanales, listas de proyectos y trabajadores evidenció una validación continua del valor entregado.
@@ -4298,9 +4410,11 @@ En esta sección, presentamos el Video About the Product, diseñado para captar 
   
 - **Retroalimentación de usuarios y áreas de mejora en la interfaz::** La retroalimentación de los usuarios durante las entrevistas de validación proporcionó valiosos insights sobre la experiencia de usuario y áreas de mejora en la interfaz. Aunque la plataforma ArquiTech fue considerada útil y práctica por los supervisores de obra y contratantes, se identificaron varios problemas de usabilidad, como la visibilidad del botón "Iniciar Sesión", la falta de filtros de fechas en los reportes, y la dificultad para navegar en una página larga. Los usuarios también sugirieron mejorar la escalabilidad para manejar múltiples proyectos y la visibilidad de indicadores clave en la pantalla principal. Estas observaciones destacan la necesidad de optimizar la interfaz para facilitar la navegación y mejorar la eficiencia operativa, asegurando que la plataforma sea aún más útil y accesible en el siguiente sprint.
 
-  <br><br>
 
-## **Video About the Team** 
+## **Recomendaciones**
+
+
+## **Video About the team**
 
 En este video,  los miembros del equipo compartieron sus experiencias y contribuciones durante el proyecto, destacando sus roles, desafíos y aprendizajes.
 
@@ -4330,7 +4444,7 @@ En general, la experiencia del equipo resaltó la importancia de la colaboració
   <img src="images/abouttheteam.JPG" alt="PB" width="1000">
 </p> 
 
-*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EQCTD1-Mk7dLnVOrxnxxUg4B71nnvQD3fAwOSZFhL_nNsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pheJMQ]
+*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EQCTD1-Mk7dLnVOrxnxxUg4B71nnvQD3fAwOSZFhL_nNsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pheJMQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EQCTD1-Mk7dLnVOrxnxxUg4B71nnvQD3fAwOSZFhL_nNsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pheJMQ)
 
 
 # **Bibliografía**
@@ -4359,4 +4473,5 @@ Anexo B. Link del video de exposición TB2: [https://upcedupe-my.sharepoint.com/
 
 Anexo C. Link del video About the Product: [https://www.youtube.com/watch?v=k3Z0771Au1Y](https://www.youtube.com/watch?v=k3Z0771Au1Y)
 
-Anexo D. Link del video About the Team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EQCTD1-Mk7dLnVOrxnxxUg4B71nnvQD3fAwOSZFhL_nNsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pheJMQ]
+Anexo D. Link del video About the Team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EQCTD1-Mk7dLnVOrxnxxUg4B71nnvQD3fAwOSZFhL_nNsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pheJMQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EQCTD1-Mk7dLnVOrxnxxUg4B71nnvQD3fAwOSZFhL_nNsQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=pheJMQ)
+
