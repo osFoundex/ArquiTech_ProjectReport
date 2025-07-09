@@ -3844,56 +3844,14 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 
 #### **5.2.3.4. Development Evidence for Sprint Review.** 
 
-<table class="c9">
-<tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p><b>Repository</b></p></td>
-<td class="c3" colspan="1" rowspan="1"><p><b>Branch</b></p></td>
-<td class="c3" colspan="1" rowspan="1"><p><b>Commit Id</b></p></td>
-<td class="c3" colspan="1" rowspan="1"><p><b>Commit</b></p></td>
-<td class="c3" colspan="1" rowspan="1"><p><b>Message Body</b></p></td>
-<td class="c3" colspan="1" rowspan="1"><p><b>Commited on (Date)</b></p></td>
-</tr>
-<tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>DanieGF1/Arquitech_BackendWebApp</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>d0c909d</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>feat: featureIncidents</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>17/06/2025</p></td>
-</tr>
-<tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>Paulu27/Arquitech_BackendWebApp</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>d8f5d68</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>feat: Add workers and tasks</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>18/06/2025</p></td>
-</tr>
-<tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>ernesto0710/Arquitech_BackendWebApp</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>c67b683</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>feat: add machinery-backend</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>19/06/2025</p></td>
-</tr>
-<tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>raulbellidosalas/Arquitech_BackendWebApp</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>3d740eb</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>feat: added the project and user endpoints</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>18/06/2025</p></td>
-</tr>
-<tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>MSS0220/Arquitech_BackendWebApp</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>feature/develop</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>7799323</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>feat: add-material-section</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>17/06/2025</p></td>
-</tr>
-</table>
+| **Repository**                   | **Branch**       | **Commit id**                                 | **Commit**                                      | **Message Body** | **Committed on (Date)** |
+|----------------------------------|------------------|-----------------------------------------------|------------------------------------------------|------------------|--------------------------|
+| DanielGF1/ArquiTech_WebApp      | feature/develop  | 3827fd4b9f567c0f5f896e1c8870bced1b3bc0ad       | feat: fixed incident component on edit item    | -                | 08/07/2025               |
+| Paulu27/ArquiTech_WebApp        | feature/develop  | e8f0ac0b140aed1e4f6219b3b5e257e0a61ba632       | feat: Update front                             | -                | 08/07/2025               |
+| ernesto0710/ArquiTech_WebApp    | feature/develop  | 7bd5f15c391e73bbe39df17e6ecadef6d54318ee       | conection successful                           | -                | 08/07/2025               |
+| raulbellidosalas/ArquiTech_WebApp | feature/develop | bcb820aecb486589f96e0b38339bcb89bf1b3887       | fixed conection issues with the backend        | -                | 08/07/2025               |
+| MSS02204/ArquiTech_WebApp       | feature/develop  | bcb820aecb486589f96e0b38339bcb89bf1b3887       | fixed conection issues with the backend        | -                | 08/07/2025               |
+
 
 #### **5.2.3.5. Execution Evidence for Sprint Review.**  
 
