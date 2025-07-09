@@ -3611,8 +3611,8 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>Status (To-do / InProcess / ToReview / Done)</p></td>
 </tr>
 <tr class="c5">
-<td class="c3" colspan="1" rowspan="3"><p>HU01</p></td>
-<td class="c8" colspan="1" rowspan="3"><p>Registrar Entrada de Materiales.</p></td>
+<td class="c3" colspan="1" rowspan="3"><p>TS01</p></td>
+<td class="c8" colspan="1" rowspan="3"><p>Implementar registro de entrada de materiales en el inventario</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica de registro de entradas de materiales.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Diseñar la estructura de datos para registrar las entradas de materiales, asegurando que la cantidad, proveedor y fecha sean correctamente almacenados en la base de datos.</p></td>
@@ -3637,8 +3637,8 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
 <tr class="c5">
-<td class="c3" colspan="1" rowspan="2"><p>HU02</p></td>
-<td class="c8" colspan="1" rowspan="2"><p>Registrar uso (salida) de materiales de Obra.</p></td>
+<td class="c3" colspan="1" rowspan="2"><p>TS02</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar registro de salida de materiales en la obra</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica de salida de materiales</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Diseñar la estructura de datos y lógica de backend para registrar las salidas de materiales, validando que el inventario se reduzca correctamente.</p></td>
@@ -3655,8 +3655,8 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
 </tr>
 <tr class="c5">
-<td class="c3" colspan="1" rowspan="2"><p>HU03</p></td>
-<td class="c8" colspan="1" rowspan="2"><p>Recibir alerta si la cantidad de salida excede el inventario.</p></td>
+<td class="c3" colspan="1" rowspan="2"><p>TS03</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar sistema de alertas para control de inventario</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>Desarrollar sistema de alertas por exceso de salida.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Implementar la lógica de backend para enviar alertas cuando se intente registrar una salida de material que exceda la cantidad disponible en el inventario.</p></td>
@@ -3673,8 +3673,8 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>To-do</p></td>
 </tr>
 <tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>HU04</p></td>
-<td class="c8" colspan="1" rowspan="1"><p>Consulta de inventario.</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>TS04</p></td>
+<td class="c8" colspan="1" rowspan="1"><p>Implementar consulta de transacciones de inventario</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>Crear API para consultar inventario.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Diseñar y desarrollar una API que permita consultar todo el inventario de entrada y salida de materiales.</p></td>
@@ -3683,8 +3683,8 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
 <tr class="c5">
-<td class="c3" colspan="1" rowspan="2"><p>HU05</p></td>
-<td class="c8" colspan="1" rowspan="2"><p>Registrar maquinaria asignada al proyecto.</p></td>
+<td class="c3" colspan="1" rowspan="2"><p>TS05</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar registro de maquinaria asignada al proyecto</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica para registro de maquinaria.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Implementar la estructura de datos en el backend para registrar la maquinaria asignada a un proyecto, incluyendo el número de serie y el estado de la maquinaria.</p></td>
@@ -3700,8 +3700,8 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>To-do</p></td>
 </tr>
-<td class="c3" colspan="1" rowspan="2"><p>HU06</p></td>
-<td class="c8" colspan="1" rowspan="2"><p>Registro de trabajadores.</p></td>
+<td class="c3" colspan="1" rowspan="2"><p>TS06</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar registro de trabajadores en un proyecto</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>Crear API para registrar trabajadores.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Desarrollar la API que permita registrar trabajadores con sus datos personales, cargo y asignación a proyectos.</p></td>
@@ -3717,8 +3717,8 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
-<td class="c3" colspan="1" rowspan="2"><p>HU07</p></td>
-<td class="c8" colspan="1" rowspan="2"><p>Asignación de tareas y roles.</p></td>
+<td class="c3" colspan="1" rowspan="2"><p>TS07</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar asignación de tareas y roles a trabajadores</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica para asignación de tareas.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Diseñar la estructura de datos para asignar tareas a los trabajadores y establecer un rol específico para cada tarea.</p></td>
@@ -3734,8 +3734,8 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
-<td class="c3" colspan="1" rowspan="2"><p>HU08</p></td>
-<td class="c8" colspan="1" rowspan="2"><p>Visualización de tareas de un trabajador.</p></td>
+<td class="c3" colspan="1" rowspan="2"><p>TS08</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar visualización de tareas de un trabajador</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>Desarrollar lógica para consultar tareas de un trabajador.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Crear la API que permita consultar las tareas asignadas a un trabajador específico en el proyecto.</p></td>
@@ -3751,8 +3751,8 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
-<td class="c3" colspan="1" rowspan="2"><p>HU09</p></td>
-<td class="c8" colspan="1" rowspan="2"><p>Ingresar un Nuevo Proyecto.</p></td>
+<td class="c3" colspan="1" rowspan="2"><p>TS09</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar funcionalidad de ingreso de nuevos proyectos</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>Crear modelo de datos para proyectos.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Crear la estructura de datos para registrar proyectos, incluyendo nombre, presupuesto y estado.</p></td>
@@ -3768,8 +3768,8 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
-<td class="c3" colspan="1" rowspan="1"><p>HU10</p></td>
-<td class="c8" colspan="1" rowspan="1"><p>Lista de trabajadores por obra.</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>TS10</p></td>
+<td class="c8" colspan="1" rowspan="1"><p>Implementar visualización de lista de trabajadores por obra</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>Crear API para listar trabajadores por obra.</p></td>
 <td class="c7" colspan="1" rowspan="1"><p>Desarrollar la API para recuperar la lista de trabajadores asignados a un proyecto específico.</p></td>
@@ -3777,11 +3777,28 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
-<td class="c3" colspan="1" rowspan="2"><p>HU21</p></td>
-<td class="c8" colspan="1" rowspan="2"><p>Visualizar reportes semanales.</p></td>
+<td class="c3" colspan="1" rowspan="2"><p>TS11</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar generación de reportes de incidentes en la obra</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear modelo y lógica para generar reportes diarios.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Diseñar la estructura de datos y la lógica para registrar y generar reportes de los incidentes.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>6</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Desarrollar API para almacenar reportes diarios.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar una API que permita guardar los reportes de incidentes generados, validando que todos los campos obligatorios estén completos antes de almacenarlos en la base de datos.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>6</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>TS12</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar selección de obra específica para ver sus reportes</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>Crear API para obtener reportes semanales consolidados.</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>Desarrollar una API que recupere los reportes diarios de la semana y los consolide en un solo reporte semanal, incluyendo la información de materiales y avance.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar una API que recupere los reportes por id, incluyendo la información detallada del incidente.</p></td>
 <td class="c6" colspan="1" rowspan="1"><p>6</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
@@ -3789,25 +3806,33 @@ Para el sprint 3 de ArquiTech, el objetivo principal fue desarrollar y mejorar l
 <tr class="c5">
 <td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
 <td class="c9" colspan="1" rowspan="1"><p>Desarrollar lógica para procesar los datos semanales.</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>Crear la lógica para procesar y consolidar los datos de los reportes diarios en un solo archivo o formato adecuado para la visualización.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Crear la lógica para procesar y consolidar los datos de los reportes de incidentes en un solo archivo o formato adecuado para la visualización.</p></td>
 <td class="c6" colspan="1" rowspan="1"><p>4</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
-<td class="c3" colspan="1" rowspan="2"><p>HU24</p></td>
-<td class="c8" colspan="1" rowspan="2"><p>Seleccionar obra específica para ver sus reportes.</p></td>
+<td class="c3" colspan="1" rowspan="3"><p>TS13</p></td>
+<td class="c8" colspan="1" rowspan="3"><p>Implementar visualización de lista de proyectos activos</p></td>
 <td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
-<td class="c9" colspan="1" rowspan="1"><p>Crear API para filtrar reportes por obra.</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>Desarrollar una API que permita filtrar y mostrar los reportes específicos de una obra seleccionada.</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear API para obtener lista de proyectos.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar una API que recupere la lista de proyectos activos, incluyendo el nombre, presupuesto y estado de cada uno.</p></td>
 <td class="c6" colspan="1" rowspan="1"><p>4</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
 </tr>
 <tr class="c5">
 <td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
-<td class="c9" colspan="1" rowspan="1"><p>Implementar lógica de persistencia de selección de obra.</p></td>
-<td class="c7" colspan="1" rowspan="1"><p>Crear la lógica backend para que la selección de la obra se mantenga persistente entre las diferentes secciones del sistema, mostrando los reportes correctos.</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar mensaje cuando no haya proyectos.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Crear la lógica backend para mostrar un mensaje adecuado si no hay proyectos registrados en el sistema.</p></td>
 <td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T3</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Conectar API con la base de datos de proyectos</p></td>
+<td class="c7" colspan="1" rowspan="1"><p> Integrar la API con la base de datos para que la lista de proyectos se recupere en tiempo real según el usuario autenticado.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Raúl Bellido</p></td>
 <td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
 </tr>
