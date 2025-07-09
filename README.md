@@ -4459,7 +4459,7 @@ En general, la experiencia del equipo resaltó la importancia de la colaboració
   <img src="images/abouttheteam.JPG" alt="PB" width="1000">
 </p> 
 
-*Nota.* Elaboración propia. Obtenido de [http://bit.ly/3IfKtuH](http://bit.ly/3IfKtuH)
+*Nota.* Elaboración propia. Obtenido de[http://bit.ly/3IfKtuH](http://bit.ly/3IfKtuH)
 
 
 # **Bibliografía**
