@@ -4561,56 +4561,44 @@ Link del repositorio:
 
 ##### **5.2.4.4. Development Evidence for Sprint Review.** 
 
-<table class="c9">
-<tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p><b>Repository</b></p></td>
-<td class="c3" colspan="1" rowspan="1"><p><b>Branch</b></p></td>
-<td class="c3" colspan="1" rowspan="1"><p><b>Commit Id</b></p></td>
-<td class="c3" colspan="1" rowspan="1"><p><b>Commit</b></p></td>
-<td class="c3" colspan="1" rowspan="1"><p><b>Message Body</b></p></td>
-<td class="c3" colspan="1" rowspan="1"><p><b>Commited on (Date)</b></p></td>
-</tr>
-<tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>DanieGF1/ArquiTech_WebServices</p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>/07/2025</p></td>
-</tr>
-<tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>Paulu27/ArquiTech_WebServices</p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>/07/2025</p></td>
-</tr>
-<tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>ernesto0710/ArquiTech_WebServices</p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>/07/2025</p></td>
-</tr>
-<tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>raulbellidosalas/ArquiTech_WebServices</p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>/07/2025</p></td>
-</tr>
-<tr class="c5">
-<td class="c3" colspan="1" rowspan="1"><p>MSS02204/ArquiTech_WebServices</p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p></p></td>
-<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
-<td class="c3" colspan="1" rowspan="1"><p>/07/2025</p></td>
-</tr>
-</table>
+| **Repository** | **Branch** | **Commit (Autor)** | **Message Body**                                                          | **Committed on (Date)** |
+| -------------- | ---------- | ------------------ | ------------------------------------------------------------------------- | ----------------------- |
+| Arquitech      | main       | MSS02204           | fix project.entity.ts                                                     | May 13, 2025            |
+| Arquitech      | main       | ernesto0710        | feat: add project.entity.ts                                               | May 13, 2025            |
+| Arquitech      | main       | raulbellidosalas   | Update worker.entity.ts                                                   | May 14, 2025            |
+| Arquitech      | main       | raulbellidosalas   | feat: added worker.entity.ts                                              | May 14, 2025            |
+| Arquitech      | main       | raulbellidosalas   | Update worker-management.component.ts                                     | May 14, 2025            |
+| Arquitech      | main       | raulbellidosalas   | feat\:Updated worker-management.component.ts                              | May 14, 2025            |
+| Arquitech      | main       | raulbellidosalas   | Update worker-management.component.html                                   | May 14, 2025            |
+| Arquitech      | main       | raulbellidosalas   | feat: Updated worker-management.component.html                            | May 14, 2025            |
+| Arquitech      | main       | raulbellidosalas   | Update worker-management.component.css                                    | May 14, 2025            |
+| Arquitech      | main       | raulbellidosalas   | feat: Updated worker-management.component.css                             | May 14, 2025            |
+| Arquitech      | main       | Paulu27            | feat: eliminar entity.spec.ts                                             | May 14, 2025            |
+| Arquitech      | main       | Paulu27            | feat: Update user.entity.spec.ts                                          | May 14, 2025            |
+| Arquitech      | main       | raulbellidosalas   | feat\:test                                                                | May 28, 2025            |
+| Arquitech      | main       | raulbellidosalas   | feat: added new route for the Contractor segment                          | May 28, 2025            |
+| Arquitech      | main       | MSS0220            | feat: add buttons to delete, edit and modify project tables               | Jun 2, 2025             |
+| Arquitech      | main       | Paulu27            | feat: Added task entity and worker-task-dialog component                  | Jun 7, 2025             |
+| Arquitech      | main       | Paulu27            | img: Added icon of ArquiTech                                              | Jun 7, 2025             |
+| Arquitech      | main       | Paulu27            | feat: Put the icon                                                        | Jun 7, 2025             |
+| Arquitech      | main       | Paulu27            | feat: Reorganized structure and created contractor routing                | Jun 7, 2025             |
+| Arquitech      | main       | Paulu27            | feat: Add materials, incidents, workers and machinery for contractor view | Jun 13, 2025            |
+| Arquitech      | main       | DanieGF1      | feat: Add project-reports and fix bugs                                    | Jun 14, 2025            |
+| Arquitech      | main       | ernesto0710        | feat: add profile module                                                  | Jun 14, 2025            |
+| Arquitech      | main       | Paulu27            | feat: Add reports to i18n                                                 | Jun 15, 2025            |
+| Arquitech      | main       | raulbellidosalas   | feat: added Project and User endpoints                                    | Jun 17, 2025            |
+| Arquitech      | main       | raulbellidosalas   | added deployment configuration                                            | Jun 17, 2025            |
+| Arquitech      | main       | DanieGF1       | feat: Fix error                                                           | Jul 8, 2025             |
+| Arquitech      | main       | raulbellidosalas   | conection successful                                                      | Jul 9, 2025             |
+| Arquitech      | main       | raulbellidosalas   | fixed conection                                                           | Jul 9, 2025             |
+| Arquitech      | main       | raulbellidosalas   | test                                                                      | Jul 9, 2025             |
+| Arquitech      | main       | raulbellidosalas   | fixed image handling                                                      | Jul 9, 2025             |
+| Arquitech      | main       | raulbellidosalas   | fixed conection issues with the backend                                   | Jul 9, 2025             |
+| Arquitech      | main       | raulbellidosalas   | feat: fixed incident component on edit item                               | Jul 9, 2025             |
+| Arquitech      | main       | raulbellidosalas   | fixes                                                                     | Jul 9, 2025             |
+| Arquitech      | main       | Paulu27            | feat: Update front                                                        | Jul 9, 2025             |
+| Arquitech      | main       | DanieGF1       | feat: Update                                                              | Jul 9, 2025             |
+
 
 ##### **5.2.4.5. Execution Evidence for Sprint Review.** 
 
