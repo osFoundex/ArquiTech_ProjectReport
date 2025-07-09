@@ -4602,6 +4602,16 @@ Link del repositorio:
 
 ##### **5.2.4.5. Execution Evidence for Sprint Review.** 
 
+En esta sección, realizamos la demostración de la correcta conexión entre el backend y frontend de BuildTruck.
+
+**Figura**
+Execution evidence 4
+
+<p align="center">
+  <img src="images/videoraul.JPG" alt="PB" width="1000">
+</p>
+
+Nota. Elaboración propia. Extraído de  [http://bit.ly/46BFdvB](http://bit.ly/46BFdvB)
 
 ##### **5.2.4.6. Services Documentation Evidence for Sprint Review.** 
 
