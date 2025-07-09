@@ -5395,3 +5395,9 @@ Anexo C. Link del video About the Product: [https://www.youtube.com/watch?v=k3Z0
 Anexo D. Link del video About the Team: [http://bit.ly/3IfKtuH](http://bit.ly/3IfKtuH)
 
 Anexo E. Link del Drive: [https://drive.google.com/drive/folders/1pTeL8g0z2uOu15oWyHC6KaU1IPly0RHy?usp=sharing](https://drive.google.com/drive/folders/1pTeL8g0z2uOu15oWyHC6KaU1IPly0RHy?usp=sharing)
+
+Anexo F. FrontEnd: [https://precious-bavarois-d27735.netlify.app](https://precious-bavarois-d27735.netlify.app)
+
+Anexo G. Backend: [https://backendtest-production-5b2e.up.railway.app/swagger-ui/index.html](https://backendtest-production-5b2e.up.railway.app/swagger-ui/index.html)
+
+Anexo H. Landing Page: [https://incredible-meringue-eb1ec4.netlify.app/](https://incredible-meringue-eb1ec4.netlify.app/)
