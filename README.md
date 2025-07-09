@@ -4049,6 +4049,69 @@ Link del repositorio:
 
 ##### **5.2.4.6. Services Documentation Evidence for Sprint Review.** 
 
+Durante el Sprint 4, se implementaron, adaptaron y refinaron múltiples funcionalidades clave del backend de la aplicación web de ArquiTech, consolidando su integración con una base de datos real y fortaleciendo su estructura técnica. Esta etapa permitió completar aquellas operaciones que estaban pendientes, garantizando una infraestructura más estable y coherente con los requerimientos reales del sistema.
+
+Se optimizó la arquitectura backend bajo principios de modularidad y desacoplamiento, lo que facilitó una comunicación fluida y eficiente con el frontend. Entre las funcionalidades mejoradas destacan la gestión de materiales, proyectos, trabajadores, asignación de tareas, maquinaria, usuarios y roles. Todas estas operaciones fueron desplegadas y verificadas en un entorno de integración real, elevando significativamente el nivel de madurez técnica del proyecto.
+
+A continuación, se detallan las funcionalidades implementadas para cada uno de los Bounded Contexts de ArquiTech y sus correspondientes tablas en la base de datos:
+
+**1. Gestión de Materiales (Materials):**
+* **Tabla:** Materials
+* **Operaciones CRUD:*
+  * **POST:** Crear nuevo material, registrar uso de material
+  * **GET:** Obtener material por ID, materiales por proyecto, historial por nombre, inventario bajo por ID
+* **Descripción:** Gestión de materiales en obra, incluyendo registro, uso, historial e inventario disponible.
+
+**2. Gestión de Maquinaria (Machinery):**
+* **Tabla:** Machinery
+* **Operaciones CRUD:*
+  * **GET:** Obtener toda la maquinaria, maquinaria por ID
+  * **POST:** Registrar nueva maquinaria
+* **Descripción:** Control y seguimiento de maquinaria utilizada en proyectos de construcción.
+
+**3. Autenticación (Authentication):**
+* **Operaciones:**
+  * **POST:** Registro de usuario (sign-up), inicio de sesión (sign-in)
+* **Descripción:** Módulo para la autenticación de usuarios mediante registro e inicio de sesión.
+
+**4. Gestión de Tareas (Tasks):**
+* **Tabla:** Tasks
+* **Operaciones CRUD:*
+  * **POST:** Crear tarea para trabajador en proyecto
+  * **GET:** Obtener tareas por trabajador y proyecto
+  * **PUT:** Actualizar tarea asignada
+  * **DELETE:** Eliminar tarea asignada
+* **Descripción:** Asignación y seguimiento de tareas para trabajadores en proyectos específicos.
+
+**5. Gestión de Trabajadores (Workers):**
+* **Tabla:** Workers
+* **Operaciones CRUD:*
+  * **POST:** Agregar trabajador a un proyecto
+  * **GET:** Listar trabajadores de un proyecto
+  * **PUT:** Actualizar información de trabajador por proyecto
+  * **DELETE:** Eliminar trabajador de un proyecto
+* **Descripción:** Administración de trabajadores dentro de proyectos, incluyendo altas, bajas y actualizaciones.
+
+**6. Gestión de Incidentes (Incidents):**
+* **Tabla:** Incidents
+* **Operaciones CRUD:*
+  * **POST:** Registrar nuevo incidente
+  * **GET:** Obtener incidente por ID, incidentes por proyecto, reporte PDF por incidente
+  * **PUT:** Actualizar incidente
+* **Descripción:** Seguimiento y documentación de incidentes ocurridos en proyectos, con opción de exportar informes.
+
+**7. Gestión de Proyectos (Projects):**
+* **Tabla:** Projects
+* **Operaciones CRUD:*
+  * **POST:** Crear nuevo proyecto
+  * **GET:** Obtener proyectos asignados a un supervisor
+* **Descripción:** Registro y consulta de proyectos asignados a supervisores del sistema.
+
+**8. Gestión de Usuarios (Users):**
+* **Tabla:** Users
+* **Operaciones CRUD:*
+  * **GET:** Obtener todos los usuarios, obtener usuario por ID
+* **Descripción:** Consulta de usuarios registrados en el sistema.
 
 ##### **5.2.4.7. Software Deployment Evidence for Sprint Review.** 
 
