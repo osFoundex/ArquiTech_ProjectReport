@@ -4639,6 +4639,200 @@ A continuación, se detallan las funcionalidades implementadas para cada uno de 
 
 ##### **5.2.4.7. Software Deployment Evidence for Sprint Review.** 
 
+Durante este Sprint, se llevó a cabo el despliegue de la aplicación Spring Boot arquitech-back-end en la plataforma Railway, con el objetivo de implementar una API REST para la creación de usuarios mediante el endpoint POST /api/v1/users. Las actividades incluyeron la configuración de un proyecto en Railway, la integración con una base de datos MySQL, y la habilitación de Swagger UI para pruebas de la API. Los pasos abarcan la creación de recursos en la nube, configuración del proyecto, automatización del despliegue, y verificación del funcionamiento, siguiendo un formato claro inspirado en el ejemplo proporcionado.
+
+1. Creación de Cuenta y Proyecto en Railway  
+	- Se creó una cuenta en la plataforma Railway para gestionar el despliegue de la aplicación.  
+
+	- En el panel de Railway, se inició un nuevo proyecto para alojar la aplicación arquitech-back-end.  
+
+	- Resultado: Se estableció un entorno en la nube listo para configurar los servicios necesarios.
+
+2. Configuración del Servicio MySQL en Railway  
+	- Se habilitó un servicio de base de datos MySQL dentro del proyecto en Railway.  
+
+	- Se obtuvieron las credenciales de conexión desde el panel de Railway (pestaña Connection Details):
+		* Host: mysql.railway.internal  
+		* Puerto: 3306  
+		* Base de datos: railway  
+		* Usuario: root  
+		* Contraseña: UISlFkUqysRjoRInMzbPgIHVTXDIqGIy
+	- Resultado: La base de datos MySQL quedó configurada y accesible para la aplicación.
+
+3. Configuración de Variables de Entorno en Railway  
+	- En el panel de Railway, se accedió al servicio de la aplicación (selfless-courage-production) y se configuraron las variables de entorno en la pestaña Settings > Environment Variables:  
+			
+			DATABASE_URL=jdbc:mysql://mysql.railway.internal:3306/railway?serverTimezone=UTC
+			PROD_DB_USERNAME=root
+			PROD_DB_PASSWORD=UISlFkUqysRjoRInMzbPgIHVTXDIqGIy
+			NIXPACKS_JDK_VERSION=21
+
+	- Resultado: Las variables aseguraron una conexión segura y dinámica a la base de datos.
+
+4. Configuración del Proyecto Spring Boot para Integración con Railway  
+	- Se creó el archivo application.properties en el proyecto para integrar la aplicación con Railway:
+
+			spring.application.name=arquitech-back-end
+			spring.datasource.url=${DATABASE_URL:jdbc:mysql://localhost:3306/railway?serverTimezone=UTC}
+			spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+			spring.datasource.username=${PROD_DB_USERNAME:root}
+			spring.datasource.password=${PROD_DB_PASSWORD:UISlFkUqysRjoRInMzbPgIHVTXDIqGIy}
+			spring.jpa.show-sql=true
+			spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
+			spring.jpa.hibernate.ddl-auto=validate
+			spring.jpa.open-in-view=true
+			spring.jpa.hibernate.naming.physical-strategy=com.acme.arquitech.platform.shared.infrastructure.persistence.jpa.configuration.strategy.SnakeCaseWithPluralizedTablePhysicalNamingStrategy
+			server.port=${PORT:8080}
+			server.address=0.0.0.0
+			server.forward-headers-strategy=native
+			springdoc.api-docs.path=/v3/api-docs
+			springdoc.swagger-ui.path=/swagger-ui.html
+			springdoc.swagger-ui.enabled=true
+			springdoc.servers[0].url=https://selfless-courage-production.up.railway.app
+			springdoc.servers[0].description=Production Server
+			logging.level.org.springframework=DEBUG
+			logging.level.org.hibernate=DEBUG
+			logging.level.com.zaxxer.hikari=DEBUG
+			logging.level.com.acme.arquitech=DEBUG
+	- Se creó un archivo system.properties para especificar la versión de Java:  
+
+			java.runtime.version=21
+			maven.version=3.9.4
+
+	- Resultado: El proyecto quedó configurado para producción, con soporte para HTTPS y Swagger UI.
+
+5. Subida del Código al Repositorio  
+	- Se creó un repositorio en GitHub para el proyecto arquitech-back-end.  
+
+	- Se subieron los archivos del proyecto, incluyendo el código fuente, application.properties, y system.properties:  
+
+			bash
+
+			git init
+			git add .
+			git commit -m "Configuración inicial para despliegue en Railway"
+			git remote add origin <URL-del-repositorio>
+			git push -u origin main
+
+	- Resultado: El código quedó disponible para su integración con Railway.
+
+6. Vinculación del Repositorio con Railway  
+	- En el panel de Railway, se vinculó el repositorio de GitHub al proyecto arquitech-back-end.  
+
+	- Se configuró Railway para realizar despliegues automáticos tras cada git push a la rama main.  
+
+	- Resultado: El proceso de despliegue se automatizó mediante la integración con GitHub.
+
+7. Despliegue de la Aplicación en Railway  
+	- Se desencadenó el primer despliegue desde Railway, que compiló el proyecto usando Maven y Java 21.  
+
+	- Se verificaron los Deploy Logs en el panel de Railway para confirmar que la aplicación iniciaba correctamente y se conectaba a la base de datos MySQL.  
+
+	- Resultado: La aplicación quedó desplegada en [https://selfless-courage-production.up.railway.app](https://selfless-courage-production.up.railway.app).
+
+8. Habilitación de Swagger UI para Pruebas  
+	- Se accedió a [https://selfless-courage-production.up.railway.app/swagger-ui.html](https://selfless-courage-production.up.railway.app/swagger-ui.html) para probar la API.  
+
+	- Se configuró Swagger UI en application.properties para asegurar que usara la URL correcta (https).  
+
+	- Resultado: Swagger UI quedó habilitado para interactuar con los endpoints de la API.
+
+9. Prueba del Endpoint POST  
+	- Se probó el endpoint POST /api/v1/users desde Swagger UI con el siguiente JSON:  
+
+			json
+			
+			{
+			  "name": "Raul Bellido Salas",
+			  "email": "Raul.Bellido@constructora.com",
+			  "password": "hashed_password_999",
+			  "role": "SUPERVISOR",
+			  "profilePicture": "https://example.com/new.jpg"
+			}
+
+	- La solicitud devolvió un 201 Created, confirmando que el usuario se guardó en la base de datos.  
+
+	- Resultado: La funcionalidad de la API fue validada exitosamente.
+
+10. Verificación de la Base de Datos  
+	- Se accedió al panel de Railway, pestaña Data del servicio MySQL, para confirmar que los usuarios creados se almacenaran correctamente.  
+
+	- Resultado: Los datos se guardaron como se esperaba en la base de datos.
+
+11. Actualización Continua del Sitio  
+	- Para futuros cambios, se editaron los archivos del proyecto localmente y se subieron al repositorio:  
+
+			bash
+			
+			git add .
+			git commit -m "Actualización de la aplicación"
+			git push
+
+	- Railway redeplegó la aplicación automáticamente tras cada commit.  
+
+	- Resultado: Se estableció un flujo continuo para actualizar la aplicación.
+
+
+**Figura 98**  
+*Sprint 3 Deployment Evidence 1*  
+<p align="center">
+  <img src="images/Sprint3_Deployment_Evidence1.jpg" alt="PB" width="500">
+</p>
+	
+*Nota.* Elaboración propia.
+
+**Figura 99**  
+*Sprint 3 Deployment Evidence 2*  
+<p align="center">
+  <img src="images/Sprint3_Deployment_Evidence2.jpg" alt="PB" width="500">
+</p>
+	
+*Nota.* Elaboración propia.
+
+**Figura 100**  
+*Sprint 3 Deployment Evidence 3*  
+<p align="center">
+  <img src="images/Sprint3_Deployment_Evidence3.jpg" alt="PB" width="500">
+</p>
+	
+*Nota.* Elaboración propia.
+
+**Figura 101**  
+*Sprint 3 Deployment Evidence 4*  
+<p align="center">
+  <img src="images/Sprint3_Deployment_Evidence4.jpg" alt="PB" width="500">
+</p>
+	
+*Nota.* Elaboración propia.
+
+**Figura 102**  
+*Sprint 3 Deployment Evidence 5*  
+<p align="center">
+  <img src="images/Sprint3_Deployment_Evidence5.jpg" alt="PB" width="500">
+</p>
+	
+*Nota.* Elaboración propia.
+
+**Figura 103**  
+*Sprint 3 Deployment Evidence 6*  
+<p align="center">
+  <img src="images/Sprint3_Deployment_Evidence6.jpg" alt="PB" width="500">
+</p>
+	
+*Nota.* Elaboración propia.
+
+#### **5.2.3.8. Team Collaboration Insights during Sprint.**	 
+
+Para poder realizar el código, al igual que en la primera entrega, usamos GitHub. El repositorio usado fue osFoundex/Arquitech_BackendWebApp.
+Link del repositorio: 
+
+**Figura 104**  
+*Team Collaboration Insights durante Sprint 3*
+<p align="center">
+  <img src="images/CollaborationInsights3.PNG" alt="PB" width="1000">
+</p>
+	
+*Nota.* Elaboración propia. 
 
 ##### **5.2.4.8. Team Collaboration Insights during Sprint.**
 
@@ -5199,3 +5393,5 @@ Anexo B. Link del video de exposición TB2: [http://bit.ly/3Gy67dc](http://bit.l
 Anexo C. Link del video About the Product: [https://www.youtube.com/watch?v=k3Z0771Au1Y](https://www.youtube.com/watch?v=k3Z0771Au1Y)
 
 Anexo D. Link del video About the Team: [http://bit.ly/3IfKtuH](http://bit.ly/3IfKtuH)
+
+Anexo E. Link del Drive: [https://drive.google.com/drive/folders/1pTeL8g0z2uOu15oWyHC6KaU1IPly0RHy?usp=sharing](https://drive.google.com/drive/folders/1pTeL8g0z2uOu15oWyHC6KaU1IPly0RHy?usp=sharing)
