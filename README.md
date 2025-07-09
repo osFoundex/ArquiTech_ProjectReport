@@ -5187,36 +5187,34 @@ Pensando en una posible puesta en marcha real de Arquitech, se recomienda comenz
 
 ## **Video About the team**
 
-En este video,  los miembros del equipo compartieron sus experiencias y contribuciones durante el proyecto, destacando sus roles, desafíos y aprendizajes.
-
-* Contribuciones del equipo
-
-	1. Raúl Bellido Salas se enfocó en organizar entrevistas para comprender las funcionalidades del proyecto y en distribuir tareas tanto para el desarrollo frontend como backend. Contribuyó en la creación de usuarios y en los detalles del proyecto, pero mencionó que enfrentó desafíos en la coordinación debido a los diferentes horarios. Resaltó la importancia del flujo de trabajo y la organización para futuros proyectos.
-
-	2. Sandra Paula Luyo Correa, como líder del equipo, coordinó diversas tareas, incluidas las suposiciones en Linux, entrevistas a usuarios y documentación. Organizó reuniones para asignar tareas en función de las fortalezas del equipo y reconoció la necesidad de mejorar la comunicación en futuros proyectos.
-
-	3. Daniela Araceli Gómez Flores contribuyó creando user personas y gestionando el backend para el manejo de incidentes. Reflexionó sobre la constante colaboración dentro del equipo y la importancia de alinear las tareas para el éxito del proyecto.
-
-	4. Ernesto Rodas Sotomayor trabajó en la arquitectura del backend y destacó la distribución efectiva de tareas según las fortalezas de los integrantes. Reconoció los desafíos de haber faltado a algunas reuniones, pero valoró el apoyo recibido por parte de sus compañeros.
-
-	5. Melisa Sulca Silva contribuyó en varios aspectos de la documentación y en la codificación tanto del frontend como del backend. Señaló que, aunque el equipo trabajó bien en conjunto, a menudo entregaban el trabajo a último momento, lo cual indica la necesidad de una mejor gestión del tiempo.
-
-* Principales aprendizajes
-
-	- El equipo reconoció la importancia de la comunicación y la organización en los proyectos colaborativos.
-	- Cada integrante reflexionó sobre su crecimiento personal y las habilidades adquiridas, como el diseño centrado en el usuario, la gestión de código y la planificación de sprints, que serán útiles en futuros cursos y en su desarrollo profesional.
-
-En general, la experiencia del equipo resaltó la importancia de la colaboración, la distribución de tareas y la mejora continua en la dinámica del trabajo en equipo.
+El video "About-the-Team" refleja el compromiso conjunto y los logros alcanzados por el equipo detrás de la plataforma Arquitech, desarrollada como parte del curso de Desarrollo de Aplicaciones Open Source. A lo largo del proyecto, Foundex trabajó de forma coordinada mediante reuniones constantes y el uso de herramientas colaborativas como GitHub, Discord y WhatsApp, lo que permitió organizar tareas, resolver obstáculos y avanzar hacia una solución funcional. Desde los primeros wireframes y la investigación de los segmentos objetivo, pasando por entrevistas, diseño de prototipos y desarrollo del frontend y backend, hasta la documentación de cada sprint, cada integrante contribuyó activamente, enfrentando desafíos como el manejo del tiempo y la integración técnica de los módulos. Este proceso no solo culminó en un producto sólido, sino que también fortaleció nuestras habilidades técnicas, de trabajo en equipo y planificación. A continuación, se detallan los aportes individuales que hicieron posible este resultado.
 
 
 **Figura 118**  
 *Video About-the-team*  
 <p align="center">
-  <img src="images/abouttheteam.JPG" alt="PB" width="1000">
+  <img src="images/foundex.JPG" alt="PB" width="1000">
 </p> 
 
-*Nota.* Elaboración propia. Obtenido de[http://bit.ly/3IfKtuH](http://bit.ly/3IfKtuH)
+*Nota.* Elaboración propia.
 
+Link del video en Microsoft Stream: [http://bit.ly/3IfKtuH](http://bit.ly/3IfKtuH)
+
+Link del video en Youtube: [https://youtu.be/9PpofiMXhtw](https://youtu.be/9PpofiMXhtw)
+
+**Secuencia de contenido**
+
+* **Raúl Bellido Salas**: Se enfocó en organizar entrevistas para comprender las funcionalidades del proyecto y en distribuir tareas tanto para el desarrollo frontend como backend. Contribuyó en la creación de usuarios y en los detalles del proyecto, pero mencionó que enfrentó desafíos en la coordinación debido a los diferentes horarios. Resaltó la importancia del flujo de trabajo y la organización para futuros proyectos.
+
+* **Sandra Paula Luyo Correa**: Como líder del equipo, coordinó diversas tareas, incluidas las suposiciones en Linux, entrevistas a usuarios y documentación. Organizó reuniones para asignar tareas en función de las fortalezas del equipo y reconoció la necesidad de mejorar la comunicación en futuros proyectos.
+
+* **Daniela Araceli Gómez Flores**: Contribuyó creando user personas y gestionando el backend para el manejo de incidentes. Reflexionó sobre la constante colaboración dentro del equipo y la importancia de alinear las tareas para el éxito del proyecto.
+
+* **Ernesto Rodas Sotomayor**: Trabajó en la arquitectura del backend y destacó la distribución efectiva de tareas según las fortalezas de los integrantes. Reconoció los desafíos de haber faltado a algunas reuniones, pero valoró el apoyo recibido por parte de sus compañeros.
+
+* **Melisa Sulca Silva**: Contribuyó en varios aspectos de la documentación y en la codificación tanto del frontend como del backend. Señaló que, aunque el equipo trabajó bien en conjunto, a menudo entregaban el trabajo a último momento, lo cual indica la necesidad de una mejor gestión del tiempo.
+
+En general, la experiencia del equipo resaltó la importancia de la colaboración, la distribución de tareas y la mejora continua en la dinámica del trabajo en equipo.
 
 # **Bibliografía**
 
