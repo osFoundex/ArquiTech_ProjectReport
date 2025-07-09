@@ -3917,6 +3917,76 @@ Link del repositorio:
 
 ##### **5.2.4.2. Aspect Leaders and Collaborators.** 
 
+<table class="c8">
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p><b>Team Member (Last Name, First Name)</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>GitHub Username</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Backend improvements Leader (L) / Collaborator (C)</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Documentation Leader (L) / Collaborator (C)</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Frontend improvements Leader (L) / Collaborator (C)</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Bounded context IAM implementation Leader (L) / Collaborator (C)</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>JWT implementation Leader (L) / Collaborator (C)</b></p></td>
+<td class="c2" colspan="1" rowspan="1"><p><b>Frontend integration with backend Leader (L) / Collaborator (C)</b></p></td>
+
+
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Bellido Salas, Raúl</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>raulbellidosalas</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Gómez Flores, Daniela Araceli</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>DanieGF1</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Luyo Correa, Sandra Paula</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>Paulu27</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Rodas Sotomayor, Ernesto</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>ernesto0710</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+
+</tr>
+<tr class="c3">
+<td class="c2" colspan="1" rowspan="1"><p>Sulca Silva, Melisa Geraldine</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>MSS02204/MSS0220</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+
+</tr>
+</table>
+
 
 ##### **5.2.4.3. Sprint Backlog 4.** 
 
