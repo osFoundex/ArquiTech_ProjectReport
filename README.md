@@ -4293,6 +4293,271 @@ Link del repositorio:
 
 ##### **5.2.4.3. Sprint Backlog 4.** 
 
+<table class="c12">
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>Sprint #</p></td>
+<td class="c16" colspan="7" rowspan="1"><p>Sprint 3</p></td>
+</tr>
+<tr class="c5">
+<td class="c13" colspan="2" rowspan="1"><p>Story</p></td>
+<td class="c17" colspan="6" rowspan="1"><p>Work Item/Task</p></td>
+</tr>
+<tr class="c11">
+<td class="c3" colspan="1" rowspan="1"><p>Id</p></td>
+<td class="c8" colspan="1" rowspan="1"><p>Title</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>Id</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Title</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Description</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>Estimation (Hours)</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Assigned To</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Status (To-do / InProcess / ToReview / Done)</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="2"><p>HU26</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar autenticación de usuarios con JWT</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar lógica de autenticación JWT en el backend.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la lógica de backend para generar y validar tokens JWT para el inicio de sesión.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raul Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Integrar autenticación con el sistema de usuarios.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Conectar la autenticación JWT con el sistema de usuarios para verificar credenciales.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raul Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="2"><p>HU27</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Establecer la conexión entre frontend y backend</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Configurar API RESTful para comunicación frontend-backend</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Establecer el endpoint API para que el frontend pueda interactuar con el backend correctamente.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Conectar frontend con los endpoints del backend</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar la lógica en el frontend para realizar solicitudes a los endpoints del backend</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="2"><p>HU28</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Manejo de errores de conexión entre frontend y backend</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear manejadores de errores de conexión</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la lógica para manejar errores de conexión entre frontend y backend.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Mostrar mensajes de error adecuados al usuario.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la interfaz de usuario para mostrar mensajes claros de error en caso de fallos.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="2"><p>HU29</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Sincronización de datos entre frontend y backend</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar sincronización de datos en tiempo real.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la lógica para sincronizar los datos entre el frontend y el backend en tiempo real.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Optimizar la sincronización de datos</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Mejorar la eficiencia de la sincronización de datos, minimizando la latencia y el uso de recursos.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="2"><p>HU30</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Mostrar interfaz de usuario correspondiente según el rol</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Desarrollar lógica para determinar el rol del usuario</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar la lógica que determine el rol del usuario al momento de iniciar sesión.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Mostrar interfaz adecuada según rol</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la interfaz de usuario que se adapte a los roles de Supervisor o Contractor.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>TS14</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar sistema de autenticación de usuarios con JWT</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear modelo de autenticación JWT.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Diseñar e implementar la estructura y lógica del modelo de autenticación utilizando JWT.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>5</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raul Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar servicio de autenticación JWT.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar el servicio backend que maneje la autenticación utilizando JWT.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raul Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>TS15</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar gestión de roles y permisos para usuarios en el sistema IAM</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear modelo de roles y permisos.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Diseñar la estructura de datos y las entidades para manejar los roles y permisos en el sistema.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar lógica de gestión de roles y permisos.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la lógica en el backend para gestionar la asignación y validación de roles y permisos.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>TS16</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Integrar frontend con backend para la autenticación con JWT</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Configurar conexión del frontend para manejar JWT.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Establecer la lógica en el frontend para enviar y manejar JWT correctamente en las solicitudes.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Integrar API de autenticación JWT en el frontend.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la integración del frontend con el servicio de autenticación JWT del backend.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>TS17</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar gestión de sesión con JWT en frontend.</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar gestión de sesión con JWT en frontend.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la lógica para almacenar y gestionar el JWT en el frontend para sesiones persistentes.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Configurar almacenamiento seguro del token JWT.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar mecanismos seguros para almacenar el token JWT en el frontend (ej. LocalStorage, Cookies).</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>TS18</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar la conexión del frontend con el backend</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Establecer conexión entre frontend y backend.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar la lógica para conectar el frontend con el backend para enviar y recibir datos correctamente.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>5</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raul Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Configurar endpoints API para integración frontend-backend.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar los endpoints necesarios en el backend para la integración con el frontend.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Raul Bellido</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>TS19</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Mejorar experiencia de usuario durante la autenticación</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Integración del JWT.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Mejorar la autenticación agregando el token JWT.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Implementar retroalimentación de errores durante el login.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar un sistema de mensajes de error en caso de problemas durante la autenticación.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>2</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="1"><p>TS20</p></td>
+<td class="c8" colspan="1" rowspan="1"><p>Implementar validación de token JWT en el backend</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Crear middleware para validación de JWT.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Desarrollar un middleware en el backend que valide el token JWT en cada solicitud.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>5</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Daniela Gomez</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>TS21</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Implementar protección de rutas sensibles en el backend</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Proteger rutas sensibles con validación de JWT.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar protección de rutas en el backend para asegurarse de que solo los usuarios con JWT válido puedan acceder.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>5</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Añadir control de acceso basado en roles y permisos.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Implementar control de acceso adicional según los roles y permisos asociados al usuario.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>4</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Melisa Sulca</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="2"><p>TS22</p></td>
+<td class="c8" colspan="1" rowspan="2"><p>Corregir errores de funcionalidades en el frontend</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Corregir errores de conexión con el backend.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Solucionar errores de conexión entre el frontend y el backend para asegurar que los datos se sincronicen correctamente.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
+</tr>
+<tr class="c5">
+<td class="c10" colspan="1" rowspan="1"><p>T2</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Ajustar interfaz para mejorar la comunicación con el backend.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Realizar ajustes en el frontend para mejorar la comunicación y la experiencia de usuario.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>3</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Ernesto Rodas</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Done</p></td>
+</tr>
+<td class="c3" colspan="1" rowspan="1"><p>TS23</p></td>
+<td class="c8" colspan="1" rowspan="1"><p>Corregir errores de funcionalidad del backend</p></td>
+<td class="c10" colspan="1" rowspan="1"><p>T1</p></td>
+<td class="c9" colspan="1" rowspan="1"><p>Depurar y corregir errores en el backend.</p></td>
+<td class="c7" colspan="1" rowspan="1"><p>Revisar y corregir errores en el backend para asegurar que las funcionalidades de autenticación y gestión de usuarios funcionen correctamente.</p></td>
+<td class="c6" colspan="1" rowspan="1"><p>8</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>Sandra Luyo</p></td>
+<td class="c4" colspan="1" rowspan="1"><p>In-Process</p></td>
+</tr>
+</table>
+
 
 ##### **5.2.4.4. Development Evidence for Sprint Review.** 
 
