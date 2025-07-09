@@ -4034,7 +4034,7 @@ Sin embargo, mencionó que sería útil contar con un modo offline en caso de pr
   <img src="images/VIEntrevista2.png" alt="PB" width="500">
 </p>
 
-*Nota.* Elaboración propia. Obtenido de [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311184_upc_edu_pe/EX4QgP8HDfFKt8gTN4CiLikBkPf2UVd1BaLV0qldPv9_SQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KCdcey](http://bit.ly/3TYCNzE))
+*Nota.* Elaboración propia. Obtenido de [http://bit.ly/3TYCNzE]
 
 Denisse Vargas, supervisora de obra civil, comenta que en su día a día usa Excel, WhatsApp y formatos físicos para controlar asistencia, materiales y coordinar con el equipo. Aunque le funciona, dice que todo está muy desordenado y se pierde tiempo buscando información. Al probar ArquiTech, le pareció una buena alternativa para organizar mejor todo lo relacionado con la obra en un solo lugar. Le gustó que sea práctica, fácil de usar y enfocada en lo que realmente se necesita en campo. Menciona que la plataforma le facilitaría registrar avances, ver asistencia y controlar inventarios sin depender de otros medios. Sugiere que se mejore el diseño con menús más visuales y que exista una opción offline para zonas sin señal. En general, la vio clara y útil, y destaca que usarla le ahorraría tiempo y ayudaría a evitar errores. Está dispuesta a utilizar ArquiTech con frecuencia porque le permitiría tener más control, ser más rápida al informar y trabajar con más orden.
 
