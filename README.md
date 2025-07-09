@@ -1306,6 +1306,9 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 | EP04 | Configuración de perfil |
 | EP05 | Navegación por la landing page |
 | EP06 | Administración de proyectos |
+| EP07 | Implementación de Autenticación y Gestión de sesión (JWT) |
+| EP08 | Gestión de Roles y permisos (IAM) |
+| EP09 | Conexión y sincronización Frontend-Backend |
 
 <body class="c25 doc-content">
 <p></p>
@@ -1332,12 +1335,19 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 <td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Registrar uso de material con éxito</b></u></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra y tengo un inventario con 500 kg de cemento.</p><p><b>When</b>: Registro el uso de 200 kg de cemento para el día actual.</p><p><b>Then</b>: El sistema reduce el inventario a 300 kg y registra la transacción de uso con la fecha actual.</p><p><u><b>Escenario 2: Intentar registrar uso mayor al stock disponible</b></u></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra y tengo un inventario con 100 kg de cemento.</p><p><b>When</b>: Intento registrar el uso de 150 kg de cemento.</p><p><b>Then</b>: El sistema muestra un error indicando que no hay suficiente stock y no actualiza el inventario.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
 </tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP01/HU03</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Recibir mensaje si la cantidad de salida del material excede a la registrada en la tabla de entrada.</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor, quiero recibir una notificación cuando la cantidad de material registrada para salida exceda la cantidad disponible en el inventario de entrada, para asegurarme de que no se registre más material del disponible y evitar errores en la gestión del inventario.</p><p></p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Recibir una notificación cuando la salida excede el inventario disponible</b></u></p><p><b>Given</b>: Estoy autenticado como Supervisor de Inventario, y el inventario tiene 1000 kg de cemento.</p><p><b>When</b>: Registro la salida de 1500 kg de cemento, que excede la cantidad disponible.</p><p><b>Then</b>: El sistema me envía una notificación indicando que no puedo mover más material del que se registró originalmente (disponible: 1000 kg, intento mover: 1500 kg)</p><p><u><b>Escenario 2: No recibir alerta si la salida es dentro del límite</b></u></p><p><b>Given</b>: Estoy autenticado como Supervisor de Inventario, y el inventario tiene 1000 kg de cemento.</p><p><b>When</b>: Registro la salida de 500 kg de cemento.</p><p><b>Then</b>: El sistema no envía ninguna notificación, ya que la cantidad solicitada (500 kg) está por debajo de la cantidad disponible (1000 kg).</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
+</tr>
 
 <tr class="c1">
 <td class="c16" colspan="1" rowspan="1"><p>EP01/HU04</p></td>
-<td class="c13" colspan="1" rowspan="1"><p>Consultar Historial de Transacciones de Inventario</p><p></p></td>
-<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero consultar el historial de transacciones de inventario, para auditar el uso de materiales y detectar irregularidades.</p><p></p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Consultar historial con transacciones existentes</b></u></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra, y el inventario de cemento tiene 2 transacciones: una entrada de 500 kg y un uso de 200 kg.</p><p><b>When</b>: Consulto el historial de transacciones del cemento.</p><p><b>Then</b>: El sistema muestra una lista con las 2 transacciones, incluyendo tipo (entrada/uso), cantidades, proveedor (para entradas), y fechas.</p><p><u><b>Escenario 2: Consultar historial sin transacciones</b></u></p><p><b>Given</b>: Estoy autenticado como Gerente de Obra, y el inventario de acero no tiene transacciones registradas.</p><p><b>When</b>: Consulto el historial de transacciones del acero.</p><p><b>Then</b>: El sistema muestra un mensaje indicando que no hay transacciones registradas.</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Consulta de Transacciones de Inventario</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero consultar las transacciones de entrada y salida del inventario de los materiales, para auditar el uso de materiales y verificar el stock disponible.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Consultar transacciones de materiales</b></u></p><p><b>Given</b>: Estoy autenticado como Supervisor de Inventario, y el material "Acero" tiene 1000 kg registrados en la tabla de entrada y </p><p><b>When</b>: Consulto las transacciones del material "Acero" en la tabla de la salida.</p><p><b>Then</b>: El sistema muestra la tabla de salida con 200 kg de Acero, además  con sus datos relacionados con el material de la tabla de entrada.</p><p><u><b>Escenario 2: Ver el inventario actual tras las transacciones</b></u></p><p><b>Given</b>: Estoy autenticado como Supervisor de Inventario, y el material "Acero" tiene un stock de 1000 kg. Se ha registrado una salida de 200 kg.</p><p><b>When</b>: Consulto el stock del material "Acero".</p><p><b>Then</b>: El sistema muestra el stock actualizado de 800 kg en la tabla de materiales.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
 </tr>
 <tr class="c1">
@@ -1359,6 +1369,13 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 <td class="c13" colspan="1" rowspan="1"><p>Asignación de tareas y roles</p></td>
 <td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero asignar tareas específicas y roles a cada trabajador dentro de una obra, para saber sus responsabilidades diarias en una lista de trabajadores.</p></td>
 <td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Asignación inicial de tarea y rol a un trabajador.</b></u></p><p><b>Given</b>: El supervisor está en la sección de lista de trabajadores</p><p><b>When</b>: Selecciona un trabajador y le asigna una tarea y un rol.</p><p><b>Then</b>: El sistema guarda la asignación y la muestra en el recuadro de tarea asignada y rol.</p><p><u><b>Escenario 2: Modificación de la tarea asignada a un trabajador</b></u></p><p><b>Given</b>: El supervisor de obra necesita cambiar la tarea asignada a un trabajador.</p><p><b>When</b>: Acceder a la lista de trabajadores y editar la tarea de asignada.</p><p><b>Then</b>: El sistema actualiza la tarea y actualiza el cambio en la pantalla.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP02</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP02/HU08</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Visualización de tareas de un trabajador</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero visualizar las tareas de cada uno de los trabajadores de un proyecto para poder tener un buen control y visualización del avance de la obra.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Visualización de tareas de un trabajador.</b></u></p><p><b>Given</b>: que soy el supervisor de una obra y estoy en la pestaña de trabajadores de un proyecto</p><p><b>When</b>: le doy al botón “Ver” de la columna “Tareas” de la fila con los datos del trabajador al que le quiero asignar una tarea.</p><p><b>Then</b>: se abrirá una ventana con la lista de tareas (descripción, fecha de inicio, fecha de vencimiento, estado) del trabajador.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP02</p></td>
 </tr>
 <tr class="c1">
@@ -1386,7 +1403,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 <td class="c16" colspan="1" rowspan="1"><p>EP05/HU12</p></td>
 <td class="c13" colspan="1" rowspan="1"><p>Contactar al equipo de ArquiTech para contratar el servicio</p></td>
 <td class="c15" colspan="1" rowspan="1"><p>Como supervisor de obra, quiero contactarme con el equipo de ArquiTech para poder tener más información y contratar el servicio.</p></td>
-<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Ir a la sección contacto con un boton</b></u></p><p><b>Given</b> que estoy en la página web de ArquiTech,</p><p><b>When</b> le doy clic al botón que dice “Contacto” en la barra superior al lado derecho,</p><p><b>Then</b> la página se desplazará automáticamente hasta esa sección.</p><p></p><p><b>Escenario 2: Solicitud exitosa con campos completos</b></p><p></p><p><b>Given</b> que estoy en el sitio web de ArquiTech y estoy en la sección "Contacto" de la landing page,</p><p></p><p><b>When</b> completo el formulario que aparece con todos mis datos solicitados obligatorios (nombres, apellidos, email, número telefónico), y presiono el botón "Enviar",</p><p></p><p><b>Then</b> recibo un mensaje de confirmación en la pantalla que dice "Solicitud enviada. Te contactaremos pronto."</p><p><u><b>Escenario 2: Solicitud Fallida por Campo de Email Inválido</b></u></p><p><b>Given</b> que estoy en el sitio web de ArquiTech y estoy en la sección "Contacto" de la landing page,</p><p><b>When</b> relleno el formulario, pero dejo un campo obligatorio vacío o con el tipo de dato equivocado y presiono el botón "Enviar",</p><p><b>Then</b> el formulario mostrará un mensaje de error que indique que falta completar un campo solicitado.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Ir a la sección contacto con un boton</b></u></p><p><b>Given</b> que estoy en la página web de ArquiTech,</p><p><b>When</b> le doy clic al botón que dice “Contacto” en la barra superior al lado derecho,</p><p><b>Then</b> la página se desplazará automáticamente hasta esa sección.</p><p></p><p><b>Escenario 2: Solicitud exitosa con campos completos</b></p><p></p><p><b>Given</b> que estoy en el sitio web de ArquiTech y estoy en la sección "Contacto" de la landing page,</p><p></p><p><b>When</b> completo el formulario que aparece con todos mis datos solicitados obligatorios (nombres, apellidos, email, número telefónico), y presiono el botón "Enviar",</p><p></p><p><b>Then</b> recibo un mensaje de confirmación en la pantalla que dice "Solicitud enviada. Te contactaremos pronto."</p><p><u><b>Escenario 3: Solicitud Fallida por Campo de Email Inválido</b></u></p><p><b>Given</b> que estoy en el sitio web de ArquiTech y estoy en la sección "Contacto" de la landing page,</p><p><b>When</b> relleno el formulario, pero dejo un campo obligatorio vacío o con el tipo de dato equivocado y presiono el botón "Enviar",</p><p><b>Then</b> el formulario mostrará un mensaje de error que indique que falta completar un campo solicitado.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP05</p></td>
 </tr>
 <tr class="c1">
@@ -1432,29 +1449,286 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 <td class="c11" colspan="1" rowspan="1"><p>EP04</p></td>
 </tr>
 <tr class="c1">
-<td class="c16" colspan="1" rowspan="1"><p>EP03/HU21</p></td>
+<td class="c16" colspan="1" rowspan="1"><p>EP04/HU19</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Configurar las Preferencias de Accesibilidad</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario administrador, quiero configurar mis preferencias de pantalla como cambiar el tamaño de la letra o el color de la pantalla para que mi vista no se canse si estoy mucho tiempo usando la aplicación.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Activar Contraste Alto</b></u></p><p></p><p><b>Given</b> Estoy en la sección de Preferencias de Accesibilidad de mi perfil. </p><p><b>When</b> Activo la opción "Modo Oscuro".</p><p><b>Then</b> El sistema cambia la interfaz a un modo oscuro para facilitar la visualización y reducir el cansancio visual durante largos períodos de uso.</p><p><u><b>Escenario 2: Activar Contraste Alto</b></u></p><p><b>Given</b>  Estoy en la sección de Preferencias de Accesibilidad de mi perfil.</p><p><b>When</b> Activo la opción "Contraste Alto".</p><p><b>Then</b>  El sistema ajusta los colores de la pantalla para aumentar el contraste, haciendo más fácil la lectura para usuarios con dificultades visuales.</p><p><u><b>Escenario 3: Aumentar el Tamaño de la Fuente</b></u></p><p></p><p><b>Given</b> Estoy en la sección de Preferencias de Accesibilidad de mi perfil.  </p><p><b>When</b> Activo la opción "Aumentar Fuente".</p><p><b>Then</b> El sistema aumenta el tamaño del texto en la interfaz, mejorando la legibilidad sin necesidad de acercar la pantalla.</p><p><u><b>Escenario 4: Restablecer las Preferencias de Fuente</b></u></p><p><b>Given</b>  Estoy en la sección de Preferencias de Accesibilidad de mi perfil, con opciones de fuente modificadas.</p><p><b>When</b> Activo la opción "Resetear Fuente".</p><p><b>Then</b>   El sistema restablece el tamaño de la fuente y los ajustes a su configuración predeterminada. </p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP04</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP03/HU20</p></td>
 <td class="c13" colspan="1" rowspan="1"><p>Visualizar reportes semanales</p></td>
 <td class="c15" colspan="1" rowspan="1"><p>Como Gerente de Obra, quiero visualizar reportes semanales consolidados que resuman los avances diarios, asistencias, y consumo de materiales.</p></td>
 <td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Acceso a reportes semanales consolidados</b></u></p><p><b>Given</b>: que el gerente ha iniciado sesión y se encuentra en el módulo de reportes,</p><p><b>When</b>: selecciona la opción “reporte semanal” desde el menú,</p><p><b>Then</b>: el sistema debe mostrarle un reporte con gráficos y datos consolidados de los últimos 7 días.</p><p><u><b>Escenario 2: Datos faltantes en la semana</b></u></p><p><b>Given</b>: que uno o más días de la semana no tienen reporte cargado,</p><p><b>When</b>: el gerente accede al reporte semanal,</p><p><b>Then</b>: el sistema debe indicarle qué días no cuentan con información y mostrar los demás datos correctamente.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
 </tr>
 <tr class="c1">
-<td class="c16" colspan="1" rowspan="1"><p>EP03/HU24</p></td>
+<td class="c16" colspan="1" rowspan="1"><p>EP03/HU21</p></td>
 <td class="c13" colspan="1" rowspan="1"><p>Seleccionar obra específica para ver sus reportes</p></td>
 <td class="c15" colspan="1" rowspan="1"><p>Como Gerente de Obra o Supervisor, quiero poder seleccionar una obra específica desde un listado, para ver únicamente los reportes relacionados con esa obra</p></td>
 <td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Filtrar reportes por obra</b></u></p><p><b>Given</b>: que el usuario tiene acceso a más de una obra,</p><p><b>When</b>: selecciona una obra desde un menú desplegable o buscador,</p><p><b>Then</b>: el sistema debe mostrar únicamente los reportes correspondientes a esa obra.</p><p><u><b>Escenario 2: Persistencia de selección</b></u></p><p><b>Given</b>: que el usuario ya ha seleccionado una obra,</p><p><b>When</b>: navega entre diferentes secciones del módulo de reportes,</p><p><b>Then</b>: el sistema debe mantener esa obra seleccionada hasta que el usuario decida cambiarla manualmente.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
 </tr>
 <tr class="c1">
-<td class="c16" colspan="1" rowspan="1"><p>EP06/HU25</p></td>
+<td class="c16" colspan="1" rowspan="1"><p>EP06/HU22</p></td>
 <td class="c13" colspan="1" rowspan="1"><p>Visualizar Lista de Proyectos</p><p></p></td>
 <td class="c15" colspan="1" rowspan="1"><p>Como Supervisor de Obra, quiero visualizar una lista de mis proyectos, para tener un panorama claro de todas mis obras activas.</p><p></p></td>
 <td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Visualizar lista con proyectos existentes</b></u></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra y tengo 3 proyectos activos: "Edificio A", "Tienda B" y "Casa C".</p><p><b>When</b>: Accede a la sección de proyectos.</p><p><b>Then</b>: El sistema muestra una lista con los 3 proyectos, incluyendo nombre, fecha de inicio, presupuesto y estado.</p><p></p><p><u><b>Escenario 2: Visualizar lista sin proyectos</b></u></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra y no tengo proyectos registrados.</p><p><b>When</b>: Accede a la sección de proyectos.</p><p><b>Then</b>: El sistema muestra un mensaje indicando que no hay proyectos registrados.</p></td>
 <td class="c11" colspan="1" rowspan="1"><p>EP06</p></td>
 </tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP07/HU23</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar autenticación de usuarios con JWT</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario, quiero poder iniciar sesión en la plataforma mediante JWT, para acceder a mis datos y funcionalidades de manera segura.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Autenticación exitosa con JWT</b></u></p><p><b>Given</b>: El usuario tiene credenciales válidas.</p><p><b>When</b>: El usuario inicia sesión con su nombre de usuario y contraseña.</p><p><b>Then</b>: El sistema genera y devuelve un JWT válido para el usuario, y le da acceso a las rutas protegidas.</p><p></p><p><u><b>Escenario 2: Intento de autenticación fallida con JWT</b></u></p><p><b>Given</b>:  El usuario tiene credenciales inválidas.</p><p><b>When</b>: El usuario intenta iniciar sesión con credenciales incorrectas.</p><p><b>Then</b>: El sistema retorna un error de autenticación y no genera un JWT.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP07</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP09/HU24</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Establecer la conexión entre frontend y backend</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario, quiero que el frontend esté correctamente conectado al backend, para que mis interacciones con la plataforma se sincronicen y los datos se actualicen correctamente.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Conexión exitosa entre frontend y backend</b></u></p><p><b>Given</b>: El usuario está autenticado y navegando por la plataforma.</p><p><b>When</b>:  El usuario realiza una acción, como consultar información o enviar datos.</p><p><b>Then</b>: El sistema responde correctamente, mostrando los datos solicitados o confirmando la acción realizada.</p><p></p><p><u><b>Escenario 2: Error de conexión entre frontend y backend</b></u></p><p><b>Given</b>: El backend está inactivo debido a problemas de conexión.</p><p><b>When</b>: El usuario intenta realizar una acción en el sistema.</p><p><b>Then</b>: El sistema muestra un mensaje claro y amigable indicando que no se pudo realizar la solicitud debido a un problema de conexión y que el usuario intente nuevamente más tarde.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP09</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP09/HU25</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Manejo de errores de conexión entre frontend y backend</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario, quiero que los errores de conexión entre el frontend y el backend se manejen adecuadamente, para saber cuando hay problemas técnicos y poder actuar en consecuencia.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Mensaje de error cuando no hay conexión</b></u></p><p><b>Given</b>: El backend está inactivo.</p><p><b>When</b>: El frontend intenta hacer una solicitud.</p><p><b>Then</b>: El sistema muestra un mensaje claro de error indicando que no se pudo conectar.</p><p></p><p><u><b>Escenario 2: Recuperación automática de la conexión</b></u></p><p><b>Given</b>: El sistema ha detectado un problema de conexión.</p><p><b>When</b>: La conexión se restablece.</p><p><b>Then</b>: El sistema vuelve a intentar la solicitud y se realiza correctamente.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP09</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP09/HU26</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Sincronización de datos entre frontend y backend</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario, quiero que los datos entre el frontend y el backend se sincronicen correctamente, para asegurar que la información mostrada siempre esté actualizada y sea precisa.</p></p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Sincronización exitosa de datos</b></u></p><p><b>Given</b>: El usuario realiza una acción que modifica los datos.</p><p><b>When</b>: El frontend envía los cambios al backend.</p><p><b>Then</b>: El backend actualiza los datos y los refleja correctamente en el frontend.</p><p></p><p><u><b>Escenario 2: Error de sincronización de datos</b></u></p><p><b>Given</b>: El backend no recibe los datos correctamente.</p><p><b>When</b>: El sistema intenta sincronizar los datos.</p><p><b>Then</b>:  El sistema muestra un mensaje de error y solicita al usuario intentar nuevamente</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP09</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP08/HU27</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Mostrar interfaz de usuario correspondiente según el rol (Supervisor/Contractor)</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario, quiero que al acceder a la plataforma se muestre la interfaz adecuada según mi rol (Supervisor o Contractor), para que pueda acceder de manera intuitiva y eficiente a las funcionalidades que me corresponden.</p></p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Mostrar interfaz de Supervisor</b></u></p><p><b>Given</b>: El usuario tiene el rol de Supervisor.</p><p><b>When</b>:  El usuario inicia sesión en la plataforma.</p><p><b>Then</b>: El sistema presenta la interfaz correspondiente al rol de Supervisor, mostrando opciones para gestionar trabajadores, incidentes y materiales.</p><p></p><p><u><b>Escenario 2: Mostrar interfaz de Contractor</b></u></p><p><b>Given</b>: El usuario tiene el rol de Contractor.</p><p><b>When</b>: El usuario inicia sesión en la plataforma.</p><p><b>Then</b>:  El sistema presenta la interfaz correspondiente al rol de Contractor, mostrando opciones para consultar reportes, avances de obra, etc.</p><u><b>Escenario 3: Redirección a interfaz incorrecta si el rol no coincide</b></u></p><p><b>Given</b>: Un usuario intenta acceder con un rol incorrecto o sin los permisos adecuados.</p><p><b>When</b>: El usuario intenta acceder a funcionalidades fuera de su rol asignado.</p><p><b>Then</b>: El sistema bloquea el acceso y muestra un mensaje informando que no tiene permisos para acceder a esa interfaz.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP09</p></td>
+</tr>
 </table>
 <p></p>
 </body>
+
+**TECHNICAL STORIES**
+
+<body class="c25 doc-content">
+<p></p>
+<table class="c4">
+<tr class="c22">
+<td class="c16" colspan="1" rowspan="1"><p><strong>Epic / Story ID</strong></p></td>
+<td class="c13" colspan="1" rowspan="1"><p><strong>Título</strong></p></td>
+<td class="c15" colspan="1" rowspan="1"><p><strong>Descripción</strong></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><strong>Criterios de Aceptación</strong></p></td>
+<td class="c11" colspan="1" rowspan="1"><p><strong>Relacionado con (Epic ID)</strong></p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP01/TS01</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar registro de entrada de materiales en el inventario</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un endpoint RESTful que permita registrar la entrada de materiales al inventario, para actualizar el stock y registrar las transacciones con los datos del proveedor y la fecha.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1">
+	<p><b><u>Escenario 1: Registrar entrada de materiales</u></b></p><p><b>Given</b>:  El sistema tiene un inventario activo y el usuario está autenticado.</p><p><b>When</b>: El endpoint recibe una solicitud POST con los datos de entrada de material (cantidad, proveedor, material, etc).</p><p><b>Then</b>: El sistema debe actualizar la cantidad de materiales en la base de datos y registrar la transacción con el proveedor y la fecha.</p><p><u><b>Escenario 2: Validación de nombre de material</b></u></p><p><b>Given</b>: El usuario está autenticado como Supervisor de Obra.</p><p><b>When</b>: La solicitud POST para registrar materiales no incluye la cantidad.</p><p><b>Then</b>: El backend debe devolver un error 400 (Bad Request) indicando que el nombre es obligatorio.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP01/TS02</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar registro de salida de materiales en la obra</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un endpoint RESTful que permita registrar la salida de materiales desde el inventario hacia la obra, para actualizar el stock correctamente y registrar las transacciones con la fecha de salida.</p><p></p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Registrar salida de materiales</b></u></p><p><b>Given</b>: El sistema tiene un inventario con materiales disponibles y el usuario está autenticado.</p><p><b>When</b>: El endpoint recibe una solicitud POST con los datos de la salida (cantidad de material y tipo).</p><p><b>Then</b>:  El sistema debe reducir la cantidad de material en el inventario y registrar la transacción con la fecha.</p><p><u><b>Escenario 2: Verificación de stock disponible</b></u></p><p><b>Given</b>:El inventario tiene 100 kg de cemento.</p><p><b>When</b>: El endpoint recibe una solicitud para registrar la salida de 150 kg de cemento.</p><p><b>Then</b>: El backend debe devolver un error 400 (Bad Request) indicando que no hay suficiente stock.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP01/TS03</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar sistema de alertas para control de inventario</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un sistema de alertas que notifique cuando la salida de materiales supere el stock disponible en el inventario.</p><p></p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Generación de alerta por exceso de salida</b></u></p><p><b>Given</b>:  El inventario tiene 1000 kg de cemento.</p><p><b>When</b>: El sistema recibe una solicitud para registrar una salida de 1500 kg.</p><p><b>Then</b>: El sistema debe generar una alerta y devolver un error 400 (Bad Request) con un mensaje que indique que la cantidad de salida excede el inventario.</p><p><u><b>Escenario 2:  Sin alerta si la salida está dentro del límite</b></u></p><p><b>Given</b>: El inventario tiene 1000 kg de cemento.</p><p><b>When</b>: El sistema recibe una solicitud para registrar la salida de 500 kg.</p><p><b>Then</b>: El sistema debe proceder con la transacción y no generar ninguna alerta.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
+</tr>
+
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP01/TS04</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar consulta de transacciones de inventario</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un servicio que permita consultar las transacciones de entrada y salida de materiales, para obtener la visibilidad del historial de movimientos y el stock actualizado.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Consulta de historial de transacciones</b></u></p><p><b>Given</b>: El usuario está autenticado y tiene acceso a la información de inventario. </p><p><b>When</b>: El usuario realiza una solicitud GET para obtener el historial de transacciones de un material específico.</p><p><b>Then</b>: El sistema debe devolver las transacciones correspondientes (entrada y salida) con detalles como cantidad, fecha y proveedor.</p><p><u><b>Escenario 2: Consulta del stock actualizado</b></u></p><p><b>Given</b>: El inventario tiene 1000 kg de acero.</p><p><b>When</b>: El usuario consulta el stock actual de acero.</p><p><b>Then</b>: El sistema debe devolver 800 kg después de registrar una salida de 200 kg.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP01/TS05</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar registro de maquinaria asignada al proyecto</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un servicio para registrar maquinaria asignada a un proyecto, asegurando que no haya duplicados en los números de serie y que el inventario de maquinaria esté correctamente actualizado.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Registro exitoso de maquinaria</b></u></p><p><b>Given</b>: El sistema está autenticado como Supervisor de Obra. </p><p><b>When</b>: El endpoint recibe una solicitud POST para registrar una mezcladora con número de serie "MX123".</p><p><b>Then</b>: El sistema ya tiene una maquinaria con número de serie "MX123".</p><p><u><b>Escenario 2: Verificación de duplicado en número de serie</b></u></p><p><b>Given</b>: Estoy autenticado como Supervisor de Obra, y ya existe una mezcladora con número de serie "MX123".</p><p><b>When</b>: El endpoint recibe una solicitud POST para registrar otra maquinaria con el mismo número de serie.</p><p><b>Then</b>: El backend debe devolver un error 400 (Conflict) indicando que el número de serie ya está registrado y existe. </p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP01</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP02/TS06</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar registro de trabajadores en un proyecto</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un servicio para registrar a los trabajadores asignados a un proyecto, asegurando que sus datos se almacenen correctamente y que se puedan gestionar eficientemente dentro del sistema.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Registro exitoso de trabajador</b></u></p><p><b>Given</b>: El usuario está autenticado como Supervisor de Obra</p><p><b>When</b>: Se agrega un trabajador con nombre, cargo y fecha de contratación.</p><p><b>Then</b>: El sistema debe almacenar correctamente la información en la base de datos y devolver una respuesta con el estado de la transacción.</p><p><u><b>Escenario 2: Actualización de los datos del trabajador</b></u></p><p><b>Given</b>: El usuario está autenticado como Supervisor de Obra.</p><p><b>When</b>: Se selecciona un trabajador para editar sus datos (por ejemplo, cambiar el cargo).</p><p><b>Then</b>: El sistema debe actualizar la información del trabajador en la base de datos y reflejar los cambios en la consulta.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP02</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP02/TS07</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar asignación de tareas y roles a trabajadores</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un servicio para asignar tareas y roles a los trabajadores, para que sus responsabilidades sean claramente definidas y el sistema las actualice de manera eficiente.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Asignación de tarea exitosa</b></u></p><p><b>Given</b>: El sistema está autenticado como Supervisor de Obra.</p><p><b>When</b>: Se asigna una tarea a un trabajador, especificando nombre, rol, fecha de contratación y projectId.</p><p><b>Then</b>: El sistema debe registrar la tarea en la base de datos y devolver la respuesta de éxito.</p><p><u><b>Escenario 2: Actualización de tarea asignada</b></u></p><p><b>Given</b>:  El sistema está autenticado como Supervisor de Obra.</p><p><b>When</b>: Se edita una tarea ya asignada.</p><p><b>Then</b>: El sistema debe actualizar la tarea y reflejar los cambios en la base de datos.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP02</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP02/TS08</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar visualización de tareas de un trabajador</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un servicio que permita consultar las tareas asignadas a un trabajador para que los supervisores puedan revisar el progreso y estado de las tareas asignadas.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Consulta de tareas asignadas</b></u></p><p><b>Given</b>: El sistema está autenticado como Supervisor de Obra.</p><p><b>When</b>: El supervisor consulta la lista de tareas asignadas a un trabajador.</p><p><b>Then</b>: El sistema debe devolver la lista de tareas con id project, id worker, description, start date, due date y status.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP02</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP06/TS09</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar funcionalidad de ingreso de nuevos proyectos</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un servicio para registrar nuevos proyectos, asegurando que toda la información relevante sea almacenada y que el proyecto se pueda consultar posteriormente.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Ingreso exitoso de un nuevo proyecto</b></u></p><p><b>Given</b>:  El sistema está autenticado como Contractor.</p><p><b>When</b>: Se ingresa un nuevo proyecto con nombre, fecha de inicio, fecha fin, Budget, status, userId, contractorId y imageUrl.</p><p><b>Then</b>:  El sistema debe crear y almacenar el proyecto correctamente en la base de datos.</p><p><u><b>Escenario 2: Validación de entrada de datos incompletos</b></u></p><p><b>Given</b>:  El sistema está autenticado como Contrator.</p><p><b>When</b>: Se intenta ingresar un proyecto sin especificar los campos obligatorios.</p><p><b>Then</b>: El sistema debe devolver un error 400 (Bad Request) indicando que los campos obligatorios deben ser completados.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP06</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP02/TS10</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar visualización de lista de trabajadores por obra</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un servicio que permita visualizar todos los trabajadores asignados a un proyecto, para que los supervisores puedan gestionar su equipo de manera eficiente.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Visualización de lista de trabajadores por obra</b></u></p><p><b>Given</b>: El sistema está autenticado como Supervisor de Obra.</p><p></p><p><b>When</b>: Se selecciona un proyecto en específico.</p><p></p><p><b>Then</b>:  El sistema debe mostrar la lista de todos los trabajadores asignados a ese proyecto.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP02</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP03/TS11</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar generación de reportes de incidentes en la obra</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un servicio para generar reportes diarios sobre el avance de obra, para que los supervisores puedan registrar y consultar actividades, materiales utilizados y personal presente de manera estructurada.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Generación exitosa de reporte diario</b></u></p><p><b>Given</b>: El sistema está autenticado como Supervisor de Obra y se encuentra en el módulo de incidentes.</p><p><b>When</b>: Se completa la información requerida como fecha, tipo de incidente, severidad, estado, descripción, medidas adoptadas y projectId.</p><p><b>Then</b>: El sistema debe guardar el reporte correctamente en la base de datos y devolver una respuesta de éxito con la confirmación visual.</p><p><u><b>Escenario 2: Validación de campos obligatorios para el reporte.</b></u></p><p><b>Given</b>: El sistema está en el formulario de reporte.</p><p><b>When</b>: Se intenta generar el reporte sin completar todos los campos obligatorios.</p><p><b>Then</b>: El sistema debe mostrar un error indicando que los campos obligatorios deben ser completados y evitar que el reporte sea generado.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP03/TS12</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar selección de obra específica para ver sus reportes</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un servicio que permita a los usuarios ver reportes por id de incidentes, para que puedan gestionar múltiples incidentes.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Reportes por id específico</b></p></u><p><b>Given</b> El sistema tiene un id de incidente registrado.</p><p><b>When</b> El usuario busca un incidente por id</p><p><b>Then</b> El sistema debe mostrar solo los reportes relacionados con ese id, consultando en la base de datos.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP03</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP06/TS13</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar visualización de lista de proyectos activos</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero crear un servicio para que los supervisores puedan visualizar la lista de proyectos activos, para que tengan una visión clara de todos los proyectos en curso y sus detalles clave.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Visualización de proyectos activos</b></u></p><p><b>Given</b> El sistema está autenticado como Contractor de Obra y tiene 3 proyectos activos.</p><p><b>When</b> El usuario accede a la sección de proyectos.</p><p><b>Then</b> El sistema debe mostrar una lista con los 3 proyectos, incluyendo nombre, fecha de inicio, presupuesto y estado.</p><p></p><p><b>Escenario 2: Mensaje de no proyectos registrados</b></p><p></p><p><b>Given</b>  El sistema está autenticado como Contractor de Obra y no tiene proyectos registrados.</p><p></p><p><b>When</b> El usuario accede a la sección de proyectos.</p><p></p><p><b>Then</b> El sistema debe mostrar un mensaje indicando que no hay proyectos registrados.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP06</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP07/HU14</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar sistema de autenticación de usuarios con JWT</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero implementar un sistema de autenticación utilizando JWT, para garantizar que los usuarios puedan iniciar sesión de manera segura y sus sesiones sean válidas durante toda la interacción con el sistema.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Autenticación exitosa con JWT</b></u></p><p><b>Given</b> El usuario tiene credenciales válidas.</p><p><b>When</b> El usuario inicia sesión con su email y password.</p><p><b>Then</b> El sistema genera y devuelve un JWT válido para el usuario, y le da acceso a las rutas protegidas.</p><p><u><b>Escenario 2: Intento de autenticación fallida con JWT</b></u></p><p><b>Given</b> El usuario tiene credenciales inválidas.</p><p><b>When</b>  El usuario intenta iniciar sesión con credenciales incorrectas.</p><p><b>Then</b> El sistema retorna un error de autenticación y no genera un JWT.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP07</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP08/TS15</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar gestión de roles y permisos para usuarios en el sistema IAM</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero implementar la gestión de roles y permisos dentro del sistema IAM (Identity and Access Management), para que los usuarios tengan accesos controlados a las funcionalidades según su rol.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Verificación de acceso a funcionalidad según el rol del usuario</b></u></p><p><b>Given</b> El usuario está autenticado y tiene un rol asignado (por ejemplo, "Supervisor" o "Contractor").</p><p><b>When</b> El usuario intenta acceder a una funcionalidad protegida del sistema (por ejemplo, ver reportes o editar datos).</p><p><b>Then</b> El backend verifica el rol del usuario y permite o deniega el acceso a la funcionalidad basada en los permisos asignados a ese rol. Si el usuario no tiene permiso, el sistema devuelve un error 403 (Prohibido).</p><p><u><b>Escenario 2: Validación de permisos para realizar acciones específicas</b></u></p><p><b>Given</b> El usuario está autenticado y tiene un rol asignado.</p><p><b>When</b>  El usuario realiza una acción que requiere permisos específicos (por ejemplo, generar un reporte).</p><p><b>Then</b> El backend valida si el rol del usuario tiene los permisos necesarios para realizar esa acción y responde adecuadamente. Si el permiso es válido, la acción se lleva a cabo; si no, se devuelve un error 403 (Prohibido).</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP08</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP09/TS16</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Integrar frontend con backend para la autenticación con JWT</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador frontend, quiero integrar el frontend con el backend para la autenticación usando JWT, para asegurarme de que el frontend maneje correctamente el JWT en todas las solicitudes.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Autenticación con JWT en el frontend</b></u></p><p><b>Given</b> El usuario está en la página de inicio de sesión.</p><p><b>When</b> El usuario envía sus credenciales al backend.</p><p><b>Then</b> El backend devuelve un JWT, que el frontend almacena correctamente y lo usa en las siguientes solicitudes.</p><p><u><b>Escenario 2: Redirección del usuario después de iniciar sesión</b></u></p><p><b>Given</b> El usuario ha iniciado sesión correctamente y se ha autenticado.</p><p><b>When</b> El JWT es almacenado en el frontend.</p><p><b>Then</b> El sistema redirige al usuario a la página principal de la aplicación.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP09</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP07/TS17</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar gestión de sesión con JWT en frontend</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador frontend, quiero gestionar la sesión del usuario utilizando JWT, para garantizar que el usuario pueda continuar utilizando la aplicación sin ningún problema.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Verificación del JWT en el frontend</b></u></p><p><b>Given</b> El usuario ha iniciado sesión y tiene un JWT almacenado. </p><p><b>When</b> El sistema realiza una solicitud al backend.</p><p><b>Then</b>  El JWT se incluye en la consola y la sesión es validada correctamente.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP07</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP09/TS18</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar la conexión del frontend con el backend</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador frontend, quiero establecer una conexión entre el frontend y el backend, para que el frontend pueda enviar y recibir datos correctamente del servidor.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Conexión exitosa entre frontend y backend</b></u></p><p><b>Given</b> El usuario está autenticado y navega por la aplicación. </p><p><b>When</b> El usuario realiza en el frontend solicitudes CRUD</p><p><b>Then</b>  El backend responde con datos válidos y el frontend los muestra correctamente.</p><p><u><b>Escenario 2: Error de conexión entre frontend y backend</b></u></p><p><b>Given</b> El backend está inactivo.</p><p><b>When</b> El frontend realiza una solicitud al backend.</p><p><b>Then</b> El sistema muestra un mensaje de error al usuario indicando que no se pudo conectar.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP09</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP07/TS19</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Mejorar experiencia de usuario durante la autenticación</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador frontend, quiero mejorar la experiencia del usuario durante la autenticación, para hacer que el proceso sea más fluido y fácil de usar.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Mostrar mensaje claro de error</b></u></p><p></p><p><b>Given</b> El usuario ha introducido credenciales incorrectas.</p><p><b>When</b> El sistema intenta autenticar al usuario.</p><p><b>Then</b>  El frontend muestra un mensaje claro de error sobre la autenticación fallida.</p><p><u><b>Escenario 2: Formulario de inicio de sesión con validación de campos</b></u></p><p><b>Given</b> El usuario intenta enviar el formulario de inicio de sesión.</p><p><b>When</b> El formulario tiene campos vacíos.</p><p><b>Then</b>  El sistema muestra un mensaje de validación indicando que los campos obligatorios deben completarse.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP07</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP07/TS20</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar validación de token JWT en el backend</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero validar el JWT en todas las solicitudes al backend, para asegurarme de que las solicitudes provienen de usuarios autenticados.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Validación exitosa del JWT</b></u></p><p></p><p><b>Given</b> El usuario ha enviado una solicitud con un JWT válido. </p><p><b>When</b> El backend valida el token.</p><p><b>Then</b> El backend permite el acceso a los recursos solicitados.</p><p><u><b>Escenario 2: JWT inválido</b></u></p><p><b>Given</b>  El JWT es inválido.</p><p><b>When</b> El backend valida el token.</p><p><b>Then</b> El sistema devuelve un error 401 (No autorizado).</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP07</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP08/TS21</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar protección de rutas sensibles en el backend</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero implementar protección de rutas sensibles, para asegurarme de que solo los usuarios con permisos específicos puedan acceder a funcionalidades críticas.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Acceso permitido a rutas protegidas</b></u></p><p><b>Given</b>:  El usuario tiene un rol adecuado.</p><p><b>When</b>:  El usuario solicita acceder a una ruta protegida.</p><p><b>Then</b>: El backend permite el acceso</p><p><u><b>Escenario 2: Acceso denegado a rutas no autorizadas</b></u></p><p><b>Given</b>: El usuario no tiene el rol adecuado.</p><p><b>When</b>: El usuario intenta acceder a una ruta protegida.</p><p><b>Then</b>: El backend devuelve un error 403 (Prohibido).</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP08</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP09/TS22</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Seleccionar obra específica para ver sus reportes</p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador frontend, quiero corregir algunas secciones del frontend para asegurarme de que no haya problemas de conexión con el backend, para que los datos se sincronicen correctamente y el sistema funcione sin errores de comunicación.</p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Arreglar sección de solicitudes de datos</b></u></p><p><b>Given</b>: Se han identificado problemas de conexión entre el frontend y el backend en la sección de solicitudes de datos.</p><p><b>When</b>: El sistema realiza una solicitud al backend.</p><p><b>Then</b>: El frontend debe enviar la solicitud correctamente, recibir los datos sin problemas y mostrarlos correctamente en la interfaz.</p><p><u><b>Escenario 2: Arreglar sección de envío de datos al backend</b></u></p><p><b>Given</b>: Los formularios de envío de datos no están funcionando correctamente debido a errores de conexión.</p><p><b>When</b>: El usuario envía un formulario que requiere comunicación con el backend./p><p><b>Then</b>: El sistema debe enviar los datos al backend correctamente y recibir la confirmación de que la acción fue realizada, sin errores de conexión.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP09</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP09/TS23</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Corregir errores de funcionalidad del backend</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como desarrollador backend, quiero corregir los errores de funcionalidad en el backend, para garantizar que los bounded contexts como IAM y otras APIS operen sin fallos.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Errores de lógica en el backend corregidos</b></u></p><p><b>Given</b>: Se han identificado errores en el flujo de trabajo del backend.</p><p><b>When</b>: Se aplican las correcciones necesarias en los bounded contexts.</p><p><b>Then</b>: El sistema funciona correctamente y sin errores.</p><p></p><p><u><b>Escenario 2: Pruebas de regresión después de correcciones</b></u></p><p><b>Given</b>: Se han corregido los errores de funcionalidad.</p><p><b>When</b>: El sistema realiza pruebas de regresión.</p><p><b>Then</b>:  El sistema sigue funcionando correctamente en todas las rutas y funcionalidades.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP09</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP07/HU23</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Implementar autenticación de usuarios con JWT</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario, quiero poder iniciar sesión en la plataforma mediante JWT, para acceder a mis datos y funcionalidades de manera segura.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Autenticación exitosa con JWT</b></u></p><p><b>Given</b>: El usuario tiene credenciales válidas.</p><p><b>When</b>: El usuario inicia sesión con su nombre de usuario y contraseña.</p><p><b>Then</b>: El sistema genera y devuelve un JWT válido para el usuario, y le da acceso a las rutas protegidas.</p><p></p><p><u><b>Escenario 2: Intento de autenticación fallida con JWT</b></u></p><p><b>Given</b>:  El usuario tiene credenciales inválidas.</p><p><b>When</b>: El usuario intenta iniciar sesión con credenciales incorrectas.</p><p><b>Then</b>: El sistema retorna un error de autenticación y no genera un JWT.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP07</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP09/HU24</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Establecer la conexión entre frontend y backend</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario, quiero que el frontend esté correctamente conectado al backend, para que mis interacciones con la plataforma se sincronicen y los datos se actualicen correctamente.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Conexión exitosa entre frontend y backend</b></u></p><p><b>Given</b>: El usuario está autenticado y navegando por la plataforma.</p><p><b>When</b>:  El usuario realiza una acción, como consultar información o enviar datos.</p><p><b>Then</b>: El sistema responde correctamente, mostrando los datos solicitados o confirmando la acción realizada.</p><p></p><p><u><b>Escenario 2: Error de conexión entre frontend y backend</b></u></p><p><b>Given</b>: El backend está inactivo debido a problemas de conexión.</p><p><b>When</b>: El usuario intenta realizar una acción en el sistema.</p><p><b>Then</b>: El sistema muestra un mensaje claro y amigable indicando que no se pudo realizar la solicitud debido a un problema de conexión y que el usuario intente nuevamente más tarde.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP09</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP09/HU25</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Manejo de errores de conexión entre frontend y backend</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario, quiero que los errores de conexión entre el frontend y el backend se manejen adecuadamente, para saber cuando hay problemas técnicos y poder actuar en consecuencia.</p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Mensaje de error cuando no hay conexión</b></u></p><p><b>Given</b>: El backend está inactivo.</p><p><b>When</b>: El frontend intenta hacer una solicitud.</p><p><b>Then</b>: El sistema muestra un mensaje claro de error indicando que no se pudo conectar.</p><p></p><p><u><b>Escenario 2: Recuperación automática de la conexión</b></u></p><p><b>Given</b>: El sistema ha detectado un problema de conexión.</p><p><b>When</b>: La conexión se restablece.</p><p><b>Then</b>: El sistema vuelve a intentar la solicitud y se realiza correctamente.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP09</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP09/HU26</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Sincronización de datos entre frontend y backend</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario, quiero que los datos entre el frontend y el backend se sincronicen correctamente, para asegurar que la información mostrada siempre esté actualizada y sea precisa.</p></p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Sincronización exitosa de datos</b></u></p><p><b>Given</b>: El usuario realiza una acción que modifica los datos.</p><p><b>When</b>: El frontend envía los cambios al backend.</p><p><b>Then</b>: El backend actualiza los datos y los refleja correctamente en el frontend.</p><p></p><p><u><b>Escenario 2: Error de sincronización de datos</b></u></p><p><b>Given</b>: El backend no recibe los datos correctamente.</p><p><b>When</b>: El sistema intenta sincronizar los datos.</p><p><b>Then</b>:  El sistema muestra un mensaje de error y solicita al usuario intentar nuevamente</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP09</p></td>
+</tr>
+<tr class="c1">
+<td class="c16" colspan="1" rowspan="1"><p>EP08/HU27</p></td>
+<td class="c13" colspan="1" rowspan="1"><p>Mostrar interfaz de usuario correspondiente según el rol (Supervisor/Contractor)</p><p></p></td>
+<td class="c15" colspan="1" rowspan="1"><p>Como usuario, quiero que al acceder a la plataforma se muestre la interfaz adecuada según mi rol (Supervisor o Contractor), para que pueda acceder de manera intuitiva y eficiente a las funcionalidades que me corresponden.</p></p><p></p></td>
+<td class="c19" colspan="1" rowspan="1"><p><u><b>Escenario 1: Mostrar interfaz de Supervisor</b></u></p><p><b>Given</b>: El usuario tiene el rol de Supervisor.</p><p><b>When</b>:  El usuario inicia sesión en la plataforma.</p><p><b>Then</b>: El sistema presenta la interfaz correspondiente al rol de Supervisor, mostrando opciones para gestionar trabajadores, incidentes y materiales.</p><p></p><p><u><b>Escenario 2: Mostrar interfaz de Contractor</b></u></p><p><b>Given</b>: El usuario tiene el rol de Contractor.</p><p><b>When</b>: El usuario inicia sesión en la plataforma.</p><p><b>Then</b>:  El sistema presenta la interfaz correspondiente al rol de Contractor, mostrando opciones para consultar reportes, avances de obra, etc.</p><u><b>Escenario 3: Redirección a interfaz incorrecta si el rol no coincide</b></u></p><p><b>Given</b>: Un usuario intenta acceder con un rol incorrecto o sin los permisos adecuados.</p><p><b>When</b>: El usuario intenta acceder a funcionalidades fuera de su rol asignado.</p><p><b>Then</b>: El sistema bloquea el acceso y muestra un mensaje informando que no tiene permisos para acceder a esa interfaz.</p></td>
+<td class="c11" colspan="1" rowspan="1"><p>EP09</p></td>
+</tr>
+</table>
+<p></p>
+</body>
+
 
 
 ## **3.3. Impact Mapping**
@@ -1492,6 +1766,7 @@ Las expectativas de los contratantes apuntan a la necesidad urgente de implement
 |  **21** |  **HU 21** |  Visualizar reportes semanales |  Permite al Gerente de Obra acceder a un resumen semanal consolidado con gráficos y métricas del proyecto, para monitorear el desempeño general. |  **3** |
 |  **24** |  **HU24** | Seleccionar obra específica para ver sus reportes | Permite a usuarios que gestionan múltiples obras filtrar los reportes por proyecto, mostrando solo los relacionados con la obra seleccionada. |  **2** |
 |  **25** |  **HU25** |  Visualizar Lista de Proyectos | Como Supervisor de Obra, quiero visualizar una lista de mis proyectos, para tener un panorama claro de todas mis obras activas.  |  **3** |
+
 
 Adicionalmente, para llevar a cabo el manejo del product backlog, decidimos usar la herramienta virtual “Jira”.  
 
