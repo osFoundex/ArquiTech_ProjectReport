@@ -3923,6 +3923,56 @@ Link del repositorio:
 
 ##### **5.2.4.4. Development Evidence for Sprint Review.** 
 
+<table class="c9">
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p><b>Repository</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Branch</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Commit Id</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Commit</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Message Body</b></p></td>
+<td class="c3" colspan="1" rowspan="1"><p><b>Commited on (Date)</b></p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>DanieGF1/ArquiTech_WebServices</p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>/07/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>Paulu27/ArquiTech_WebServices</p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>/07/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>ernesto0710/ArquiTech_WebServices</p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>/07/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>raulbellidosalas/ArquiTech_WebServices</p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>/07/2025</p></td>
+</tr>
+<tr class="c5">
+<td class="c3" colspan="1" rowspan="1"><p>MSS02204/ArquiTech_WebServices</p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p></p></td>
+<td class="c3" colspan="1" rowspan="1"><p>-</p></td>
+<td class="c3" colspan="1" rowspan="1"><p>/07/2025</p></td>
+</tr>
+</table>
 
 ##### **5.2.4.5. Execution Evidence for Sprint Review.** 
 
