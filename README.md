@@ -5198,7 +5198,7 @@ El video "About-the-Team" refleja el compromiso conjunto y los logros alcanzados
 
 *Nota.* Elaboración propia.
 
-Link del video en Microsoft Stream: [http://bit.ly/3IfKtuH](http://bit.ly/3IfKtuH)
+Link del video en Microsoft Stream: [http://bit.ly/4luyqZh](http://bit.ly/4luyqZh)
 
 Link del video en Youtube: [https://youtu.be/9PpofiMXhtw](https://youtu.be/9PpofiMXhtw)
 
