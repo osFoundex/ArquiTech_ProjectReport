@@ -4247,8 +4247,8 @@ Link del repositorio:
 <tr class="c3">
 <td class="c2" colspan="1" rowspan="1"><p>Gómez Flores, Daniela Araceli</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>DanieGF1</p></td>
-<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>C</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>L</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>C</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>C</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>C</p></td>
@@ -4258,8 +4258,8 @@ Link del repositorio:
 <tr class="c3">
 <td class="c2" colspan="1" rowspan="1"><p>Luyo Correa, Sandra Paula</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>Paulu27</p></td>
-<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>L</p></td>
+<td class="c2" colspan="1" rowspan="1"><p>C</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>C</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>C</p></td>
 <td class="c2" colspan="1" rowspan="1"><p>C</p></td>
