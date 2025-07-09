@@ -5161,23 +5161,28 @@ En esta sección, presentamos el Video About the Product, diseñado para captar 
 
 # **Conclusiones**  
 
-- **Consolidación del Frontend como Pilar de Transformación Digital:** Durante este sprint, el equipo de ArquiTech fortaleció su compromiso con la digitalización del sector construcción, concentrándose en el desarrollo del Frontend Web Application. Esta herramienta proporciona una interfaz intuitiva y accesible para las pymes constructoras, permitiéndoles gestionar sus obras de manera más eficiente desde cualquier dispositivo.
+El desarrollo de Arquitech representó el cierre de un proceso técnico y colaborativo liderado por Foundex, en el cual se integraron los módulos finales y se aseguró el funcionamiento estable del sistema. Este último sprint se enfocó en la conexión completa entre el frontend y el backend, la corrección de errores identificados durante la revisión técnica previa, y la entrega de una versión lista para su implementación real.
 
-- **Ejecución Ágil y Centrada en el Usuario:** Se aplicaron principios de Lean UX y metodologías ágiles que permitieron diseñar e implementar funcionalidades priorizadas según las necesidades reales de los usuarios. La creación de vistas como historial de transacciones, reportes semanales, listas de proyectos y trabajadores evidenció una validación continua del valor entregado.
+La plataforma logró consolidar funcionalidades clave para constructoras, como la gestión de materiales, incidentes, proyectos y personal. A través de una interfaz sencilla y accesible, se busca facilitar el trabajo diario de supervisores y administrativos, optimizando tiempos y recursos desde una solución digital robusta y adaptable.
 
-- **Desarrollo Estructurado con Herramientas Estratégicas:** Las tareas fueron guiadas por user stories bien definidas dentro de un backlog gestionado en Jira. La integración entre frontend y backend, junto a la conexión con bases de datos, garantizó una experiencia coherente y alineada con los objetivos del producto.
+Se aplicaron metodologías ágiles y principios como Lean UX y Domain-Driven Design, lo que permitió priorizar tareas con enfoque en el usuario y construir una arquitectura modular que favorece la escalabilidad. Herramientas como Jira, GitHub, Vue.js y .NET Core fueron esenciales para mantener la calidad técnica durante todo el proceso.
 
-- **Colaboración Técnica Multidisciplinaria y Escalabilidad:** La arquitectura modular, el trabajo en ramas específicas por integrante, y el uso de GitHub como sistema de control de versiones reflejan una ejecución colaborativa y escalable. Cada commit representó avances tangibles hacia una plataforma sostenible y técnicamente robusta.
+Durante las validaciones con usuarios, se obtuvieron comentarios valiosos que guiaron mejoras en la experiencia de uso. Se identificaron aspectos como la falta de filtros en reportes, dificultades de navegación y visibilidad de botones, los cuales fueron abordados para lograr una interfaz más clara, útil y eficiente.
 
-- **Impacto del Sprint en la Visión Global del Proyecto:** Este segundo sprint fue clave para convertir los lineamientos estratégicos en resultados concretos. La sinergia del equipo permitió consolidar una versión funcional del sistema, sentando las bases para una futura implementación real en el sector construcción peruano. Se reafirma así la visión de Foundex de liderar procesos de innovación digital a través de soluciones enfocadas en el usuario y sostenibles a largo plazo.
+El trabajo en equipo fue fundamental para el éxito del proyecto. Cada integrante asumió tareas específicas, participó activamente en decisiones clave y mantuvo una comunicación constante que permitió avanzar con enfoque. La colaboración técnica y humana se convirtió en uno de los principales diferenciadores de este sprint.
 
-- **Avance significativo en el backend y mejoras en el frontend:**  Esta entrega, la cual contiene el sprint 3, fue altamente productivo, con un enfoque claro en la implementación y mejora de funcionalidades clave del backend. La gestión de inventarios, materiales, maquinaria, trabajadores, incidentes y proyectos avanzó considerablemente, permitiendo la creación de una infraestructura sólida que facilitará el control de los recursos en los proyectos de construcción. Las APIs desarrolladas para registrar entradas y salidas de materiales, así como para gestionar tareas y asignación de trabajadores, fueron implementadas exitosamente. Además, se implementó mejoras al frontend en todas las secciones que contiene nuestra plataforma. Este avance no solo mejora la operativa interna de nuestra startup Arquitech, sino que también establece una base sólida para la integración con el frontend en el siguiente sprint, lo que será crucial para ofrecer una experiencia de usuario fluida y eficiente. 
-
-  
-- **Retroalimentación de usuarios y áreas de mejora en la interfaz::** La retroalimentación de los usuarios durante las entrevistas de validación proporcionó valiosos insights sobre la experiencia de usuario y áreas de mejora en la interfaz. Aunque la plataforma ArquiTech fue considerada útil y práctica por los supervisores de obra y contratantes, se identificaron varios problemas de usabilidad, como la visibilidad del botón "Iniciar Sesión", la falta de filtros de fechas en los reportes, y la dificultad para navegar en una página larga. Los usuarios también sugirieron mejorar la escalabilidad para manejar múltiples proyectos y la visibilidad de indicadores clave en la pantalla principal. Estas observaciones destacan la necesidad de optimizar la interfaz para facilitar la navegación y mejorar la eficiencia operativa, asegurando que la plataforma sea aún más útil y accesible en el siguiente sprint.
-
+Finalmente, Arquitech no solo es una plataforma funcional, sino también el reflejo de una visión compartida de transformación digital en el sector construcción. Este proyecto reafirma el compromiso de Foundex con el desarrollo de soluciones tecnológicas útiles, sostenibles y centradas en las personas, marcando un paso firme hacia su consolidación como startup.
 
 ## **Recomendaciones**
+
+**Optimizar la estructuración del código frontend según perfiles de usuario**
+Se recomienda reorganizar las vistas y componentes del frontend según los distintos tipos de usuario que utiliza la plataforma (supervisores de obra, administrativos, etc.), con el objetivo de mejorar la escalabilidad, la reutilización de elementos y la facilidad de mantenimiento. Esto permitiría que futuros módulos o roles puedan integrarse de forma ordenada y coherente dentro del sistema, favoreciendo también la incorporación de nuevos desarrolladores al equipo.
+
+**Ampliar el proceso de retroalimentación con perfiles diversos del sector construcción**
+Si bien ya se obtuvieron valiosos comentarios de usuarios clave, sería beneficioso extender las validaciones a más perfiles del ecosistema de obra, como proveedores, residentes de obra o encargados de almacén. Esto permitiría descubrir nuevas necesidades o flujos de trabajo relevantes, enriqueciendo la plataforma con funcionalidades más representativas del contexto real.
+
+**Evaluar entornos sostenibles para implementación e integración futura**
+Pensando en una posible puesta en marcha real de Arquitech, se recomienda comenzar a analizar entornos de despliegue estables que permitan escalar la plataforma según el crecimiento de las constructoras usuarias. Asimismo, sería útil explorar cómo Arquitech podría conectarse con otros sistemas existentes, como ERPs o software contable, lo que abriría la posibilidad de integraciones valiosas para las empresas del rubro.
 
 
 ## **Video About the team**
